@@ -11,7 +11,7 @@ scrap_medalist <- function(athlete_id) {
   url <- paste0("https://www.olympedia.org/athletes/", athlete_id)
   
   tryCatch({
-    Sys.sleep(runif(1, 5, 15))
+    Sys.sleep(runif(1, 5, 15)) 
     res <- GET(url, timeout(15), 
                add_headers(`User-Agent` = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0"))
     if (status_code(res) != 200) return(NULL)
@@ -47,7 +47,9 @@ update_bucket <- function(athlete_id) {
   file_path <- file.path(DATA_DIR, sprintf("bucket_%02d.json", bucket_num))
   
   current_data <- if (file.exists(file_path)) fromJSON(file_path, simplifyVector = FALSE) else list()
-  if (any(map_chr(current_data, "id", .default = "") == as.character(athlete_id))) return(FALSE)
+  
+  existing_in_bucket <- map_chr(current_data, ~as.character(.x$id), .default = "")
+  if (as.character(athlete_id) %in% existing_in_bucket) return(FALSE)
   
   result <- scrap_medalist(athlete_id)
   if (!is.null(result)) {
@@ -61,16 +63,16 @@ update_bucket <- function(athlete_id) {
 id_list <- read_csv("olympedia_medalist_id.csv", show_col_types = FALSE)$id
 json_files <- list.files(DATA_DIR, pattern = "bucket_.*\\.json", full.names = TRUE)
 
+existing_ids <- c()
 if (length(json_files) > 0) {
-  existing_ids <- json_files %>%
-    map(~fromJSON(.x, simplifyVector = FALSE)) %>%
-    flatten() %>%
-    map_chr("id", .default = "")
-} else {
-  existing_ids <- character(0)
+  for (f in json_files) {
+    bucket_data <- fromJSON(f, simplifyVector = FALSE)
+    ids <- map_chr(bucket_data, ~as.character(.x$id))
+    existing_ids <- c(existing_ids, ids)
+  }
 }
 
-target_ids <- setdiff(as.character(id_list), existing_ids)
+target_ids <- setdiff(as.character(id_list), as.character(existing_ids))
 
 if (length(target_ids) > 0) {
   message(paste("남은 대상:", length(target_ids), "명. 15명을 수집합니다."))
