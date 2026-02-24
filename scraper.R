@@ -75,8 +75,8 @@ if (length(json_files) > 0) {
 target_ids <- setdiff(as.character(id_list), as.character(existing_ids))
 
 if (length(target_ids) > 0) {
-  message(paste("남은 대상:", length(target_ids), "명. 15명을 수집합니다."))
-  walk(head(target_ids, 15), ~{
+  message(paste("남은 대상:", length(target_ids), "명. 50명을 수집합니다."))
+  walk(head(target_ids, 50), ~{
     if(update_bucket(as.numeric(.x))) message(paste("성공:", .x))
   })
 } else {
