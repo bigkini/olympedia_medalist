@@ -28,5 +28,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1502",
+    "name": "Omar•Luis",
+    "born": "15 July 1972 in Camagüey, Camagüey (CUB)",
+    "measurements": "182 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

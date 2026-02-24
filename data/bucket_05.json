@@ -3,7 +3,7 @@
     "id": "5",
     "name": "Albert•Canet",
     "born": "17 April 1878 in Wandsworth, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -18,6 +18,21 @@
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "1505",
+    "name": "Víctor•Mesa",
+    "born": "20 February 1960 in Sagua la Grande, Villa Clara (CUB)",
+    "measurements": "182 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

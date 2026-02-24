@@ -57,5 +57,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1515",
+    "name": "Jorge Luis•Valdés",
+    "born": "12 February 1961 in Jovellanos, Matanzas (CUB)",
+    "measurements": "187 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -50,5 +50,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1497",
+    "name": "Alberto•Hernández",
+    "born": "9 February 1969 in Holguín, Holguín (CUB)",
+    "measurements": "175 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1597",
+    "name": "Hirotami•Kojima",
+    "born": "3 March 1964 in Tokyo, Tokyo (JPN)",
+    "measurements": "176 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

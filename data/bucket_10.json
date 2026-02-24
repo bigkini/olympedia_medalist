@@ -65,5 +65,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1510",
+    "name": "Juan Carlos•Pérez",
+    "born": "17 May 1969 in Puerto Padre, Las Tunas (CUB)",
+    "measurements": "187 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

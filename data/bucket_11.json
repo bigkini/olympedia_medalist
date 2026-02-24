@@ -13,5 +13,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1511",
+    "name": "Ormari•Romero",
+    "born": "22 February 1968 in Santiago de Cuba, Santiago de Cuba (CUB)",
+    "measurements": "196 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

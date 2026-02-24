@@ -43,5 +43,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1462",
+    "name": "Yan•Fang",
+    "born": "26 July 1969 in Beijing, Beijing (CHN)",
+    "measurements": "171 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

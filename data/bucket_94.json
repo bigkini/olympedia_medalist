@@ -64,5 +64,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1494",
+    "name": "Jorge•Fumero",
+    "born": "29 August 1968 in San Miguel del Padrón, Ciudad de La Habana (CUB)",
+    "measurements": "185 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1594",
+    "name": "Takeo•Kawamura",
+    "born": "30 April 1972 in Yamato, Kanagawa (JPN)",
+    "measurements": "181 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

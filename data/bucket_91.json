@@ -18,7 +18,7 @@
     "id": "891",
     "name": "Hwang•Hye-Yeong",
     "born": "16 July 1966",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -26,6 +26,36 @@
         "discipline": "Badminton",
         "event": "Doubles, Women\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1491",
+    "name": "Giorge•Díaz",
+    "born": "16 September 1970 in Manuel Tames, Guantánamo (CUB)",
+    "measurements": "186 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1591",
+    "name": "Makoto•Imaoka",
+    "born": "11 September 1974 in Takarazuka, Hyogo (JPN)",
+    "measurements": "183 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

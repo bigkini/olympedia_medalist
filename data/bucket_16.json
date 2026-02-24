@@ -86,5 +86,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1516",
+    "name": "Lázaro•Vargas",
+    "born": "18 January 1964 in San Miguel del Padrón, Ciudad de La Habana (CUB)",
+    "measurements": "180 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

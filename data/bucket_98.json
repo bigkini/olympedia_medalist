@@ -35,5 +35,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1498",
+    "name": "Rey•Isaac",
+    "born": "3 January 1973 in Santiago de Cuba, Santiago de Cuba (CUB)",
+    "measurements": "178 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

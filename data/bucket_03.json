@@ -18,13 +18,35 @@
     "id": "503",
     "name": "Louis•Vernet",
     "born": "5 May 1870 in Doranges, Puy-de-Dôme (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "FRA",
         "discipline": "Archery",
         "event": "Continental Style, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1503",
+    "name": "Juan•Manrique",
+    "born": "26 August 1967 in Matanzas, Matanzas (CUB)",
+    "measurements": "182 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

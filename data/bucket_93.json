@@ -3,7 +3,7 @@
     "id": "893",
     "name": "Jang•Hye-Ok",
     "born": "9 February 1977",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1996 Summer Olympics",
@@ -11,6 +11,36 @@
         "discipline": "Badminton",
         "event": "Doubles, Women\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1493",
+    "name": "Osvaldo•Fernández",
+    "born": "4 November 1966 in Holguín, Holguín (CUB)",
+    "measurements": "188 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1593",
+    "name": "Shinichiro•Kawabata",
+    "born": "5 December 1966 in ?, Kagoshima (JPN)",
+    "measurements": "187 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

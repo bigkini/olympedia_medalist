@@ -35,5 +35,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1495",
+    "name": "Lourdes•Gourriel",
+    "born": "9 March 1957 in Meneses, Sancti Spíritus (CUB)",
+    "measurements": "183 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1595",
+    "name": "Jutaro•Kimura",
+    "born": "12 May 1968 in ?, Kumamoto (JPN)",
+    "measurements": "174 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -49,5 +49,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1506",
+    "name": "Eliécer•Montes",
+    "born": "28 March 1971 in San Antonio de las Vueltas, Villa Clara (CUB)",
+    "measurements": "190 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

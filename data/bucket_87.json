@@ -108,5 +108,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1487",
+    "name": "Rolando•Arrojo",
+    "born": "18 July 1965 in San Juan de los Yeras, Villa Clara (CUB)",
+    "measurements": "193 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

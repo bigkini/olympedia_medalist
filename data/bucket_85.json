@@ -28,5 +28,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1485",
+    "name": "Jeff•Williams",
+    "born": "6 June 1972 in Canberra, Australian Capital Territory (AUS)",
+    "measurements": "183 cm / 84 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -65,5 +65,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1496",
+    "name": "Orlando•Hernández",
+    "born": "11 October 1965 in Wajay, Ciudad de La Habana (CUB)",
+    "measurements": "188 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1596",
+    "name": "Masahito•Kohiyama",
+    "born": "7 May 1969 in Yokohama, Kanagawa (JPN)",
+    "measurements": "179 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

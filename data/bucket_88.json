@@ -62,7 +62,7 @@
     "id": "888",
     "name": "Gil•Yeong-A",
     "born": "11 April 1970",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -83,6 +83,28 @@
         "noc": "KOR",
         "discipline": "Badminton",
         "event": "Doubles, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1488",
+    "name": "Miguel•Caldés",
+    "born": "27 September 1970 in Bolivia, Ciego de Ávila (CUB)",
+    "measurements": "185 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

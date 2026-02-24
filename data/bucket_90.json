@@ -72,5 +72,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1490",
+    "name": "José•Delgado",
+    "born": "25 August 1960 in Meneses, Sancti Spíritus (CUB)",
+    "measurements": "182 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1590",
+    "name": "Tadahito•Iguchi",
+    "born": "4 December 1974 in Tanashi, Nishitokyo, Tokyo (JPN)",
+    "measurements": "177 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]
