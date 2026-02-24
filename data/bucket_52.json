@@ -1,0 +1,24 @@
+[
+  {
+    "id": "52",
+    "name": "Edith•Hannam",
+    "born": "28 November 1878 in Bristol, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Doubles, Covered Courts, Mixed\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Singles, Covered Courts, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "53",
+    "name": "Dorothy•Holman",
+    "born": "18 July 1883 in Kilburn, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  }
+]
