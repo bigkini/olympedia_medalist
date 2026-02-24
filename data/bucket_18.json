@@ -20,5 +20,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "118",
+    "name": "Noel•Turnbull",
+    "born": "20 December 1890 in Highgate, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

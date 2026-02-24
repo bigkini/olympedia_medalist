@@ -1,0 +1,39 @@
+[
+  {
+    "id": "81",
+    "name": "George•Caridia",
+    "born": "20 February 1869 in Kolkata (Calcutta), West Bengal (IND)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Singles, Covered Courts, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Doubles, Covered Courts, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "181",
+    "name": "Konstantinos•Paspatis",
+    "born": "5 June 1878 in West Derby, Liverpool, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "GRE",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  }
+]

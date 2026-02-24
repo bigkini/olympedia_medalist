@@ -1,0 +1,32 @@
+[
+  {
+    "id": "154",
+    "name": "David•Prinosil",
+    "born": "9 March 1973 in Olomouc, Olomoucký kraj (CZE)",
+    "measurements": "184 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "254",
+    "name": "Tri•Kusharyanto",
+    "born": "18 January 1974 in Yogyakarta, Daerah Istimewa Yogyakarta (INA)",
+    "measurements": "167 cm / 60 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "INA",
+        "discipline": "Badminton",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  }
+]

@@ -3,7 +3,7 @@
     "id": "19",
     "name": "Maurice•Germot",
     "born": "15 November 1882 in Vichy, Allier (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1906  Intercalated Games",
@@ -25,6 +25,21 @@
         "discipline": "Tennis",
         "event": "Doubles, Covered Courts, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "119",
+    "name": "Archibald•Warden",
+    "born": "11 May 1869 in Edinburgh, Scotland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

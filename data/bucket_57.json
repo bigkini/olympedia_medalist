@@ -3,7 +3,7 @@
     "id": "57",
     "name": "Dorothy•Lambert Chambers",
     "born": "3 September 1878 in Ealing, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -11,6 +11,43 @@
         "discipline": "Tennis",
         "event": "Singles, Women\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "157",
+    "name": "Jörg•Roßkopf",
+    "born": "22 May 1969 in Dieburg, Hessen (GER)",
+    "measurements": "182 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Table Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "257",
+    "name": "Flandy•Limpele",
+    "born": "9 February 1974 in Manado, Sulawesi Utara (INA)",
+    "measurements": "181 cm / 73 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "INA",
+        "discipline": "Badminton",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

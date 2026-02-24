@@ -1,0 +1,24 @@
+[
+  {
+    "id": "248",
+    "name": "•Mia Audina",
+    "born": "22 August 1979 in Jakarta, Daerah Khusus Ibukota Jakarta (INA)",
+    "measurements": "163 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "INA",
+        "discipline": "Badminton",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Badminton",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  }
+]

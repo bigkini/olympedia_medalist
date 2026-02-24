@@ -3,7 +3,7 @@
     "id": "52",
     "name": "Edith•Hannam",
     "born": "28 November 1878 in Bristol, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -18,6 +18,21 @@
         "discipline": "Tennis",
         "event": "Singles, Covered Courts, Women\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "252",
+    "name": "Eddy•Hartono",
+    "born": "19 July 1964 in Kudus, Jawa Tengah (INA)",
+    "measurements": "173 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "INA",
+        "discipline": "Badminton",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -3,7 +3,7 @@
     "id": "22",
     "name": "René•Lacoste",
     "born": "2 July 1904 in Paris Xe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -11,6 +11,43 @@
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "name": "Max•Woosnam",
+    "born": "6 September 1892 in Liverpool, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "222",
+    "name": "Dezső•Lauber",
+    "born": "23 May 1879 in Pécs, Baranya (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Art Competitions",
+        "event": "Architecture, Open\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

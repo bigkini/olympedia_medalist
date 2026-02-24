@@ -1,0 +1,31 @@
+[
+  {
+    "id": "124",
+    "name": "Steffi•Graf",
+    "born": "14 June 1969 in Mannheim, Baden-Württemberg (GER)",
+    "measurements": "175 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": "78",
+    "name": "Alfred•Beamish",
+    "born": "6 August 1879 in Richmond, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Doubles, Covered Courts, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "178",
+    "name": "Demetrius•Casdagli",
+    "born": "10 October 1872 in Salford, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "GRE",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "GRE",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  }
+]

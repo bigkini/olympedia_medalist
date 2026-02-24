@@ -1,0 +1,38 @@
+[
+  {
+    "id": "89",
+    "name": "Reggie•Doherty",
+    "born": "14 October 1872 in Wimbledon, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "128",
+    "name": "Dora•Köring",
+    "born": "11 July 1880 in Chemnitz, Sachsen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  }
+]

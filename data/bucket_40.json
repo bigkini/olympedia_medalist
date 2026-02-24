@@ -3,13 +3,28 @@
     "id": "40",
     "name": "Dora•Boothby",
     "born": "2 August 1881 in Finchley, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Tennis",
         "event": "Singles, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "140",
+    "name": "Steffen•Fetzner",
+    "born": "17 August 1968 in Karlsruhe, Baden-Württemberg (GER)",
+    "measurements": "170 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

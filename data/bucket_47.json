@@ -3,7 +3,7 @@
     "id": "47",
     "name": "Gladys•Eastlake-Smith",
     "born": "14 August 1883 in Lewisham, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -11,6 +11,21 @@
         "discipline": "Tennis",
         "event": "Singles, Covered Courts, Women\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "247",
+    "name": "Minarti•Timur",
+    "born": "24 March 1968 in Surabaya, Jawa Timur (INA)",
+    "measurements": "163 cm / 55 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "INA",
+        "discipline": "Badminton",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

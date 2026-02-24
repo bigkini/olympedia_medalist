@@ -1,0 +1,31 @@
+[
+  {
+    "id": "88",
+    "name": "Laurie•Doherty",
+    "born": "8 October 1875 in Wimbledon, England (GBR)",
+    "measurements": "178 cm",
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  }
+]

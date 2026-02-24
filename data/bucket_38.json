@@ -3,7 +3,7 @@
     "id": "38",
     "name": "Helen•Aitchison",
     "born": "6 December 1881 in Sunderland, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -11,6 +11,21 @@
         "discipline": "Tennis",
         "event": "Doubles, Covered Courts, Mixed\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "138",
+    "name": "Boris•Becker",
+    "born": "22 November 1967 in Leimen, Baden-Württemberg (GER)",
+    "measurements": "192 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

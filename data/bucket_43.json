@@ -1,0 +1,39 @@
+[
+  {
+    "id": "143",
+    "name": "Otto•Froitzheim",
+    "born": "24 April 1884 in Strasbourg, Bas-Rhin (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "243",
+    "name": "Susy•Susanti",
+    "born": "11 February 1971 in Tasikmalaya, Jawa Barat (INA)",
+    "measurements": "161 cm",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "INA",
+        "discipline": "Badminton",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "INA",
+        "discipline": "Badminton",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  }
+]

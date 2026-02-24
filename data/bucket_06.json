@@ -1,0 +1,31 @@
+[
+  {
+    "id": "106",
+    "name": "Harold•Mahony",
+    "born": "13 February 1867 in Edinburgh, Scotland (GBR)",
+    "measurements": "191 cm",
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  }
+]

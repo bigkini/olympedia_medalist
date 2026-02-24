@@ -3,13 +3,28 @@
     "id": "44",
     "name": "Evelyn•Colyer",
     "born": "16 August 1902 in Wandsworth, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "GBR",
         "discipline": "Tennis",
         "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "144",
+    "name": "Marc-Kevin•Goellner",
+    "born": "22 September 1970 in Rio de Janeiro, Rio de Janeiro (BRA)",
+    "measurements": "196 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]
