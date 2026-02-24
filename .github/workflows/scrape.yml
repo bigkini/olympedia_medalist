@@ -1,15 +1,15 @@
-name: "90-Day Stealth Scraper"
+name: "Olympedia Smart Scraper"
 
 on:
   schedule:
-    - cron: '5 * * * *' 
+    - cron: '20 * * * *' # 매시간 20분에 실행
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  scrape:
+  scrape-and-push:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -19,28 +19,17 @@ jobs:
         with:
           use-public-rspm: true
 
-      - name: Cache R packages
-        uses: actions/cache@v3
-        with:
-          path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-r-${{ hashFiles('**/lockfile') }}
-          restore-keys: ${{ runner.os }}-r-
-
-      - name: Install dependencies
+      - name: Install Packages
         run: |
-          Rscript -e 'if(!require("tidyverse")) install.packages("tidyverse")'
-          Rscript -e 'if(!require("httr")) install.packages("httr")'
-          Rscript -e 'if(!require("rvest")) install.packages("rvest")'
-          Rscript -e 'if(!require("janitor")) install.packages("janitor")'
-          Rscript -e 'if(!require("jsonlite")) install.packages("jsonlite")'
+          Rscript -e 'install.packages(c("tidyverse", "httr", "rvest", "janitor", "jsonlite"))'
 
       - name: Run Scraper
         run: Rscript scraper.R
 
-      - name: Push results
+      - name: Commit and Push
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add data/
-          git commit -m "Stealth update: $(date)" || echo "No changes"
+          git commit -m "Auto-update: $(date)" || echo "No changes"
           git push
