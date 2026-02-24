@@ -1,0 +1,24 @@
+[
+  {
+    "id": "498",
+    "name": "Victor•Thibault",
+    "born": "8 March 1867 in Paris Xe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Au Chapelet, 33 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Au Cordon Doré, 33 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  }
+]

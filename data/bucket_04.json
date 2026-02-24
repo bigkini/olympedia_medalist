@@ -13,5 +13,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "504",
+    "name": "Khatuna•Kvrivishvili-Lorig",
+    "born": "1 January 1974 in Tbilisi, Tbilisi (GEO)",
+    "measurements": "170 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -25,7 +25,7 @@
     "id": "181",
     "name": "Konstantinos•Paspatis",
     "born": "5 June 1878 in West Derby, Liverpool, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1896 Summer Olympics",
@@ -33,6 +33,42 @@
         "discipline": "Tennis",
         "event": "Singles, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "781",
+    "name": "Deng•Yaping",
+    "born": "6 February 1973 in Zhengzhou, Henan (CHN)",
+    "measurements": "150 cm / 53 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Table Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Table Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

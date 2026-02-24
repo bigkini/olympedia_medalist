@@ -13,5 +13,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "655",
+    "name": "Fritz Felix•Piepes",
+    "born": "15 April 1887 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

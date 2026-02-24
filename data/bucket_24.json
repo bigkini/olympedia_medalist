@@ -71,5 +71,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "824",
+    "name": "Uberto•De Morpurgo",
+    "born": "11 January 1896 in Paris Ie, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

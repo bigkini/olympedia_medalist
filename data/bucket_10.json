@@ -18,7 +18,7 @@
     "id": "110",
     "name": "James•Parke",
     "born": "26 July 1881 in Clones, Monaghan (IRL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -26,6 +26,28 @@
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "510",
+    "name": "Barbara•Mensing",
+    "born": "23 September 1960 in Herten, Nordrhein-Westfalen (GER)",
+    "measurements": "170 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

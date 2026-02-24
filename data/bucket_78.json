@@ -40,7 +40,7 @@
     "id": "478",
     "name": "Henri•Helle",
     "born": "9 December 1873 in Thiescourt, Oise (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -48,6 +48,42 @@
         "discipline": "Archery",
         "event": "Au Chapelet, 50 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "778",
+    "name": "Chen•Jing",
+    "born": "20 September 1968 in Wuhan, Hubei (CHN)",
+    "measurements": "170 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Table Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Table Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Table Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -13,5 +13,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "503",
+    "name": "Louis•Vernet",
+    "born": "5 May 1870 in Doranges, Puy-de-Dôme (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Continental Style, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

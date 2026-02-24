@@ -54,7 +54,7 @@
     "id": "487",
     "name": "Arthur•Mabillon",
     "born": "13 October 1888 in Claye-Souilly, Seine-et-Marne (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -76,6 +76,21 @@
         "discipline": "Archery",
         "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "887",
+    "name": "Jeong•So-Yeong",
+    "born": "4 March 1967",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Badminton",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

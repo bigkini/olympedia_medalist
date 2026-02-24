@@ -17,8 +17,8 @@
   {
     "id": "316",
     "name": "Edmond•Cloetens",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -40,6 +40,21 @@
         "discipline": "Archery",
         "event": "Pole Archery, Large Birds, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "616",
+    "name": "Liz•Smylie",
+    "born": "11 April 1963 in Perth, Western Australia (AUS)",
+    "measurements": "166 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

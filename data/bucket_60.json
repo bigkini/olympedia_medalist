@@ -33,7 +33,7 @@
     "id": "460",
     "name": "Gustave•Cabaret",
     "born": "1 November 1866 in Claye-Souilly, Seine-et-Marne (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -41,6 +41,21 @@
         "discipline": "Archery",
         "event": "Continental Style, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "660",
+    "name": "Artur•Zborzil",
+    "born": "15 July 1885 in Wien (Vienna), Wien (AUT)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

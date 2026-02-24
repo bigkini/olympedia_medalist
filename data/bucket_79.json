@@ -25,7 +25,7 @@
     "id": "479",
     "name": "Henri•Hérouin",
     "born": "19 February 1876 in Congis-sur-Thérouanne, Seine-et-Marne (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -40,6 +40,21 @@
         "discipline": "Archery",
         "event": "Championnat du Monde, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "779",
+    "name": "Chen•Zihe",
+    "born": "29 February 1968 in Minqing, Fujian (CHN)",
+    "measurements": "166 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

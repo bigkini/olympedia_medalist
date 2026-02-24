@@ -18,7 +18,7 @@
     "id": "475",
     "name": "Eugène•Grisot",
     "born": "19 December 1866 in Frétigney-et-Velloreille, Haute-Saône (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -47,6 +47,21 @@
         "discipline": "Archery",
         "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "575",
+    "name": "William•Dod",
+    "born": "18 July 1867 in Lower Bebington, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Archery",
+        "event": "Double York Round, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

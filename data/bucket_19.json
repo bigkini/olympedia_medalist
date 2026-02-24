@@ -47,7 +47,7 @@
     "id": "319",
     "name": "Victor•De Knibber",
     "born": "23 January 1875 in Sint-Joost-ten-Node, Région de Bruxelles-Capitale (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -69,6 +69,21 @@
         "discipline": "Archery",
         "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "619",
+    "name": "Wendy•Turnbull",
+    "born": "26 November 1952 in Brisbane, Queensland (AUS)",
+    "measurements": "163 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

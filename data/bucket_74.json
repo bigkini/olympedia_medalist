@@ -3,13 +3,28 @@
     "id": "474",
     "name": "Louis•Glineur",
     "born": "10 December 1849 in Dour, Hainaut (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "BEL",
         "discipline": "Archery",
         "event": "Sur la Perche à la Pyramide, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "674",
+    "name": "Dominique•Van Roost",
+    "born": "31 May 1973 in Verviers, Liège (BEL)",
+    "measurements": "171 cm / 56 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

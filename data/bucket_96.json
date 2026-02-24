@@ -1,0 +1,39 @@
+[
+  {
+    "id": "496",
+    "name": "Auguste•Serrurier",
+    "born": "25 March 1857 in Denain, Nord (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Sur la Perche à la Herse, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Sur la Perche à la Pyramide, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "596",
+    "name": "Leroy•Watson",
+    "born": "6 July 1966 in Broseley, England (GBR)",
+    "measurements": "175 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  }
+]

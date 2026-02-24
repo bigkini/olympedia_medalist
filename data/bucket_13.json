@@ -32,7 +32,7 @@
     "id": "313",
     "name": "Alphonse•Allaert",
     "born": "27 October 1872 in Sint-Michiels, West-Vlaanderen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -54,6 +54,43 @@
         "discipline": "Archery",
         "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "513",
+    "name": "Cornelia•Pfohl",
+    "born": "23 February 1971 in Erlabrunn, Breitenbrunn, Sachsen (GER)",
+    "measurements": "175 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "613",
+    "name": "Rachel•McQuillan",
+    "born": "2 December 1971 in Mereweather, New South Wales (AUS)",
+    "measurements": "174 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

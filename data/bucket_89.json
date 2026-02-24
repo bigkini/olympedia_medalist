@@ -39,7 +39,7 @@
     "id": "489",
     "name": "Eugène•Mougin",
     "born": "17 November 1852 in Paris, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -47,6 +47,21 @@
         "discipline": "Archery",
         "event": "Au Chapelet, 50 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "889",
+    "name": "Hong•Cha-Ok",
+    "born": "10 March 1970",
+    "measurements": "165 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "595",
+    "name": "Simon•Terry",
+    "born": "27 February 1974 in Stirling, Scotland (GBR)",
+    "measurements": "180 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Archery",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  }
+]

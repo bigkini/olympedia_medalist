@@ -13,5 +13,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "786",
+    "name": "Huang•Hua",
+    "born": "16 November 1969 in Hechi, Guangxi (CHN)",
+    "measurements": "171 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Badminton",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
