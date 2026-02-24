@@ -28,5 +28,50 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "904",
+    "name": "Park•Hae-Jeong",
+    "born": "29 July 1972",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "1004",
+    "name": "Henk•Timmer",
+    "born": "8 February 1904 in Utrecht, Utrecht (NED)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "1104",
+    "name": "Svilen•Rusinov",
+    "born": "29 February 1964 in Gradezhnitsa, Lovech (BUL)",
+    "measurements": "190 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Boxing",
+        "event": "Super-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

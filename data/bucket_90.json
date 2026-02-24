@@ -57,5 +57,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1090",
+    "name": "Ivan•Mihaylov",
+    "born": "25 December 1944 in Sliven, Sliven (BUL)",
+    "measurements": "164 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

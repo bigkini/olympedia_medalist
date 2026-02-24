@@ -2,8 +2,8 @@
   {
     "id": "329",
     "name": "Louis•Van Beeck",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -25,6 +25,21 @@
         "discipline": "Archery",
         "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1029",
+    "name": "Molla•Bjurstedt-Mallory",
+    "born": "6 March 1884 in Mosvik, Trøndelag (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

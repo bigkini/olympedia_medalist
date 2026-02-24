@@ -32,7 +32,7 @@
     "id": "694",
     "name": "Hedwig•Rosenbaum",
     "born": "3 July 1864 in Praha (Prague), Hlavní město Praha (CZE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -46,6 +46,21 @@
         "noc": "BOH",
         "discipline": "Tennis",
         "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "1094",
+    "name": "Aleksandar•Nikolov",
+    "born": "4 March 1940 in ? (BUL)",
+    "measurements": "182 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

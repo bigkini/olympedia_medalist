@@ -28,5 +28,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1200",
+    "name": "Mark•Leduc",
+    "born": "4 May 1964 in Toronto, Ontario (CAN)",
+    "measurements": "172 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

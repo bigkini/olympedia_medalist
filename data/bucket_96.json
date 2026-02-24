@@ -35,5 +35,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1096",
+    "name": "Boris•Nikolov",
+    "born": "10 March 1929 in Dobrich, Dobrich (BUL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

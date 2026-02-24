@@ -3,7 +3,7 @@
     "id": "492",
     "name": "Léonce•Quentin",
     "born": "16 February 1880 in Chartres, Eure-et-Loir (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -32,6 +32,35 @@
         "discipline": "Archery",
         "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "892",
+    "name": "Hyeon•Jeong-Hwa",
+    "born": "6 October 1969 in Busan, Busan (KOR)",
+    "measurements": "166 cm / 52 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Table Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

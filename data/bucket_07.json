@@ -13,5 +13,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "907",
+    "name": "Na•Gyeong-Min",
+    "born": "25 November 1976 in Hongcheon, Gangwon (KOR)",
+    "measurements": "175 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Badminton",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Badminton",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "1107",
+    "name": "Georgi•Stankov",
+    "born": "10 August 1943 in Pernik, Pernik (BUL)",
+    "measurements": "186 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

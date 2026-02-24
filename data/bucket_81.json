@@ -71,5 +71,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1181",
+    "name": "Moe•Herscovitch",
+    "born": "27 October 1897 in Montréal, Québec (CAN)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

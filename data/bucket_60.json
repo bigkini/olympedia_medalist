@@ -48,13 +48,28 @@
     "id": "660",
     "name": "Artur•Zborzil",
     "born": "15 July 1885 in Wien (Vienna), Wien (AUT)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
         "noc": "AUT",
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1160",
+    "name": "Willie•deWit",
+    "born": "13 June 1961 in Three Hills, Alberta (CAN)",
+    "measurements": "189 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

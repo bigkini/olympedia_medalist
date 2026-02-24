@@ -25,13 +25,28 @@
     "id": "476",
     "name": "Émile•Grumiaux",
     "born": "11 June 1861 in Hornu, Hainaut (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "FRA",
         "discipline": "Archery",
         "event": "Sur la Perche à la Pyramide, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1176",
+    "name": "Lefty•Gwynne",
+    "born": "5 October 1912 in Toronto, Ontario (CAN)",
+    "measurements": "157 cm / 53 kg",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

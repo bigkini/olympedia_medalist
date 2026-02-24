@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1202",
+    "name": "Lennox•Lewis",
+    "born": "2 September 1965 in West Ham, England (GBR)",
+    "measurements": "194 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Boxing",
+        "event": "Super-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  }
+]

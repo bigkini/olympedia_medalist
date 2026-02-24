@@ -3,7 +3,7 @@
     "id": "128",
     "name": "Dora•Köring",
     "born": "11 July 1880 in Chemnitz, Sachsen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -18,6 +18,28 @@
         "discipline": "Tennis",
         "event": "Doubles, Mixed\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "928",
+    "name": "Park•Ju-Bong",
+    "born": "5 December 1964",
+    "measurements": "182 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Badminton",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Badminton",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

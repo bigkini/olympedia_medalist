@@ -65,5 +65,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "957",
+    "name": "Jalani•Sidek",
+    "born": "10 November 1963 in Banting, Selangor (MAS)",
+    "measurements": "178 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "MAS",
+        "discipline": "Badminton",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

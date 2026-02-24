@@ -3,7 +3,7 @@
     "id": "162",
     "name": "Fritz•Traun",
     "born": "29 March 1876 in Wandsbek, Hamburg (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1896 Summer Olympics",
@@ -11,6 +11,21 @@
         "discipline": "Athletics",
         "event": "Doubles, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "962",
+    "name": "Yap•Kim Hock",
+    "born": "2 July 1970 in Muar, Johor (MAS)",
+    "measurements": "160 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "MAS",
+        "discipline": "Badminton",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

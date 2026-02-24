@@ -3,7 +3,7 @@
     "id": "20",
     "name": "André•Gobert",
     "born": "30 September 1890 in Paris XVIIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -18,6 +18,58 @@
         "discipline": "Tennis",
         "event": "Doubles, Covered Courts, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "920",
+    "name": "Kim•Taek-Su",
+    "born": "25 May 1970",
+    "measurements": "174 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Table Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "1120",
+    "name": "Toncho•Tonchev",
+    "born": "1 December 1972 in Sliven, Sliven (BUL)",
+    "measurements": "170 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1220",
+    "name": "Shawn•O'Sullivan",
+    "born": "9 May 1962 in Toronto, Ontario (CAN)",
+    "measurements": "178 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

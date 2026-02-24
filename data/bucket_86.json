@@ -28,5 +28,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1086",
+    "name": "Petar•Lesov",
+    "born": "12 September 1960 in Rakovski, Plovdiv (BUL)",
+    "measurements": "168 cm / 50 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

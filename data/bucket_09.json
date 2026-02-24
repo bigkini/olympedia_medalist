@@ -3,7 +3,7 @@
     "id": "109",
     "name": "Anthony•Norris",
     "born": "1869 in St. John's Wood, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -17,6 +17,21 @@
         "noc": "GBR",
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "909",
+    "name": "Sim•Eun-Jeong",
+    "born": "8 June 1971",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Badminton",
+        "event": "Doubles, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

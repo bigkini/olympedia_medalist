@@ -3,7 +3,7 @@
     "id": "97",
     "name": "Arthur Wentworth•Gore",
     "born": "2 January 1868 in Lyndhurst, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -18,6 +18,21 @@
         "discipline": "Tennis",
         "event": "Doubles, Covered Courts, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "897",
+    "name": "Kim•Mu-Gyo",
+    "born": "27 August 1975",
+    "measurements": "174 cm / 59 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

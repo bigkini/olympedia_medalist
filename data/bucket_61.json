@@ -13,5 +13,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1161",
+    "name": "Ray•Downey",
+    "born": "23 September 1968 in Halifax, Nova Scotia (CAN)",
+    "measurements": "177 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

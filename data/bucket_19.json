@@ -86,5 +86,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "919",
+    "name": "Kim•Gi-Taek",
+    "born": "3 October 1962",
+    "measurements": "171 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Table Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1119",
+    "name": "Serafim•Todorov",
+    "born": "6 July 1969 in Peshtera, Pazardzhik (BUL)",
+    "measurements": "178 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

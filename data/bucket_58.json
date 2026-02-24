@@ -28,5 +28,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "958",
+    "name": "Razif•Sidek",
+    "born": "29 May 1962 in Banting, Selangor (MAS)",
+    "measurements": "180 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "MAS",
+        "discipline": "Badminton",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "1158",
+    "name": "David•Defiagbon",
+    "born": "12 June 1970 in Sapele, Delta (NGR)",
+    "measurements": "195 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

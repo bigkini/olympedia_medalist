@@ -83,7 +83,7 @@
     "id": "887",
     "name": "Jeong•So-Yeong",
     "born": "4 March 1967",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -91,6 +91,21 @@
         "discipline": "Badminton",
         "event": "Doubles, Women\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1187",
+    "name": "Chris•Johnson",
+    "born": "8 August 1971 in ?, Manchester (JAM)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

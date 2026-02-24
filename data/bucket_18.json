@@ -25,7 +25,7 @@
     "id": "118",
     "name": "Noel•Turnbull",
     "born": "20 December 1890 in Highgate, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -33,6 +33,36 @@
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "918",
+    "name": "Kim•Mun-Su",
+    "born": "29 December 1963",
+    "measurements": "179 cm",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Badminton",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1218",
+    "name": "Chris•Newton",
+    "born": "3 February 1899 in Toronto, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

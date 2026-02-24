@@ -50,5 +50,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "910",
+    "name": "Yang•Yeong-Ja",
+    "born": "6 July 1964",
+    "measurements": "166 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

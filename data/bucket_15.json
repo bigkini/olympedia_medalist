@@ -13,5 +13,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "915",
+    "name": "Gang•Hui-Chan",
+    "born": "10 May 1970",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

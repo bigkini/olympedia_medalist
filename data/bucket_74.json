@@ -28,5 +28,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1174",
+    "name": "Cliff•Graham",
+    "born": "18 March 1900 in Toronto, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

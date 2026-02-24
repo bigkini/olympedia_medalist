@@ -3,7 +3,7 @@
     "id": "8",
     "name": "Henri•Cochet",
     "born": "14 December 1901 in Villeurbanne, Rhône (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -17,6 +17,43 @@
         "noc": "FRA",
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "908",
+    "name": "Yu•Ji-Hye",
+    "born": "10 February 1976",
+    "measurements": "164 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "1208",
+    "name": "Egerton•Marcus",
+    "born": "2 February 1965 in Goed Fortuin, Essequibo Islands-West Demerara (GUY)",
+    "measurements": "177 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]
