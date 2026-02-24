@@ -42,5 +42,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1228",
+    "name": "Art•Prud'homme",
+    "born": "12 March 1898 in Ottawa, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -18,7 +18,7 @@
     "id": "915",
     "name": "Gang•Hui-Chan",
     "born": "10 May 1970",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -26,6 +26,35 @@
         "discipline": "Table Tennis",
         "event": "Doubles, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "1415",
+    "name": "Leah•O'Brien-Amico",
+    "born": "9 September 1974 in Garden Grove, California (USA)",
+    "measurements": "175 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

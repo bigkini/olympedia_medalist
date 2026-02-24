@@ -35,5 +35,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1353",
+    "name": "Gillian•Boxx",
+    "born": "1 September 1973 in Fontana, California (USA)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

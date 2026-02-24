@@ -18,7 +18,7 @@
     "id": "330",
     "name": "Louis•Van De Perck",
     "born": "14 October 1889 in Hoboken, Antwerpen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -47,6 +47,28 @@
         "discipline": "Archery",
         "event": "Pole Archery, Large Birds, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1430",
+    "name": "Haruka•Saito",
+    "born": "14 March 1970 in Hirosaki, Aomori (JPN)",
+    "measurements": "173 cm / 70 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

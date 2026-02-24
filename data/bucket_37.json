@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1337",
+    "name": "Jorge•Julio",
+    "born": "4 April 1969 in El Retén, Magdalena (COL)",
+    "measurements": "169 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "COL",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  }
+]

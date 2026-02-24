@@ -3,7 +3,7 @@
     "id": "863",
     "name": "Seiichiro•Kashio",
     "born": "2 January 1892 in Osaka, Osaka (JPN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -11,6 +11,28 @@
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1363",
+    "name": "Sheila•Cornell-Douty",
+    "born": "26 February 1962 in Encino, California (USA)",
+    "measurements": "175 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

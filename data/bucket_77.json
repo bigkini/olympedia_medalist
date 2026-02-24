@@ -20,5 +20,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1277",
+    "name": "Ramón•Tapia",
+    "born": "17 March 1932 in Antofagasta, Antofagasta (CHI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "CHI",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -35,5 +35,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1442",
+    "name": "Tao•Hua",
+    "born": "12 December 1972 in Shanghai, Shanghai (CHN)",
+    "measurements": "170 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

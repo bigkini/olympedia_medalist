@@ -13,5 +13,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1356",
+    "name": "Chen•Hong",
+    "born": "28 February 1970 in Beijing, Beijing (CHN)",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

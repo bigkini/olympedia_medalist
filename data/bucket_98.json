@@ -3,7 +3,7 @@
     "id": "498",
     "name": "Victor•Thibault",
     "born": "8 March 1867 in Paris Xe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -17,6 +17,21 @@
         "noc": "FRA",
         "discipline": "Archery",
         "event": "Au Cordon Doré, 33 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1398",
+    "name": "Liu•Yaju",
+    "born": "25 April 1972 in Tianjin, Tianjin (CHN)",
+    "measurements": "172 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

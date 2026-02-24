@@ -28,5 +28,34 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1371",
+    "name": "Peta•Edebone",
+    "born": "9 February 1969 in Melbourne, Victoria (AUS)",
+    "measurements": "176 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

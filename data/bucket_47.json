@@ -28,5 +28,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1447",
+    "name": "Dani•Tyler",
+    "born": "23 October 1974",
+    "measurements": "167 cm",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

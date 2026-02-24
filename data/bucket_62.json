@@ -28,5 +28,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1362",
+    "name": "Kim•Cooper",
+    "born": "26 October 1965 in Parramatta, New South Wales (AUS)",
+    "measurements": "170 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

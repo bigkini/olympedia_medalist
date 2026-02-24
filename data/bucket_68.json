@@ -33,7 +33,7 @@
     "id": "468",
     "name": "Pascal•Fauvel",
     "born": "8 April 1882 in Béthisy-Saint-Pierre, Oise (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -55,6 +55,28 @@
         "discipline": "Archery",
         "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1368",
+    "name": "Kerry•Dienelt",
+    "born": "25 February 1969 in Darwin, Northern Territory (AUS)",
+    "measurements": "174 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

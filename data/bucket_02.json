@@ -13,5 +13,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1402",
+    "name": "Kim•Maher",
+    "born": "5 September 1971 in Thành phố Hồ Chí Minh, Thành phố Hồ Chí Minh (VIE)",
+    "measurements": "167 cm",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

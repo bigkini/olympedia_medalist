@@ -20,5 +20,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1395",
+    "name": "Lei•Li",
+    "born": "21 January 1968 in ?, Jilin (CHN)",
+    "measurements": "166 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

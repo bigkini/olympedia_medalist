@@ -3,7 +3,7 @@
     "id": "321",
     "name": "Jérôme•De Mayer",
     "born": "21 July 1875 in Meise, Vlaams Brabant (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -25,6 +25,21 @@
         "discipline": "Archery",
         "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1321",
+    "name": "Martin•N'Dongo Ebanga",
+    "born": "23 March 1966 in ? (CMR)",
+    "measurements": "165 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CMR",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

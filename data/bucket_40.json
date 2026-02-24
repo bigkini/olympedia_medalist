@@ -43,5 +43,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1240",
+    "name": "Ray•Smillie",
+    "born": "18 January 1904 in Toronto, Ontario (CAN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "1440",
+    "name": "Shelly•Stokes",
+    "born": "26 October 1967 in Sacramento, California (USA)",
+    "measurements": "165 cm",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

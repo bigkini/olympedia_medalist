@@ -27,5 +27,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1406",
+    "name": "Sally•McDermid-McCreedy",
+    "born": "6 June 1965 in Mytholmroyd, England (GBR)",
+    "measurements": "176 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

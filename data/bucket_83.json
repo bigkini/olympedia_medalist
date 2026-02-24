@@ -73,5 +73,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1383",
+    "name": "Dionna•Harris",
+    "born": "4 March 1968 in Wilmington, Delaware (USA)",
+    "measurements": "160 cm",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

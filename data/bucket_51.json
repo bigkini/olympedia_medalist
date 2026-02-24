@@ -28,5 +28,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1451",
+    "name": "Wang•Lihong",
+    "born": "22 November 1970 in Dunhua, Jilin (CHN)",
+    "measurements": "168 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

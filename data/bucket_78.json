@@ -86,5 +86,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1378",
+    "name": "Michele•Granger",
+    "born": "15 January 1970 in Placentia, California (USA)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

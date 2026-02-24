@@ -2,8 +2,8 @@
   {
     "id": "334",
     "name": "Edmond•Van Moer",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -24,6 +24,28 @@
         "noc": "BEL",
         "discipline": "Archery",
         "event": "Pole Archery, Large Birds, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1434",
+    "name": "Michele•Smith",
+    "born": "21 June 1967 in Plainfield, New Jersey (USA)",
+    "measurements": "177 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
         "medal": "Gold"
       }
     ]

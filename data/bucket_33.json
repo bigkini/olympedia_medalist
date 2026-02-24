@@ -112,5 +112,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1433",
+    "name": "Julie•Smith",
+    "born": "10 May 1968 in Glendora, California (USA)",
+    "measurements": "162 cm",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

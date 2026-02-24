@@ -2,14 +2,29 @@
   {
     "id": "323",
     "name": "•Druart, Jr.",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "BEL",
         "discipline": "Archery",
         "event": "Sur la Perche à la Herse, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "1423",
+    "name": "Haylea•Petrie",
+    "born": "5 July 1969 in Wee Waa, New South Wales (AUS)",
+    "measurements": "169 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

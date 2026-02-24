@@ -35,5 +35,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1397",
+    "name": "Liu•Xuqing",
+    "born": "15 August 1968 in Shanghai, Shanghai (CHN)",
+    "measurements": "166 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

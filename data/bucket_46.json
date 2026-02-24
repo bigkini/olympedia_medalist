@@ -3,7 +3,7 @@
     "id": "46",
     "name": "Phyllis•Covell",
     "born": "22 May 1895 in Paddington, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -11,6 +11,21 @@
         "discipline": "Tennis",
         "event": "Doubles, Women\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1246",
+    "name": "Dale•Walters",
+    "born": "27 September 1963 in Port Alice, British Columbia (CAN)",
+    "measurements": "167 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

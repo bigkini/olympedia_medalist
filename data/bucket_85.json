@@ -13,5 +13,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1385",
+    "name": "Jenny•Holliday",
+    "born": "18 January 1964 in Melbourne, Victoria (AUS)",
+    "measurements": "180 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

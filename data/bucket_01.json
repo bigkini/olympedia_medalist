@@ -13,5 +13,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1401",
+    "name": "Ma•Ying",
+    "born": "10 April 1972 in Qiqihar, Heilongjiang (CHN)",
+    "measurements": "176 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

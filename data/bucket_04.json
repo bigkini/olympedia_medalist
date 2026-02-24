@@ -73,5 +73,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1404",
+    "name": "Naomi•Matsumoto",
+    "born": "24 February 1968 in ?, Ishikawa (JPN)",
+    "measurements": "166 cm / 60 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

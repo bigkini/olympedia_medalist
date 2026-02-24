@@ -69,7 +69,7 @@
     "id": "884",
     "name": "Bang•Su-Hyeon",
     "born": "13 September 1972",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -84,6 +84,21 @@
         "discipline": "Badminton",
         "event": "Singles, Women\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1384",
+    "name": "He•Liping",
+    "born": "13 November 1972 in ?, Shaanxi (CHN)",
+    "measurements": "174 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

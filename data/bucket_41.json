@@ -20,5 +20,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1441",
+    "name": "Juri•Takayama",
+    "born": "21 October 1976 in Yokosuka, Kanagawa (JPN)",
+    "measurements": "162 cm / 85 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

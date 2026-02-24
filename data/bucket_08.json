@@ -57,5 +57,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1408",
+    "name": "Francine•McRae",
+    "born": "27 April 1969 in Melbourne, Victoria (AUS)",
+    "measurements": "172 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

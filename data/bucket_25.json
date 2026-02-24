@@ -2,8 +2,8 @@
   {
     "id": "325",
     "name": "Firmin•Flamand",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -25,6 +25,21 @@
         "discipline": "Archery",
         "event": "Pole Archery, Large Birds, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1425",
+    "name": "Nicole•Richardson",
+    "born": "26 June 1970 in Melbourne, Victoria (AUS)",
+    "measurements": "177 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

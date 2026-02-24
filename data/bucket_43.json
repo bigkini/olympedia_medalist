@@ -57,5 +57,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1343",
+    "name": "Alfonso•Pérez",
+    "born": "16 January 1949 in Cartagena del Chairá, Caquetá (COL)",
+    "measurements": "159 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "COL",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

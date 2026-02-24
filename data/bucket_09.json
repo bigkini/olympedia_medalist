@@ -25,7 +25,7 @@
     "id": "909",
     "name": "Sim•Eun-Jeong",
     "born": "8 June 1971",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -33,6 +33,21 @@
         "discipline": "Badminton",
         "event": "Doubles, Women\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "1309",
+    "name": "Joseph•Bessala",
+    "born": "19 April 1941 in Douala, Littoral (CMR)",
+    "measurements": "165 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "CMR",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }
