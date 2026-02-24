@@ -3,13 +3,28 @@
     "id": "64",
     "name": "Mabel•Parton",
     "born": "22 July 1881 in London, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
         "noc": "GBR",
         "discipline": "Tennis",
         "event": "Singles, Covered Courts, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "264",
+    "name": "Hermawan•Susanto",
+    "born": "24 September 1967 in Kudus, Jawa Tengah (INA)",
+    "measurements": "170 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "INA",
+        "discipline": "Badminton",
+        "event": "Singles, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

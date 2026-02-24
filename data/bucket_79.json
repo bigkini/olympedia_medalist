@@ -3,7 +3,7 @@
     "id": "79",
     "name": "John Pius•Boland",
     "born": "16 September 1870 in Dublin, Dublin City (IRL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1896 Summer Olympics",
@@ -17,6 +17,28 @@
         "noc": "GBR",
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "479",
+    "name": "Henri•Hérouin",
+    "born": "19 February 1876 in Congis-sur-Thérouanne, Seine-et-Marne (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Au Cordon Doré, 50 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Championnat du Monde, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

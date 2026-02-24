@@ -3,7 +3,7 @@
     "id": "31",
     "name": "André•Prévost",
     "born": "28 February 1875 in Paris VIIIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -11,6 +11,43 @@
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "331",
+    "name": "Auguste•Van De Verre",
+    "born": {},
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Pole Archery, Small Birds, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Pole Archery, Large Birds, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "431",
+    "name": "Antonio•Vázquez",
+    "born": "26 January 1961 in Levinco, Asturias (ESP)",
+    "measurements": "188 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

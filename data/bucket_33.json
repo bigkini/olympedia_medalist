@@ -1,0 +1,80 @@
+[
+  {
+    "id": "333",
+    "name": "Hubert•Van Innis",
+    "born": "24 February 1866 in Elewijt, Vlaams Brabant (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Au Chapelet, 33 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Au Cordon Doré, 33 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Au Cordon Doré, 50 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Championnat du Monde, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 28 metres, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 33 metres, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 50 metres, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 33 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  }
+]

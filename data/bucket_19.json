@@ -32,7 +32,7 @@
     "id": "119",
     "name": "Archibald•Warden",
     "born": "11 May 1869 in Edinburgh, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -40,6 +40,35 @@
         "discipline": "Tennis",
         "event": "Doubles, Mixed\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "319",
+    "name": "Victor•De Knibber",
+    "born": "23 January 1875 in Sint-Joost-ten-Node, Région de Bruxelles-Capitale (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 33 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

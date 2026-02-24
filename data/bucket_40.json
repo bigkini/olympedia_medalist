@@ -28,5 +28,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "440",
+    "name": "Jari•Lipponen",
+    "born": "17 October 1972 in Kemi, Lappi (FIN)",
+    "measurements": "182 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

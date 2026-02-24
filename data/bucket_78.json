@@ -18,7 +18,7 @@
     "id": "178",
     "name": "Demetrius•Casdagli",
     "born": "10 October 1872 in Salford, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1896 Summer Olympics",
@@ -32,6 +32,21 @@
         "noc": "GRE",
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "478",
+    "name": "Henri•Helle",
+    "born": "9 December 1873 in Thiescourt, Oise (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Au Chapelet, 50 metres, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

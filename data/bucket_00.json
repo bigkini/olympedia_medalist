@@ -3,13 +3,28 @@
     "id": "100",
     "name": "George•Hillyard",
     "born": "6 February 1864 in Hanwell, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "300",
+    "name": "Simon•Fairweather",
+    "born": "9 October 1969 in Adelaide, South Australia (AUS)",
+    "measurements": "175 cm / 71 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Archery",
+        "event": "Individual, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

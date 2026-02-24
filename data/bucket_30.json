@@ -3,7 +3,7 @@
     "id": "30",
     "name": "Édouard•Mény de Marangue",
     "born": "30 November 1882 in Paris VIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -11,6 +11,42 @@
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "330",
+    "name": "Louis•Van De Perck",
+    "born": "14 October 1889 in Hoboken, Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Pole Archery, Small Birds, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Pole Archery, Large Birds, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Pole Archery, Small Birds, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Pole Archery, Large Birds, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

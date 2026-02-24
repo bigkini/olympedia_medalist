@@ -3,7 +3,7 @@
     "id": "113",
     "name": "Josiah•Ritchie",
     "born": "18 October 1870 in Westminster, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -25,6 +25,35 @@
         "discipline": "Tennis",
         "event": "Singles, Covered Courts, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "313",
+    "name": "Alphonse•Allaert",
+    "born": "27 October 1872 in Sint-Michiels, West-Vlaanderen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 33 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

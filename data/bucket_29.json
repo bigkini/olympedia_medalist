@@ -1,0 +1,31 @@
+[
+  {
+    "id": "329",
+    "name": "Louis•Van Beeck",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 33 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  }
+]

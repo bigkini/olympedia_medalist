@@ -27,5 +27,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "388",
+    "name": "Wang•Xiaozhu",
+    "born": "15 May 1973 in ?, Jilin (CHN)",
+    "measurements": "176 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "488",
+    "name": "Augustin•Mercier",
+    "born": "16 November 1844 in Paris, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Au Chapelet, 50 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

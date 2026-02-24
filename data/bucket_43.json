@@ -35,5 +35,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "443",
+    "name": "Tomi•Poikolainen",
+    "born": "27 December 1961 in Helsinki, Uusimaa (FIN)",
+    "measurements": "178 cm / 74-80 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Archery",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -3,7 +3,7 @@
     "id": "83",
     "name": "Clement•Cazalet",
     "born": "16 July 1869 in St. James's, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -11,6 +11,21 @@
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "383",
+    "name": "Li•Lingjuan",
+    "born": "10 April 1966",
+    "measurements": "166 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Archery",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -27,5 +27,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "324",
+    "name": "Louis•Fierens",
+    "born": "14 October 1875 in Duffel, Antwerpen (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 33 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "424",
+    "name": "Juan Carlos•Holgado",
+    "born": "16 April 1968 in Dierdorf, Rheinland-Pfalz (GER)",
+    "measurements": "178 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

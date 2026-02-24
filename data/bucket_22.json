@@ -40,7 +40,7 @@
     "id": "222",
     "name": "Dezső•Lauber",
     "born": "23 May 1879 in Pécs, Baranya (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -48,6 +48,35 @@
         "discipline": "Art Competitions",
         "event": "Architecture, Open\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "322",
+    "name": "Louis•Delcon",
+    "born": "30 May 1876 in Veltem-Beisem, Vlaams Brabant (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 33 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

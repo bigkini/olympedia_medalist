@@ -3,7 +3,7 @@
     "id": "89",
     "name": "Reggie•Doherty",
     "born": "14 October 1872 in Wimbledon, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -31,6 +31,21 @@
         "noc": "GBR",
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "489",
+    "name": "Eugène•Mougin",
+    "born": "17 November 1852 in Paris, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Au Chapelet, 50 metres, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

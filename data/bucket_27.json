@@ -13,5 +13,34 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "327",
+    "name": "Joseph•Hermans",
+    "born": "27 April 1890 in Ekeren, Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Pole Archery, Small Birds, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Pole Archery, Small Birds, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Pole Archery, Large Birds, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

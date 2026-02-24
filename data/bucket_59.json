@@ -3,7 +3,7 @@
     "id": "59",
     "name": "Kitty•McKane",
     "born": "7 May 1896 in Bayswater, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -38,6 +38,49 @@
         "noc": "GBR",
         "discipline": "Tennis",
         "event": "Doubles, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "459",
+    "name": "Julien•Brulé",
+    "born": "30 April 1875 in Avilly-Saint-Léonard, Oise (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Target Archery, 33 metres, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Target Archery, 50 metres, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Target Archery, 33 metres, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

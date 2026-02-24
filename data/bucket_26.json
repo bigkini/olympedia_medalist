@@ -3,7 +3,7 @@
     "id": "226",
     "name": "Momcsilló•Tapavicza",
     "born": "14 October 1872 in Nadalj, Južna Bačka (SRB)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1896 Summer Olympics",
@@ -11,6 +11,36 @@
         "discipline": "Tennis",
         "event": "Singles, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "326",
+    "name": "Emmanuel•Foulon",
+    "born": "29 December 1871 in Frameries, Hainaut (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Archery",
+        "event": "Sur la Perche à la Herse, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "426",
+    "name": "Alfonso•Menéndez",
+    "born": "31 May 1966 in Avilés, Asturias (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

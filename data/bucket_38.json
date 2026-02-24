@@ -28,5 +28,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "438",
+    "name": "Ismo•Falck",
+    "born": "22 August 1966 in Paltamo, Kainuu (FIN)",
+    "measurements": "172 cm / 67-74 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

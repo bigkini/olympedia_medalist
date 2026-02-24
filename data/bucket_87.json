@@ -3,7 +3,7 @@
     "id": "87",
     "name": "Charles•Dixon",
     "born": "7 February 1873 in Grantham, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -32,6 +32,50 @@
         "discipline": "Tennis",
         "event": "Doubles, Covered Courts, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "287",
+    "name": "Leander•Paes",
+    "born": "17 June 1973 in Kolkata (Calcutta), West Bengal (IND)",
+    "measurements": "178 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "487",
+    "name": "Arthur•Mabillon",
+    "born": "13 October 1888 in Claye-Souilly, Seine-et-Marne (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Target Archery, 33 metres, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Archery",
+        "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

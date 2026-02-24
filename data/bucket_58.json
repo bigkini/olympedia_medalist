@@ -3,13 +3,28 @@
     "id": "158",
     "name": "Heinrich•Schomburgk",
     "born": "23 June 1885 in Connewitz, Leipzig, Sachsen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
         "noc": "GER",
         "discipline": "Tennis",
         "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "258",
+    "name": "Rexy•Mainaky",
+    "born": "9 March 1968 in Ternate, Maluku Utara (INA)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "INA",
+        "discipline": "Badminton",
+        "event": "Doubles, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

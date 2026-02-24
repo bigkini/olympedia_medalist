@@ -3,13 +3,35 @@
     "id": "182",
     "name": "Dimitrios•Petrokokkinos",
     "born": "17 April 1878 in Ilford, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1896 Summer Olympics",
         "noc": "GRE",
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "382",
+    "name": "He•Ying",
+    "born": "17 April 1977 in Siping, Jilin (CHN)",
+    "measurements": "170 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Archery",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

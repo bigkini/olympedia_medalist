@@ -1,22 +1,7 @@
 [
   {
-    "id": "116",
-    "name": "George•Simond",
-    "born": "23 January 1867 in Marylebone, England (GBR)",
-    "measurements": {},
-    "medals": [
-      {
-        "game": "1908 Summer Olympics",
-        "noc": "GBR",
-        "discipline": "Tennis",
-        "event": "Doubles, Covered Courts, Men\n(Olympic)",
-        "medal": "Silver"
-      }
-    ]
-  },
-  {
-    "id": "316",
-    "name": "Edmond•Cloetens",
+    "id": "334",
+    "name": "Edmond•Van Moer",
     "born": null,
     "measurements": null,
     "medals": [
@@ -24,7 +9,7 @@
         "game": "1920 Summer Olympics",
         "noc": "BEL",
         "discipline": "Archery",
-        "event": "Pole Archery, Large Birds, Individual, Men\n(Olympic)",
+        "event": "Pole Archery, Small Birds, Individual, Men\n(Olympic)",
         "medal": "Gold"
       },
       {
