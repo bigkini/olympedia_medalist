@@ -1,0 +1,24 @@
+[
+  {
+    "id": "18",
+    "name": "Jean-Philippe•Gatien",
+    "born": "16 October 1968 in Alès, Gard (FRA)",
+    "measurements": "178 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Table Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "20",
+    "name": "André•Gobert",
+    "born": "30 September 1890 in Paris XVIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Singles, Covered Courts, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Doubles, Covered Courts, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  }
+]

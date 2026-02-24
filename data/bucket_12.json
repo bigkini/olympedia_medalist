@@ -1,0 +1,52 @@
+[
+  {
+    "id": "12",
+    "name": "Max•Decugis",
+    "born": "24 September 1882 in Paris XVIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Intercalated)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Intercalated)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Intercalated)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  }
+]

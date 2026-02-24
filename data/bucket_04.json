@@ -1,0 +1,17 @@
+[
+  {
+    "id": "4",
+    "name": "Jacques•Brugnon",
+    "born": "11 May 1895 in Paris VIIIe, Paris (FRA)",
+    "measurements": "168 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  }
+]

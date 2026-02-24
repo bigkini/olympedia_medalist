@@ -1,0 +1,17 @@
+[
+  {
+    "id": "3",
+    "name": "Jean•Borotra",
+    "born": "13 August 1898 in Biarritz, Pyrénées-Atlantiques (FRA)",
+    "measurements": "183 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  }
+]
