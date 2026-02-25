@@ -114,7 +114,7 @@
     "id": "3453",
     "name": "George•McKenzie",
     "born": "22 September 1900 in Leith, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -122,6 +122,21 @@
         "discipline": "Boxing",
         "event": "Bantamweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3553",
+    "name": "Rudi•Fink",
+    "born": "6 July 1958 in Cottbus, Brandenburg (GER)",
+    "measurements": "168 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

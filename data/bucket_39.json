@@ -73,5 +73,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3639",
+    "name": "Jan•Quast",
+    "born": "9 January 1970 in Rostock, Mecklenburg-Vorpommern (GER)",
+    "measurements": "159 cm / 52 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -151,13 +151,28 @@
     "id": "3454",
     "name": "Jim•McKenzie",
     "born": "13 August 1903 in Leith, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "GBR",
         "discipline": "Boxing",
         "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "3654",
+    "name": "Emil•Schulz",
+    "born": "25 May 1938 in Kaiserslautern, Rheinland-Pfalz (GER)",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

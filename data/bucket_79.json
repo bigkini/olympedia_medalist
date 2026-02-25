@@ -106,11 +106,26 @@
     "id": "3479",
     "name": "William•Philo",
     "born": "17 February 1882 in Islington, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3679",
+    "name": "Prince•Amartey",
+    "born": "25 June 1944 in Ho, Volta (GHA)",
+    "measurements": "177 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GHA",
         "discipline": "Boxing",
         "event": "Middleweight, Men\n(Olympic)",
         "medal": "Bronze"

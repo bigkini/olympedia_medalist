@@ -145,5 +145,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3552",
+    "name": "Jürgen•Fanghänel",
+    "born": "1 August 1951 in Limbach-Oberfrohna, Sachsen (GER)",
+    "measurements": "187 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

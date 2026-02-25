@@ -78,7 +78,7 @@
     "id": "2746",
     "name": "Alphonzo•Bell",
     "born": "29 September 1875 in Bell, California (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -93,6 +93,21 @@
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "3646",
+    "name": "Herbert•Runge",
+    "born": "23 January 1913 in Elberfeld, Wuppertal, Nordrhein-Westfalen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -125,5 +125,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3614",
+    "name": "Willi•Kaiser",
+    "born": "16 January 1912 in Pobiedziska, Wielkopolskie (POL)",
+    "measurements": "163 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -125,5 +125,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3510",
+    "name": "Harry•Thomas",
+    "born": "1 July 1888 in Kings Norton, Birmingham, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "3610",
+    "name": "Hans•Huber",
+    "born": "1 January 1934 in Regensburg, Bayern (GER)",
+    "measurements": "194 cm / 96 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

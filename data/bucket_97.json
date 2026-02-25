@@ -102,5 +102,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3597",
+    "name": "Erich•Campe",
+    "born": "1 February 1912 in Berlin, Berlin (GER)",
+    "measurements": "183 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

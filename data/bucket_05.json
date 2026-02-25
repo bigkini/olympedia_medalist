@@ -65,5 +65,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3605",
+    "name": "Günther•Heidemann",
+    "born": "21 October 1932 in Berlin, Berlin (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

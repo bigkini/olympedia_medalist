@@ -183,5 +183,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3621",
+    "name": "Luan•Krasniqi",
+    "born": "10 May 1971 in Junik, Gjakova (KOS)",
+    "measurements": "190 cm / 92 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

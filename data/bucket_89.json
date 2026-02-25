@@ -203,7 +203,7 @@
     "id": "3489",
     "name": "Hugh•Roddin",
     "born": "10 March 1887 in Musselburgh, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -211,6 +211,21 @@
         "discipline": "Boxing",
         "event": "Featherweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3589",
+    "name": "Edgar•Basel",
+    "born": "1 November 1930 in Mannheim, Baden-Württemberg (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

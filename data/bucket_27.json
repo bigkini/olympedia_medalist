@@ -260,7 +260,7 @@
     "id": "3427",
     "name": "Alex•Ireland",
     "born": "11 February 1901 in Leith, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -268,6 +268,21 @@
         "discipline": "Boxing",
         "event": "Welterweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "3627",
+    "name": "Torsten•May",
+    "born": "10 September 1969 in Glauchau, Sachsen (GER)",
+    "measurements": "193 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

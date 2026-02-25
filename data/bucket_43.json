@@ -220,5 +220,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3543",
+    "name": "Wolfgang•Behrendt",
+    "born": "14 June 1936 in Berlin, Berlin (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

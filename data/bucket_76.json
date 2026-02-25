@@ -110,5 +110,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3576",
+    "name": "Günter•Siegmund",
+    "born": "19 December 1936 in Kostrzyn nad Odrą, Lubuskie (POL)",
+    "measurements": "189 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3676",
+    "name": "Andreas•Zülow",
+    "born": "23 October 1965 in Ludwigslust, Mecklenburg-Vorpommern (GER)",
+    "measurements": "175 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -139,5 +139,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "3645",
+    "name": "Marco•Rudolph",
+    "born": "22 May 1970 in Zittau, Sachsen (GER)",
+    "measurements": "167 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

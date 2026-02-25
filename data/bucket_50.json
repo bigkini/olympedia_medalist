@@ -28,5 +28,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3650",
+    "name": "Josef•Schleinkofer",
+    "born": "19 March 1910 in München (Munich), Bayern (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

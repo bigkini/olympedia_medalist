@@ -153,5 +153,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3562",
+    "name": "Detlef•Kästner",
+    "born": "20 March 1958 in Wurzen, Sachsen (GER)",
+    "measurements": "174 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

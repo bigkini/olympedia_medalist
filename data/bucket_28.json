@@ -131,5 +131,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3628",
+    "name": "Günther•Meier",
+    "born": "26 July 1941 in Nürnberg, Bayern (GER)",
+    "measurements": "176 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

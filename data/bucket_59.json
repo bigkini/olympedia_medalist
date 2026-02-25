@@ -218,5 +218,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "3659",
+    "name": "Reinhard•Skricek",
+    "born": "4 January 1948 in Ringelai, Bayern (GER)",
+    "measurements": "176 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

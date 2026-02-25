@@ -109,5 +109,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3535",
+    "name": "Richie•Woodhall",
+    "born": "17 April 1968 in Tamworth, England (GBR)",
+    "measurements": "185 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -197,5 +197,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3578",
+    "name": "Peter•Tiepold",
+    "born": "15 November 1945 in Berlin, Berlin (GER)",
+    "measurements": "178 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

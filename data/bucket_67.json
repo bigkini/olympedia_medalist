@@ -47,7 +47,7 @@
     "id": "1967",
     "name": "Yun•Hye-Yeong",
     "born": "15 March 1977",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1996 Summer Olympics",
@@ -55,6 +55,43 @@
         "discipline": "Archery",
         "event": "Team, Women\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "3567",
+    "name": "Richard•Nowakowski",
+    "born": "27 September 1955 in Sztum, Pomorskie (POL)",
+    "measurements": "174 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3667",
+    "name": "Richard•Vogt",
+    "born": "26 January 1913 in Hamburg, Hamburg (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

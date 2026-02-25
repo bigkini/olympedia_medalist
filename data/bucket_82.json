@@ -150,7 +150,7 @@
     "id": "3382",
     "name": "William•Cuthbertson",
     "born": "21 July 1902 in Dunfermline, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -158,6 +158,21 @@
         "discipline": "Boxing",
         "event": "Flyweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3582",
+    "name": "Manfred•Wolke",
+    "born": "14 January 1943 in Babelsberg, Potsdam, Brandenburg (GER)",
+    "measurements": "176 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

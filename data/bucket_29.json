@@ -77,13 +77,28 @@
     "id": "3029",
     "name": "Xavier•Eluère",
     "born": "8 September 1897 in Issé, Loire-Atlantique (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "FRA",
         "discipline": "Boxing",
         "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3629",
+    "name": "Josef•Miner",
+    "born": "15 July 1914 in Wrocław, Dolnośląskie (POL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

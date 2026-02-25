@@ -95,5 +95,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3531",
+    "name": "Tony•Willis",
+    "born": "17 June 1960 in Liverpool, England (GBR)",
+    "measurements": "170 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3631",
+    "name": "Michael•Murach",
+    "born": "1 February 1911 in Gelsenkirchen, Nordrhein-Westfalen (GER)",
+    "measurements": "171 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

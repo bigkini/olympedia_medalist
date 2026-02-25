@@ -84,13 +84,28 @@
     "id": "2775",
     "name": "Ralph•McKittrick",
     "born": "17 August 1877 in St. Louis, Missouri (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
         "noc": "USA",
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "3675",
+    "name": "Hans•Ziglarski",
+    "born": "16 October 1905 in Białystok, Podlaskie (POL)",
+    "measurements": "160 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

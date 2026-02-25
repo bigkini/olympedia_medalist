@@ -174,7 +174,7 @@
     "id": "3464",
     "name": "Tommy•Nicholls",
     "born": "12 October 1931 in South Elmsall, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -182,6 +182,43 @@
         "discipline": "Boxing",
         "event": "Featherweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "3564",
+    "name": "Henry•Maske",
+    "born": "6 January 1964 in Treuenbrietzen, Brandenburg (GER)",
+    "measurements": "182 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "3664",
+    "name": "Andreas•Tews",
+    "born": "11 September 1968 in Rostock, Mecklenburg-Vorpommern (GER)",
+    "measurements": "164 cm / 52 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

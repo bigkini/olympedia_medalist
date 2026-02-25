@@ -78,7 +78,7 @@
     "id": "3311",
     "name": "Víctor•Avendaño",
     "born": "5 June 1907 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -86,6 +86,21 @@
         "discipline": "Boxing",
         "event": "Light-Heavyweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "3611",
+    "name": "Peter•Hussing",
+    "born": "15 May 1948 in Kirchen (Sieg), Rheinland-Pfalz (GER)",
+    "measurements": "196 cm / 101 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -132,5 +132,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3626",
+    "name": "Zoltan•Lunka",
+    "born": "22 May 1970 in Miercurea Nirajului, Mureș (ROU)",
+    "measurements": "160 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

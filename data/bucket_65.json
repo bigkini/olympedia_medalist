@@ -78,13 +78,28 @@
     "id": "2965",
     "name": "Erkki•Pakkanen",
     "born": "19 April 1930 in Elimäki, Kouvola, Kymenlaakso (FIN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "FIN",
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3665",
+    "name": "Thomas•Ulrich",
+    "born": "11 July 1975 in West-Berlin, Berlin (GER)",
+    "measurements": "184 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

@@ -73,5 +73,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3602",
+    "name": "Reiner•Gies",
+    "born": "12 March 1963 in Kaiserslautern, Rheinland-Pfalz (GER)",
+    "measurements": "180 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

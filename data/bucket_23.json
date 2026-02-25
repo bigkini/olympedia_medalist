@@ -147,5 +147,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3623",
+    "name": "Harry•Kurschat",
+    "born": "3 November 1930 in Berlin, Berlin (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

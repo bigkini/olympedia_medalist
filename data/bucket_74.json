@@ -88,5 +88,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3574",
+    "name": "Heinz•Schulz",
+    "born": "5 January 1935 in Bernburg (Saale), Sachsen-Anhalt (GER)",
+    "measurements": "168 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3674",
+    "name": "Manfred•Zielonka",
+    "born": "24 January 1960 in Krzyzowa Dolina, Opolskie (POL)",
+    "measurements": "178 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -151,13 +151,28 @@
     "id": "3325",
     "name": "Mauro•Cía",
     "born": "3 July 1919 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "ARG",
         "discipline": "Boxing",
         "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3525",
+    "name": "Bobby•Wells",
+    "born": "15 May 1961 in London, England (GBR)",
+    "measurements": "193 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Super-Heavyweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]
