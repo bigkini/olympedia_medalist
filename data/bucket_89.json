@@ -108,5 +108,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1889",
+    "name": "Lilies•Handayani",
+    "born": "15 April 1965 in Surabaya, Jawa Timur (INA)",
+    "measurements": "155 cm / 50 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "INA",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

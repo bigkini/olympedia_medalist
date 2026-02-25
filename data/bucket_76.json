@@ -50,5 +50,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1676",
+    "name": "Douglas•Rodríguez",
+    "born": "3 July 1950 in Santiago de Cuba, Santiago de Cuba (CUB)",
+    "measurements": "160 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "1976",
+    "name": "Lee•Han-Seop",
+    "born": "30 April 1966",
+    "measurements": "177 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

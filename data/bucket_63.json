@@ -50,5 +50,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1963",
+    "name": "Lee•Eun-Gyeong",
+    "born": "15 July 1972",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

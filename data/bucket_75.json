@@ -54,7 +54,7 @@
     "id": "575",
     "name": "William•Dod",
     "born": "18 July 1867 in Lower Bebington, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -62,6 +62,21 @@
         "discipline": "Archery",
         "event": "Double York Round, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1675",
+    "name": "Enrique•Regüeiferos",
+    "born": "15 July 1948 in Oriente, Ciudad de La Habana (CUB)",
+    "measurements": "168 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

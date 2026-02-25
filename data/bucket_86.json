@@ -72,5 +72,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1686",
+    "name": "Héctor•Vinent",
+    "born": "25 July 1972 in Santiago de Cuba, Santiago de Cuba (CUB)",
+    "measurements": "170 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

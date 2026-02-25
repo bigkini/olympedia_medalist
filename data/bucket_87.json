@@ -123,5 +123,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1787",
+    "name": "Pedro•Nolasco",
+    "born": "2 February 1962 in La Romana, La Romana (DOM)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "DOM",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

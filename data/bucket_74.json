@@ -33,13 +33,43 @@
     "id": "1174",
     "name": "Cliff•Graham",
     "born": "18 March 1900 in Toronto, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "CAN",
         "discipline": "Boxing",
         "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1674",
+    "name": "Hipólito•Ramos",
+    "born": "30 January 1956 in Pinar del Río, Pinar del Río (CUB)",
+    "measurements": "155 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1974",
+    "name": "Kim•Bo-Ram",
+    "born": "9 April 1973",
+    "measurements": "174 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

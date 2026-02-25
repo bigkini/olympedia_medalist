@@ -13,5 +13,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1669",
+    "name": "Arnaldo•Mesa",
+    "born": "6 December 1967 in Frank País, Holguín (CUB)",
+    "measurements": "167 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1769",
+    "name": "Svend•Vad",
+    "born": "3 February 1928 in Bov, Aabenraa, Syddanmark (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -138,5 +138,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1919",
+    "name": "Ilario•Di Buò",
+    "born": "13 December 1965 in Trieste, Trieste (ITA)",
+    "measurements": "175 cm / 90 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

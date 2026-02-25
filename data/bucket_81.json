@@ -122,5 +122,34 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1681",
+    "name": "Félix•Savón",
+    "born": "22 September 1967 in San Vicente, Guantánamo (CUB)",
+    "measurements": "198 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

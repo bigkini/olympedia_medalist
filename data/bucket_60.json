@@ -88,5 +88,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1960",
+    "name": "Kim•Jo-Sun",
+    "born": "13 June 1975",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

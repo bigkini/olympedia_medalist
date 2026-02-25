@@ -50,5 +50,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1742",
+    "name": "Jakob•Michaelsen",
+    "born": "11 April 1899 in Sundby, København, Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

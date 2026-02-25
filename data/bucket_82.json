@@ -101,5 +101,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1682",
+    "name": "Sixto•Soria",
+    "born": "27 April 1954 in Santiago de Cuba, Santiago de Cuba (CUB)",
+    "measurements": "188 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

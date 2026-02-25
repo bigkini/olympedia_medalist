@@ -28,5 +28,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1965",
+    "name": "Seo•Hyang-Sun",
+    "born": "8 July 1967",
+    "measurements": "171 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

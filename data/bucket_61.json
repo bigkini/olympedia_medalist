@@ -65,5 +65,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1961",
+    "name": "Kim•Gyeong-Uk",
+    "born": "18 April 1970",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

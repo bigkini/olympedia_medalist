@@ -116,5 +116,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1754",
+    "name": "Gerhard•Pedersen",
+    "born": "9 April 1912 in Esbjerg, Syddanmark (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

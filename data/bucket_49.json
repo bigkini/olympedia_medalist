@@ -3,7 +3,7 @@
     "id": "549",
     "name": "Sybil•Newall",
     "born": "17 October 1854 in Calderbrook, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -11,6 +11,28 @@
         "discipline": "Archery",
         "event": "Double National Round, Women\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1949",
+    "name": "Hiroshi•Yamamoto",
+    "born": "31 October 1962 in Yokohama, Kanagawa (JPN)",
+    "measurements": "170 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Archery",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Archery",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

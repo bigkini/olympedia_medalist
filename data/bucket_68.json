@@ -94,5 +94,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1968",
+    "name": "Yun•Yeong-Suk",
+    "born": "10 September 1971",
+    "measurements": "170 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

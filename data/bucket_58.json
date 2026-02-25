@@ -109,5 +109,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1758",
+    "name": "Søren•Petersen",
+    "born": "6 December 1894 in Kolding, Syddanmark (DEN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1958",
+    "name": "Jo•Yun-Jeong",
+    "born": "29 September 1969",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

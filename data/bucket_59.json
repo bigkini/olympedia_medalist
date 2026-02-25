@@ -143,5 +143,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1759",
+    "name": "Thyge•Petersen",
+    "born": "28 May 1902 in Horsens, Midtjylland (DEN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1959",
+    "name": "Kim•Jin-Ho",
+    "born": "1 December 1961",
+    "measurements": "164 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -3,7 +3,7 @@
     "id": "470",
     "name": "Émile•Fisseux",
     "born": "20 February 1862 in Épaux-Bézu, Aisne (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -11,6 +11,21 @@
         "discipline": "Archery",
         "event": "Au Cordon Doré, 50 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "1970",
+    "name": "Jeon•In-Su",
+    "born": "13 July 1965",
+    "measurements": "171 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

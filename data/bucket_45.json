@@ -35,5 +35,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1745",
+    "name": "Brian•Nielsen",
+    "born": "1 April 1965 in Korsør, Slagelse, Sjælland (DEN)",
+    "measurements": "191 cm / 110 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Boxing",
+        "event": "Super-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

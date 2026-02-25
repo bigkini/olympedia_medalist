@@ -43,5 +43,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1893",
+    "name": "Kusuma•Wardhani",
+    "born": "20 February 1964 in Makassar, Sulawesi Selatan (INA)",
+    "measurements": "153 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "INA",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

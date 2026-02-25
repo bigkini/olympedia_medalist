@@ -42,5 +42,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1725",
+    "name": "Viktor•Jørgensen",
+    "born": "12 June 1924 in Hjørring, Nordjylland (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

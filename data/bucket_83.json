@@ -88,5 +88,34 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1683",
+    "name": "Teófilo•Stevenson",
+    "born": "29 March 1952 in Puerto Padre, Las Tunas (CUB)",
+    "measurements": "190 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

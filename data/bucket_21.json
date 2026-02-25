@@ -57,5 +57,34 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1921",
+    "name": "Michele•Frangilli",
+    "born": "1 May 1976 in Gallarate, Varese (ITA)",
+    "measurements": "181 cm / 110 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2012 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -13,5 +13,34 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1973",
+    "name": "Jang•Yong-Ho",
+    "born": "4 April 1976 in Goheung, Jeollanam (KOR)",
+    "measurements": "171 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

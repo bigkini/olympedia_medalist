@@ -101,5 +101,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1752",
+    "name": "Anders•Petersen",
+    "born": "16 December 1899 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

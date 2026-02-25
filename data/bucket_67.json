@@ -42,5 +42,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1967",
+    "name": "Yun•Hye-Yeong",
+    "born": "15 March 1977",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

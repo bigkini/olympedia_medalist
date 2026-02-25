@@ -57,5 +57,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1971",
+    "name": "Jeong•Jae-Heon",
+    "born": "1 June 1974",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Archery",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

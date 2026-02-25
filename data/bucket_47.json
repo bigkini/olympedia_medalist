@@ -58,5 +58,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1747",
+    "name": "Hans•Nielsen",
+    "born": "2 September 1899 in Næstved, Sjælland (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

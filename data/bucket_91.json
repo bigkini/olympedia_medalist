@@ -58,5 +58,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1891",
+    "name": "Nurfitriyana•Saiman-Lantang",
+    "born": "7 March 1962 in Jakarta, Daerah Khusus Ibukota Jakarta (INA)",
+    "measurements": "159 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "INA",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]
