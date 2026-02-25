@@ -101,5 +101,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2421",
+    "name": "Sergi•Bruguera",
+    "born": "16 January 1971 in Barcelona, Barcelona (ESP)",
+    "measurements": "188 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

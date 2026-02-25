@@ -58,5 +58,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2293",
+    "name": "Qin•Yiyuan",
+    "born": "14 February 1973 in ?, Guangxi (CHN)",
+    "measurements": "173 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Badminton",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Badminton",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

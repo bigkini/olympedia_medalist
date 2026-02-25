@@ -128,13 +128,28 @@
     "id": "1787",
     "name": "Pedro•Nolasco",
     "born": "2 February 1962 in La Romana, La Romana (DOM)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1984 Summer Olympics",
         "noc": "DOM",
         "discipline": "Boxing",
         "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2287",
+    "name": "Lin•Yanfen",
+    "born": "4 January 1970 in Xinhui, Guangdong (CHN)",
+    "measurements": "161 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Badminton",
+        "event": "Doubles, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

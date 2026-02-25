@@ -43,5 +43,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2285",
+    "name": "Li•Huifen",
+    "born": "14 October 1963 in Shijiazhuang, Hebei (CHN)",
+    "measurements": "168 cm / 52 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Table Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

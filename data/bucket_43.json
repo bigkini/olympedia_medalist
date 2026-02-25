@@ -146,5 +146,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2343",
+    "name": "Goran•Ivanišević",
+    "born": "13 September 1971 in Split, Splitsko-dalmatinska županija (CRO)",
+    "measurements": "194 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CRO",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CRO",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -50,5 +50,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2345",
+    "name": "Goran•Prpić",
+    "born": "4 May 1964 in Zagreb, Grad Zagreb (CRO)",
+    "measurements": "182 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CRO",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

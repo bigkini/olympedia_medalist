@@ -65,5 +65,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2253",
+    "name": "Rod•White",
+    "born": "1 March 1977 in Sharon, Pennsylvania (USA)",
+    "measurements": "183 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2353",
+    "name": "Helena•Suková",
+    "born": "23 February 1965 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": "188 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CZE",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

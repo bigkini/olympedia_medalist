@@ -122,5 +122,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2292",
+    "name": "Qiao•Yunping",
+    "born": "13 September 1968 in Qingdao, Shandong (CHN)",
+    "measurements": "162 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -92,7 +92,7 @@
     "id": "2215",
     "name": "Eliza•Pollock",
     "born": "24 October 1840 in Hamilton, Ohio (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -114,6 +114,21 @@
         "discipline": "Archery",
         "event": "Team Round, Women\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "2315",
+    "name": "Liu•Jianjun",
+    "born": "5 January 1969 in Ningbo, Zhejiang (CHN)",
+    "measurements": "179 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Badminton",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

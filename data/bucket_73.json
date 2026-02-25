@@ -42,5 +42,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2273",
+    "name": "Patricia•Tarabini",
+    "born": "6 August 1968 in La Plata, Provincia de Buenos Aires (ARG)",
+    "measurements": "169 cm / 60 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

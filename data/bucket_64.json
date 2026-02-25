@@ -80,5 +80,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2364",
+    "name": "Camilla•Martin",
+    "born": "23 March 1974 in Århus (Aarhus), Midtjylland (DEN)",
+    "measurements": "174 cm / 59 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Badminton",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

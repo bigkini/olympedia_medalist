@@ -121,7 +121,7 @@
     "id": "1754",
     "name": "Gerhard•Pedersen",
     "born": "9 April 1912 in Esbjerg, Syddanmark (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -129,6 +129,21 @@
         "discipline": "Boxing",
         "event": "Welterweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2254",
+    "name": "John•Williams",
+    "born": "12 September 1953 in Erie, Pennsylvania (USA)",
+    "measurements": "189 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

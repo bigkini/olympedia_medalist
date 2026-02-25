@@ -110,5 +110,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2296",
+    "name": "Tang•Yongshu",
+    "born": "5 January 1975",
+    "measurements": "161 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Badminton",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

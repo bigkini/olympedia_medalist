@@ -65,5 +65,34 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2255",
+    "name": "Robert•Williams",
+    "born": "24 January 1841 in Chambersburg, Pennsylvania (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Double American Round, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Double York Round, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team Round, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

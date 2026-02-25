@@ -48,7 +48,7 @@
     "id": "2244",
     "name": "Henry•Richardson",
     "born": "19 May 1889 in Boston, Massachusetts (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -63,6 +63,21 @@
         "discipline": "Archery",
         "event": "Double York Round, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2344",
+    "name": "Zoran•Primorac",
+    "born": "10 May 1969 in Zadar, Zadarska županija (CRO)",
+    "measurements": "185 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

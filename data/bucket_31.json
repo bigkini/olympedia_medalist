@@ -55,7 +55,7 @@
     "id": "2031",
     "name": "Jo•van Gastel, Jr.",
     "born": "5 January 1887 in Tilburg, Noord-Brabant (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -63,6 +63,21 @@
         "discipline": "Archery",
         "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "2431",
+    "name": "Emilio•Sánchez Vicario",
+    "born": "29 May 1965 in Madrid, Madrid (ESP)",
+    "measurements": "179 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

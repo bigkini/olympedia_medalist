@@ -134,7 +134,7 @@
     "id": "2027",
     "name": "Joep•Packbiers",
     "born": "19 January 1875 in Nuth, Limburg (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -142,6 +142,35 @@
         "discipline": "Archery",
         "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "2327",
+    "name": "Wang•Tao",
+    "born": "13 December 1967 in Beijing, Beijing (CHN)",
+    "measurements": "164 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Table Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

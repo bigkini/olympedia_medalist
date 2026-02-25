@@ -106,13 +106,42 @@
     "id": "1752",
     "name": "Anders•Petersen",
     "born": "16 December 1899 in København (Copenhagen), Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "DEN",
         "discipline": "Boxing",
         "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "2352",
+    "name": "Jana•Novotná",
+    "born": "2 October 1968 in Brno, Jihomoravský kraj (CZE)",
+    "measurements": "175 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CZE",
+        "discipline": "Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CZE",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

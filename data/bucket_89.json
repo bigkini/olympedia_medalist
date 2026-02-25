@@ -138,5 +138,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2289",
+    "name": "Nong•Qunhua",
+    "born": "20 July 1966 in Nanning, Guangxi (CHN)",
+    "measurements": "165 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Badminton",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

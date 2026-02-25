@@ -62,7 +62,7 @@
     "id": "2228",
     "name": "William•Clark",
     "born": "March 1842 in Cincinnati, Ohio (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -70,6 +70,21 @@
         "discipline": "Archery",
         "event": "Team Round, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "2328",
+    "name": "Seiko•Iseki",
+    "born": "2 July 1962 in Nanning, Guangxi (CHN)",
+    "measurements": "165 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

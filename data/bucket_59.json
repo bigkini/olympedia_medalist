@@ -173,5 +173,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2359",
+    "name": "Sofie•Castenschiold",
+    "born": "1 February 1882 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Tennis",
+        "event": "Singles, Covered Courts, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

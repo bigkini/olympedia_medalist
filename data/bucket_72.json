@@ -42,5 +42,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2272",
+    "name": "Gabriela•Sabatini",
+    "born": "16 May 1970 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "175 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

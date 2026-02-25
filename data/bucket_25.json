@@ -62,7 +62,7 @@
     "id": "2225",
     "name": "Phil•Bryant",
     "born": "22 February 1878 in Melrose, Massachusetts (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -83,6 +83,21 @@
         "noc": "USA",
         "discipline": "Archery",
         "event": "Team Round, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2425",
+    "name": "Albert•Costa",
+    "born": "25 June 1975 in Lérida, Lérida (ESP)",
+    "measurements": "180 cm / 78 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

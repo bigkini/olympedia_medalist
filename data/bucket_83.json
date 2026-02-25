@@ -117,5 +117,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2283",
+    "name": "Christian•Miniussi",
+    "born": "5 July 1967 in Adrogué, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "185 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2383",
+    "name": "Poul-Erik•Høyer Larsen",
+    "born": "20 September 1965 in Esbønderup, Gribskov, Hovedstaden (DEN)",
+    "measurements": "188 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Badminton",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
