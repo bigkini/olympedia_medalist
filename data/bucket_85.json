@@ -58,5 +58,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2485",
+    "name": "Yu•Sun-Bok",
+    "born": "2 August 1970",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PRK",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2585",
+    "name": "Märtha•Adlerstråhle",
+    "born": "16 June 1868 in Torpa, Kungsör, Västmanland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Tennis",
+        "event": "Singles, Covered Courts, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

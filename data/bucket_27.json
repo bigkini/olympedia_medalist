@@ -173,5 +173,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2527",
+    "name": "Louis•Raymond",
+    "born": "28 June 1895 in Pretoria, Gauteng (RSA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "2727",
+    "name": "Gigi•Fernandez",
+    "born": "22 February 1964 in San Juan, Puerto Rico (PUR)",
+    "measurements": "170 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

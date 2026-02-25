@@ -168,5 +168,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2458",
+    "name": "Yvonne•Prévost",
+    "born": "8 June 1878 in Dinard, Ille-et-Vilaine (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -108,5 +108,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2462",
+    "name": "Julie•Vlasto",
+    "born": "8 August 1903 in Marseille (Marseilles), Bouches-du-Rhône (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "2762",
+    "name": "Brad•Gilbert",
+    "born": "9 August 1961 in Oakland, California (USA)",
+    "measurements": "185 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

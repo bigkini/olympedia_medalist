@@ -78,7 +78,7 @@
     "id": "2238",
     "name": "Louis•Maxson",
     "born": "2 July 1855 in Herbertville, California (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -86,6 +86,21 @@
         "discipline": "Archery",
         "event": "Team Round, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "2738",
+    "name": "Monica•Seles",
+    "born": "2 December 1973 in Novi Sad, Južna Bačka (SRB)",
+    "measurements": "179 cm / 70 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

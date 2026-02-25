@@ -71,5 +71,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2734",
+    "name": "Marion•Jessup",
+    "born": "6 May 1896 in Allentown, Pennsylvania (USA)",
+    "measurements": "163 cm",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

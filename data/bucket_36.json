@@ -40,7 +40,7 @@
     "id": "2036",
     "name": "Theo•Willems",
     "born": "22 February 1891 in Uden, Noord-Brabant (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -48,6 +48,28 @@
         "discipline": "Archery",
         "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "2736",
+    "name": "Marion•Jones",
+    "born": "2 November 1879 in Gold Hill, Nevada (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

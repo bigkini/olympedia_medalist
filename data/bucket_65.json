@@ -58,5 +58,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2765",
+    "name": "Frank•Hunter",
+    "born": "28 June 1894 in New York, New York (USA)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

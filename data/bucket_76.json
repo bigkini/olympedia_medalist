@@ -80,5 +80,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2576",
+    "name": "Marc•Rosset",
+    "born": "7 November 1970 in Genève (Geneva), Genève (SUI)",
+    "measurements": "200 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

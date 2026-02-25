@@ -55,7 +55,7 @@
     "id": "1963",
     "name": "Lee•Eun-Gyeong",
     "born": "15 July 1972",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -63,6 +63,21 @@
         "discipline": "Archery",
         "event": "Team, Women\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "2563",
+    "name": "Martina•Hingis",
+    "born": "30 September 1980 in Košice, Košice (SVK)",
+    "measurements": "170 cm / 59 kg",
+    "medals": [
+      {
+        "game": "2016 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -58,5 +58,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2646",
+    "name": "Milada•Skrbková",
+    "born": "30 May 1897 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2746",
+    "name": "Alphonzo•Bell",
+    "born": "29 September 1875 in Bell, California (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -178,7 +178,7 @@
     "id": "2359",
     "name": "Sofie•Castenschiold",
     "born": "1 February 1882 in København (Copenhagen), Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -186,6 +186,36 @@
         "discipline": "Tennis",
         "event": "Singles, Covered Courts, Women\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "2659",
+    "name": "Milan•Šrejber",
+    "born": "30 December 1963 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": "203 cm / 98 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2759",
+    "name": "Ken•Flach",
+    "born": "24 May 1963 in St. Louis, Missouri (USA)",
+    "measurements": "185 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

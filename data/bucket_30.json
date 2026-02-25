@@ -91,7 +91,7 @@
     "id": "2230",
     "name": "Samuel•Duvall",
     "born": "11 March 1836 in Liberty, Indiana (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -99,6 +99,28 @@
         "discipline": "Archery",
         "event": "Team Round, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "2730",
+    "name": "Zina•Garrison",
+    "born": "16 November 1963 in Houston, Texas (USA)",
+    "measurements": "162 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

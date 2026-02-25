@@ -63,7 +63,7 @@
     "id": "1747",
     "name": "Hans•Nielsen",
     "born": "2 September 1899 in Næstved, Sjælland (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -71,6 +71,21 @@
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "2447",
+    "name": "Élisabeth•d'Ayen",
+    "born": "27 October 1898 in Maintenon, Eure-et-Loir (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

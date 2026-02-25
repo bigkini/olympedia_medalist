@@ -80,5 +80,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2714",
+    "name": "Leila•Meskhi",
+    "born": "4 January 1968 in Tbilisi, Tbilisi (GEO)",
+    "measurements": "164 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

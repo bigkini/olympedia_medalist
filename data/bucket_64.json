@@ -95,5 +95,57 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2464",
+    "name": "Pierre•Albarran",
+    "born": "18 May 1893 in Chaville, Hauts-de-Seine (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2564",
+    "name": "Manuela•Maleeva-Fragnière",
+    "born": "14 February 1967 in Sofia, Sofia Grad (BUL)",
+    "measurements": "173 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2664",
+    "name": "Ladislav•Žemla",
+    "born": "6 November 1887 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "BOH",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Intercalated)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

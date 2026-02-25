@@ -232,5 +232,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2613",
+    "name": "Stefan•Edberg",
+    "born": "19 January 1966 in Västervik, Kalmar (SWE)",
+    "measurements": "186 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

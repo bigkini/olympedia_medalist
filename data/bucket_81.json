@@ -151,5 +151,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2481",
+    "name": "Li•Bun-Hui",
+    "born": "29 December 1968",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PRK",
+        "discipline": "Table Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PRK",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

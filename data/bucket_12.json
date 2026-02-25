@@ -92,5 +92,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2612",
+    "name": "Wollmar•Boström",
+    "born": "15 June 1878 in Överselö, Strängnäs, Södermanland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Tennis",
+        "event": "Doubles, Covered Courts, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

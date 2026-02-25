@@ -124,5 +124,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2594",
+    "name": "Sigrid•Fick",
+    "born": "28 March 1887 in Helsinki, Uusimaa (FIN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Tennis",
+        "event": "Doubles, Covered Courts, Mixed\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -80,5 +80,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2744",
+    "name": "Helen•Wills",
+    "born": "6 October 1905 in Centerville, Fremont, California (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Singles, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
