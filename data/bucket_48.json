@@ -20,5 +20,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1648",
+    "name": "Alfredo•Duvergel",
+    "born": "2 April 1968 in Guantánamo, Guantánamo (CUB)",
+    "measurements": "169 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

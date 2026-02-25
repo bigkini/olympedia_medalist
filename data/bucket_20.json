@@ -72,5 +72,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1620",
+    "name": "Kento•Sugiyama",
+    "born": "12 December 1968 in Numazu, Shizuoka (JPN)",
+    "measurements": "175 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

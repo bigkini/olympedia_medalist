@@ -3,7 +3,7 @@
     "id": "467",
     "name": "Léon•Epin",
     "born": "30 October 1858 in Ceintrey, Meurthe-et-Moselle (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -25,6 +25,21 @@
         "discipline": "Archery",
         "event": "Target Archery, 50 metres, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1667",
+    "name": "Orlando•Martínez",
+    "born": "2 September 1944 in La Habana (Havana), Ciudad de La Habana (CUB)",
+    "measurements": "167 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

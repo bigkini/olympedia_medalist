@@ -87,5 +87,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1658",
+    "name": "Juan•Hernández Sierra",
+    "born": "16 March 1969 in Guane, Pinar del Río (CUB)",
+    "measurements": "185 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

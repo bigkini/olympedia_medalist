@@ -42,5 +42,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1599",
+    "name": "Takashi•Kurosu",
+    "born": "18 September 1968 in ?, Saitama (JPN)",
+    "measurements": "177 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

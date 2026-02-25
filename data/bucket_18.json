@@ -80,5 +80,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1618",
+    "name": "Yasuhiro•Sato",
+    "born": "25 July 1967 in ?, Tochigi (JPN)",
+    "measurements": "176 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

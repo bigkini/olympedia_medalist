@@ -77,5 +77,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1612",
+    "name": "Hitoshi•Ono",
+    "born": "23 August 1976 in Akita, Akita (JPN)",
+    "measurements": "187 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

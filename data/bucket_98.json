@@ -50,5 +50,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1598",
+    "name": "Hiroki•Kokubo",
+    "born": "8 October 1971 in Wakayama, Wakayama (JPN)",
+    "measurements": "182 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

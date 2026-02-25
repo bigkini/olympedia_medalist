@@ -48,7 +48,7 @@
     "id": "1238",
     "name": "Bert•Schneider",
     "born": "1 July 1897 in Cleveland, Ohio (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -56,6 +56,21 @@
         "discipline": "Boxing",
         "event": "Welterweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1638",
+    "name": "Lorenzo•Aragón",
+    "born": "28 April 1974 in Santa Isabel de las Lajas, Cienfuegos (CUB)",
+    "measurements": "163 cm / 69 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

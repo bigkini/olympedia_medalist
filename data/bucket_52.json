@@ -86,5 +86,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1652",
+    "name": "José•Gómez",
+    "born": "28 January 1959 in Colombia, Las Tunas (CUB)",
+    "measurements": "182 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

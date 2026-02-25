@@ -43,5 +43,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1602",
+    "name": "Koichi•Misawa",
+    "born": "8 June 1974 in Oi, Saitama (JPN)",
+    "measurements": "177 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

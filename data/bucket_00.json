@@ -79,5 +79,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1600",
+    "name": "Takao•Kuwamoto",
+    "born": "24 March 1970 in ?, Kanagawa (JPN)",
+    "measurements": "174 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

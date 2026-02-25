@@ -95,5 +95,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1657",
+    "name": "Juan•Hernández Pérez",
+    "born": "24 December 1962 in Pilón, Granma (CUB)",
+    "measurements": "163 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

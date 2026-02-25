@@ -50,5 +50,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1603",
+    "name": "Takashi•Miwa",
+    "born": "1 December 1969 in Kashiwa, Chiba (JPN)",
+    "measurements": "178 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

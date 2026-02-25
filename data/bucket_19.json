@@ -116,5 +116,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1619",
+    "name": "Masanori•Sugiura",
+    "born": "23 May 1968 in Kudoyama, Wakayama (JPN)",
+    "measurements": "180 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

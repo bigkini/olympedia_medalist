@@ -57,5 +57,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1601",
+    "name": "Nobuhiko•Matsunaka",
+    "born": "26 December 1973 in Yatsushiro, Kumamoto (JPN)",
+    "measurements": "182 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

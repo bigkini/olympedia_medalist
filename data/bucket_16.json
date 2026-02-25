@@ -108,5 +108,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1616",
+    "name": "Shinichi•Sato",
+    "born": "7 August 1965 in Sapporo, Hokkaido (JPN)",
+    "measurements": "183 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

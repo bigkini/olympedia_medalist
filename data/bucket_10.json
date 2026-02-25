@@ -80,5 +80,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1610",
+    "name": "Masahiro•Nojima",
+    "born": "13 August 1971 in ?, Saitama (JPN)",
+    "measurements": "174 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

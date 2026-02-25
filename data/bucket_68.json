@@ -79,5 +79,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1668",
+    "name": "Luis Felipe•Martínez",
+    "born": "26 May 1955",
+    "measurements": "185 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -28,5 +28,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1656",
+    "name": "Jorge•Hernández",
+    "born": "17 November 1954 in La Habana (Havana), Ciudad de La Habana (CUB)",
+    "measurements": "170 cm / 47 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

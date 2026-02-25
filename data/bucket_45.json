@@ -3,7 +3,7 @@
     "id": "45",
     "name": "Charlotte•Cooper",
     "born": "22 September 1870 in Ealing, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -17,6 +17,21 @@
         "noc": "GBR",
         "discipline": "Tennis",
         "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "1645",
+    "name": "Joel•Casamayor",
+    "born": "12 July 1971 in Guantánamo, Guantánamo (CUB)",
+    "measurements": "154 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

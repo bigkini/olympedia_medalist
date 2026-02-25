@@ -110,5 +110,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1604",
+    "name": "Masahiko•Mori",
+    "born": "25 August 1965 in ?, Mie (JPN)",
+    "measurements": "185 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

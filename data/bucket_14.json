@@ -13,5 +13,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1614",
+    "name": "Yasuyuki•Saigo",
+    "born": "30 August 1972 in Tokyo, Tokyo (JPN)",
+    "measurements": "185 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

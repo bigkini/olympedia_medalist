@@ -72,5 +72,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1615",
+    "name": "Hiroyuki•Sakaguchi",
+    "born": "2 August 1965 in Miyakonojo, Miyazaki (JPN)",
+    "measurements": "170 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

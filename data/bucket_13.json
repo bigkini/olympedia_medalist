@@ -144,5 +144,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1613",
+    "name": "Koichi•Oshima",
+    "born": "17 June 1967 in Itabashi, Tokyo (JPN)",
+    "measurements": "165 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -43,5 +43,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1647",
+    "name": "Ramón•Duvalón",
+    "born": "31 August 1954",
+    "measurements": "167 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

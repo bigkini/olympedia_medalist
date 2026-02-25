@@ -28,5 +28,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1646",
+    "name": "Emilio•Correa",
+    "born": "21 March 1953 in Santiago de Cuba, Santiago de Cuba (CUB)",
+    "measurements": "183 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

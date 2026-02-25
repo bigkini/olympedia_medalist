@@ -43,5 +43,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1651",
+    "name": "Rolando•Garbey",
+    "born": "19 November 1947 in Santiago de Cuba, Santiago de Cuba (CUB)",
+    "measurements": "183 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

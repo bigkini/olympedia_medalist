@@ -3,7 +3,7 @@
     "id": "536",
     "name": "Lottie•Dod",
     "born": "24 September 1871 in Bebington, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -11,6 +11,28 @@
         "discipline": "Archery",
         "event": "Double National Round, Women\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "1636",
+    "name": "Andrés•Aldama",
+    "born": "9 April 1956 in Matanzas, Matanzas (CUB)",
+    "measurements": "183 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

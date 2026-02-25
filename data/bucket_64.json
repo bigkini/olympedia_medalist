@@ -65,5 +65,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1664",
+    "name": "Rogelio•Marcelo",
+    "born": "11 June 1965 in Guantánamo, Guantánamo (CUB)",
+    "measurements": "150 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

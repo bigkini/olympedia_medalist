@@ -35,5 +35,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1605",
+    "name": "Masao•Morinaka",
+    "born": "9 April 1974 in Mishima, Shizuoka (JPN)",
+    "measurements": "175 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

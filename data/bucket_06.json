@@ -64,5 +64,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1606",
+    "name": "Hiroshi•Nakamoto",
+    "born": "22 August 1966 in ?, Osaka (JPN)",
+    "measurements": "178 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

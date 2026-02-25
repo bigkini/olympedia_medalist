@@ -42,5 +42,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1621",
+    "name": "Takayuki•Takabayashi",
+    "born": "12 September 1972 in Tokyo, Tokyo (JPN)",
+    "measurements": "171 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

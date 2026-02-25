@@ -79,5 +79,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1609",
+    "name": "Kazutaka•Nishiyama",
+    "born": "28 August 1970 in Kochi, Kochi (JPN)",
+    "measurements": "183 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

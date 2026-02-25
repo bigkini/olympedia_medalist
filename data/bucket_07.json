@@ -79,5 +79,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "1607",
+    "name": "Daishin•Nakamura",
+    "born": "11 February 1966 in ?, Kanagawa (JPN)",
+    "measurements": "175 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

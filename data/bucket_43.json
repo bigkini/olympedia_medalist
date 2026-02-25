@@ -72,5 +72,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1643",
+    "name": "Gilberto•Carrillo",
+    "born": "16 August 1951 in Matanzas, Matanzas (CUB)",
+    "measurements": "188 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

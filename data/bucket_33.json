@@ -127,5 +127,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "1633",
+    "name": "José•Aguilar",
+    "born": "19 December 1958 in Guantánamo, Guantánamo (CUB)",
+    "measurements": "173 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
