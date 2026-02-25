@@ -72,5 +72,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3029",
+    "name": "Xavier•Eluère",
+    "born": "8 September 1897 in Issé, Loire-Atlantique (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

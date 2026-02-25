@@ -64,5 +64,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2835",
+    "name": "Dragutin•Čermak",
+    "born": "12 October 1944 in Beograd (Belgrade), Beograd (SRB)",
+    "measurements": "190 cm / 92 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "3035",
+    "name": "Jean•Gachet",
+    "born": "2 June 1894 in Saint-Étienne, Loire (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

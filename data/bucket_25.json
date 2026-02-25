@@ -131,5 +131,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2925",
+    "name": "Bruno•Ahlberg",
+    "born": "23 April 1911 in Espoo, Uusimaa (FIN)",
+    "measurements": "168 cm / 65-74 kg",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

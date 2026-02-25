@@ -57,5 +57,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2973",
+    "name": "Sten•Suvio",
+    "born": "25 November 1911 in Lipovka, Leningrad (RUS)",
+    "measurements": "170 cm / 65-68 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

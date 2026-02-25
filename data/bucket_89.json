@@ -153,5 +153,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2789",
+    "name": "Fred•Semple",
+    "born": "24 December 1872 in St. Louis, Missouri (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

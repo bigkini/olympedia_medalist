@@ -80,5 +80,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2963",
+    "name": "Joni•Nyman",
+    "born": "5 September 1962 in Pori, Satakunta (FIN)",
+    "measurements": "175 cm / 60-70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

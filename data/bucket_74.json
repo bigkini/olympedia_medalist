@@ -73,5 +73,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2774",
+    "name": "Tim•Mayotte",
+    "born": "3 August 1960 in Springfield, Massachusetts (USA)",
+    "measurements": "190 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

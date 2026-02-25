@@ -28,5 +28,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2770",
+    "name": "Robert•LeRoy",
+    "born": "7 February 1885 in New York, New York (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

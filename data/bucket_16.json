@@ -159,5 +159,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2816",
+    "name": "Gordana•Perkučin",
+    "born": "7 May 1962 in Novi Kneževac, Severni Banat (SRB)",
+    "measurements": "168 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

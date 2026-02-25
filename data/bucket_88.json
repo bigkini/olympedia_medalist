@@ -138,5 +138,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2988",
+    "name": "Armand•Apell",
+    "born": "16 January 1905 in Strasbourg, Bas-Rhin (FRA)",
+    "measurements": "50 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

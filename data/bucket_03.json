@@ -65,5 +65,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2803",
+    "name": "Dick•Williams",
+    "born": "29 January 1891 in Genève (Geneva), Genève (SUI)",
+    "measurements": "182 cm",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

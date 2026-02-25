@@ -55,7 +55,7 @@
     "id": "1742",
     "name": "Jakob•Michaelsen",
     "born": "11 April 1899 in Sundby, København, Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -63,6 +63,36 @@
         "discipline": "Boxing",
         "event": "Heavyweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2842",
+    "name": "Juan•Domecq",
+    "born": "10 June 1950",
+    "measurements": "192 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3042",
+    "name": "Joseph•Gonzales",
+    "born": "6 August 1941 in Narbonne, Aude (FRA)",
+    "measurements": "173 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

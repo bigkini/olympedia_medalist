@@ -87,5 +87,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2801",
+    "name": "Allen•West",
+    "born": "2 August 1872 in Mobile, Alabama (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

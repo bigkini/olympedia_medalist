@@ -72,5 +72,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2799",
+    "name": "Joseph•Wear",
+    "born": "27 November 1876 in St. Louis, Missouri (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

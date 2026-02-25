@@ -143,13 +143,28 @@
     "id": "2621",
     "name": "Carl•Kempe",
     "born": "8 December 1884 in Stockholm, Stockholm (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
         "noc": "SWE",
         "discipline": "Tennis",
         "event": "Doubles, Covered Courts, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "2821",
+    "name": "Ilija•Lupulesku",
+    "born": "30 October 1967 in Zrenjanin, Srednji Banat (SRB)",
+    "measurements": "177 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

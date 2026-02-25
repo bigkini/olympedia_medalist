@@ -95,5 +95,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2814",
+    "name": "Jasna•Fazlić-Reed",
+    "born": "20 December 1970 in Foča, Foča (BIH)",
+    "measurements": "170 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Table Tennis",
+        "event": "Doubles, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

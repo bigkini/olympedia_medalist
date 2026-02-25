@@ -13,5 +13,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2880",
+    "name": "Dacal•Rodríguez",
+    "born": "17 November 1951 in Candás, Asturias (ESP)",
+    "measurements": "154 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2980",
+    "name": "Reima•Virtanen",
+    "born": "5 November 1947 in Kemi, Lappi (FIN)",
+    "measurements": "183 cm / 72-74 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

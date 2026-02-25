@@ -130,7 +130,7 @@
     "id": "2664",
     "name": "Ladislav•Žemla",
     "born": "6 November 1887 in Praha (Prague), Hlavní město Praha (CZE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1906  Intercalated Games",
@@ -145,6 +145,28 @@
         "discipline": "Tennis",
         "event": "Doubles, Mixed\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2864",
+    "name": "Rafael•Lozano",
+    "born": "25 January 1970 in Córdoba, Córdoba (ESP)",
+    "measurements": "150 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

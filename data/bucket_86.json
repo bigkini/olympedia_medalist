@@ -94,5 +94,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2786",
+    "name": "Charles•Sands",
+    "born": "22 December 1865 in New York, New York (USA)",
+    "measurements": "181 cm",
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

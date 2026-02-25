@@ -43,5 +43,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3011",
+    "name": "Gilbert•Chapron",
+    "born": "7 October 1933 in Blois, Loir-et-Cher (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

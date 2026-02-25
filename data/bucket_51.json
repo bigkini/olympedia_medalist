@@ -65,5 +65,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2951",
+    "name": "Jorma•Limmonen",
+    "born": "29 September 1934 in Helsinki, Uusimaa (FIN)",
+    "measurements": "168 cm / 52-60 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

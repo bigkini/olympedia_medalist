@@ -28,5 +28,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2839",
+    "name": "Nik'oloz•Deriugini",
+    "born": "30 April 1959 in Kutaisi, Imereti (GEO)",
+    "measurements": "206 cm / 105 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

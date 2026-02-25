@@ -138,5 +138,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2962",
+    "name": "Arto•Nilsson",
+    "born": "19 March 1948 in Helsinki, Uusimaa (FIN)",
+    "measurements": "176 cm / 63-65 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

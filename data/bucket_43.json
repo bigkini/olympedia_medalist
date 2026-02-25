@@ -173,7 +173,7 @@
     "id": "2743",
     "name": "Hazel•Wightman",
     "born": "20 December 1886 in Healdsburg, California (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -188,6 +188,21 @@
         "discipline": "Tennis",
         "event": "Doubles, Women\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "2943",
+    "name": "Jyri•Kjäll",
+    "born": "13 January 1969 in Seinäjoki, Etelä-Pohjanmaa (FIN)",
+    "measurements": "180 cm / 63-67 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -79,5 +79,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2775",
+    "name": "Ralph•McKittrick",
+    "born": "17 August 1877 in St. Louis, Missouri (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

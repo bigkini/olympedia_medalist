@@ -125,5 +125,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2804",
+    "name": "Beals•Wright",
+    "born": "19 December 1879 in Boston, Massachusetts (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "3004",
+    "name": "Laurent•Boudouani",
+    "born": "29 December 1966 in Sallanches, Haute-Savoie (FRA)",
+    "measurements": "176 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

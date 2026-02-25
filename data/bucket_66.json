@@ -35,5 +35,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2966",
+    "name": "Pertti•Purhonen",
+    "born": "14 June 1942 in Helsinki, Uusimaa (FIN)",
+    "measurements": "181 cm / 60-70 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

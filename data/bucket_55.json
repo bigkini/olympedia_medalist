@@ -150,7 +150,7 @@
     "id": "2755",
     "name": "Spalding•de Garmendia",
     "born": "28 February 1860 in Baltimore, Maryland (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -158,6 +158,21 @@
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "2955",
+    "name": "Erkki•Mallenius",
+    "born": "19 January 1928 in Lappeenranta, Etelä-Karjala (FIN)",
+    "measurements": "172 cm / 63-70 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

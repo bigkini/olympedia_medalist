@@ -110,5 +110,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "3057",
+    "name": "René•Libeer",
+    "born": "28 November 1934 in Roubaix, Nord (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -94,5 +94,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2800",
+    "name": "Arthur•Wear",
+    "born": "1 March 1880 in St. Louis, Missouri (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2900",
+    "name": "Nikolai•Stepulov",
+    "born": "20 March 1913 in Narva, Ida-Virumaa (EST)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "EST",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

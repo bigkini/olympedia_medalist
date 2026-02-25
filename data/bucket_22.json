@@ -114,13 +114,28 @@
     "id": "2222",
     "name": "Emily•Woodruff",
     "born": "19 April 1846 in Cincinnati, Ohio (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
         "noc": "USA",
         "discipline": "Archery",
         "event": "Team Round, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "3022",
+    "name": "Jean•Despeaux",
+    "born": "22 October 1915 in Paris Xe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

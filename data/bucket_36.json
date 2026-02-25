@@ -55,7 +55,7 @@
     "id": "2736",
     "name": "Marion•Jones",
     "born": "2 November 1879 in Gold Hill, Nevada (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -69,6 +69,28 @@
         "noc": "USA",
         "discipline": "Tennis",
         "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2936",
+    "name": "Pentti•Hämäläinen",
+    "born": "19 December 1929 in Kotka, Kymenlaakso (FIN)",
+    "measurements": "165 cm / 51-58 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

@@ -73,5 +73,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2965",
+    "name": "Erkki•Pakkanen",
+    "born": "19 April 1930 in Elimäki, Kouvola, Kymenlaakso (FIN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

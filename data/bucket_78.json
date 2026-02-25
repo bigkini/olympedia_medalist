@@ -160,5 +160,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2878",
+    "name": "Faustino•Reyes",
+    "born": "27 April 1975 in Marchena, Sevilla (ESP)",
+    "measurements": "175 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

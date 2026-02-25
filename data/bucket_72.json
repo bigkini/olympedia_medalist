@@ -57,5 +57,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2772",
+    "name": "Edgar•Leonard",
+    "born": "19 June 1881 in West Newton, Massachusetts (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tennis",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "2972",
+    "name": "Harry•Siljander",
+    "born": "10 December 1922 in Helsinki, Uusimaa (FIN)",
+    "measurements": "176 cm / 75-84 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

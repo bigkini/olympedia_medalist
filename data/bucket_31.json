@@ -80,5 +80,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2831",
+    "name": "Misako•Ando",
+    "born": "21 March 1971 in Gifu, Gifu (JPN)",
+    "measurements": "163 cm / 60 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Softball (Baseball/Softball)",
+        "event": "Softball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

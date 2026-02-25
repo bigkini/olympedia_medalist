@@ -86,5 +86,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2834",
+    "name": "Miguelito•Calderón",
+    "born": "30 October 1950 in La Habana (Havana), Ciudad de La Habana (CUB)",
+    "measurements": "183 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3034",
+    "name": "Paul•Fritsch",
+    "born": "25 February 1901 in Paris XXe, Paris (FRA)",
+    "measurements": "158 cm / 50 kg",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
