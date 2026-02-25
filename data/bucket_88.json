@@ -108,5 +108,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2188",
+    "name": "Nataliya•Butuzova",
+    "born": "17 February 1954",
+    "measurements": "167 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Archery",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

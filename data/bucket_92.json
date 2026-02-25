@@ -100,5 +100,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "1992",
+    "name": "Natalia•Valeeva",
+    "born": "15 November 1969 in Tîrnauca, Transnistria (MDA)",
+    "measurements": "168 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Archery",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

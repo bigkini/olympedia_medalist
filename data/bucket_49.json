@@ -35,5 +35,34 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2249",
+    "name": "Will•Thompson",
+    "born": "10 March 1848 in Calhoun, Georgia (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Double American Round, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Double York Round, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team Round, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -73,5 +73,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2140",
+    "name": "Gunnar•Jervill",
+    "born": "23 November 1945 in Göteborg (Gothenburg), Västra Götaland (SWE)",
+    "measurements": "174 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Archery",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

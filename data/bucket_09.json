@@ -94,5 +94,34 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2209",
+    "name": "Lida•Howell",
+    "born": "28 August 1859 in Lebanon, Ohio (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Double Columbia Round, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Double National Round, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team Round, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

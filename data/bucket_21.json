@@ -86,5 +86,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2221",
+    "name": "Doreen•Wilber",
+    "born": "8 January 1930 in Rutland, Iowa (USA)",
+    "measurements": "167 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

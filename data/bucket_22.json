@@ -99,7 +99,7 @@
     "id": "1722",
     "name": "Gotfred•Johansen",
     "born": "4 May 1895 in København (Copenhagen), Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -107,6 +107,21 @@
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "2222",
+    "name": "Emily•Woodruff",
+    "born": "19 April 1846 in Cincinnati, Ohio (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team Round, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

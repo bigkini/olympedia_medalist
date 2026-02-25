@@ -13,5 +13,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2217",
+    "name": "Luann•Ryon",
+    "born": "13 January 1953 in Long Beach, California (USA)",
+    "measurements": "175 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -71,5 +71,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2030",
+    "name": "Driekske•van Bussel",
+    "born": "18 November 1868 in Asten, Noord-Brabant (NED)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Archery",
+        "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "2230",
+    "name": "Samuel•Duvall",
+    "born": "11 March 1836 in Liberty, Indiana (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team Round, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

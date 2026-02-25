@@ -136,7 +136,7 @@
     "id": "1958",
     "name": "Jo•Yun-Jeong",
     "born": "29 September 1969",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -151,6 +151,21 @@
         "discipline": "Archery",
         "event": "Team, Women\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "2058",
+    "name": "Katarzyna•Klata",
+    "born": "18 October 1972 in Sochaczew, Mazowieckie (POL)",
+    "measurements": "170 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -123,5 +123,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2189",
+    "name": "Emma•Gapchenko",
+    "born": "24 February 1938 in Stupino, Moskva Oblast (RUS)",
+    "measurements": "167 cm",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Archery",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

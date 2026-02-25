@@ -79,5 +79,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2206",
+    "name": "Emma•Cooke",
+    "born": "7 September 1848 in Fayetteville, Pennsylvania (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Double Columbia Round, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Double National Round, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

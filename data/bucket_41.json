@@ -42,5 +42,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2241",
+    "name": "Rick•McKinney",
+    "born": "12 October 1953 in Decatur, Indiana (USA)",
+    "measurements": "170 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

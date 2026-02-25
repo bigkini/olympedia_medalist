@@ -50,5 +50,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2055",
+    "name": "Iwona•Dzięcioł-Marcinkiewicz",
+    "born": "23 May 1975 in Warszawa (Warsaw), Mazowieckie (POL)",
+    "measurements": "172 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

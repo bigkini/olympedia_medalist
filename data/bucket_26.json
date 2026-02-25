@@ -87,5 +87,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2026",
+    "name": "Piet•de Brouwer",
+    "born": "5 October 1880 in Gestel, Noord-Brabant (NED)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Archery",
+        "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "2226",
+    "name": "Wallace•Bryant",
+    "born": "19 December 1863 in Melrose, Massachusetts (USA)",
+    "measurements": "169 cm",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team Round, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

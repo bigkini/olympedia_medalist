@@ -50,5 +50,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2031",
+    "name": "Jo•van Gastel, Jr.",
+    "born": "5 January 1887 in Tilburg, Noord-Brabant (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Archery",
+        "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

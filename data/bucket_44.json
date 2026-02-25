@@ -33,13 +33,35 @@
     "id": "544",
     "name": "Beatrice•Hill-Lowe",
     "born": "26 January 1868 in Ardee, Louth (IRL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Archery",
         "event": "Double National Round, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2244",
+    "name": "Henry•Richardson",
+    "born": "19 May 1889 in Boston, Massachusetts (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team Round, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Double York Round, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

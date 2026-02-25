@@ -20,5 +20,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2032",
+    "name": "Tiest•van Gestel",
+    "born": "29 March 1881 in Goirle, Noord-Brabant (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Archery",
+        "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

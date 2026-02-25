@@ -87,5 +87,34 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2215",
+    "name": "Eliza•Pollock",
+    "born": "24 October 1840 in Hamilton, Ohio (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Double Columbia Round, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Double National Round, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team Round, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

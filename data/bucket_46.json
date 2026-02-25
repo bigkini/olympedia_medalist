@@ -43,5 +43,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "2246",
+    "name": "G. C.•Spencer",
+    "born": "19 September 1840 in New York, New York (USA)",
+    "measurements": "165 cm",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team Round, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

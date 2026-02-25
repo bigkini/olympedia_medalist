@@ -101,5 +101,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2184",
+    "name": "Olena•Sadovnycha",
+    "born": "4 November 1967 in Kyiv, Kyiv (UKR)",
+    "measurements": "168 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "UKR",
+        "discipline": "Archery",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "UKR",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

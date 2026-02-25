@@ -73,5 +73,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2238",
+    "name": "Louis•Maxson",
+    "born": "2 July 1855 in Herbertville, California (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team Round, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

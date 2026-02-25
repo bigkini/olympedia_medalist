@@ -102,5 +102,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2143",
+    "name": "Magnus•Petersson",
+    "born": "17 June 1975 in Göteborg (Gothenburg), Västra Götaland (SWE)",
+    "measurements": "177 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Archery",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "2243",
+    "name": "Darrell•Pace",
+    "born": "23 October 1956 in Cincinnati, Ohio (USA)",
+    "measurements": "180 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

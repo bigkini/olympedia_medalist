@@ -160,5 +160,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2019",
+    "name": "Loedmila•Arzjannikova",
+    "born": "15 March 1958 in Kam'ianske, Dnipropetrovsk (UKR)",
+    "measurements": "168 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "2219",
+    "name": "Leonie•Taylor",
+    "born": "March 1870 in Cincinnati, Ohio (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team Round, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

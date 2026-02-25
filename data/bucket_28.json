@@ -47,13 +47,28 @@
     "id": "1228",
     "name": "Art•Prud'homme",
     "born": "12 March 1898 in Ottawa, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "CAN",
         "discipline": "Boxing",
         "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "2228",
+    "name": "William•Clark",
+    "born": "March 1842 in Cincinnati, Ohio (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team Round, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

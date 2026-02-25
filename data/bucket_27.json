@@ -129,5 +129,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2027",
+    "name": "Joep•Packbiers",
+    "born": "19 January 1875 in Nuth, Limburg (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Archery",
+        "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

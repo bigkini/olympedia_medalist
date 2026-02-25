@@ -159,5 +159,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2213",
+    "name": "Debra•Ochs",
+    "born": "30 January 1966 in Howell, Michigan (USA)",
+    "measurements": "170 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

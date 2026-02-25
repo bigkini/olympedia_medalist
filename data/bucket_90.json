@@ -102,5 +102,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2190",
+    "name": "Valentina•Kovpan",
+    "born": "28 February 1950 in Petroostriv, Kirovohrad (UKR)",
+    "measurements": "168 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Archery",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -95,5 +95,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2196",
+    "name": "Vladimir•Yesheyev",
+    "born": "7 May 1958 in Novaya Zarya, Zabaykalsky Kray (RUS)",
+    "measurements": "185 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Archery",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

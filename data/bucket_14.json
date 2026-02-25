@@ -28,5 +28,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2214",
+    "name": "Denise•Parker",
+    "born": "12 December 1973 in Salt Lake City, Utah (USA)",
+    "measurements": "165 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Archery",
+        "event": "Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

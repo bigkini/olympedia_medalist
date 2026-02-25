@@ -94,5 +94,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "2194",
+    "name": "Zebiniso•Rustamova",
+    "born": "29 January 1955 in Dushanbe, Nohijahoi Tobei Çumhuri (TJK)",
+    "measurements": "156 cm / 52 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Archery",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

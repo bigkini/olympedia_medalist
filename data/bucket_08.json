@@ -109,5 +109,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "2108",
+    "name": "Bair•Badyonov",
+    "born": "28 June 1976 in Zugalay, Zabaykalsky Kray (RUS)",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Archery",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
