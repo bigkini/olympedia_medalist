@@ -176,5 +176,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "4354",
+    "name": "Hong•Seong-Sik",
+    "born": "13 November 1967",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

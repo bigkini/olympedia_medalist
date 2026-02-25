@@ -138,5 +138,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4168",
+    "name": "Gino•Rossi",
+    "born": "29 May 1908 in Piacenza, Piacenza (ITA)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -248,5 +248,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "4159",
+    "name": "Cosimo•Pinto",
+    "born": "14 March 1943 in Novara, Novara (ITA)",
+    "measurements": "178 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

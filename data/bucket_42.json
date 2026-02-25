@@ -110,5 +110,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4542",
+    "name": "Francisco•Cabañas",
+    "born": "22 January 1912 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

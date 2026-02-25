@@ -139,5 +139,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "4153",
+    "name": "Giovanni•Parisi",
+    "born": "2 December 1967 in Vibo Valentia, Vibo Valentia (ITA)",
+    "measurements": "168 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

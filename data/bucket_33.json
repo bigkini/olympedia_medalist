@@ -252,5 +252,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4333",
+    "name": "An•Yeong-Su",
+    "born": "20 February 1964",
+    "measurements": "174 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

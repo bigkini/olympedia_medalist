@@ -110,5 +110,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4193",
+    "name": "Gianni•Zuddas",
+    "born": "1 March 1928 in Cagliari, Cagliari (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

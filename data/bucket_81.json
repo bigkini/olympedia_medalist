@@ -193,7 +193,7 @@
     "id": "3481",
     "name": "Ron•Rawson",
     "born": "17 June 1892 in Kensington, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -201,6 +201,58 @@
         "discipline": "Boxing",
         "event": "Heavyweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4181",
+    "name": "Maurizio•Stecca",
+    "born": "9 March 1963 in Santarcangelo di Romagna, Rimini (ITA)",
+    "measurements": "165 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4281",
+    "name": "Bolat•Zhumadilov",
+    "born": "22 April 1973 in Taraz, Zhambyl (KAZ)",
+    "measurements": "164 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KAZ",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "KAZ",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "4481",
+    "name": "Abdel Hak•Achik",
+    "born": "11 March 1959",
+    "measurements": "165 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "MAR",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

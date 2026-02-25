@@ -227,5 +227,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4178",
+    "name": "Ulderico•Sergo",
+    "born": "4 July 1913 in Rijeka, Primorsko-goranska županija (CRO)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

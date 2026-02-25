@@ -190,5 +190,57 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4182",
+    "name": "Vittorio•Tamagnini",
+    "born": "10 February 1910 in Civitavecchia, Roma (ITA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4282",
+    "name": "Yermakhan•Ibraimov",
+    "born": "1 January 1972 in Telman, Zhambyl (KAZ)",
+    "measurements": "180 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KAZ",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "KAZ",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4482",
+    "name": "Mohamed•Achik",
+    "born": "1 February 1965",
+    "measurements": "174 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "MAR",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

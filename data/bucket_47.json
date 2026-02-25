@@ -118,5 +118,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "4147",
+    "name": "Franco•Nenci",
+    "born": "27 January 1935 in Livorno, Livorno (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

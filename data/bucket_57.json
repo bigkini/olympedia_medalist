@@ -130,7 +130,7 @@
     "id": "3457",
     "name": "Harry•Mitchell",
     "born": "5 January 1898 in Tiverton, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -138,6 +138,21 @@
         "discipline": "Boxing",
         "event": "Light-Heavyweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4357",
+    "name": "Ji•Yong-Ju",
+    "born": "19 December 1948 in Wonju, Gangwon (KOR)",
+    "measurements": "158 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -80,5 +80,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4151",
+    "name": "Carlo•Orlandi",
+    "born": "23 April 1910 in Milano, Milano (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

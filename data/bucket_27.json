@@ -285,5 +285,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "4327",
+    "name": "Philip•Waruinge",
+    "born": "3 February 1945 in Murang'a, Murang'a (KEN)",
+    "measurements": "170 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "KEN",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "KEN",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

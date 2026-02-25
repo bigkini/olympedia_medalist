@@ -144,7 +144,7 @@
     "id": "3400",
     "name": "Sid•Evans",
     "born": "1881 in Aldermaston, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -152,6 +152,21 @@
         "discipline": "Boxing",
         "event": "Heavyweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "4400",
+    "name": "Sin•Jun-Seop",
+    "born": "17 June 1963",
+    "measurements": "183 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

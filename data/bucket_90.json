@@ -117,5 +117,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "4190",
+    "name": "Bruno•Visintin",
+    "born": "23 November 1932 in La Spezia, La Spezia (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

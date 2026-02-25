@@ -175,5 +175,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4352",
+    "name": "Han•Su-An",
+    "born": "18 June 1926",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

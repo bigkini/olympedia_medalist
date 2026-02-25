@@ -133,5 +133,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "4240",
+    "name": "Eiji•Morioka",
+    "born": "8 June 1946 in Taisho, Osaka (JPN)",
+    "measurements": "165 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "4340",
+    "name": "Jang•Sun-Gil",
+    "born": "19 June 1946 in Seoul, Seoul (KOR)",
+    "measurements": "167 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

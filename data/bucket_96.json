@@ -130,7 +130,7 @@
     "id": "3396",
     "name": "Jack•Elliott",
     "born": "12 October 1901 in Hoxton, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -138,6 +138,21 @@
         "discipline": "Boxing",
         "event": "Middleweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "4396",
+    "name": "Park•Si-Heon",
+    "born": "16 December 1965",
+    "measurements": "179 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

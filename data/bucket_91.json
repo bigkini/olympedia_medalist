@@ -154,5 +154,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "4191",
+    "name": "Primo•Zamparini",
+    "born": "10 February 1939 in Fabriano, Ancona (ITA)",
+    "measurements": "158 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "4291",
+    "name": "Ibrahim•Bilali",
+    "born": "21 July 1965",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "KEN",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

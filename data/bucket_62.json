@@ -183,5 +183,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4362",
+    "name": "Gang•Jun-Ho",
+    "born": "22 June 1928 in Haeju, Hamgyeongnam (PRK)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

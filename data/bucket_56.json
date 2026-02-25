@@ -88,5 +88,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4256",
+    "name": "Takao•Sakurai",
+    "born": "25 September 1941 in Sawara, Chiba (JPN)",
+    "measurements": "164 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

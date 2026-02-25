@@ -181,7 +181,7 @@
     "id": "4025",
     "name": "Fred•Tiedt",
     "born": "16 October 1935 in Dublin, Dublin City (IRL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -189,6 +189,21 @@
         "discipline": "Boxing",
         "event": "Welterweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "4325",
+    "name": "Robert•Wangila",
+    "born": "3 September 1966 in Nairobi, Nairobi (KEN)",
+    "measurements": "175 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KEN",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

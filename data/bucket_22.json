@@ -159,13 +159,28 @@
     "id": "3522",
     "name": "Wally•Webb",
     "born": "4 July 1882 in St. Pancras, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Boxing",
         "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "4322",
+    "name": "Chris•Sande",
+    "born": "10 February 1964",
+    "measurements": "173 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KEN",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

@@ -180,13 +180,65 @@
     "id": "4084",
     "name": "Sergio•Caprari",
     "born": "11 July 1932 in Civita Castellana, Viterbo (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "ITA",
         "discipline": "Boxing",
         "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "4184",
+    "name": "Piero•Toscani",
+    "born": "28 July 1904 in Milano, Milano (ITA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4284",
+    "name": "Bolat•Niyazymbetov",
+    "born": "19 September 1972 in Taraz, Zhambyl (KAZ)",
+    "measurements": "172 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KAZ",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "4384",
+    "name": "Lee•Seung-Bae",
+    "born": "10 May 1971",
+    "measurements": "184 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

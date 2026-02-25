@@ -33,13 +33,43 @@
     "id": "1769",
     "name": "Svend•Vad",
     "born": "3 February 1928 in Bov, Aabenraa, Syddanmark (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "DEN",
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "4169",
+    "name": "Luigi•Rovati",
+    "born": "24 November 1904 in Cinisello Balsamo, Milano (ITA)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "4269",
+    "name": "Kiyoshi•Tanabe",
+    "born": "10 October 1940 in Aomori, Aomori (JPN)",
+    "measurements": "159 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

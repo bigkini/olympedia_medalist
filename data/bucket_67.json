@@ -84,7 +84,7 @@
     "id": "3667",
     "name": "Richard•Vogt",
     "born": "26 January 1913 in Hamburg, Hamburg (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -92,6 +92,21 @@
         "discipline": "Boxing",
         "event": "Light-Heavyweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "4167",
+    "name": "Giuseppe•Ros",
+    "born": "22 September 1942 in Mareno di Piave, Treviso (ITA)",
+    "measurements": "180 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

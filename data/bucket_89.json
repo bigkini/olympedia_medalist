@@ -243,5 +243,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4189",
+    "name": "Paolo•Vidoz",
+    "born": "21 August 1970 in Gorizia, Gorizia (ITA)",
+    "measurements": "190 cm / 94 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Super-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

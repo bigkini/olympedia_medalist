@@ -80,5 +80,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4370",
+    "name": "Kim•Gwang-Seon",
+    "born": "8 June 1964 in Cheongwon County, Chungcheongbuk (KOR)",
+    "measurements": "165 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

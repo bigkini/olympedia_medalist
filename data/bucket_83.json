@@ -162,5 +162,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "4183",
+    "name": "Salvatore•Todisco",
+    "born": "30 August 1961 in Napoli, Napoli (ITA)",
+    "measurements": "161 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

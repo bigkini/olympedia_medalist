@@ -72,5 +72,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "4173",
+    "name": "Giulio•Saraudi",
+    "born": "3 July 1938 in Civitavecchia, Roma (ITA)",
+    "measurements": "183 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

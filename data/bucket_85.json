@@ -103,5 +103,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4285",
+    "name": "Vasily•Zhirov",
+    "born": "4 April 1974 in Balkhash, Quaraghandy (KAZ)",
+    "measurements": "186 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KAZ",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

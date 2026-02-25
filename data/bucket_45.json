@@ -154,5 +154,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "4345",
+    "name": "Jeon•Chil-Seong",
+    "born": "7 July 1961",
+    "measurements": "170 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

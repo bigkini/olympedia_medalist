@@ -103,5 +103,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "4302",
+    "name": "Samuel•Mbugua",
+    "born": "1 January 1946 in Nairobi, Nairobi (KEN)",
+    "measurements": "173 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "KEN",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

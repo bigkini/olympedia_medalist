@@ -183,5 +183,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4187",
+    "name": "Franco•Valle",
+    "born": "15 February 1940 in Genova (Genoa), Genova (ITA)",
+    "measurements": "177 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
