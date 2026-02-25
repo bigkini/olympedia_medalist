@@ -124,5 +124,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5917",
+    "name": "Héctor•Costa",
+    "born": "30 July 1929 in Montevideo, Montevideo (URU)",
+    "measurements": "187 cm / 94 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

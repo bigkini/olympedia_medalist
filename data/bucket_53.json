@@ -206,5 +206,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5953",
+    "name": "Chuck•Darling",
+    "born": "20 March 1930 in Denison, Iowa (USA)",
+    "measurements": "203 cm / 102 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -148,5 +148,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5856",
+    "name": "Pedro•Chappé",
+    "born": "16 August 1945 in La Habana (Havana), Ciudad de La Habana (CUB)",
+    "measurements": "195 cm / 97 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

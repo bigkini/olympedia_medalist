@@ -244,5 +244,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5814",
+    "name": "Joe•Caldwell",
+    "born": "1 November 1941 in Texas City, Texas (USA)",
+    "measurements": "196 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5914",
+    "name": "Ramiro•Cortés",
+    "born": "13 July 1931 in Salto, Salto (URU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

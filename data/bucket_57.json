@@ -175,7 +175,7 @@
     "id": "4957",
     "name": "Raúl•Landini",
     "born": "14 July 1909 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -183,6 +183,21 @@
         "discipline": "Boxing",
         "event": "Welterweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5957",
+    "name": "Dick•Davies",
+    "born": "21 January 1936 in Harrisburg, Pennsylvania (USA)",
+    "measurements": "186 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

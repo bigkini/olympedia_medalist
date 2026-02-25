@@ -366,5 +366,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5813",
+    "name": "Carl•Cain",
+    "born": "2 August 1934 in Freeport, Illinois (USA)",
+    "measurements": "190 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

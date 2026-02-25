@@ -271,5 +271,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5855",
+    "name": "Chuck•Chapman",
+    "born": "21 April 1911 in Vancouver, British Columbia (CAN)",
+    "measurements": "188 cm",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

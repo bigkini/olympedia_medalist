@@ -99,6 +99,21 @@
     "id": "5771",
     "name": "Hugo•Borja",
     "born": "18 July 1912 in Guadalajara, Jalisco (MEX)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5971",
+    "name": "Ignacio•de la Vega",
+    "born": "23 June 1914 in San Luis Potosí, San Luis Potosí (MEX)",
     "measurements": null,
     "medals": [
       {

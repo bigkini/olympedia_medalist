@@ -198,5 +198,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5894",
+    "name": "John•Clawson",
+    "born": "15 May 1944 in Duluth, Minnesota (USA)",
+    "measurements": "193 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -199,5 +199,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5890",
+    "name": "Victorio•Cieslinskas",
+    "born": "27 October 1922 in ? (LTU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

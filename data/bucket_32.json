@@ -131,5 +131,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5832",
+    "name": "Gordon•Carpenter",
+    "born": "24 September 1919 in Saddle, Arkansas (USA)",
+    "measurements": "200 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

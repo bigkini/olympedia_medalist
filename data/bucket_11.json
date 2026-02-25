@@ -140,5 +140,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5911",
+    "name": "Juan Antonio•Corbalán",
+    "born": "3 August 1954 in Madrid, Madrid (ESP)",
+    "measurements": "182 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

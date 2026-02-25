@@ -317,5 +317,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5982",
+    "name": "Don•Dee",
+    "born": "9 August 1943 in Booneville, Missouri (USA)",
+    "measurements": "201 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -133,5 +133,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5969",
+    "name": "Juan•de la Cruz",
+    "born": "6 February 1954 in Pasteur, Provincia de Buenos Aires (ARG)",
+    "measurements": "205 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

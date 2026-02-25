@@ -315,5 +315,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5959",
+    "name": "Kenny•Davis",
+    "born": "12 September 1948 in Slat, Kentucky (USA)",
+    "measurements": "180 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

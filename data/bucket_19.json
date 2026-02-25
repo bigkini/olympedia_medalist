@@ -257,5 +257,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5919",
+    "name": "Mel•Counts",
+    "born": "16 October 1941 in Coos Bay, Oregon (USA)",
+    "measurements": "213 cm / 102 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

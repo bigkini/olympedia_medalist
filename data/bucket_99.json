@@ -147,5 +147,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5799",
+    "name": "Quinn•Buckner",
+    "born": "20 August 1954 in Phoenix, Illinois (USA)",
+    "measurements": "190 cm / 92 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

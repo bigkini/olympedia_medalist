@@ -255,5 +255,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5992",
+    "name": "Maurice•Desaymonet",
+    "born": "24 June 1921 in Paris XIVe, Paris (FRA)",
+    "measurements": "183 cm",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

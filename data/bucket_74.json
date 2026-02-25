@@ -148,5 +148,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5874",
+    "name": "René•Chocat",
+    "born": "28 November 1920 in Santranges, Cher (FRA)",
+    "measurements": "185 cm",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -154,5 +154,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5949",
+    "name": "Ivo•Daneu",
+    "born": "6 October 1937 in Maribor, Maribor (SLO)",
+    "measurements": "183 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

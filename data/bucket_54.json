@@ -251,5 +251,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5854",
+    "name": "Art•Chapman",
+    "born": "28 October 1912 in Victoria, British Columbia (CAN)",
+    "measurements": "191 cm",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

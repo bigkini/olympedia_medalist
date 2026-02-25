@@ -95,5 +95,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5950",
+    "name": "Predrag•Danilović",
+    "born": "26 February 1970 in Sarajevo, Kanton Sarajevo (BIH)",
+    "measurements": "201 cm / 99 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "SCG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

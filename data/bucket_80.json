@@ -133,5 +133,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5880",
+    "name": "Rodolfo•Choperena",
+    "born": "11 February 1905 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5980",
+    "name": "•Sérgio Macarrão",
+    "born": "24 February 1945 in Rio de Janeiro, Rio de Janeiro (BRA)",
+    "measurements": "191 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

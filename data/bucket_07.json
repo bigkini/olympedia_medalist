@@ -206,5 +206,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5807",
+    "name": "Stepas•Butautas",
+    "born": "25 August 1925 in Kaunas, Kaunas (LTU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

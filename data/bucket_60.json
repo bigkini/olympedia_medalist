@@ -185,5 +185,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5960",
+    "name": "Walter•Davis",
+    "born": "9 September 1954 in Pineville, North Carolina (USA)",
+    "measurements": "195 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

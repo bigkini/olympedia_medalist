@@ -244,5 +244,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5804",
+    "name": "Tommy•Burleson",
+    "born": "24 February 1952 in Crossnore, North Carolina (USA)",
+    "measurements": "223 cm / 102 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

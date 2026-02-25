@@ -184,5 +184,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5967",
+    "name": "Ruy•de Freitas",
+    "born": "24 August 1916 in Macaé, Rio de Janeiro (BRA)",
+    "measurements": "175 cm",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -125,5 +125,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5798",
+    "name": "Roberto•Brunamonti",
+    "born": "14 April 1959 in Spoleto, Perugia (ITA)",
+    "measurements": "191 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

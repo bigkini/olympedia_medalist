@@ -304,5 +304,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5833",
+    "name": "Kenny•Carr",
+    "born": "15 August 1955 in Washington, District of Columbia (USA)",
+    "measurements": "200 cm / 102 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
