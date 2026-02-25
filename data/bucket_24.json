@@ -176,5 +176,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5524",
+    "name": "Vitalija•Tuomaitė",
+    "born": "22 November 1964 in Pakruojis, Šiauliai (LTU)",
+    "measurements": "193 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

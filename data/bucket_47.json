@@ -208,5 +208,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5547",
+    "name": "Xiu•Lijuan",
+    "born": "26 October 1957 in Meihekou, Jilin (CHN)",
+    "measurements": "183 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

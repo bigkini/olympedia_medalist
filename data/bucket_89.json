@@ -303,5 +303,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5489",
+    "name": "Song•Xiaobo",
+    "born": "8 September 1958 in Beijing, Beijing (CHN)",
+    "measurements": "182 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5589",
+    "name": "Vladan•Alanović",
+    "born": "3 July 1967 in Zadar, Zadarska županija (CRO)",
+    "measurements": "190 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CRO",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

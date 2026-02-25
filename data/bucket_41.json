@@ -94,5 +94,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5541",
+    "name": "Teresa•Weatherspoon",
+    "born": "12 December 1965 in Pineland, Texas (USA)",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

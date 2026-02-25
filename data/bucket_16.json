@@ -278,5 +278,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5516",
+    "name": "Maryna•Tkachenko",
+    "born": "29 August 1965 in Mukachevo, Zakarpattia (UKR)",
+    "measurements": "185 cm",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

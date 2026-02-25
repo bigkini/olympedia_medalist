@@ -147,5 +147,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5546",
+    "name": "Lynette•Woodard",
+    "born": "12 August 1959 in Wichita, Kansas (USA)",
+    "measurements": "180 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

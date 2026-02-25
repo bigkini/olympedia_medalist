@@ -146,5 +146,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5479",
+    "name": "Yelena•Shvaybovich",
+    "born": "3 February 1966 in Minsk, Minsk (BLR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

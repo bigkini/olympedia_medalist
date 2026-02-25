@@ -95,5 +95,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5477",
+    "name": "•Paula",
+    "born": "11 March 1962 in Osvaldo Cruz, São Paulo (BRA)",
+    "measurements": "174 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5577",
+    "name": "Martín•Acosta y Lara",
+    "born": "12 March 1925 in Montevideo, Montevideo (URU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

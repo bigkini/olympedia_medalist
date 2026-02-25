@@ -139,5 +139,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5486",
+    "name": "Evladiya•Slavcheva-Stefanova",
+    "born": "25 February 1962 in Pernik, Pernik (BUL)",
+    "measurements": "182 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

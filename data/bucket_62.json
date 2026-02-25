@@ -257,5 +257,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5562",
+    "name": "Zhang•Yueqin",
+    "born": "27 January 1960 in ?, Jiangsu (CHN)",
+    "measurements": "180 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

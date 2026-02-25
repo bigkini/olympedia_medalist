@@ -227,5 +227,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5558",
+    "name": "Nataliya•Zasulskaya",
+    "born": "28 May 1969 in Kaunas, Kaunas (LTU)",
+    "measurements": "190 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

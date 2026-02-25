@@ -244,5 +244,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5500",
+    "name": "Penka•Stoyanova",
+    "born": "21 January 1950 in Karlovo, Plovdiv (BUL)",
+    "measurements": "183 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5600",
+    "name": "Steve•Alford",
+    "born": "23 November 1964 in Franklin, Indiana (USA)",
+    "measurements": "185 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

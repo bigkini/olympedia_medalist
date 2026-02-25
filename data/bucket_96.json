@@ -185,5 +185,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5496",
+    "name": "Katy•Steding",
+    "born": "11 December 1967 in Portland, Oregon (USA)",
+    "measurements": "183 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

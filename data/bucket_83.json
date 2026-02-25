@@ -222,5 +222,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5483",
+    "name": "Nadezhda•Shuvayeva-Olkhova",
+    "born": "9 September 1952 in Barnaul, Altay Kray (RUS)",
+    "measurements": "175 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -213,5 +213,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5587",
+    "name": "Gord•Aitchison",
+    "born": "14 June 1909 in North Bay, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

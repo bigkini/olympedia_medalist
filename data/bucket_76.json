@@ -177,5 +177,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5476",
+    "name": "•Branca",
+    "born": "10 January 1966 in Osvaldo Cruz, São Paulo (BRA)",
+    "measurements": "170 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

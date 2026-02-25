@@ -125,5 +125,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5611",
+    "name": "José Miguel•Álvarez",
+    "born": "26 November 1949",
+    "measurements": "198 cm / 97 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

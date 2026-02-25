@@ -170,5 +170,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5566",
+    "name": "Olena•Zhyrko",
+    "born": "16 February 1968 in Dnipro, Dnipropetrovsk (UKR)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

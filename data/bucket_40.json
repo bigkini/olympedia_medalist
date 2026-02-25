@@ -237,5 +237,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5540",
+    "name": "Wang•Jun",
+    "born": "20 August 1963 in ?, Shandong (CHN)",
+    "measurements": "186 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

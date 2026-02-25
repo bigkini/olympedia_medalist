@@ -300,5 +300,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5559",
+    "name": "Zhan•Shuping",
+    "born": "24 April 1964 in Dalian, Liaoning (CHN)",
+    "measurements": "188 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

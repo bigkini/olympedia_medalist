@@ -272,5 +272,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5478",
+    "name": "Juliene•Simpson",
+    "born": "20 January 1953 in Elizabeth, New Jersey (USA)",
+    "measurements": "170 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

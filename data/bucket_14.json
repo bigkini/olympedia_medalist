@@ -222,5 +222,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5514",
+    "name": "Michele•Timms",
+    "born": "28 June 1965 in Melbourne, Victoria (AUS)",
+    "measurements": "165 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

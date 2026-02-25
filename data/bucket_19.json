@@ -242,5 +242,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5519",
+    "name": "Yelena•Tornikidu",
+    "born": "27 May 1965 in Toshkent, Toshkent Shahri (UZB)",
+    "measurements": "185 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

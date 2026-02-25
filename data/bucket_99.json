@@ -122,7 +122,7 @@
     "id": "3499",
     "name": "Terry•Spinks",
     "born": "28 February 1938 in West Ham, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -130,6 +130,21 @@
         "discipline": "Boxing",
         "event": "Flyweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5499",
+    "name": "Mariya•Stoyanova",
+    "born": "19 July 1947",
+    "measurements": "183 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

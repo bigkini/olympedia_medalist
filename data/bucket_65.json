@@ -177,5 +177,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5565",
+    "name": "Zheng•Haixia",
+    "born": "10 March 1967 in Zhecheng, Henan (CHN)",
+    "measurements": "204 cm / 115 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]
