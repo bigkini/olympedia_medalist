@@ -117,5 +117,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3445",
+    "name": "Harry•Mallin",
+    "born": "1 June 1892 in Shoreditch, England (GBR)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

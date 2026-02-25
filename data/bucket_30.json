@@ -153,5 +153,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3430",
+    "name": "Harry•Johnson",
+    "born": "10 August 1887 in Hoxton, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

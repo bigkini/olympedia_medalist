@@ -139,5 +139,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3400",
+    "name": "Sid•Evans",
+    "born": "1881 in Aldermaston, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

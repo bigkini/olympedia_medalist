@@ -122,5 +122,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3312",
+    "name": "Amado•Azar",
+    "born": "31 December 1913 in Córdoba, Córdoba (ARG)",
+    "measurements": "173 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

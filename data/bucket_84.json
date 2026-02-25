@@ -145,5 +145,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3284",
+    "name": "Justinas•Lagunavičius",
+    "born": "4 September 1924 in Kaunas, Kaunas (LTU)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "3484",
+    "name": "Robin•Reid",
+    "born": "19 February 1971 in Sefton, England (GBR)",
+    "measurements": "177 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

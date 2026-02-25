@@ -93,7 +93,7 @@
     "id": "1960",
     "name": "Kim•Jo-Sun",
     "born": "13 June 1975",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1996 Summer Olympics",
@@ -101,6 +101,36 @@
         "discipline": "Archery",
         "event": "Team, Women\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "3260",
+    "name": "Tomás•Herrera",
+    "born": "21 December 1950 in Santiago de Cuba, Santiago de Cuba (CUB)",
+    "measurements": "198 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3460",
+    "name": "Charlie•Morris",
+    "born": "23 August 1879 in Hendon, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

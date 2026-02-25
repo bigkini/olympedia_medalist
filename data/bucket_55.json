@@ -190,5 +190,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3455",
+    "name": "Dick•McTaggart",
+    "born": "15 October 1935 in Dundee, Scotland (GBR)",
+    "measurements": "175 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

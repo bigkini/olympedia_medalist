@@ -169,5 +169,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3464",
+    "name": "Tommy•Nicholls",
+    "born": "12 October 1931 in South Elmsall, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

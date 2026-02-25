@@ -138,5 +138,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3409",
+    "name": "Nicky•Gargano",
+    "born": "1 November 1934 in West Ham, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

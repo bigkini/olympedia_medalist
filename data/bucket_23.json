@@ -132,5 +132,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3323",
+    "name": "Pablo•Chacón",
+    "born": "22 May 1975 in Las Heras, Mendoza (ARG)",
+    "measurements": "162 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

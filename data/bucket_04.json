@@ -177,5 +177,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3404",
+    "name": "Billy•Fisher",
+    "born": "14 March 1940 in Craigneuk, Wishaw, Scotland (GBR)",
+    "measurements": "177 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

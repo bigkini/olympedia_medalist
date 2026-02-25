@@ -79,5 +79,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3449",
+    "name": "John•McCormack",
+    "born": "9 January 1935 in Glasgow, Scotland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

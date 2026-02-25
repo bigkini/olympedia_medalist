@@ -80,5 +80,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3293",
+    "name": "Mohamed•Zaoui",
+    "born": "14 May 1960 in Zaouiet Yagoubi, Tlemcen (ALG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ALG",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

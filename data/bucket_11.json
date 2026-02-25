@@ -73,5 +73,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3311",
+    "name": "Víctor•Avendaño",
+    "born": "5 June 1907 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

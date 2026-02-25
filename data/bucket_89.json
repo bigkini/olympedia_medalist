@@ -158,7 +158,7 @@
     "id": "2789",
     "name": "Fred•Semple",
     "born": "24 December 1872 in St. Louis, Missouri (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -166,6 +166,51 @@
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "3289",
+    "name": "Mustapha•Moussa",
+    "born": "2 February 1962 in Oran, Oran (ALG)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ALG",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3389",
+    "name": "John•Douglas",
+    "born": "3 September 1882 in Clapton, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "3489",
+    "name": "Hugh•Roddin",
+    "born": "10 March 1887 in Musselburgh, Scotland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

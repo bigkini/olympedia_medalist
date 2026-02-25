@@ -115,7 +115,7 @@
     "id": "3057",
     "name": "René•Libeer",
     "born": "28 November 1934 in Roubaix, Nord (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -123,6 +123,21 @@
         "discipline": "Boxing",
         "event": "Flyweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3457",
+    "name": "Harry•Mitchell",
+    "born": "5 January 1898 in Tiverton, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

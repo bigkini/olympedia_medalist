@@ -109,5 +109,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3453",
+    "name": "George•McKenzie",
+    "born": "22 September 1900 in Leith, Scotland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

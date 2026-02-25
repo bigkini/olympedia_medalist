@@ -240,5 +240,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3327",
+    "name": "Alfredo•Copello",
+    "born": "15 March 1903",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "3427",
+    "name": "Alex•Ireland",
+    "born": "11 February 1901 in Leith, Scotland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

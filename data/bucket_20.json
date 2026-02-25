@@ -139,5 +139,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3320",
+    "name": "Óscar•Casanovas",
+    "born": "15 May 1914 in Avellaneda, Provincia de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

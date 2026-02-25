@@ -65,5 +65,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3377",
+    "name": "Johnny•Condon",
+    "born": "28 February 1889 in Shoreditch, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

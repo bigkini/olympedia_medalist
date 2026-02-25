@@ -65,5 +65,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3498",
+    "name": "Fred•Spiller",
+    "born": "22 November 1884 in Westminster, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

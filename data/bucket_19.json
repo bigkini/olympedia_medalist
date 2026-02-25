@@ -212,5 +212,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3419",
+    "name": "Dick•Gunn",
+    "born": "16 February 1871 in Charing Cross, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

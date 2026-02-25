@@ -48,7 +48,7 @@
     "id": "2256",
     "name": "Charles•Woodruff",
     "born": "15 August 1844 in Cincinnati, Ohio (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -56,6 +56,36 @@
         "discipline": "Archery",
         "event": "Team Round, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "3256",
+    "name": "Jason•Williams",
+    "born": "18 December 1974 in Baton Rouge, Louisiana (USA)",
+    "measurements": "172 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3456",
+    "name": "Alan•Minter",
+    "born": "17 August 1951 in Bromley, England (GBR)",
+    "measurements": "178 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

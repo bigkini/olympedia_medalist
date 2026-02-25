@@ -147,5 +147,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "3283",
+    "name": "Ilmar•Kullam",
+    "born": "15 June 1922 in Tartu, Tartumaa (EST)",
+    "measurements": "191 cm",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

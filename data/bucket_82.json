@@ -145,5 +145,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "3382",
+    "name": "William•Cuthbertson",
+    "born": "21 July 1902 in Dunfermline, Scotland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -107,13 +107,28 @@
     "id": "2761",
     "name": "Clarence•Gamble",
     "born": "16 August 1881 in St. Louis, Missouri (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
         "noc": "USA",
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3261",
+    "name": "Ruperto•Herrera",
+    "born": "6 December 1949 in La Habana (Havana), Ciudad de La Habana (CUB)",
+    "measurements": "198 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

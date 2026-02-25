@@ -125,5 +125,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3396",
+    "name": "Jack•Elliott",
+    "born": "12 October 1901 in Hoxton, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

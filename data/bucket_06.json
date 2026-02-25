@@ -131,5 +131,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3406",
+    "name": "Harry•Franks",
+    "born": "2 October 1891 in Hackney, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
