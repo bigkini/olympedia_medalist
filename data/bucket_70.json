@@ -55,7 +55,7 @@
     "id": "3470",
     "name": "Albert•Oldman",
     "born": "18 November 1883 in Mile End, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -63,6 +63,21 @@
         "discipline": "Boxing",
         "event": "Heavyweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4070",
+    "name": "Silvano•Bertini",
+    "born": "27 March 1940 in Lastra a Signa, Firenze (ITA)",
+    "measurements": "170 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

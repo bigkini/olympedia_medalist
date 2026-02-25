@@ -155,5 +155,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3810",
+    "name": "János•Kajdi",
+    "born": "30 December 1939 in Szombathely, Vas (HUN)",
+    "measurements": "172 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

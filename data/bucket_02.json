@@ -88,5 +88,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4102",
+    "name": "Francesco•Damiani",
+    "born": "4 October 1958 in Bagnacavallo, Ravenna (ITA)",
+    "measurements": "192 cm / 98 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Super-Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

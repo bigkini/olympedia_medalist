@@ -225,7 +225,7 @@
     "id": "3543",
     "name": "Wolfgang•Behrendt",
     "born": "14 June 1936 in Berlin, Berlin (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -233,6 +233,36 @@
         "discipline": "Boxing",
         "event": "Bantamweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "3943",
+    "name": "Tony•Byrne",
+    "born": "6 July 1930 in Drogheda, Louth (IRL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "IRL",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "4143",
+    "name": "Angelo•Musone",
+    "born": "1 March 1963 in Marcianise, Caserta (ITA)",
+    "measurements": "183 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

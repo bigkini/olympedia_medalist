@@ -176,5 +176,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4025",
+    "name": "Fred•Tiedt",
+    "born": "16 October 1935 in Dublin, Dublin City (IRL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "IRL",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

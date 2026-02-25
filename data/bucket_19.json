@@ -217,7 +217,7 @@
     "id": "3419",
     "name": "Dick•Gunn",
     "born": "16 February 1871 in Charing Cross, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -225,6 +225,21 @@
         "discipline": "Boxing",
         "event": "Featherweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4019",
+    "name": "Hugh•Russell",
+    "born": "15 December 1959 in Belfast, Northern Ireland (GBR)",
+    "measurements": "163 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "IRL",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

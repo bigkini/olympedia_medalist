@@ -140,5 +140,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "3814",
+    "name": "István•Kovács",
+    "born": "17 August 1970 in Budapest, Budapest (HUN)",
+    "measurements": "170 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4114",
+    "name": "Ivano•Fontana",
+    "born": "25 November 1926 in Lucca, Lucca (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

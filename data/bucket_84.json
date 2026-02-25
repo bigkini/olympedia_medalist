@@ -175,5 +175,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4084",
+    "name": "Sergio•Caprari",
+    "born": "11 July 1932 in Civita Castellana, Viterbo (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

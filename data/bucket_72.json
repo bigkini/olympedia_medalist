@@ -99,13 +99,28 @@
     "id": "3072",
     "name": "Roger•Michelot",
     "born": "8 June 1912 in Saint-Dizier, Haute-Marne (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "FRA",
         "discipline": "Boxing",
         "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4072",
+    "name": "Aureliano•Bolognesi",
+    "born": "15 November 1930 in Genova (Genoa), Genova (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

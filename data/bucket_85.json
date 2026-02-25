@@ -78,13 +78,28 @@
     "id": "2585",
     "name": "Märtha•Adlerstråhle",
     "born": "16 June 1868 in Torpa, Kungsör, Västmanland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "SWE",
         "discipline": "Tennis",
         "event": "Singles, Covered Courts, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3785",
+    "name": "András•Botos",
+    "born": "6 March 1952 in Salgótarján, Nógrád (HUN)",
+    "measurements": "166 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

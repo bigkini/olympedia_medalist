@@ -85,11 +85,26 @@
     "id": "3293",
     "name": "Mohamed•Zaoui",
     "born": "14 May 1960 in Zaouiet Yagoubi, Tlemcen (ALG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1984 Summer Olympics",
         "noc": "ALG",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3793",
+    "name": "Zsolt•Erdei",
+    "born": "31 May 1974 in Budapest, Budapest (HUN)",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "HUN",
         "discipline": "Boxing",
         "event": "Middleweight, Men\n(Olympic)",
         "medal": "Bronze"

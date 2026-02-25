@@ -65,5 +65,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3966",
+    "name": "Freddie•Gilroy",
+    "born": "7 March 1936 in Belfast, Northern Ireland (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "IRL",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "4066",
+    "name": "Nino•Benvenuti",
+    "born": "26 April 1938 in Izola, Izola (SLO)",
+    "measurements": "178 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

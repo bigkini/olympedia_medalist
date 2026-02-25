@@ -168,5 +168,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4062",
+    "name": "Giorgio•Bambini",
+    "born": "24 February 1945 in Vezzano Ligure, La Spezia (ITA)",
+    "measurements": "192 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

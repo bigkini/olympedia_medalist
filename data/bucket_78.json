@@ -212,5 +212,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4078",
+    "name": "Luciano•Bruno",
+    "born": "23 May 1963 in Foggia, Foggia (ITA)",
+    "measurements": "175 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

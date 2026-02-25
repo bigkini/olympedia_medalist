@@ -125,5 +125,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "3703",
+    "name": "Ike•Quartey",
+    "born": "12 April 1938 in Accra, Greater Accra (GHA)",
+    "measurements": "175 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

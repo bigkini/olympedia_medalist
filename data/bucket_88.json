@@ -153,5 +153,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3788",
+    "name": "Tibor•Csík",
+    "born": "2 September 1927 in Jászberény, Jász-Nagykun-Szolnok (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

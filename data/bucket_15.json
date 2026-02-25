@@ -161,5 +161,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "4115",
+    "name": "Ernesto•Formenti",
+    "born": "2 August 1927 in Cesano Maderno, Monza e Brianza (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

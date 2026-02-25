@@ -85,7 +85,7 @@
     "id": "2744",
     "name": "Helen•Wills",
     "born": "6 October 1905 in Centerville, Fremont, California (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -99,6 +99,21 @@
         "noc": "USA",
         "discipline": "Tennis",
         "event": "Doubles, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4144",
+    "name": "Francesco•Musso",
+    "born": "22 August 1937 in Port-Saint-Louis-du-Rhône, Bouches-du-Rhône (FRA)",
+    "measurements": "168 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

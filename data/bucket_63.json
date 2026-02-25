@@ -95,5 +95,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4063",
+    "name": "Spartaco•Bandinelli",
+    "born": "27 March 1921 in Velletri, Roma (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

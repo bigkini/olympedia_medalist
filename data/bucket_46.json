@@ -100,7 +100,7 @@
     "id": "3646",
     "name": "Herbert•Runge",
     "born": "23 January 1913 in Elberfeld, Wuppertal, Nordrhein-Westfalen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -108,6 +108,21 @@
         "discipline": "Boxing",
         "event": "Heavyweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "3946",
+    "name": "Johnny•Caldwell",
+    "born": "7 May 1938 in Belfast, Northern Ireland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "IRL",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

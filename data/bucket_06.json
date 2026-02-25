@@ -136,13 +136,28 @@
     "id": "3406",
     "name": "Harry•Franks",
     "born": "2 October 1891 in Hackney, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "GBR",
         "discipline": "Boxing",
         "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3806",
+    "name": "Róbert•Isaszegi",
+    "born": "2 May 1965 in Sárospatak, Borsod-Abaúj-Zemplén (HUN)",
+    "measurements": "164 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

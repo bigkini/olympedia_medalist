@@ -139,5 +139,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "4108",
+    "name": "Alessandro•D'Ottavio",
+    "born": "26 August 1927 in Roma, Roma (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -94,5 +94,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "4117",
+    "name": "Edoardo•Garzena",
+    "born": "4 May 1900 in Torre Pellice, Torino (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

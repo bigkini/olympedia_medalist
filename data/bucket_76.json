@@ -140,5 +140,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "4076",
+    "name": "Mino•Bozzano",
+    "born": "12 April 1933 in Sestri Levante, Genova (ITA)",
+    "measurements": "185 cm",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

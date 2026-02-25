@@ -109,5 +109,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "4075",
+    "name": "Carmelo•Bossi",
+    "born": "15 October 1939 in Milano, Milano (ITA)",
+    "measurements": "171 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -139,5 +139,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3791",
+    "name": "István•Énekes",
+    "born": "20 February 1911 in Budapest, Budapest (HUN)",
+    "measurements": "51 kg",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

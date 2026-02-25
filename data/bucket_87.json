@@ -168,5 +168,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "3687",
+    "name": "Eddie•Blay",
+    "born": "9 November 1937 in Accra, Greater Accra (GHA)",
+    "measurements": "172 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

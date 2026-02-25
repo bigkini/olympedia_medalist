@@ -33,7 +33,7 @@
     "id": "3650",
     "name": "Josef•Schleinkofer",
     "born": "19 March 1910 in München (Munich), Bayern (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -41,6 +41,21 @@
         "discipline": "Boxing",
         "event": "Featherweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "3850",
+    "name": "János•Váradi",
+    "born": "28 February 1961 in Kemecse, Szabolcs-Szatmár-Bereg (HUN)",
+    "measurements": "164 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -284,5 +284,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3813",
+    "name": "Antal•Kocsis",
+    "born": "17 November 1905 in Budapest, Budapest (HUN)",
+    "measurements": "163 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

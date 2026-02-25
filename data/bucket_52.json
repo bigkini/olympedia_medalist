@@ -160,5 +160,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3752",
+    "name": "Michael•Parris",
+    "born": "4 October 1957 in Georgetown, Demerara-Mahaica (GUY)",
+    "measurements": "173 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GUY",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

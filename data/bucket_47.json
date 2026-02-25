@@ -103,5 +103,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3947",
+    "name": "Michael•Carruth",
+    "born": "9 July 1967 in Dublin, Dublin City (IRL)",
+    "measurements": "173 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "IRL",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

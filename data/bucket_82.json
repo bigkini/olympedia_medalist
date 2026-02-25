@@ -175,5 +175,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "3782",
+    "name": "Zoltán•Béres",
+    "born": "11 January 1968 in Nyírbátor, Szabolcs-Szatmár-Bereg (HUN)",
+    "measurements": "185 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

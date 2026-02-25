@@ -117,5 +117,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3801",
+    "name": "György•Gedó",
+    "born": "23 April 1949 in Újpest, Budapest (HUN)",
+    "measurements": "162 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4001",
+    "name": "John•McNally",
+    "born": "3 November 1932 in Belfast, Northern Ireland (GBR)",
+    "measurements": "175 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "IRL",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

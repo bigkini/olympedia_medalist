@@ -131,5 +131,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4134",
+    "name": "Gavino•Matta",
+    "born": "9 June 1910 in Sassari, Sassari (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

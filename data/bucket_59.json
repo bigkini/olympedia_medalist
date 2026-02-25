@@ -233,5 +233,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4059",
+    "name": "Fernando•Atzori",
+    "born": "1 June 1942 in Ales, Oristano (ITA)",
+    "measurements": "158 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

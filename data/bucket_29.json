@@ -92,7 +92,7 @@
     "id": "3629",
     "name": "Josef•Miner",
     "born": "15 July 1914 in Wrocław, Dolnośląskie (POL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -100,6 +100,21 @@
         "discipline": "Boxing",
         "event": "Featherweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "4129",
+    "name": "Sandro•Lopopolo",
+    "born": "18 December 1939 in Milano, Milano (ITA)",
+    "measurements": "170 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

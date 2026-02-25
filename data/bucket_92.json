@@ -164,7 +164,7 @@
     "id": "3492",
     "name": "Don•Scott",
     "born": "23 July 1928 in Derby, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -172,6 +172,36 @@
         "discipline": "Boxing",
         "event": "Light-Heavyweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "3992",
+    "name": "Wayne•McCullough",
+    "born": "7 July 1970 in Belfast, Northern Ireland (GBR)",
+    "measurements": "162 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "IRL",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "4092",
+    "name": "Carlo•Cavagnoli",
+    "born": "21 February 1907 in Milano, Milano (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

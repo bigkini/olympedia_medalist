@@ -207,5 +207,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3818",
+    "name": "István•Lévai",
+    "born": "23 June 1957 in Győr, Győr-Moson-Sopron (HUN)",
+    "measurements": "180 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
