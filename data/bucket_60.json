@@ -123,13 +123,28 @@
     "id": "3460",
     "name": "Charlie•Morris",
     "born": "23 August 1879 in Hendon, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Boxing",
         "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5160",
+    "name": "Cindy•Brogdon",
+    "born": "25 February 1957 in Buford, Georgia (USA)",
+    "measurements": "177 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

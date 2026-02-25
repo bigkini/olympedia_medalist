@@ -137,5 +137,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5212",
+    "name": "Medina•Dixon",
+    "born": "2 November 1962 in Boston, Massachusetts (USA)",
+    "measurements": "190 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

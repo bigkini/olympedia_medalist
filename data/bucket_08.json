@@ -169,5 +169,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5108",
+    "name": "Viktor•Pankrashkin",
+    "born": "19 June 1957 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "220 cm / 112 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5208",
+    "name": "Vanya•Dermendzhieva",
+    "born": "3 December 1958 in Haskovo, Haskovo (BUL)",
+    "measurements": "180 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

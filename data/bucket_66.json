@@ -100,7 +100,7 @@
     "id": "4966",
     "name": "Guillermo•Lovell",
     "born": "14 January 1918 in Dock Sud, Avellaneda, Provincia de Buenos Aires (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -108,6 +108,21 @@
         "discipline": "Boxing",
         "event": "Heavyweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5166",
+    "name": "Elen•Bunatyants-Shakirova",
+    "born": "2 June 1970 in Mary, Mary (TKM)",
+    "measurements": "190 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

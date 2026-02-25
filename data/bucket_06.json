@@ -161,5 +161,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5206",
+    "name": "Marta•Sobral",
+    "born": "23 March 1964 in São Paulo, São Paulo (BRA)",
+    "measurements": "190 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

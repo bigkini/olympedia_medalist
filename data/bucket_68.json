@@ -153,5 +153,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5068",
+    "name": "Tony•Madigan",
+    "born": "4 February 1930 in Sydney, New South Wales (AUS)",
+    "measurements": "185 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5168",
+    "name": "Olga•Buryakina",
+    "born": "17 March 1958 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "174 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

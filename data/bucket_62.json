@@ -203,7 +203,7 @@
     "id": "4862",
     "name": "Sverre•Sørsdal",
     "born": "5 August 1900 in Hamar, Innlandet (NOR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -218,6 +218,21 @@
         "discipline": "Boxing",
         "event": "Light-Heavyweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5162",
+    "name": "Cindy•Brown",
+    "born": "16 March 1965 in Portland, Oregon (USA)",
+    "measurements": "188 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

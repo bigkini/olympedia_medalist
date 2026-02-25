@@ -85,7 +85,7 @@
     "id": "4151",
     "name": "Carlo•Orlandi",
     "born": "23 April 1910 in Milano, Milano (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -93,6 +93,28 @@
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5151",
+    "name": "Krasimira•Bogdanova",
+    "born": "5 June 1949 in Sofia, Sofia Grad (BUL)",
+    "measurements": "182 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

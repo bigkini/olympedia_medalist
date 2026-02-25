@@ -70,7 +70,7 @@
     "id": "3498",
     "name": "Fred•Spiller",
     "born": "22 November 1884 in Westminster, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -78,6 +78,36 @@
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5098",
+    "name": "Aleksandr•Moiseyev",
+    "born": "28 May 1927 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5198",
+    "name": "Denise•Curry",
+    "born": "22 August 1959 in Fort Benton, Montana (USA)",
+    "measurements": "185 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

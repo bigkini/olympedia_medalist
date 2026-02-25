@@ -194,7 +194,7 @@
     "id": "4092",
     "name": "Carlo•Cavagnoli",
     "born": "21 February 1907 in Milano, Milano (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -202,6 +202,28 @@
         "discipline": "Boxing",
         "event": "Flyweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5192",
+    "name": "Cong•Xuedi",
+    "born": "13 May 1963 in Laiyang, Shandong (CHN)",
+    "measurements": "166 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

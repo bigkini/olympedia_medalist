@@ -189,13 +189,43 @@
     "id": "5000",
     "name": "Arturo•Rodríguez",
     "born": "27 May 1907 in San Luis, San Luis (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
         "noc": "ARG",
         "discipline": "Boxing",
         "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5100",
+    "name": "Emir•Mutapčić",
+    "born": "27 May 1960 in Crkvice, Jablanica (SRB)",
+    "measurements": "197 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5200",
+    "name": "Tamāra•Dauniene",
+    "born": "22 September 1951 in Yoshkar-Ola, Respublika Mary El (RUS)",
+    "measurements": "190 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
         "medal": "Gold"
       }
     ]

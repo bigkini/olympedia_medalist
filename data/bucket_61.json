@@ -147,5 +147,34 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5161",
+    "name": "Sandy•Brondello",
+    "born": "20 August 1968 in Mackay, Queensland (AUS)",
+    "measurements": "170 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -124,5 +124,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5175",
+    "name": "Daedra•Charles",
+    "born": "22 November 1968 in Detroit, Michigan (USA)",
+    "measurements": "190 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

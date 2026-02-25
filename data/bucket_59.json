@@ -278,5 +278,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5159",
+    "name": "Michelle•Brogan-Griffiths",
+    "born": "8 February 1973 in Adelaide, South Australia (AUS)",
+    "measurements": "186 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

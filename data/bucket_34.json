@@ -136,7 +136,7 @@
     "id": "4134",
     "name": "Gavino•Matta",
     "born": "9 June 1910 in Sassari, Sassari (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -144,6 +144,28 @@
         "discipline": "Boxing",
         "event": "Flyweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5134",
+    "name": "Yelena•Baranova",
+    "born": "28 January 1972 in Bishkek, Bishkek (KGZ)",
+    "measurements": "192 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

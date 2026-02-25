@@ -304,13 +304,43 @@
     "id": "5013",
     "name": "Raúl•Villarreal",
     "born": "29 October 1909 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "ARG",
         "discipline": "Boxing",
         "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5113",
+    "name": "Nikola•Plećaš",
+    "born": "10 January 1948 in Bruvno, Zadarska županija (CRO)",
+    "measurements": "187 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5213",
+    "name": "Vera•Đurašković",
+    "born": "29 August 1949",
+    "measurements": "172 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

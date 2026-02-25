@@ -152,7 +152,7 @@
     "id": "4990",
     "name": "Pascual•Pérez",
     "born": "4 May 1926 in Tupungato, Mendoza (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -160,6 +160,28 @@
         "discipline": "Boxing",
         "event": "Flyweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5090",
+    "name": "Wlamir•Marques",
+    "born": "16 July 1936 in São Vicente, São Paulo (BRA)",
+    "measurements": "185 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

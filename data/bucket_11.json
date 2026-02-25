@@ -103,5 +103,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5211",
+    "name": "Diana•Dilova-Braynova",
+    "born": "1 January 1952 in Sofia, Sofia Grad (BUL)",
+    "measurements": "185 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -173,7 +173,7 @@
     "id": "2458",
     "name": "Yvonne•Prévost",
     "born": "8 June 1878 in Dinard, Ille-et-Vilaine (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -187,6 +187,43 @@
         "noc": "FRA",
         "discipline": "Tennis",
         "event": "Doubles, Mixed\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5058",
+    "name": "Kevin•Hogarth",
+    "born": "10 February 1934",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5158",
+    "name": "Carla•Boyd",
+    "born": "31 October 1975 in Wynyard, Tasmania (AUS)",
+    "measurements": "185 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

@@ -257,5 +257,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5178",
+    "name": "Chen•Yuefang",
+    "born": "1 May 1963 in Yinchuan, Ningxia (CHN)",
+    "measurements": "205 cm / 104 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

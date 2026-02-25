@@ -158,13 +158,28 @@
     "id": "3430",
     "name": "Harry•Johnson",
     "born": "10 August 1887 in Hoxton, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5130",
+    "name": "Ba•Yan",
+    "born": "18 December 1962 in ?, Liaoning (CHN)",
+    "measurements": "183 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

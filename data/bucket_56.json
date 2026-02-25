@@ -108,13 +108,28 @@
     "id": "4956",
     "name": "Rafael•Iglesias",
     "born": "25 May 1924 in Avellaneda, Provincia de Buenos Aires (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "ARG",
         "discipline": "Boxing",
         "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5156",
+    "name": "Cathy•Boswell",
+    "born": "10 November 1962 in Joliet, Illinois (USA)",
+    "measurements": "183 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
         "medal": "Gold"
       }
     ]
