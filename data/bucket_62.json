@@ -188,13 +188,35 @@
     "id": "4362",
     "name": "Gang•Jun-Ho",
     "born": "22 June 1928 in Haeju, Hamgyeongnam (PRK)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "KOR",
         "discipline": "Boxing",
         "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "4862",
+    "name": "Sverre•Sørsdal",
+    "born": "5 August 1900 in Hamar, Innlandet (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

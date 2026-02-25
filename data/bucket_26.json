@@ -147,5 +147,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4626",
+    "name": "Nergüin•Enkhbat",
+    "born": "18 March 1962 in Ulaanbaatar, Ulaanbaatar (MGL)",
+    "measurements": "174 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "MGL",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

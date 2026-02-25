@@ -117,5 +117,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "4997",
+    "name": "Carmelo•Robledo",
+    "born": "13 July 1912 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "165 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

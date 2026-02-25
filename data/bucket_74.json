@@ -118,5 +118,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4774",
+    "name": "Duncan•Dokiwari",
+    "born": "15 October 1972 in Buguma, Rivers (NGR)",
+    "measurements": "193 cm",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Boxing",
+        "event": "Super-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

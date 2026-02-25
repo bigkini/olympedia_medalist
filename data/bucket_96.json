@@ -155,5 +155,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "4996",
+    "name": "Francisco•Risiglione",
+    "born": "18 January 1917 in Rosario, Santa Fe (ARG)",
+    "measurements": "178 cm",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

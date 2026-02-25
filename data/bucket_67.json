@@ -109,5 +109,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4567",
+    "name": "Mario•González",
+    "born": "15 August 1969 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
+    "measurements": "165 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

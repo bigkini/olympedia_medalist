@@ -73,5 +73,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4869",
+    "name": "Kevin•Barry",
+    "born": "10 October 1959 in Christchurch, Canterbury (NZL)",
+    "measurements": "187 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

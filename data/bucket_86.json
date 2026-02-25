@@ -109,5 +109,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "4986",
+    "name": "Víctor•Peralta",
+    "born": "6 March 1908 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

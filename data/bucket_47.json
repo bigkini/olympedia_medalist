@@ -123,7 +123,7 @@
     "id": "4147",
     "name": "Franco•Nenci",
     "born": "27 January 1935 in Livorno, Livorno (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -131,6 +131,21 @@
         "discipline": "Boxing",
         "event": "Light-Welterweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "4847",
+    "name": "Erling•Nilsen",
+    "born": "30 December 1910 in Moss, Viken (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

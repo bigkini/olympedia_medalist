@@ -139,5 +139,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "4607",
+    "name": "Alfonso•Zamora",
+    "born": "9 February 1954 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
+    "measurements": "160 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "4807",
+    "name": "Issaka•Daboré",
+    "born": "1940 in Dingazi Banda, Tillabéri (NIG)",
+    "measurements": "163 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "NIG",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

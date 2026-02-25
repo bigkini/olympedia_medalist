@@ -177,5 +177,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "4883",
+    "name": "Ted•Morgan",
+    "born": "5 April 1906 in East Ham, England (GBR)",
+    "measurements": "172 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4983",
+    "name": "Antonio•Pacenza",
+    "born": "18 March 1928 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

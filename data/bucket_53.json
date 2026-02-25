@@ -154,5 +154,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "4553",
+    "name": "Ricardo•Delgado",
+    "born": "13 July 1947 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
+    "measurements": "161 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -144,13 +144,28 @@
     "id": "4108",
     "name": "Alessandro•D'Ottavio",
     "born": "26 August 1927 in Roma, Roma (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "ITA",
         "discipline": "Boxing",
         "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "4608",
+    "name": "Agustín•Zaragoza",
+    "born": "18 August 1941 in San Luis Potosí, San Luis Potosí (MEX)",
+    "measurements": "179 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

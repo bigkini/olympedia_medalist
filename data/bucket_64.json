@@ -221,5 +221,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "4864",
+    "name": "Henry•Tiller",
+    "born": "14 June 1914 in Trondheim, Trøndelag (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

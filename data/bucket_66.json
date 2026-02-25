@@ -95,5 +95,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "4966",
+    "name": "Guillermo•Lovell",
+    "born": "14 January 1918 in Dock Sud, Avellaneda, Provincia de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

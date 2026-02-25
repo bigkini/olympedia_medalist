@@ -242,5 +242,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "4584",
+    "name": "Fidel•Ortiz",
+    "born": "10 October 1908 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "4784",
+    "name": "Peter•Konyegwachie",
+    "born": "26 November 1965 in Lagos, Lagos (NGR)",
+    "measurements": "161 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

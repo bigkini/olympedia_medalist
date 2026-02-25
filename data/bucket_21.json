@@ -213,5 +213,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4921",
+    "name": "Syed•Hussain Shah",
+    "born": "14 August 1964 in Lyari, Karachi, Sindh (PAK)",
+    "measurements": "75 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

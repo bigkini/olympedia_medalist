@@ -181,13 +181,28 @@
     "id": "4354",
     "name": "Hong•Seong-Sik",
     "born": "13 November 1967",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
         "noc": "KOR",
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "4954",
+    "name": "Eladio•Herrera",
+    "born": "9 February 1930 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

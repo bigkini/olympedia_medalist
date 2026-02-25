@@ -58,5 +58,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4780",
+    "name": "David•Izonritei",
+    "born": "29 April 1963 in Lagos, Lagos (NGR)",
+    "measurements": "185 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

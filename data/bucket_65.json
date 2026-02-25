@@ -103,5 +103,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "4865",
+    "name": "Otto•von Porat",
+    "born": "29 September 1903 in Älmhult, Kronoberg (SWE)",
+    "measurements": "193 cm / 92 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4965",
+    "name": "Alberto•Lovell",
+    "born": "23 April 1912 in Avellaneda, Provincia de Buenos Aires (ARG)",
+    "measurements": "190 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

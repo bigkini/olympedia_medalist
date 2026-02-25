@@ -115,7 +115,7 @@
     "id": "4193",
     "name": "Gianni•Zuddas",
     "born": "1 March 1928 in Cagliari, Cagliari (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -123,6 +123,36 @@
         "discipline": "Boxing",
         "event": "Bantamweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "4593",
+    "name": "Antonio•Roldán",
+    "born": "15 June 1946 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
+    "measurements": "170 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4993",
+    "name": "Alfredo•Porzio",
+    "born": "31 August 1900 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "193 cm / 106 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

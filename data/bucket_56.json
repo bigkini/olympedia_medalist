@@ -103,5 +103,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "4956",
+    "name": "Rafael•Iglesias",
+    "born": "25 May 1924 in Avellaneda, Provincia de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

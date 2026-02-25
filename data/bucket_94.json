@@ -129,7 +129,7 @@
     "id": "2594",
     "name": "Sigrid•Fick",
     "born": "28 March 1887 in Helsinki, Uusimaa (FIN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -143,6 +143,21 @@
         "noc": "SWE",
         "discipline": "Tennis",
         "event": "Doubles, Covered Courts, Mixed\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "4994",
+    "name": "Pedro•Quartucci",
+    "born": "30 July 1905 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

@@ -169,5 +169,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "4700",
+    "name": "Orhan•Delibas",
+    "born": "28 January 1971 in Kayseri, Kayseri (TUR)",
+    "measurements": "174 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5000",
+    "name": "Arturo•Rodríguez",
+    "born": "27 May 1907 in San Luis, San Luis (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

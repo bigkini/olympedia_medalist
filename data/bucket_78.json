@@ -232,7 +232,7 @@
     "id": "4178",
     "name": "Ulderico•Sergo",
     "born": "4 July 1913 in Rijeka, Primorsko-goranska županija (CRO)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -240,6 +240,21 @@
         "discipline": "Boxing",
         "event": "Bantamweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "4778",
+    "name": "Isaac•Ikhouria",
+    "born": "9 October 1947",
+    "measurements": "174 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

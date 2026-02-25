@@ -167,11 +167,26 @@
     "id": "4114",
     "name": "Ivano•Fontana",
     "born": "25 November 1926 in Lucca, Lucca (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "ITA",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5014",
+    "name": "Víctor•Zalazar",
+    "born": "14 June 1933 in La Paz, Córdoba (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ARG",
         "discipline": "Boxing",
         "event": "Middleweight, Men\n(Olympic)",
         "medal": "Bronze"

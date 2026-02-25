@@ -174,13 +174,28 @@
     "id": "4291",
     "name": "Ibrahim•Bilali",
     "born": "21 July 1965",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1984 Summer Olympics",
         "noc": "KEN",
         "discipline": "Boxing",
         "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "4591",
+    "name": "Joaquín•Rocha",
+    "born": "16 August 1944 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
+    "measurements": "192 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]
