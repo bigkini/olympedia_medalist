@@ -212,5 +212,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5255",
+    "name": "•Roseli",
+    "born": "25 July 1971 in Araraquara, São Paulo (BRA)",
+    "measurements": "180 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

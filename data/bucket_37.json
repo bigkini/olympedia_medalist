@@ -65,5 +65,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5337",
+    "name": "Charlotte•Lewis",
+    "born": "10 September 1955 in Chicago, Illinois (USA)",
+    "measurements": "188 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

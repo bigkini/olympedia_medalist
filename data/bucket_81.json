@@ -270,5 +270,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5281",
+    "name": "Olga•Yakovleva",
+    "born": "15 December 1963 in St. Petersburg, St. Petersburg (RUS)",
+    "measurements": "186 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

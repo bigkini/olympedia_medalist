@@ -182,13 +182,28 @@
     "id": "5014",
     "name": "Víctor•Zalazar",
     "born": "14 June 1933 in La Paz, Córdoba (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "ARG",
         "discipline": "Boxing",
         "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5214",
+    "name": "Zorica•Đurković",
+    "born": "14 September 1957 in Dubrovnik, Dubrovačko-neretvanska županija (CRO)",
+    "measurements": "172 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

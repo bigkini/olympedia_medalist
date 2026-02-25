@@ -110,5 +110,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5298",
+    "name": "Kim•Eun-Suk",
+    "born": "31 March 1963 in Seoul, Seoul (KOR)",
+    "measurements": "170 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

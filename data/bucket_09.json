@@ -143,13 +143,28 @@
     "id": "3409",
     "name": "Nicky•Gargano",
     "born": "1 November 1934 in West Ham, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "GBR",
         "discipline": "Boxing",
         "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5309",
+    "name": "Jelica•Komnenović",
+    "born": "20 April 1960 in Foča, Foča (BIH)",
+    "measurements": "179 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

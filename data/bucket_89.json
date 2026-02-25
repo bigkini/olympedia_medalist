@@ -273,5 +273,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5289",
+    "name": "Carolyn•Jones",
+    "born": "28 July 1969 in Bay Springs, Mississippi (USA)",
+    "measurements": "172 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

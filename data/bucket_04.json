@@ -192,5 +192,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5304",
+    "name": "Kim•Yeong-Hui",
+    "born": "17 May 1963",
+    "measurements": "205 cm / 110 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -229,5 +229,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5300",
+    "name": "Kim•Hwa-Sun",
+    "born": "12 April 1962",
+    "measurements": "178 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

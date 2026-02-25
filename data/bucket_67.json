@@ -124,5 +124,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5267",
+    "name": "Pat•Head",
+    "born": "14 June 1952 in Clarksville, Tennessee (USA)",
+    "measurements": "178 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

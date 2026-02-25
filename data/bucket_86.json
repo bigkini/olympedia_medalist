@@ -114,7 +114,7 @@
     "id": "4986",
     "name": "Víctor•Peralta",
     "born": "6 March 1908 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -122,6 +122,21 @@
         "discipline": "Boxing",
         "event": "Featherweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5286",
+    "name": "Tatyana•Ivinskaya",
+    "born": "27 March 1958 in Vitebsk, Vitebsk (BLR)",
+    "measurements": "185 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

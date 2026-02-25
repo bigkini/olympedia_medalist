@@ -307,5 +307,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5327",
+    "name": "Janice•Lawrence",
+    "born": "7 June 1962 in Lucedale, Mississippi (USA)",
+    "measurements": "190 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

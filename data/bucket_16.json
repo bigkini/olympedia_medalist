@@ -209,13 +209,50 @@
     "id": "3416",
     "name": "Fred•Grace",
     "born": "29 February 1884 in Edmonton, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5216",
+    "name": "Anne•Donovan",
+    "born": "1 November 1961 in Ridgewood, New Jersey (USA)",
+    "measurements": "203 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5316",
+    "name": "Raïsa•Kurv'iakova",
+    "born": "15 September 1945 in Gorno-Ulbinka, Aqmola (KAZ)",
+    "measurements": "185 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
         "medal": "Gold"
       }
     ]

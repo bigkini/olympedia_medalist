@@ -163,5 +163,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5247",
+    "name": "Bridgette•Gordon",
+    "born": "27 April 1967 in Deland, Florida (USA)",
+    "measurements": "183 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

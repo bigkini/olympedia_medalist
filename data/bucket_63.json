@@ -100,13 +100,28 @@
     "id": "4063",
     "name": "Spartaco•Bandinelli",
     "born": "27 March 1921 in Velletri, Roma (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "ITA",
         "discipline": "Boxing",
         "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5263",
+    "name": "Lucy•Harris",
+    "born": "10 February 1955 in Minter City, Mississippi (USA)",
+    "measurements": "189 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

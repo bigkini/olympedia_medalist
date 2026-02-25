@@ -197,13 +197,28 @@
     "id": "4983",
     "name": "Antonio•Pacenza",
     "born": "18 March 1928 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "ARG",
         "discipline": "Boxing",
         "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5283",
+    "name": "Jeong•Myeong-Hui",
+    "born": "16 May 1964",
+    "measurements": "180 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

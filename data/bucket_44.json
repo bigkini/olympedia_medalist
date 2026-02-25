@@ -117,5 +117,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5244",
+    "name": "Slađana•Golić",
+    "born": "12 February 1960 in Banja Luka, Banja Luka (BIH)",
+    "measurements": "189 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

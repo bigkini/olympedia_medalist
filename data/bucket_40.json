@@ -207,5 +207,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5240",
+    "name": "Silviya•Germanova",
+    "born": "19 July 1959 in Gotse Delchev, Blagoevgrad (BUL)",
+    "measurements": "182 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5340",
+    "name": "Li•Xin",
+    "born": "5 November 1969 in Benxi, Liaoning (CHN)",
+    "measurements": "175 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

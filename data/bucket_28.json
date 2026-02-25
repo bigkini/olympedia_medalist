@@ -161,5 +161,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5228",
+    "name": "Kamie•Ethridge",
+    "born": "21 April 1964 in Hereford, Texas (USA)",
+    "measurements": "165 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5328",
+    "name": "Lee•Hyeong-Suk",
+    "born": "24 December 1964",
+    "measurements": "173 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

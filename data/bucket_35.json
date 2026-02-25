@@ -139,5 +139,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5335",
+    "name": "Aleksandra•Leonova",
+    "born": "4 September 1964 in Pyatigorsk, Stavropol Kray (RUS)",
+    "measurements": "176 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

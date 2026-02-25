@@ -222,5 +222,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5218",
+    "name": "•Janeth",
+    "born": "11 April 1969 in Carapicuíba, São Paulo (BRA)",
+    "measurements": "182 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5318",
+    "name": "Kornelija•Kvesić",
+    "born": "25 August 1963 in Kakanj, Zeničko-dobojski kanton (BIH)",
+    "measurements": "188 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

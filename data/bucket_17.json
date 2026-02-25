@@ -99,7 +99,7 @@
     "id": "4117",
     "name": "Edoardo•Garzena",
     "born": "4 May 1900 in Torre Pellice, Torino (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -107,6 +107,21 @@
         "discipline": "Boxing",
         "event": "Featherweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5217",
+    "name": "Polona•Dornik",
+    "born": "20 November 1962 in Trbovlje, Trbovlje (SLO)",
+    "measurements": "196 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -115,13 +115,43 @@
     "id": "4542",
     "name": "Francisco•Cabañas",
     "born": "22 January 1912 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
         "noc": "MEX",
         "discipline": "Boxing",
         "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5242",
+    "name": "Jennifer•Gillom",
+    "born": "13 June 1964 in Abbeville, Mississippi (USA)",
+    "measurements": "190 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5342",
+    "name": "Nancy•Lieberman",
+    "born": "1 July 1958 in Brooklyn, New York, New York (USA)",
+    "measurements": "175 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

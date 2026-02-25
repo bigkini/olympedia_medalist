@@ -161,5 +161,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5324",
+    "name": "Mara•Lakić",
+    "born": "18 August 1963 in Gradačac, Tuzlanski kanton (BIH)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

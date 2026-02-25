@@ -88,5 +88,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5269",
+    "name": "Lea•Henry",
+    "born": "22 November 1961 in Colquitt, Georgia (USA)",
+    "measurements": "162 cm / 53 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
