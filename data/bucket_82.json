@@ -287,5 +287,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5682",
+    "name": "André•Barrais",
+    "born": "22 February 1920 in Levallois-Perret, Hauts-de-Seine (FRA)",
+    "measurements": "183 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5782",
+    "name": "Romanas•Brazdauskis",
+    "born": "20 February 1964 in Kretinga, Klaipėda (LTU)",
+    "measurements": "204 cm / 108 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "LTU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

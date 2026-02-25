@@ -154,5 +154,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5667",
+    "name": "Enrique•Baliño",
+    "born": "20 June 1928 in Montevideo, Montevideo (URU)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5767",
+    "name": "Ron•Bontemps",
+    "born": "11 August 1926 in Taylorville, Illinois (USA)",
+    "measurements": "188 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -333,5 +333,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5789",
+    "name": "Jim•Brewer",
+    "born": "3 December 1951 in Maywood, Illinois (USA)",
+    "measurements": "206 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

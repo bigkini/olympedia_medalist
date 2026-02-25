@@ -115,7 +115,7 @@
     "id": "5577",
     "name": "Martín•Acosta y Lara",
     "born": "12 March 1925 in Montevideo, Montevideo (URU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -123,6 +123,36 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5677",
+    "name": "Cliff•Barker",
+    "born": "15 January 1921 in Yorktown, Indiana (USA)",
+    "measurements": "188 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5777",
+    "name": "Dick•Boushka",
+    "born": "29 July 1934 in Springfield, Illinois (USA)",
+    "measurements": "195 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

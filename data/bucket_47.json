@@ -223,5 +223,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5647",
+    "name": "Stacey•Augmon",
+    "born": "1 August 1968 in Pasadena, California (USA)",
+    "measurements": "200 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

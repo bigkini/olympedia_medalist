@@ -183,5 +183,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5694",
+    "name": "Ralph•Beard",
+    "born": "2 December 1927 in Hardinsburg, Kentucky (USA)",
+    "measurements": "178 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

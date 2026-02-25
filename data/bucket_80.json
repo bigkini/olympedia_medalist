@@ -103,5 +103,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5680",
+    "name": "Jim•Barnes",
+    "born": "13 April 1941 in Tuckerman, Arkansas (USA)",
+    "measurements": "201 cm / 109 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5780",
+    "name": "Bill•Bradley",
+    "born": "28 July 1943 in Crystal City, Missouri (USA)",
+    "measurements": "196 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

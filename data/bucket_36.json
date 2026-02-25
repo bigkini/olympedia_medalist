@@ -197,5 +197,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5736",
+    "name": "Edson•Bispo",
+    "born": "27 May 1935 in Rio de Janeiro, Rio de Janeiro (BRA)",
+    "measurements": "195 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

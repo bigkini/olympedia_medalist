@@ -94,5 +94,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5632",
+    "name": "Franjo•Arapović",
+    "born": "2 June 1965 in Slipćić, Mostar, Hercegovačko-neretvanski kanton (BIH)",
+    "measurements": "211 cm / 120 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CRO",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5732",
+    "name": "Larry•Bird",
+    "born": "7 December 1956 in French Lick, Indiana (USA)",
+    "measurements": "205 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

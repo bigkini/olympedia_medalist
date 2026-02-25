@@ -94,5 +94,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5771",
+    "name": "Hugo•Borja",
+    "born": "18 July 1912 in Guadalajara, Jalisco (MEX)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

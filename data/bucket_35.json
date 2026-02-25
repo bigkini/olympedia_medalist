@@ -154,5 +154,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5635",
+    "name": "Fernando•Arcega",
+    "born": "3 September 1960 in Zaragoza (Saragossa), Zaragoza (ESP)",
+    "measurements": "204 cm / 96 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5735",
+    "name": "Ralph•Bishop",
+    "born": "1 October 1915 in Brooklyn, New York, New York (USA)",
+    "measurements": "193 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

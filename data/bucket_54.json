@@ -236,5 +236,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5754",
+    "name": "Dejan•Bodiroga",
+    "born": "2 March 1973 in Zrenjanin, Srednji Banat (SRB)",
+    "measurements": "205 cm / 110 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "SCG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

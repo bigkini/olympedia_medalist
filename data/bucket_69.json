@@ -118,5 +118,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5669",
+    "name": "Sam•Balter",
+    "born": "15 October 1909 in Detroit, Michigan (USA)",
+    "measurements": "178 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

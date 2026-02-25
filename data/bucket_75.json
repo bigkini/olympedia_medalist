@@ -154,5 +154,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5675",
+    "name": "Mike•Bantom",
+    "born": "3 December 1951 in Philadelphia, Pennsylvania (USA)",
+    "measurements": "203 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5775",
+    "name": "Arkady•Bochkaryov",
+    "born": "24 February 1931 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

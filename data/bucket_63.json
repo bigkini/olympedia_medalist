@@ -176,5 +176,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5763",
+    "name": "Marco•Bonamico",
+    "born": "18 January 1957 in Genova (Genoa), Genova (ITA)",
+    "measurements": "200 cm / 94 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

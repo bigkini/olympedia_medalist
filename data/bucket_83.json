@@ -244,5 +244,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5683",
+    "name": "Mike•Barrett",
+    "born": "5 September 1943 in Montgomery, West Virginia (USA)",
+    "measurements": "188 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

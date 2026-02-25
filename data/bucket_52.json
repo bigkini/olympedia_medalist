@@ -227,5 +227,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5652",
+    "name": "Affonso•Évora",
+    "born": "26 August 1918 in Rio de Janeiro, Rio de Janeiro (BRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

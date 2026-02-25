@@ -151,13 +151,28 @@
     "id": "5479",
     "name": "Yelena•Shvaybovich",
     "born": "3 February 1966 in Minsk, Minsk (BLR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
         "noc": "EUN",
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5679",
+    "name": "Don•Barksdale",
+    "born": "31 March 1923 in Oakland, California (USA)",
+    "measurements": "198 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

@@ -252,5 +252,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5640",
+    "name": "Jay•Arnette",
+    "born": "19 December 1938 in Austin, Texas (USA)",
+    "measurements": "188 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -317,5 +317,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5743",
+    "name": "Moysés•Blás",
+    "born": "24 March 1937 in Belo Horizonte, Minas Gerais (BRA)",
+    "measurements": "181 cm",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

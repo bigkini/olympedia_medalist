@@ -162,5 +162,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5746",
+    "name": "Carlos•Blixen",
+    "born": "27 December 1936 in Montevideo, Montevideo (URU)",
+    "measurements": "181 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

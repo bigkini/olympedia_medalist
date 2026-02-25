@@ -213,5 +213,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5715",
+    "name": "Miroslav•Berić",
+    "born": "20 January 1973 in Beograd (Belgrade), Beograd (SRB)",
+    "measurements": "198 cm / 92 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "SCG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -140,5 +140,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5639",
+    "name": "Tate•Armstrong",
+    "born": "5 October 1955 in Moultrie, Georgia (USA)",
+    "measurements": "190 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

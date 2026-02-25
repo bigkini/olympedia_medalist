@@ -199,5 +199,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5765",
+    "name": "Michel•Bonnevie",
+    "born": "19 November 1921 in Chaville, Hauts-de-Seine (FRA)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]
