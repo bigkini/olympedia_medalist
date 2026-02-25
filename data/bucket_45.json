@@ -206,5 +206,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5345",
+    "name": "Liu•Jun",
+    "born": "15 October 1969 in ?, Hebei (CHN)",
+    "measurements": "177 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

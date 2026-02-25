@@ -139,5 +139,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5367",
+    "name": "Carla•McGhee",
+    "born": "6 March 1968 in Peoria, Illinois (USA)",
+    "measurements": "188 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

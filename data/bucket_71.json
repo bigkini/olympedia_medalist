@@ -62,13 +62,35 @@
     "id": "1971",
     "name": "Jeong•Jae-Heon",
     "born": "1 June 1974",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
         "noc": "KOR",
         "discipline": "Archery",
         "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5371",
+    "name": "Penka•Metodieva",
+    "born": "12 October 1950 in Pernik, Pernik (BUL)",
+    "measurements": "166 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

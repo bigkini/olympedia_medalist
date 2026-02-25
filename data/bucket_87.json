@@ -198,5 +198,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5387",
+    "name": "Mun•Gyeong-Ja",
+    "born": "14 August 1965",
+    "measurements": "181 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

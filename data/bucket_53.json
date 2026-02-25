@@ -169,5 +169,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5353",
+    "name": "Robyn•Maher",
+    "born": "6 October 1959 in Ballarat, Victoria (AUS)",
+    "measurements": "178 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5453",
+    "name": "Angelė•Rupšienė",
+    "born": "27 June 1952 in Vilnius, Vilnius (LTU)",
+    "measurements": "168 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

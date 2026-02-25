@@ -226,7 +226,7 @@
     "id": "4864",
     "name": "Henry•Tiller",
     "born": "14 June 1914 in Trondheim, Trøndelag (NOR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -234,6 +234,28 @@
         "discipline": "Boxing",
         "event": "Middleweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "5364",
+    "name": "Suzie•McConnell",
+    "born": "29 July 1966 in Pittsburgh, Pennsylvania (USA)",
+    "measurements": "162 cm / 50 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

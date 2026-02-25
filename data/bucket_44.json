@@ -132,5 +132,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5444",
+    "name": "Kostadinka•Radkova",
+    "born": "26 June 1962 in Sofia, Sofia Grad (BUL)",
+    "measurements": "187 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

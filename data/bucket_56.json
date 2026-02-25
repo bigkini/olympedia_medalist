@@ -133,5 +133,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5356",
+    "name": "Gail•Marquis",
+    "born": "18 November 1954 in New York, New York (USA)",
+    "measurements": "182 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

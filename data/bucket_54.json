@@ -196,13 +196,28 @@
     "id": "4954",
     "name": "Eladio•Herrera",
     "born": "9 February 1930 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "ARG",
         "discipline": "Boxing",
         "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5354",
+    "name": "Biljana•Majstorović",
+    "born": "31 December 1959 in Beograd (Belgrade), Beograd (SRB)",
+    "measurements": "191 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

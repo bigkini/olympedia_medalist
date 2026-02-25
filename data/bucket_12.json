@@ -152,5 +152,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5412",
+    "name": "•Hortência",
+    "born": "23 September 1959 in Potirendaba, São Paulo (BRA)",
+    "measurements": "174 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

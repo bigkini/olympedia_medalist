@@ -115,7 +115,7 @@
     "id": "3946",
     "name": "Johnny•Caldwell",
     "born": "7 May 1938 in Belfast, Northern Ireland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -123,6 +123,28 @@
         "discipline": "Boxing",
         "event": "Flyweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "5346",
+    "name": "Liu•Qing",
+    "born": "6 August 1964 in ?, Heilongjiang (CHN)",
+    "measurements": "190 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

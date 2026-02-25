@@ -178,5 +178,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5347",
+    "name": "Andrea•Lloyd",
+    "born": "2 September 1965 in Moscow, Idaho (USA)",
+    "measurements": "188 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5447",
+    "name": "Trish•Roberts",
+    "born": "14 June 1955 in Monroe, Georgia (USA)",
+    "measurements": "187 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -280,5 +280,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5443",
+    "name": "Qiu•Chen",
+    "born": "1 June 1963 in Xi'an, Shaanxi (CHN)",
+    "measurements": "181 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

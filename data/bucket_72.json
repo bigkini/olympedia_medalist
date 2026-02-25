@@ -114,7 +114,7 @@
     "id": "4072",
     "name": "Aureliano•Bolognesi",
     "born": "15 November 1930 in Genova (Genoa), Genova (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -122,6 +122,21 @@
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "5372",
+    "name": "Ann•Meyers",
+    "born": "26 March 1955 in San Diego, California (USA)",
+    "measurements": "175 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

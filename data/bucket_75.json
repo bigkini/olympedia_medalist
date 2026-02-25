@@ -139,5 +139,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5375",
+    "name": "Angelina•Mihaylova",
+    "born": "9 June 1960 in Plovdiv, Plovdiv (BUL)",
+    "measurements": "176 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

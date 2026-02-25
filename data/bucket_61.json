@@ -176,5 +176,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5461",
+    "name": "•Helen",
+    "born": "23 November 1972 in Araçatuba, São Paulo (BRA)",
+    "measurements": "175 cm / 61 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

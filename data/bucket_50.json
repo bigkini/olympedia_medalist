@@ -80,5 +80,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5450",
+    "name": "Sue•Rojcewicz",
+    "born": "29 May 1953 in Worcester, Massachusetts (USA)",
+    "measurements": "170 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

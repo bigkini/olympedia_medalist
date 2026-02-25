@@ -88,5 +88,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5380",
+    "name": "Bojana•Milošević",
+    "born": "29 November 1965 in Kraljevo, Raška (SRB)",
+    "measurements": "188 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

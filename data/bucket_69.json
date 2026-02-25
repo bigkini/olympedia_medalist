@@ -103,5 +103,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5369",
+    "name": "Carol•Menken-Schaudt",
+    "born": "23 November 1957 in Albany, Oregon (USA)",
+    "measurements": "195 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

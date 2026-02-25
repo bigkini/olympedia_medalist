@@ -183,5 +183,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5430",
+    "name": "Jasmina•Perazić",
+    "born": "6 December 1960 in Novi Sad, Južna Bačka (SRB)",
+    "measurements": "184 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

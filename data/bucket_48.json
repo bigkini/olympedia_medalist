@@ -65,5 +65,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5448",
+    "name": "Fiona•Robinson-Hannan",
+    "born": "7 February 1969 in Perth, Western Australia (AUS)",
+    "measurements": "190 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

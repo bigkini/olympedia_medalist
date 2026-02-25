@@ -170,5 +170,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5396",
+    "name": "Danira•Nakić",
+    "born": "22 July 1969 in Šibenik, Šibensko-kninska županija (CRO)",
+    "measurements": "184 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

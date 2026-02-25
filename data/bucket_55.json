@@ -227,5 +227,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5355",
+    "name": "Petkana•Makaveeva",
+    "born": "4 October 1952 in Lipen, Montana (BUL)",
+    "measurements": "174 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -322,5 +322,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5427",
+    "name": "Sofija•Pekić",
+    "born": "15 February 1953 in Lovćenac, Severna Bačka (SRB)",
+    "measurements": "184 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

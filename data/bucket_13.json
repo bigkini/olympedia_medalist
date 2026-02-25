@@ -344,5 +344,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5413",
+    "name": "•Alessandra",
+    "born": "2 December 1973 in São Paulo, São Paulo (BRA)",
+    "measurements": "200 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

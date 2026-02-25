@@ -148,5 +148,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5460",
+    "name": "•Adriana",
+    "born": "18 January 1971 in São Bernardo do Campo, São Paulo (BRA)",
+    "measurements": "180 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

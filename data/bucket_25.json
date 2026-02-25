@@ -221,5 +221,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5425",
+    "name": "•Cláudia",
+    "born": "15 July 1971 in Barão de Cocais, Minas Gerais (BRA)",
+    "measurements": "192 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

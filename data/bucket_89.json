@@ -288,5 +288,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5389",
+    "name": "Razija•Mujanović",
+    "born": "15 April 1967 in Ratkovići, Tuzlanski kanton (BIH)",
+    "measurements": "201 cm / 102 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

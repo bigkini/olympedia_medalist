@@ -155,5 +155,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "5365",
+    "name": "Nikki•McCray",
+    "born": "17 December 1971 in Collierville, Tennessee (USA)",
+    "measurements": "181 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

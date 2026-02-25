@@ -125,5 +125,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5405",
+    "name": "Cindy•Noble",
+    "born": "14 November 1958 in Washington, Ohio (USA)",
+    "measurements": "195 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

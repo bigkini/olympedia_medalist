@@ -132,5 +132,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "5429",
+    "name": "Peng•Ping",
+    "born": "14 January 1967 in Shanghai, Shanghai (CHN)",
+    "measurements": "190 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

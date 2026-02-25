@@ -257,5 +257,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "5382",
+    "name": "Vukica•Mitić",
+    "born": "7 December 1953 in Beograd (Belgrade), Beograd (SRB)",
+    "measurements": "170 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
