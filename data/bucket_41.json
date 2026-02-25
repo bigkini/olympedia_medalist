@@ -64,5 +64,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3241",
+    "name": "Travis•Lee",
+    "born": "26 May 1975 in San Diego, California (USA)",
+    "measurements": "190 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

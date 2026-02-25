@@ -77,7 +77,7 @@
     "id": "2799",
     "name": "Joseph•Wear",
     "born": "27 November 1876 in St. Louis, Missouri (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -85,6 +85,21 @@
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3199",
+    "name": "Chang•Cheng-Hsien",
+    "born": "8 February 1967 in Chiayi County, Taiwan (TPE)",
+    "measurements": "170 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

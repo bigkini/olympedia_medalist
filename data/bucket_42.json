@@ -95,5 +95,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3242",
+    "name": "Braden•Looper",
+    "born": "28 October 1974 in Weatherford, Oklahoma (USA)",
+    "measurements": "195 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

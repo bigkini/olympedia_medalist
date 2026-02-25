@@ -175,5 +175,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3255",
+    "name": "Jeff•Weaver",
+    "born": "22 August 1976 in Northridge, California (USA)",
+    "measurements": "195 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

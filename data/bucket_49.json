@@ -40,7 +40,7 @@
     "id": "2249",
     "name": "Will•Thompson",
     "born": "10 March 1848 in Calhoun, Georgia (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -62,6 +62,21 @@
         "discipline": "Archery",
         "event": "Team Round, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "3249",
+    "name": "Jim•Parque",
+    "born": "8 February 1976 in Norwalk, California (USA)",
+    "measurements": "180 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

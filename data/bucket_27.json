@@ -210,5 +210,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "3127",
+    "name": "Jin•Gap-Yong",
+    "born": "8 May 1974 in Seoul, Seoul (KOR)",
+    "measurements": "182 cm / 90 kg",
+    "medals": [
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "3227",
+    "name": "Troy•Glaus",
+    "born": "3 August 1976 in Tarzana, California (USA)",
+    "measurements": "195 cm / 98 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

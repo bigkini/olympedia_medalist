@@ -174,5 +174,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3116",
+    "name": "Koji•Tokunaga",
+    "born": "3 September 1968 in Tokyo, Tokyo (JPN)",
+    "measurements": "175 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3216",
+    "name": "Tsai•Ming-Hung",
+    "born": "2 September 1966 in Yunlin County, Taiwan (TPE)",
+    "measurements": "180 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

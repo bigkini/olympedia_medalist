@@ -92,7 +92,7 @@
     "id": "2801",
     "name": "Allen•West",
     "born": "2 August 1872 in Mobile, Alabama (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -100,6 +100,21 @@
         "discipline": "Tennis",
         "event": "Doubles, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3201",
+    "name": "Chang•Yaw-Teing",
+    "born": "28 March 1965 in ?, Tainan (TPE)",
+    "measurements": "174 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

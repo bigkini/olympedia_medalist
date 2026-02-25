@@ -97,7 +97,7 @@
     "id": "2612",
     "name": "Wollmar•Boström",
     "born": "15 June 1878 in Överselö, Strängnäs, Södermanland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -105,6 +105,21 @@
         "discipline": "Tennis",
         "event": "Doubles, Covered Courts, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3212",
+    "name": "Lin•Kun-Han",
+    "born": "5 January 1968 in Changhua County, Taiwan (TPE)",
+    "measurements": "175 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -64,5 +64,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3117",
+    "name": "Shigeki•Wakabayashi",
+    "born": "24 December 1966 in Saiki, Oita (JPN)",
+    "measurements": "177 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3217",
+    "name": "Wang•Kuang-Shih",
+    "born": "2 August 1967 in Guangfu, Taiwan (TPE)",
+    "measurements": "180 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

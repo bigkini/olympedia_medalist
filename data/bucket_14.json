@@ -110,5 +110,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3214",
+    "name": "Lo•Kuo-Chung",
+    "born": "16 September 1965 in Hsinchu, Taiwan (TPE)",
+    "measurements": "179 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

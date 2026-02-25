@@ -116,5 +116,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "3228",
+    "name": "Chad•Green",
+    "born": "28 June 1975 in Dunkirk, New York (USA)",
+    "measurements": "178 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

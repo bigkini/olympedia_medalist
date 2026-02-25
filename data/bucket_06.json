@@ -116,5 +116,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "3206",
+    "name": "Huang•Wen-Po",
+    "born": "29 October 1971 in ?, Tainan (TPE)",
+    "measurements": "188 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

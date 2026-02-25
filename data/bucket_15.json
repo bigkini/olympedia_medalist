@@ -131,5 +131,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3115",
+    "name": "Akihiro•Togo",
+    "born": "18 February 1967 in ?, Kochi (JPN)",
+    "measurements": "175 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3215",
+    "name": "Pai•Kun-Hong",
+    "born": "6 January 1970 in Taipei, Taiwan (TPE)",
+    "measurements": "172 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -84,7 +84,7 @@
     "id": "3035",
     "name": "Jean•Gachet",
     "born": "2 June 1894 in Saint-Étienne, Loire (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -92,6 +92,21 @@
         "discipline": "Boxing",
         "event": "Featherweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "3135",
+    "name": "Im•Seon-Dong",
+    "born": "4 August 1973",
+    "measurements": "187 cm / 95 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -80,5 +80,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "3103",
+    "name": "Christophe•Tiozzo",
+    "born": "1 June 1963 in Saint-Denis, Seine-Saint-Denis (FRA)",
+    "measurements": "180 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3203",
+    "name": "Chen•Wei-Chen",
+    "born": "24 May 1966",
+    "measurements": "178 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

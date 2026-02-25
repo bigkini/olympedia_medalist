@@ -109,5 +109,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3107",
+    "name": "Joseph•Ventaja",
+    "born": "4 February 1930 in Casablanca, Casablanca-Settat (MAR)",
+    "measurements": "166 cm",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3207",
+    "name": "Jong•Yeu-Jeng",
+    "born": "25 December 1973 in ?, Tainan (TPE)",
+    "measurements": "170 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

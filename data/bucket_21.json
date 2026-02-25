@@ -168,5 +168,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3221",
+    "name": "Chad•Allen",
+    "born": "6 February 1975 in Dallas, Texas (USA)",
+    "measurements": "185 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

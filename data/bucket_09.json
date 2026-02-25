@@ -99,7 +99,7 @@
     "id": "2209",
     "name": "Lida•Howell",
     "born": "28 August 1859 in Lebanon, Ohio (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -121,6 +121,21 @@
         "discipline": "Archery",
         "event": "Team Round, Women\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "3209",
+    "name": "Kuo Lee•Chien-Fu",
+    "born": "24 March 1969 in Taoyuan, Taoyuan (TPE)",
+    "measurements": "184 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -117,5 +117,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "3223",
+    "name": "R. A.•Dickey",
+    "born": "29 October 1974 in Nashville, Tennessee (USA)",
+    "measurements": "188 cm / 94 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

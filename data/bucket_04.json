@@ -162,5 +162,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3204",
+    "name": "Chiang•Tai-Chuan",
+    "born": "26 October 1960 in Chiayi County, Taiwan (TPE)",
+    "measurements": "174 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

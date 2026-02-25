@@ -138,5 +138,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3230",
+    "name": "Seth•Greisinger",
+    "born": "29 July 1975 in Kansas City, Kansas (USA)",
+    "measurements": "193 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

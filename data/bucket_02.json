@@ -58,5 +58,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "3202",
+    "name": "Chen•Chi-Hsin",
+    "born": "16 May 1962 in Hualien County, Taiwan (TPE)",
+    "measurements": "173 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

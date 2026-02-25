@@ -129,7 +129,7 @@
     "id": "3022",
     "name": "Jean•Despeaux",
     "born": "22 October 1915 in Paris Xe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -137,6 +137,21 @@
         "discipline": "Boxing",
         "event": "Middleweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "3222",
+    "name": "Kris•Benson",
+    "born": "7 November 1974 in Duluth, Minnesota (USA)",
+    "measurements": "193 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

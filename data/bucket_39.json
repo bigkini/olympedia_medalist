@@ -43,5 +43,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "3239",
+    "name": "Mark•Kotsay",
+    "born": "2 December 1975 in Whittier, California (USA)",
+    "measurements": "183 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

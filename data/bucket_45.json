@@ -102,5 +102,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "3245",
+    "name": "Warren•Morris",
+    "born": "11 January 1974 in Alexandria, Louisiana (USA)",
+    "measurements": "180 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

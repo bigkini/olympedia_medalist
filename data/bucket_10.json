@@ -100,7 +100,7 @@
     "id": "3010",
     "name": "Jean•Ces",
     "born": "5 September 1906 in Béziers, Hérault (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -108,6 +108,21 @@
         "discipline": "Boxing",
         "event": "Bantamweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "3210",
+    "name": "Liao•Ming-Hsiung",
+    "born": "18 October 1968 in Hengchun, Taiwan (TPE)",
+    "measurements": "180 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TPE",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

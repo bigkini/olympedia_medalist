@@ -25,7 +25,7 @@
     "id": "2032",
     "name": "Tiest•van Gestel",
     "born": "29 March 1881 in Goirle, Noord-Brabant (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -33,6 +33,21 @@
         "discipline": "Archery",
         "event": "Target Archery, 28 metres, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "3232",
+    "name": "Kip•Harkrider",
+    "born": "16 September 1975 in Carthage, Texas (USA)",
+    "measurements": "180 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Baseball (Baseball/Softball)",
+        "event": "Baseball, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }
