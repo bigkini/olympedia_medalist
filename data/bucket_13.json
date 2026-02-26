@@ -497,7 +497,7 @@
     "id": "9413",
     "name": "Karen•Hoff",
     "born": "29 May 1921 in Vorup, Randers, Midtjylland (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -505,6 +505,21 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "10513",
+    "name": "Jerzy•Opara",
+    "born": "21 July 1948 in Warszawa (Warsaw), Mazowieckie (POL)",
+    "measurements": "176 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

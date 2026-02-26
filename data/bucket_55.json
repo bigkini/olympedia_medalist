@@ -443,5 +443,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10755",
+    "name": "Erik•Bladström",
+    "born": "29 March 1918 in Västervik, Kalmar (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Folding Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

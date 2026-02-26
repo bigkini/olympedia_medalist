@@ -333,5 +333,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10593",
+    "name": "Dimitrie•Ivanov",
+    "born": "24 September 1944 in Sfântu Gheorghe, Tulcea (ROU)",
+    "measurements": "192 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10793",
+    "name": "Thomas•Ohlsson",
+    "born": "20 September 1958 in Norrköping, Östergötland (SWE)",
+    "measurements": "185 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

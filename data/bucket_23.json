@@ -319,5 +319,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10623",
+    "name": "Mihai•Țurcaș",
+    "born": "18 November 1942 in Brașov, Brașov (ROU)",
+    "measurements": "181 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

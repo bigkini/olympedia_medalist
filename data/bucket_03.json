@@ -363,5 +363,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10603",
+    "name": "Costică•Olaru",
+    "born": "1 August 1960 in Somova, Tulcea (ROU)",
+    "measurements": "169 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

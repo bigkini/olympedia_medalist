@@ -341,5 +341,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10591",
+    "name": "Andrei•Igorov",
+    "born": "10 December 1939 in Brăila, Brăila (ROU)",
+    "measurements": "183 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

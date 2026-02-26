@@ -248,7 +248,7 @@
     "id": "10371",
     "name": "Wim•van der Kroft",
     "born": "16 August 1916 in Haarlem, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -256,6 +256,58 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "10471",
+    "name": "Marek•Dopierała",
+    "born": "30 July 1960 in Bielsko-Biała, Śląskie (POL)",
+    "measurements": "181 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "10571",
+    "name": "Ion•Bîrlădeanu",
+    "born": "1 August 1958 in Cosmești, Galați (ROU)",
+    "measurements": "187 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "10771",
+    "name": "Tommy•Karls",
+    "born": "13 October 1961 in Nyköping, Södermanland (SWE)",
+    "measurements": "181 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

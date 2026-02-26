@@ -294,13 +294,43 @@
     "id": "10066",
     "name": "István•Hernek",
     "born": "23 April 1935 in Törökszentmiklós, Jász-Nagykun-Szolnok (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "HUN",
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10566",
+    "name": "Maria•Ștefan-Mihoreanu",
+    "born": "16 February 1954 in Jurilovca, Tulcea (ROU)",
+    "measurements": "170 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "10766",
+    "name": "Ingemar•Hedberg",
+    "born": "8 March 1920 in Örebro, Örebro (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

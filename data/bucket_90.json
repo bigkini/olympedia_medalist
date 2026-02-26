@@ -341,5 +341,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10490",
+    "name": "Krzysztof•Kołomański",
+    "born": "16 August 1973 in Opoczno, Łódzkie (POL)",
+    "measurements": "169 cm / 69 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

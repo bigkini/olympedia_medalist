@@ -271,13 +271,28 @@
     "id": "9420",
     "name": "Tove•Søby",
     "born": "23 January 1933 in København (Copenhagen), Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "DEN",
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "10720",
+    "name": "Juraj•Minčík",
+    "born": "27 March 1977 in Spišská Stará Ves, Prešov (SVK)",
+    "measurements": "181 cm / 76 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "SVK",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Singles, Slalom, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

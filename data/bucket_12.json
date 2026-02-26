@@ -323,5 +323,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10612",
+    "name": "Larion•Serghei",
+    "born": "11 March 1952 in Dunăvățu de Jos, Tulcea (ROU)",
+    "measurements": "184 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

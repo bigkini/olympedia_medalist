@@ -377,5 +377,64 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10487",
+    "name": "Stefan•Kapłaniak",
+    "born": "10 April 1933 in Szczawnica, Małopolskie (POL)",
+    "measurements": "176 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "10587",
+    "name": "Ion•Geantă",
+    "born": "12 September 1959 in Alexandru Vlahuță, Vaslui (ROU)",
+    "measurements": "191 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10787",
+    "name": "Lars-Erik•Moberg",
+    "born": "7 August 1957 in Katrineholm, Södermanland (SWE)",
+    "measurements": "185 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

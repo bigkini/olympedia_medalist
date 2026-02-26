@@ -374,11 +374,41 @@
     "id": "10060",
     "name": "József•Gurovits",
     "born": "23 November 1928 in Budapest, Budapest (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "10560",
+    "name": "Nastasia•Nichitov-Ionescu",
+    "born": "5 March 1954 in Maliuc, Tulcea (ROU)",
+    "measurements": "169 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "10760",
+    "name": "Tage•Fahlborg",
+    "born": "24 April 1912 in Stockholm, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "SWE",
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Doubles, 10,000 metres, Men\n(Olympic)",
         "medal": "Bronze"

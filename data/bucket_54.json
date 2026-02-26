@@ -341,5 +341,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10554",
+    "name": "Raluca•Ioniță",
+    "born": "9 June 1976 in Ploiești, Prahova (ROU)",
+    "measurements": "184 cm / 78 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "10654",
+    "name": "Sergey•Verlin",
+    "born": "7 October 1974 in Voronezh, Voronezh (RUS)",
+    "measurements": "192 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "10754",
+    "name": "Hans•Berglund",
+    "born": "24 February 1918 in Stockholm, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

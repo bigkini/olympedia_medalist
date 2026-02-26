@@ -412,5 +412,48 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10436",
+    "name": "Paul•MacDonald",
+    "born": "8 January 1960 in Auckland, Auckland (NZL)",
+    "measurements": "179 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

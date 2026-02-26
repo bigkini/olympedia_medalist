@@ -407,5 +407,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10652",
+    "name": "Anatoly•Tishchenko",
+    "born": "18 July 1970 in Taganrog, Rostov (RUS)",
+    "measurements": "187 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "10752",
+    "name": "Per-Inge•Bengtsson",
+    "born": "29 October 1961 in Karlstad, Värmland (SWE)",
+    "measurements": "184 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

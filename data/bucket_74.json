@@ -295,7 +295,7 @@
     "id": "10074",
     "name": "Lajos•Kiss",
     "born": "22 May 1934 in Miskolc, Borsod-Abaúj-Zemplén (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -303,6 +303,21 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "10574",
+    "name": "Petre•Capusta",
+    "born": "14 June 1957 in Sarichioi, Tulcea (ROU)",
+    "measurements": "171 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

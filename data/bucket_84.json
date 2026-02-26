@@ -428,5 +428,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10584",
+    "name": "Dumitru•Alexe",
+    "born": "21 March 1935 in Mahmudia, Tulcea (ROU)",
+    "measurements": "166 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

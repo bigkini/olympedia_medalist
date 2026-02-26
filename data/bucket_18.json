@@ -466,5 +466,34 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10618",
+    "name": "Toma•Simionov",
+    "born": "30 October 1955 in Caraorman, Tulcea (ROU)",
+    "measurements": "175 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

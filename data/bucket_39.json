@@ -267,5 +267,41 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10739",
+    "name": "Anna•Olsson",
+    "born": "14 March 1964 in Timrå, Västernorrland (SWE)",
+    "measurements": "165 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

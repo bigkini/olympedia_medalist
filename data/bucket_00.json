@@ -430,5 +430,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10600",
+    "name": "Policarp•Malîhin",
+    "born": "9 March 1954 in Mila 23, Tulcea (ROU)",
+    "measurements": "178 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

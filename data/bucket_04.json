@@ -356,5 +356,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10504",
+    "name": "Piotr•Markiewicz",
+    "born": "3 September 1973 in Sejny, Podlaskie (POL)",
+    "measurements": "184 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

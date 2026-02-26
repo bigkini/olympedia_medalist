@@ -310,5 +310,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10734",
+    "name": "Maria•Haglund",
+    "born": "6 May 1972 in Karlskoga, Örebro (SWE)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

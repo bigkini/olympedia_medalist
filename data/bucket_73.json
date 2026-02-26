@@ -377,5 +377,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10573",
+    "name": "Anton•Calenic",
+    "born": "1 February 1943 in Chilia Veche, Tulcea (ROU)",
+    "measurements": "181 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

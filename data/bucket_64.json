@@ -443,5 +443,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10564",
+    "name": "Cornelia•Sideri",
+    "born": "29 December 1938 in București (Bucharest), București (ROU)",
+    "measurements": "168 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

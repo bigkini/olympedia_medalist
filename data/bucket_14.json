@@ -474,5 +474,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10714",
+    "name": "Elena•Kaliská",
+    "born": "19 January 1972 in Zvolen, Banská Bystrica (SVK)",
+    "measurements": "172 cm / 65 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "SVK",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "SVK",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

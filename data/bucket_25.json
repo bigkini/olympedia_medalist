@@ -429,5 +429,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10525",
+    "name": "Michał•Staniszewski",
+    "born": "16 September 1973 in Opoczno, Łódzkie (POL)",
+    "measurements": "178 cm / 78 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10625",
+    "name": "Roman•Vartolomeu",
+    "born": "9 May 1950 in Mahmudia, Tulcea (ROU)",
+    "measurements": "185 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

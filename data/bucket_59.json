@@ -485,5 +485,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10459",
+    "name": "Aneta•Pastuszka-Konieczna",
+    "born": "11 May 1978 in Krosno Odrzańskie, Lubuskie (POL)",
+    "measurements": "168 cm / 73 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10559",
+    "name": "Maria•Nichiforov",
+    "born": "9 April 1951 in Mila 23, Tulcea (ROU)",
+    "measurements": "168 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

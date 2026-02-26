@@ -499,13 +499,42 @@
     "id": "9927",
     "name": "Willi•Horn",
     "born": "17 January 1909 in Berlin, Berlin (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "GER",
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Folding Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10627",
+    "name": "Aurel•Vernescu",
+    "born": "23 January 1939 in București (Bucharest), București (ROU)",
+    "measurements": "188 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

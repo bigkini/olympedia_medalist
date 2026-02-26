@@ -476,7 +476,7 @@
     "id": "10081",
     "name": "Ferenc•Mohácsi",
     "born": "25 October 1929 in Budapest, Budapest (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -484,6 +484,57 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "10481",
+    "name": "Andrzej•Gronowicz",
+    "born": "7 March 1951 in Piła, Wielkopolskie (POL)",
+    "measurements": "176 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10581",
+    "name": "Vasile•Dîba",
+    "born": "24 July 1954 in Jurilovca, Tulcea (ROU)",
+    "measurements": "182 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

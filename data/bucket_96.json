@@ -379,5 +379,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10796",
+    "name": "Markus•Oscarsson",
+    "born": "9 May 1977 in Västerås, Västmanland (SWE)",
+    "measurements": "184 cm / 86 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

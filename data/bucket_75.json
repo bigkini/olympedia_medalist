@@ -355,5 +355,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10475",
+    "name": "Maciej•Freimut",
+    "born": "24 February 1967 in Wąbrzeźno, Kujawsko-Pomorskie (POL)",
+    "measurements": "188 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10675",
+    "name": "Gabi•Müller",
+    "born": "21 November 1974",
+    "measurements": "164 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10775",
+    "name": "Helge•Larsson",
+    "born": "25 October 1916 in Stockholm, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

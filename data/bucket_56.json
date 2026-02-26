@@ -282,5 +282,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10556",
+    "name": "Hilde•Lauer",
+    "born": "24 March 1943 in Orțișoara, Timiș (ROU)",
+    "measurements": "160 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
