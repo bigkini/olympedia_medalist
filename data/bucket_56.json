@@ -245,5 +245,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9556",
+    "name": "Olavi•Ojanperä",
+    "born": "27 October 1921 in Tyrvää, Sastamala, Pirkanmaa (FIN)",
+    "measurements": "184 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

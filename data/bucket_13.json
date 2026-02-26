@@ -460,7 +460,7 @@
     "id": "8513",
     "name": "Anatoly•Lagetko",
     "born": "6 November 1936 in Tokmak, Zaporizhzhia (UKR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -468,6 +468,43 @@
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9213",
+    "name": "Petar•Merkov",
+    "born": "3 November 1976 in Plovdiv, Plovdiv (BUL)",
+    "measurements": "188 cm / 95 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9413",
+    "name": "Karen•Hoff",
+    "born": "29 May 1921 in Vorup, Randers, Midtjylland (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

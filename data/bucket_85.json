@@ -230,5 +230,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9185",
+    "name": "Borislav•Ananiev",
+    "born": "11 December 1955",
+    "measurements": "185 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

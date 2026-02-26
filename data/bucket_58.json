@@ -345,5 +345,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9258",
+    "name": "Larry•Cain",
+    "born": "9 January 1963 in Toronto, Ontario (CAN)",
+    "measurements": "182 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

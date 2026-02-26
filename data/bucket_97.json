@@ -244,5 +244,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9497",
+    "name": "José Ramón•López",
+    "born": "22 November 1950 in Ceuta, Ceuta (ESP)",
+    "measurements": "180 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9597",
+    "name": "Joël•Bettin",
+    "born": "14 December 1966 in Melun, Seine-et-Marne (FRA)",
+    "measurements": "184 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

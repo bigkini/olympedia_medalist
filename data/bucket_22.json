@@ -340,5 +340,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9422",
+    "name": "Frederik Kobberup•Andersen",
+    "born": "24 January 1920 in Århus (Aarhus), Midtjylland (DEN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9522",
+    "name": "Sylvi•Saimo",
+    "born": "12 November 1914 in Ruskeala, Respublika Kareliya (RUS)",
+    "measurements": "170 cm / 59-62 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

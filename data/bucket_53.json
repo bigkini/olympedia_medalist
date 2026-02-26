@@ -347,5 +347,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9053",
+    "name": "Fritzi•Schwingl",
+    "born": "28 July 1921 in Wien (Vienna), Wien (AUT)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9453",
+    "name": "Peder•Rasch",
+    "born": "31 May 1934 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

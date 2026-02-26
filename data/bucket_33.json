@@ -408,5 +408,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9333",
+    "name": "John•Wood",
+    "born": "7 June 1950 in Toronto, Ontario (CAN)",
+    "measurements": "180 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9433",
+    "name": "Erik•Hansen",
+    "born": "15 November 1939 in Randers, Midtjylland (DEN)",
+    "measurements": "182 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Relay, 4 × 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

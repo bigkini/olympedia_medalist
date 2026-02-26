@@ -206,5 +206,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9437",
+    "name": "Henning Lynge•Jakobsen",
+    "born": "6 March 1962 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": "184 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

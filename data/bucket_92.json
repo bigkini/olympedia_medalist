@@ -360,5 +360,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9192",
+    "name": "Lazar•Hristov",
+    "born": "17 February 1954",
+    "measurements": "178 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9292",
+    "name": "Norm•Lane",
+    "born": "6 November 1919 in Toronto, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

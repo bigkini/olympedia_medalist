@@ -326,5 +326,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9049",
+    "name": "Gertrude•Liebhart",
+    "born": "26 October 1928 in Langenzersdorf, Niederösterreich (AUT)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9449",
+    "name": "Peer•Norrbohm",
+    "born": "25 June 1942 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": "179 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

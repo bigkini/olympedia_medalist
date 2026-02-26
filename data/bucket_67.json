@@ -289,5 +289,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9067",
+    "name": "Gregor•Hradetzky",
+    "born": "31 January 1909 in Krems an der Donau, Niederösterreich (AUT)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Folding Kayak Singles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

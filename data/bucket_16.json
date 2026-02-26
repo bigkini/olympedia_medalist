@@ -390,5 +390,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9516",
+    "name": "Narciso•Suárez",
+    "born": "18 July 1960 in Valladolid, Valladolid (ESP)",
+    "measurements": "180 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

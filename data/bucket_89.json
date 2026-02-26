@@ -460,5 +460,56 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9189",
+    "name": "Nikolay•Buhalov",
+    "born": "20 March 1967 in Dabene, Plovdiv (BUL)",
+    "measurements": "187 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "9589",
+    "name": "Franck•Adisson",
+    "born": "24 July 1969 in Tarbes, Hautes-Pyrénées (FRA)",
+    "measurements": "180 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

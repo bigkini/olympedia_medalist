@@ -396,7 +396,7 @@
     "id": "8764",
     "name": "Ed•Sanders",
     "born": "24 March 1930 in Los Angeles, California (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -404,6 +404,21 @@
         "discipline": "Boxing",
         "event": "Heavyweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "9464",
+    "name": "Christian•Frederiksen",
+    "born": "31 January 1965 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": "173 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

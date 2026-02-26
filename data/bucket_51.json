@@ -221,5 +221,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9451",
+    "name": "Arne•Nielsson",
+    "born": "11 May 1962 in Glostrup, Hovedstaden (DEN)",
+    "measurements": "172 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

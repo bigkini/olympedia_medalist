@@ -258,5 +258,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9244",
+    "name": "Frank•Amyot",
+    "born": "14 September 1904 in Thornhill, Ontario (CAN)",
+    "measurements": "188 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

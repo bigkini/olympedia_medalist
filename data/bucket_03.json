@@ -267,5 +267,34 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9503",
+    "name": "Herminio•Menéndez",
+    "born": "20 December 1953 in Candás, Asturias (ESP)",
+    "measurements": "180 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

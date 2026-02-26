@@ -266,5 +266,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9386",
+    "name": "Štěpánka•Hilgertová",
+    "born": "10 April 1968 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": "164 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CZE",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "CZE",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

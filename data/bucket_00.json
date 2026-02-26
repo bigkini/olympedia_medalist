@@ -356,5 +356,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9200",
+    "name": "Nikolay•Ilkov",
+    "born": "21 February 1955 in Plovdiv, Plovdiv (BUL)",
+    "measurements": "180 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9600",
+    "name": "Olivier•Boivin",
+    "born": "6 June 1965 in Saint-Brieuc, Côtes-d'Armor (FRA)",
+    "measurements": "173 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

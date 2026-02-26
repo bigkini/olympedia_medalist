@@ -338,5 +338,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9436",
+    "name": "Arne•Høyer",
+    "born": "9 November 1928 in Struer, Midtjylland (DEN)",
+    "measurements": "181 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Relay, 4 × 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

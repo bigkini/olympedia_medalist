@@ -409,5 +409,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9440",
+    "name": "Erling•Jessen",
+    "born": "31 August 1938 in Kolding, Syddanmark (DEN)",
+    "measurements": "174 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Relay, 4 × 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

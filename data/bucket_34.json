@@ -265,5 +265,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9034",
+    "name": "Ian•Rowling",
+    "born": "10 February 1967 in Epping, England (GBR)",
+    "measurements": "183 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

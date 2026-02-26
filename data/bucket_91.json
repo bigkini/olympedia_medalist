@@ -304,5 +304,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9291",
+    "name": "Ken•Lane",
+    "born": "16 August 1923 in Toronto, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -236,5 +236,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9041",
+    "name": "Andrew•Trim",
+    "born": "30 December 1968 in Sydney, New South Wales (AUS)",
+    "measurements": "178 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

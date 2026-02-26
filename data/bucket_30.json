@@ -280,5 +280,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9230",
+    "name": "Lucie•Guay",
+    "born": "12 December 1958 in Montréal, Québec (CAN)",
+    "measurements": "169 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -333,5 +333,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9163",
+    "name": "Aliaksandr•Masiaikou",
+    "born": "26 July 1971 in Mahilyow, Mahilyow (BLR)",
+    "measurements": "178 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "9463",
+    "name": "John Rungsted•Sørensen",
+    "born": "5 October 1934 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": "170 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

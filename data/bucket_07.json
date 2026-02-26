@@ -286,13 +286,57 @@
     "id": "7907",
     "name": "Constantin•Dumitrescu",
     "born": "14 March 1931 in București (Bucharest), București (ROU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "ROU",
         "discipline": "Boxing",
         "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9407",
+    "name": "Miroslav•Šimek",
+    "born": "27 January 1959 in Turnov, Liberecký kraj (CZE)",
+    "measurements": "168 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CZE",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9507",
+    "name": "Luis•Ramos",
+    "born": "15 May 1953 in Oviedo, Asturias (ESP)",
+    "measurements": "180 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

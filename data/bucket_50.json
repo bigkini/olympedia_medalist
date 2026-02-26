@@ -170,5 +170,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9250",
+    "name": "Douglas•Bennett",
+    "born": "13 September 1918 in Saint Lambert, Québec (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

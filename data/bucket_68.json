@@ -295,5 +295,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9068",
+    "name": "Adi•Kainz",
+    "born": "5 June 1903 in Linz, Oberösterreich (AUT)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "9268",
+    "name": "Hugh•Fisher",
+    "born": "1 October 1955 in Hamilton, Waikato (NZL)",
+    "measurements": "183 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

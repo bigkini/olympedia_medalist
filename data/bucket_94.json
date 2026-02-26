@@ -355,5 +355,57 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9194",
+    "name": "Fedi•Damyanov",
+    "born": "14 August 1950 in Vidin, Vidin (BUL)",
+    "measurements": "184 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9394",
+    "name": "Martin•Doktor",
+    "born": "21 May 1974 in Polička, Pardubický kraj (CZE)",
+    "measurements": "178 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CZE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CZE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "9594",
+    "name": "François•Barouh",
+    "born": "16 January 1955 in Sillery, Marne (FRA)",
+    "measurements": "186 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -369,5 +369,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9219",
+    "name": "Blagovest•Stoyanov",
+    "born": "21 March 1968 in Asenovgrad, Plovdiv (BUL)",
+    "measurements": "183 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

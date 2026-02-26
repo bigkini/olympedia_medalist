@@ -304,5 +304,34 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9565",
+    "name": "Kurt•Wires",
+    "born": "28 April 1919 in Helsinki, Uusimaa (FIN)",
+    "measurements": "176 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

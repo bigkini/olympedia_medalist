@@ -275,5 +275,65 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9038",
+    "name": "John•Sumegi",
+    "born": "27 October 1954 in Orange, New South Wales (AUS)",
+    "measurements": "182 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9138",
+    "name": "Paul•Hoekstra",
+    "born": "30 December 1944 in Enschede, Overijssel (NED)",
+    "measurements": "179 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9238",
+    "name": "Barb•Olmsted",
+    "born": "17 August 1959 in North Bay, Ontario (CAN)",
+    "measurements": "173 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9438",
+    "name": "Bernhard•Jensen",
+    "born": "16 February 1912 in Odense, Syddanmark (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

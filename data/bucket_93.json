@@ -288,5 +288,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9093",
+    "name": "Norbert•Sattler",
+    "born": "4 October 1951 in Mauthen, Kärnten (AUT)",
+    "measurements": "168 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9593",
+    "name": "Jacky•Avril",
+    "born": "19 July 1964 in Vierzon, Cher (FRA)",
+    "measurements": "176 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Singles, Slalom, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

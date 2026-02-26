@@ -414,5 +414,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9543",
+    "name": "Mikko•Kolehmainen",
+    "born": "18 August 1964 in Mikkeli, Etelä-Savo (FIN)",
+    "measurements": "190 cm / 87-92 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

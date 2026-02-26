@@ -289,5 +289,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9210",
+    "name": "Ivan•Manev",
+    "born": "23 November 1950",
+    "measurements": "179 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

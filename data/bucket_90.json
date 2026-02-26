@@ -274,5 +274,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9190",
+    "name": "Ivan•Burchin",
+    "born": "9 December 1952 in Mizia, Vratsa (BUL)",
+    "measurements": "174 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

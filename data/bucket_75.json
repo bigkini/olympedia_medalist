@@ -303,5 +303,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9575",
+    "name": "Myriam•Jerusalmi-Fox",
+    "born": "24 October 1961 in Marseille (Marseilles), Bouches-du-Rhône (FRA)",
+    "measurements": "160 cm / 53 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

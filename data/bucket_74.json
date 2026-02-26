@@ -275,5 +275,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9174",
+    "name": "Borislava•Ivanova",
+    "born": "24 November 1966 in Vidin, Vidin (BUL)",
+    "measurements": "169 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -385,5 +385,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9161",
+    "name": "Dzmitry•Douhalionok",
+    "born": "14 December 1971 in Mhlio, Minsk Voblast (BLR)",
+    "measurements": "195 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "9461",
+    "name": "Helmuth Nyborg•Sørensen",
+    "born": "5 January 1937 in Løsning, Hedensted, Midtjylland (DEN)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Relay, 4 × 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

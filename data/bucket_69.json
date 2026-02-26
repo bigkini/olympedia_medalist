@@ -260,5 +260,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9069",
+    "name": "Viktor•Kalisch",
+    "born": "4 December 1902 in Linz, Oberösterreich (AUT)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

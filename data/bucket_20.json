@@ -266,5 +266,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9420",
+    "name": "Tove•Søby",
+    "born": "23 January 1933 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -287,5 +287,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9209",
+    "name": "Lyubomir•Lyubenov",
+    "born": "26 August 1957 in Plovdiv, Plovdiv (BUL)",
+    "measurements": "188 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

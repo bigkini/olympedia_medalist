@@ -287,5 +287,49 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9106",
+    "name": "Herbert•Wiedermann",
+    "born": "1 November 1927 in Bodensdorf, Niederösterreich (AUT)",
+    "measurements": "168 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9406",
+    "name": "Jiří•Rohan",
+    "born": "13 December 1964 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CZE",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]
