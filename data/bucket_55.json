@@ -301,5 +301,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6555",
+    "name": "Frank•Lubin",
+    "born": "7 January 1910 in Los Angeles, California (USA)",
+    "measurements": "200 cm / 113 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "6755",
+    "name": "Shaquille•O'Neal",
+    "born": "6 March 1972 in Newark, New Jersey (USA)",
+    "measurements": "216 cm / 137 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

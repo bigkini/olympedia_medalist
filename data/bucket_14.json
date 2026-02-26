@@ -304,5 +304,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6614",
+    "name": "Alberto•Marson",
+    "born": "24 February 1925 in Casa Branca, São Paulo (BRA)",
+    "measurements": "187 cm",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

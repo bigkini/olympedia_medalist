@@ -238,5 +238,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6547",
+    "name": "Juan Manuel•López",
+    "born": "4 February 1959 in Bilbao, Vizcaya (ESP)",
+    "measurements": "194 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

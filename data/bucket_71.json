@@ -114,11 +114,33 @@
     "id": "5971",
     "name": "Ignacio•de la Vega",
     "born": "23 June 1914 in San Luis Potosí, San Luis Potosí (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "MEX",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "6671",
+    "name": "Valery•Miloserdov",
+    "born": "11 September 1951 in Elektrostal, Moskva Oblast (RUS)",
+    "measurements": "186 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Bronze"

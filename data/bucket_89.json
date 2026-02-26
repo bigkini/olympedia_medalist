@@ -353,7 +353,7 @@
     "id": "5989",
     "name": "Nelson•Demarco",
     "born": "6 February 1925 in Montevideo, Montevideo (URU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -365,6 +365,36 @@
       {
         "game": "1956 Summer Olympics",
         "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "6489",
+    "name": "Algirdas•Lauritėnas",
+    "born": "5 November 1932 in Kaunas, Kaunas (LTU)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "6589",
+    "name": "Danny•Manning",
+    "born": "17 May 1966 in Hattiesburg, Mississippi (USA)",
+    "measurements": "208 cm / 104 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Bronze"

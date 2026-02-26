@@ -266,5 +266,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6622",
+    "name": "Francisco•Martínez",
+    "born": "20 June 1912 in Ciudad Juárez, Chihuahua (MEX)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -330,5 +330,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6559",
+    "name": "Ray•Lumpp",
+    "born": "11 July 1923 in Brooklyn, New York, New York (USA)",
+    "measurements": "185 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

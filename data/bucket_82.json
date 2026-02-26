@@ -347,5 +347,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6682",
+    "name": "Art•Mollner",
+    "born": "20 December 1912 in Saranac Lake, New York (USA)",
+    "measurements": "183 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

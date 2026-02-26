@@ -334,5 +334,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6633",
+    "name": "Scott•May",
+    "born": "19 March 1954 in Sandusky, Ohio (USA)",
+    "measurements": "200 cm / 99 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

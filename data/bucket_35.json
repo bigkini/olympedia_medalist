@@ -229,5 +229,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6535",
+    "name": "Adesio•Lombardo",
+    "born": "2 February 1925 in Montevideo, Montevideo (URU)",
+    "measurements": "190 cm",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

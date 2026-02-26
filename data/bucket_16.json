@@ -308,5 +308,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6616",
+    "name": "Fernando•Martín",
+    "born": "25 March 1962 in Madrid, Madrid (ESP)",
+    "measurements": "204 cm / 102 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

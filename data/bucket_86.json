@@ -174,7 +174,7 @@
     "id": "6486",
     "name": "Tabaré•Larre Borges",
     "born": "6 January 1922 in Montevideo, Montevideo (URU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -182,6 +182,28 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "6586",
+    "name": "Karl•Malone",
+    "born": "24 July 1963 in Bernice, Louisiana (USA)",
+    "measurements": "205 cm / 116 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

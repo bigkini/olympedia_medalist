@@ -200,5 +200,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6557",
+    "name": "Jerry•Lucas",
+    "born": "30 March 1940 in Middletown, Ohio (USA)",
+    "measurements": "203 cm / 103 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "6657",
+    "name": "Dino•Meneghin",
+    "born": "18 January 1950 in Alano di Piave, Setteville, Belluno (ITA)",
+    "measurements": "204 cm / 110 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -222,5 +222,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6760",
+    "name": "Saša•Obradović",
+    "born": "29 January 1969 in Beograd (Belgrade), Beograd (SRB)",
+    "measurements": "198 cm / 94 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "SCG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

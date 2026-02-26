@@ -133,5 +133,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6702",
+    "name": "Levan•Moseshvili",
+    "born": "23 May 1940 in Tbilisi, Tbilisi (GEO)",
+    "measurements": "198 cm / 96 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

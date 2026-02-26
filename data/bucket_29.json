@@ -177,5 +177,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6529",
+    "name": "José Luis•Llorente",
+    "born": "6 January 1959 in Valladolid, Valladolid (ESP)",
+    "measurements": "188 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

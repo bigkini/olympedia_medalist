@@ -272,5 +272,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6719",
+    "name": "Anatoly•Myshkin",
+    "born": "14 August 1954 in Sylva, Sverdlovsk (RUS)",
+    "measurements": "205 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

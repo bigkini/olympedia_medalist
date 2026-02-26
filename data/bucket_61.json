@@ -266,5 +266,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6561",
+    "name": "Joann•Lõssov",
+    "born": "10 September 1921 in Tallinn, Harjumaa (EST)",
+    "measurements": "174 cm",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "6661",
+    "name": "Raúl•Mera",
+    "born": "14 June 1936 in Montevideo, Montevideo (URU)",
+    "measurements": "181 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "6761",
+    "name": "Željko•Obradović",
+    "born": "9 March 1960 in Čačak, Moravica (SRB)",
+    "measurements": "180 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

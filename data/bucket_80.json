@@ -163,5 +163,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6580",
+    "name": "Dan•Majerle",
+    "born": "9 September 1965 in Traverse City, Michigan (USA)",
+    "measurements": "198 cm / 98 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

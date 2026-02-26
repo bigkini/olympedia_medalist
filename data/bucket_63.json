@@ -228,5 +228,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6663",
+    "name": "Toots•Meretsky",
+    "born": "27 April 1912 in Windsor, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

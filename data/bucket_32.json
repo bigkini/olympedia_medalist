@@ -176,5 +176,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6632",
+    "name": "Sergio•Matto",
+    "born": "13 October 1930 in Las Piedras, Canelones (URU)",
+    "measurements": "182 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

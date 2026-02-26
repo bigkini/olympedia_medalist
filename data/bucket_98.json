@@ -140,5 +140,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6598",
+    "name": "José María•Margall",
+    "born": "17 March 1955 in Calella, Barcelona (ESP)",
+    "measurements": "198 cm / 92 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

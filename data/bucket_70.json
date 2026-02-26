@@ -122,7 +122,7 @@
     "id": "5770",
     "name": "Carlos•Borja",
     "born": "23 May 1913 in Guadalajara, Jalisco (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -130,6 +130,21 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "6670",
+    "name": "Reggie•Miller",
+    "born": "27 May 1965 in Riverside, California (USA)",
+    "measurements": "200 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

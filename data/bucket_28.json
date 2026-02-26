@@ -228,5 +228,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6628",
+    "name": "Pierluigi•Marzorati",
+    "born": "12 September 1952 in Figino Serenza, Como (ITA)",
+    "measurements": "187 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

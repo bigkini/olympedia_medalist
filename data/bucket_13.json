@@ -396,5 +396,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6513",
+    "name": "Bill•Lienhard",
+    "born": "14 January 1930 in Slaton, Texas (USA)",
+    "measurements": "195 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

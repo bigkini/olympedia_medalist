@@ -304,5 +304,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6540",
+    "name": "Andrey•Lopatov",
+    "born": "12 March 1957 in Inta, Respublika Komi (RUS)",
+    "measurements": "205 cm / 96 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "6640",
+    "name": "Pete•McCaffrey",
+    "born": "24 December 1938 in Tucson, Arizona (USA)",
+    "measurements": "198 cm / 98 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

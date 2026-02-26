@@ -211,5 +211,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6712",
+    "name": "Jeff•Mullins",
+    "born": "19 March 1942 in Astoria, Queens, New York, New York (USA)",
+    "measurements": "192 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

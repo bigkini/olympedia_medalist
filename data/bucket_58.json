@@ -249,5 +249,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6558",
+    "name": "Darius•Lukminas",
+    "born": "9 February 1968 in Kaunas, Kaunas (LTU)",
+    "measurements": "193 cm / 92 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "LTU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "6758",
+    "name": "Fabricio•Oberto",
+    "born": "21 March 1975 in Las Varillas, Córdoba (ARG)",
+    "measurements": "208 cm / 115 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
