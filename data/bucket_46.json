@@ -177,5 +177,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6846",
+    "name": "•Bira",
+    "born": "18 January 1944 in São Paulo, São Paulo (BRA)",
+    "measurements": "196 cm / 96 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

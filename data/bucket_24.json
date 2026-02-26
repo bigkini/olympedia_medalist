@@ -206,5 +206,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6924",
+    "name": "Trajko•Rajković",
+    "born": "7 December 1937 in Leskovac, Jablanica (SRB)",
+    "measurements": "204 cm / 96 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

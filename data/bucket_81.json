@@ -357,7 +357,7 @@
     "id": "6681",
     "name": "Óscar•Moglia",
     "born": "1 February 1935 in Montevideo, Montevideo (URU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -365,6 +365,28 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "6881",
+    "name": "Anatoly•Polivoda",
+    "born": "29 May 1947 in Yenakiieve, Donetsk (UKR)",
+    "measurements": "200 cm / 105 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

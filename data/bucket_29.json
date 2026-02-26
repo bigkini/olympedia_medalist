@@ -192,5 +192,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6829",
+    "name": "Alvydas•Pazdrazdis",
+    "born": "20 July 1972 in Kretinga, Klaipėda (LTU)",
+    "measurements": "195 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "LTU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

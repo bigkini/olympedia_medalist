@@ -184,5 +184,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6831",
+    "name": "Doug•Peden",
+    "born": "18 April 1916 in Victoria, British Columbia (CAN)",
+    "measurements": "183 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

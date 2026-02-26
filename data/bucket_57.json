@@ -230,5 +230,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6857",
+    "name": "Kazys•Petkevičius",
+    "born": "1 January 1926 in Steigviliai, Šiauliai (LTU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

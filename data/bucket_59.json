@@ -345,5 +345,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6859",
+    "name": "Aleksandr•Petrov",
+    "born": "14 May 1939 in Bakı, Bakı (AZE)",
+    "measurements": "208 cm / 103 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

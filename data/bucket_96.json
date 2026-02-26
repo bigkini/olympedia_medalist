@@ -200,5 +200,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6796",
+    "name": "Tomas•Pačėsas",
+    "born": "11 November 1971 in Alytus, Alytus (LTU)",
+    "measurements": "188 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "LTU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

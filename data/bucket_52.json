@@ -272,5 +272,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6852",
+    "name": "Sam•Perkins",
+    "born": "14 June 1961 in Brooklyn, New York, New York (USA)",
+    "measurements": "205 cm / 106 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

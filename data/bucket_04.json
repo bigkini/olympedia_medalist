@@ -259,5 +259,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6904",
+    "name": "Yvan•Quénin",
+    "born": "1 March 1920 in Monaco, Monaco (MON)",
+    "measurements": "178 cm",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

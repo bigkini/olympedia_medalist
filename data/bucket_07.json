@@ -236,5 +236,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6807",
+    "name": "José•Pamplona",
+    "born": "6 February 1911 in Zacatecas, Zacatecas (MEX)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

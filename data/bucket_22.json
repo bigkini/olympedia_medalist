@@ -271,7 +271,7 @@
     "id": "6622",
     "name": "Francisco•Martínez",
     "born": "20 June 1912 in Ciudad Juárez, Chihuahua (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -279,6 +279,28 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "6822",
+    "name": "Žarko•Paspalj",
+    "born": "27 March 1966 in Pljevlja, Pljevlja (MNE)",
+    "measurements": "206 cm / 101 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "SCG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

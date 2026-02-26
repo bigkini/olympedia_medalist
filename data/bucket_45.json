@@ -236,5 +236,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6845",
+    "name": "•Fernando Brobró",
+    "born": "18 July 1934 in Niterói, Rio de Janeiro (BRA)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

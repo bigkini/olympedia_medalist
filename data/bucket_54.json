@@ -281,5 +281,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6854",
+    "name": "Jacques•Perrier",
+    "born": "12 October 1924 in Bagnolet, Seine-Saint-Denis (FRA)",
+    "measurements": "178 cm",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

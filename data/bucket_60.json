@@ -237,5 +237,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6860",
+    "name": "Aleksandar•Petrović",
+    "born": "16 February 1959 in Šibenik, Šibensko-kninska županija (CRO)",
+    "measurements": "194 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

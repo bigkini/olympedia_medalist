@@ -190,5 +190,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6834",
+    "name": "Wilfredo•Peláez",
+    "born": "27 October 1930 in San José de Mayo, San José (URU)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "6934",
+    "name": "Dragoslav•Ražnatović",
+    "born": "19 April 1941 in Vranje, Pčinja (SRB)",
+    "measurements": "190 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

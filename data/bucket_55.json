@@ -331,5 +331,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6955",
+    "name": "Mitch•Richmond",
+    "born": "30 June 1965 in Fort Lauderdale, Florida (USA)",
+    "measurements": "195 cm / 98 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

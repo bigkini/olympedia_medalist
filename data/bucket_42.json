@@ -206,5 +206,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6842",
+    "name": "Velimir•Perasović",
+    "born": "9 February 1965 in Split, Splitsko-dalmatinska županija (CRO)",
+    "measurements": "195 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CRO",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

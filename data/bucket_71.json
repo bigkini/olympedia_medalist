@@ -146,5 +146,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6871",
+    "name": "Don•Piper",
+    "born": "5 March 1911 in Peoria, Illinois (USA)",
+    "measurements": "180 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

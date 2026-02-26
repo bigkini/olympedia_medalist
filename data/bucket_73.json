@@ -162,5 +162,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6773",
+    "name": "Jesús•Olmos",
+    "born": "20 July 1910 in Chihuahua, Chihuahua (MEX)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "6873",
+    "name": "Dan•Pippin",
+    "born": "20 October 1926 in St. Louis, Missouri (USA)",
+    "measurements": "185 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "6973",
+    "name": "Jack•Robinson",
+    "born": "26 April 1927 in Fort Worth, Texas (USA)",
+    "measurements": "183 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

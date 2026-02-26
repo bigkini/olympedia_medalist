@@ -294,5 +294,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6915",
+    "name": "Ratko•Radovanović",
+    "born": "16 October 1956 in Nikšić, Nikšić (MNE)",
+    "measurements": "208 cm / 107 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -161,5 +161,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6795",
+    "name": "Cēzars•Ozers",
+    "born": "11 February 1937 in Rīga, Rīga (LAT)",
+    "measurements": "181 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -198,5 +198,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6932",
+    "name": "Ed•Ratleff",
+    "born": "29 March 1950 in Bellefontaine, Ohio (USA)",
+    "measurements": "198 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

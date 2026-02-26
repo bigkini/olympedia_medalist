@@ -215,5 +215,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6974",
+    "name": "Lucien•Rebuffic",
+    "born": "22 December 1924 in Bois-Colombes, Hauts-de-Seine (FRA)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -346,5 +346,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6978",
+    "name": "Alfredo•da Motta",
+    "born": "12 January 1921 in Rio de Janeiro, Rio de Janeiro (BRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

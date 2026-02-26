@@ -176,5 +176,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6917",
+    "name": "Zdravko•Radulović",
+    "born": "12 December 1967 in Nikšić, Nikšić (MNE)",
+    "measurements": "191 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -184,5 +184,56 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6872",
+    "name": "Scottie•Pippen",
+    "born": "25 September 1965 in Hamburg, Arkansas (USA)",
+    "measurements": "200 cm / 102 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "6972",
+    "name": "David•Robinson",
+    "born": "6 August 1965 in Key West, Florida (USA)",
+    "measurements": "216 cm / 107 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

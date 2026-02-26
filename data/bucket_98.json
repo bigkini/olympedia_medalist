@@ -155,5 +155,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6798",
+    "name": "Nilton•Pacheco",
+    "born": "26 July 1920 in Salvador, Bahia (BRA)",
+    "measurements": "180 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
