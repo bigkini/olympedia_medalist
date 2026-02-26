@@ -434,5 +434,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7927",
+    "name": "Alec•Năstac",
+    "born": "2 April 1949 in Căvădinești, Galați (ROU)",
+    "measurements": "177 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

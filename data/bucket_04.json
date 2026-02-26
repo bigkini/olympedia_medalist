@@ -274,5 +274,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7904",
+    "name": "Mircea•Dobrescu",
+    "born": "5 September 1930 in Cotorca, Buzău (ROU)",
+    "measurements": "150 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8004",
+    "name": "Willie•Toweel",
+    "born": "6 April 1934 in Benoni, Gauteng (RSA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

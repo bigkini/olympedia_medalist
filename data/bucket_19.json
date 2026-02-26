@@ -294,5 +294,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8019",
+    "name": "Albert•Pakeyev",
+    "born": "4 July 1968 in Usolye-Sibirskoye, Irkutsk (RUS)",
+    "measurements": "165 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

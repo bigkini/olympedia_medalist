@@ -190,7 +190,7 @@
     "id": "7556",
     "name": "Jos•Vissers",
     "born": "28 November 1928 in Geel, Antwerpen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -198,6 +198,36 @@
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "7756",
+    "name": "Kazimierz•Paździor",
+    "born": "4 March 1935 in Radom, Mazowieckie (POL)",
+    "measurements": "171 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "7956",
+    "name": "Johnny•Arthur",
+    "born": "29 August 1929 in Springs, Gauteng (RSA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -256,13 +256,43 @@
     "id": "7507",
     "name": "Joseph•Beeken",
     "born": "5 April 1904 in Liège, Liège (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "BEL",
         "discipline": "Boxing",
         "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7707",
+    "name": "Zygmunt•Chychła",
+    "born": "6 November 1926 in Gdańsk, Pomorskie (POL)",
+    "measurements": "170 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "7907",
+    "name": "Constantin•Dumitrescu",
+    "born": "14 March 1931 in București (Bucharest), București (ROU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

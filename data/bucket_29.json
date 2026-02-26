@@ -244,5 +244,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7929",
+    "name": "Gheorghe•Negrea",
+    "born": "21 April 1934 in Sibiu, Sibiu (ROU)",
+    "measurements": "181 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

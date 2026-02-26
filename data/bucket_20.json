@@ -206,5 +206,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8020",
+    "name": "Ramazan•Paliani",
+    "born": "21 August 1973 in Mestia, Samegrelo-Zemo Svaneti (GEO)",
+    "measurements": "172 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

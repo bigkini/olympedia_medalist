@@ -311,5 +311,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7725",
+    "name": "Janusz•Gortat",
+    "born": "5 November 1948 in Brzozów, Podkarpackie (POL)",
+    "measurements": "186 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

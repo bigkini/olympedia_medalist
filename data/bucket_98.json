@@ -170,5 +170,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7998",
+    "name": "Willie•Smith",
+    "born": "19 July 1904 in Johannesburg, Gauteng (RSA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

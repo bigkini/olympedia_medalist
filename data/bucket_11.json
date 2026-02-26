@@ -192,5 +192,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7911",
+    "name": "Mircea•Fulger",
+    "born": "26 January 1959 in Hârsești, Argeș (ROU)",
+    "measurements": "173 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8011",
+    "name": "Sal•Walker",
+    "born": "13 December 1898 in Port Elizabeth, Eastern Cape (RSA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

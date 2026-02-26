@@ -257,13 +257,28 @@
     "id": "7157",
     "name": "Massinet•Sorcinelli",
     "born": "27 February 1922 in São Paulo, São Paulo (BRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "BRA",
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7757",
+    "name": "Henryk•Petrich",
+    "born": "10 January 1959 in Łódź, Łódzkie (POL)",
+    "measurements": "185 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

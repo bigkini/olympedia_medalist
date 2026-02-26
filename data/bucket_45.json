@@ -266,5 +266,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7945",
+    "name": "Mircea•Şimon",
+    "born": "22 January 1954 in București (Bucharest), București (ROU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

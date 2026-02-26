@@ -204,13 +204,43 @@
     "id": "5890",
     "name": "Victorio•Cieslinskas",
     "born": "27 October 1922 in ? (LTU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "URU",
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7790",
+    "name": "Janusz•Zarenkiewicz",
+    "born": "3 August 1959 in Nowy Las, Opolskie (POL)",
+    "measurements": "188 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Boxing",
+        "event": "Super-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7990",
+    "name": "Dries•Niemann",
+    "born": "12 August 1927 in Bloemfontein, Free State (RSA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

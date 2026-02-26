@@ -243,5 +243,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7893",
+    "name": "Dumitru•Cipere",
+    "born": "22 October 1957 in Drobeta-Turnu Severin, Mehedinți (ROU)",
+    "measurements": "165 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7993",
+    "name": "Eddie•Peirce",
+    "born": "25 September 1909 in Somerset West, Western Cape (RSA)",
+    "measurements": "183 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

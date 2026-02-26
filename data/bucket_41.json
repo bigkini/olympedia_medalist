@@ -191,5 +191,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7941",
+    "name": "Valentin•Silaghi",
+    "born": "21 April 1957 in Bobâlna, Cluj (ROU)",
+    "measurements": "182 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8141",
+    "name": "Gunnar•Berggren",
+    "born": "26 January 1908 in Söderbykarl, Norrtälje, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

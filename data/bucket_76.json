@@ -237,5 +237,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7676",
+    "name": "Roel•Velasco",
+    "born": "26 June 1972 in Bago City, Negros Occidental (PHI)",
+    "measurements": "158 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PHI",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

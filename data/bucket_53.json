@@ -250,5 +250,57 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7753",
+    "name": "Artur•Olech",
+    "born": "22 June 1940 in Lviv, Lviv (UKR)",
+    "measurements": "160 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "7853",
+    "name": "Luis•Ortiz",
+    "born": "5 November 1965 in Humacao, Puerto Rico (PUR)",
+    "measurements": "175 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "PUR",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "7953",
+    "name": "Victor•Zilberman",
+    "born": "20 September 1947 in București (Bucharest), București (ROU)",
+    "measurements": "178 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

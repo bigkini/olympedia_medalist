@@ -242,5 +242,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7926",
+    "name": "Ion•Monea",
+    "born": "30 November 1940 in Tohanu Vechi, Brașov (ROU)",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

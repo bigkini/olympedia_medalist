@@ -300,5 +300,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7792",
+    "name": "Choi•Chol-Su",
+    "born": "1 December 1969",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PRK",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

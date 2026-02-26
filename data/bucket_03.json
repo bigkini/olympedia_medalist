@@ -237,5 +237,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7803",
+    "name": "Li•Gwang-Sik",
+    "born": "5 March 1970",
+    "measurements": "166 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PRK",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

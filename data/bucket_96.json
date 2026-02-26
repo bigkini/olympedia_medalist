@@ -245,5 +245,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7696",
+    "name": "Aleksy•Antkiewicz",
+    "born": "12 November 1923 in Katlewo, Warmińsko-Mazurskie (POL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "7996",
+    "name": "Dennis•Shepherd",
+    "born": "11 October 1926 in Johannesburg, Gauteng (RSA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

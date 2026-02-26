@@ -215,5 +215,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7680",
+    "name": "Anthony•Villanueva",
+    "born": "18 March 1945 in Cabuyao, Laguna (PHI)",
+    "measurements": "165 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "PHI",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

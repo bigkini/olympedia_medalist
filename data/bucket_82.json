@@ -362,5 +362,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7782",
+    "name": "Jan•Szczepański",
+    "born": "20 November 1939 in Małecz, Łódzkie (POL)",
+    "measurements": "170 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "7982",
+    "name": "Henry•Loubscher",
+    "born": "8 August 1936 in Germiston, Gauteng (RSA)",
+    "measurements": "179 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

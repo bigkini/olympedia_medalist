@@ -334,5 +334,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7783",
+    "name": "Kazimierz•Szczerba",
+    "born": "4 March 1954 in Ciężkowice, Małopolskie (POL)",
+    "measurements": "177 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7883",
+    "name": "Ion•Alexe",
+    "born": "25 July 1946 in Cornu, Prahova (ROU)",
+    "measurements": "189 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

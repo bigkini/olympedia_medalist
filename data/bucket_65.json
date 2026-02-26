@@ -274,5 +274,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7965",
+    "name": "Gerald•Dreyer",
+    "born": "22 September 1929 in Pretoria, Gauteng (RSA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

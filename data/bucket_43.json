@@ -354,5 +354,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7843",
+    "name": "Orlando•Maldonado",
+    "born": "21 May 1959 in Bayamón, Puerto Rico (PUR)",
+    "measurements": "158 cm / 47 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "PUR",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

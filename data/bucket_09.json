@@ -198,5 +198,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7909",
+    "name": "Gheorghe•Fiat",
+    "born": "14 January 1929 in Reșița, Caraș-Severin (ROU)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8009",
+    "name": "Theunis•van Schalkwyk",
+    "born": "14 September 1929 in Krugersdorp, Gauteng (RSA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

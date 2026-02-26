@@ -225,7 +225,7 @@
     "id": "7134",
     "name": "Greer•Skousen",
     "born": "24 September 1916 in Casas Grandes, Chihuahua (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -233,6 +233,21 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8134",
+    "name": "Thure•Ahlqvist",
+    "born": "20 April 1907 in Borås, Västra Götaland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

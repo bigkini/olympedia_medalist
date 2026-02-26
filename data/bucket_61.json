@@ -355,5 +355,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8161",
+    "name": "Ingemar•Johansson",
+    "born": "22 September 1932 in Göteborg (Gothenburg), Västra Götaland (SWE)",
+    "measurements": "184 cm",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

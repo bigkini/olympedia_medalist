@@ -339,5 +339,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7964",
+    "name": "Charlie•Catterall",
+    "born": "16 October 1914 in Harare, Harare (ZIM)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

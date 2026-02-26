@@ -221,5 +221,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7749",
+    "name": "Henryk•Niedźwiedzki",
+    "born": "6 April 1933 in Niedźwiady, Pomorskie (POL)",
+    "measurements": "168 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7949",
+    "name": "Vasile•Tiță",
+    "born": "21 February 1928 in București (Bucharest), București (ROU)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8149",
+    "name": "Allan•Carlsson",
+    "born": "8 November 1910 in Örebro, Örebro (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

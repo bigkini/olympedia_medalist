@@ -345,5 +345,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7808",
+    "name": "Aníbal•Acevedo",
+    "born": "28 April 1971 in San Juan, Puerto Rico (PUR)",
+    "measurements": "176 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PUR",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7908",
+    "name": "Daniel•Dumitrescu",
+    "born": "23 September 1968 in București (Bucharest), București (ROU)",
+    "measurements": "171 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

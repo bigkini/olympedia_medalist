@@ -265,5 +265,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7694",
+    "name": "Kazimierz•Adach",
+    "born": "9 May 1957 in Ustka, Pomorskie (POL)",
+    "measurements": "162 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7794",
+    "name": "Gu•Yong-Jo",
+    "born": "17 July 1955",
+    "measurements": "172 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "PRK",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

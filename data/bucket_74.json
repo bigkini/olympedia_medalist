@@ -230,5 +230,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8174",
+    "name": "Lars•Myrberg",
+    "born": "23 November 1964 in Stockholm, Stockholm (SWE)",
+    "measurements": "175 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -302,5 +302,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8152",
+    "name": "George•Cramne",
+    "born": "20 December 1966 in Monrovia, Montserrado (LBR)",
+    "measurements": "172 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

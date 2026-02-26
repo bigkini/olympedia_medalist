@@ -177,5 +177,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7670",
+    "name": "Leopoldo•Serantes",
+    "born": "15 March 1962",
+    "measurements": "160 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "PHI",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

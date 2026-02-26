@@ -301,5 +301,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7958",
+    "name": "Daan•Bekker",
+    "born": "9 February 1932 in Dordrecht, Eastern Cape (RSA)",
+    "measurements": "180 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]
