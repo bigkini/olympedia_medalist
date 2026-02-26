@@ -481,5 +481,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11033",
+    "name": "Francine•Fox",
+    "born": "16 March 1949 in Washington, District of Columbia (USA)",
+    "measurements": "170 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11233",
+    "name": "Arturo•Kenny",
+    "born": "12 December 1888 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

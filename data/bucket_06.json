@@ -390,5 +390,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11106",
+    "name": "Joe•Jacobi",
+    "born": "26 September 1969 in Washington, District of Columbia (USA)",
+    "measurements": "175 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

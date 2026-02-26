@@ -419,5 +419,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11201",
+    "name": "Milan•Janić",
+    "born": "14 June 1957 in Bačka Palanka, Južna Bačka (SRB)",
+    "measurements": "178 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

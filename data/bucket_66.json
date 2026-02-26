@@ -324,7 +324,7 @@
     "id": "10766",
     "name": "Ingemar•Hedberg",
     "born": "8 March 1920 in Örebro, Örebro (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -332,6 +332,21 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10966",
+    "name": "Vyacheslav•Ionov",
+    "born": "26 June 1940 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "190 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -383,7 +383,7 @@
     "id": "10763",
     "name": "Lars•Glassér",
     "born": "4 October 1925 in Stockholm, Stockholm (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -391,6 +391,21 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10963",
+    "name": "Anatoly•Grishin",
+    "born": "8 July 1939 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "181 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

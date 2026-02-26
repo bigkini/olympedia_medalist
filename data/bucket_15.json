@@ -449,5 +449,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11015",
+    "name": "Yury•Stetsenko",
+    "born": "11 April 1945 in Kyiv, Kyiv (UKR)",
+    "measurements": "186 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

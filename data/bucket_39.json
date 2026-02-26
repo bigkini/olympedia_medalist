@@ -303,5 +303,56 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10839",
+    "name": "František•Čapek",
+    "born": "24 October 1914 in Branice, Jihočeský kraj (CZE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "10939",
+    "name": "Lyudmila•Khvedosyuk-Pinayeva",
+    "born": "14 January 1936 in Krasnoye Selo, Leningrad (RUS)",
+    "measurements": "164 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

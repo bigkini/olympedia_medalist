@@ -332,5 +332,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10941",
+    "name": "Yuliya•Ryabchinskaya",
+    "born": "26 January 1947 in Peshchanka, Vinnytsia (UKR)",
+    "measurements": "164 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11041",
+    "name": "Marcia•Jones Smoke",
+    "born": "18 July 1941 in Oklahoma City, Oklahoma (USA)",
+    "measurements": "169 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

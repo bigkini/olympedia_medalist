@@ -395,7 +395,7 @@
     "id": "10592",
     "name": "Simion•Ismailciuc",
     "born": "13 July 1930 in Chilia Veche, Tulcea (ROU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -403,6 +403,28 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "10992",
+    "name": "Igor•Nagayev",
+    "born": "24 February 1966 in Kyiv, Kyiv (UKR)",
+    "measurements": "185 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

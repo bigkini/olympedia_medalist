@@ -529,5 +529,50 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10959",
+    "name": "Vitaly•Galkov",
+    "born": "26 May 1939 in Tambov, Tambov (RUS)",
+    "measurements": "187 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11059",
+    "name": "Norm•Bellingham",
+    "born": "23 December 1964 in Fairfax, Virginia (USA)",
+    "measurements": "193 cm / 92 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11159",
+    "name": "András•Törő",
+    "born": "10 July 1940 in Budapest, Budapest (HUN)",
+    "measurements": "178 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -370,5 +370,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10967",
+    "name": "Vasily•Yurchenko",
+    "born": "26 May 1950 in Grushkivka, Cherkasy (UKR)",
+    "measurements": "195 cm / 96 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

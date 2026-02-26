@@ -371,5 +371,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11004",
+    "name": "Sergey•Postrekhin",
+    "born": "1 November 1957 in Kherson, Kherson (UKR)",
+    "measurements": "195 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

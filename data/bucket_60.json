@@ -404,13 +404,43 @@
     "id": "10760",
     "name": "Tage•Fahlborg",
     "born": "24 April 1912 in Stockholm, Stockholm (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "SWE",
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "10960",
+    "name": "Leonid•Geyshtor",
+    "born": "15 October 1936 in Homel, Homel (BLR)",
+    "measurements": "173 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11060",
+    "name": "Philippe•Boccara",
+    "born": "6 July 1959 in Le Mans, Sarthe (FRA)",
+    "measurements": "203 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

@@ -435,5 +435,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11122",
+    "name": "Steve•Lysak",
+    "born": "7 August 1912 in Newark, New Jersey (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

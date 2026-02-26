@@ -175,7 +175,7 @@
     "id": "9250",
     "name": "Douglas•Bennett",
     "born": "13 September 1918 in Saint Lambert, Québec (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -183,6 +183,28 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10950",
+    "name": "Gratsian•Botev",
+    "born": "12 December 1928 in Luga, Leningrad (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

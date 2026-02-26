@@ -319,5 +319,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10880",
+    "name": "Václav•Mottl",
+    "born": "19 May 1914 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

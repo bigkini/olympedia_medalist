@@ -387,5 +387,49 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10838",
+    "name": "Jan•Brzák-Felix",
+    "born": "6 April 1912 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10938",
+    "name": "Yekaterina•Kuryshko",
+    "born": "12 April 1949 in Veprik, Poltava (UKR)",
+    "measurements": "169 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

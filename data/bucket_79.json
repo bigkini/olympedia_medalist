@@ -425,5 +425,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10979",
+    "name": "Vikt'or•K'rat'asiuk'i",
+    "born": "30 January 1949 in Poti, Samegrelo-Zemo Svaneti (GEO)",
+    "measurements": "184 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

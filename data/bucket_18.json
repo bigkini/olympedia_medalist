@@ -495,5 +495,34 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11018",
+    "name": "Sergey•Chukhray",
+    "born": "31 May 1955 in Belogorsk, Amur (RUS)",
+    "measurements": "184 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

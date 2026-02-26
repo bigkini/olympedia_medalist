@@ -410,5 +410,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10930",
+    "name": "Yelizaveta•Dementyeva",
+    "born": "5 March 1928 in Kostroma, Kostroma (RUS)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11230",
+    "name": "Roberto•Cavanagh",
+    "born": "12 November 1914 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -378,5 +378,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10803",
+    "name": "Sven-Olov•Sjödelius",
+    "born": "13 June 1933 in Svärta, Nyköping, Södermanland (SWE)",
+    "measurements": "180 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11003",
+    "name": "Igor•Pisarev",
+    "born": "19 February 1931 in Pskov, Pskov (RUS)",
+    "measurements": "180 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

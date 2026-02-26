@@ -356,5 +356,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10990",
+    "name": "Vladimir•Morozov",
+    "born": "19 July 1952 in Novaya Dmitrovka, Moskva (RUS)",
+    "measurements": "184 cm / 94 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

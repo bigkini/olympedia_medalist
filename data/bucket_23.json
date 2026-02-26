@@ -341,5 +341,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11023",
+    "name": "Aleksandr•Vinogradov",
+    "born": "10 November 1951 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "179 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11123",
+    "name": "Steve•Macknowski",
+    "born": "16 February 1922 in Yonkers, New York (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -399,5 +399,64 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10807",
+    "name": "Gunnar•Utterberg",
+    "born": "28 November 1942 in Jönköping, Jönköping (SWE)",
+    "measurements": "182 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "10907",
+    "name": "Vladimír•Syrovátka",
+    "born": "19 June 1908 in Zdolbuniv, Rivne (UKR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11007",
+    "name": "Victor•Reneischi",
+    "born": "24 January 1967 in Babruysk, Mahilyow (BLR)",
+    "measurements": "178 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "MDA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

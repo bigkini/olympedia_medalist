@@ -305,5 +305,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10969",
+    "name": "Pavel•Kharin",
+    "born": "8 June 1927 in St. Petersburg, St. Petersburg (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

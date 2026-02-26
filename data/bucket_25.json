@@ -459,5 +459,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11025",
+    "name": "Mikhail•Zamotin",
+    "born": "14 November 1937 in St. Petersburg, St. Petersburg (RUS)",
+    "measurements": "179 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11125",
+    "name": "Jamie•McEwan",
+    "born": "24 September 1952 in Olney, Maryland (USA)",
+    "measurements": "183 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Singles, Slalom, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11225",
+    "name": "Erik•Bjurberg",
+    "born": "1 June 1895 in Solna, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

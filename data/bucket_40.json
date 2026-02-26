@@ -454,5 +454,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10940",
+    "name": "Antonina•Melnikova",
+    "born": "19 February 1958 in Rahachow, Homel (BLR)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

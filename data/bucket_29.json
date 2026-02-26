@@ -370,5 +370,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11029",
+    "name": "Dana•Chladek",
+    "born": "27 December 1963 in Děčín, Ústecký kraj (CZE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11229",
+    "name": "Guillermo•Naylor",
+    "born": "4 September 1884 in Belgrano, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

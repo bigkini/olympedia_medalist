@@ -391,5 +391,34 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10976",
+    "name": "Aleksandr•Kostoglod",
+    "born": "31 May 1974 in Rostov-na-Donu, Rostov (RUS)",
+    "measurements": "185 cm / 90 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

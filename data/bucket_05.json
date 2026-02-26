@@ -361,5 +361,71 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10805",
+    "name": "Karl•Sundqvist",
+    "born": "29 November 1962 in Karlskrona, Blekinge (SWE)",
+    "measurements": "184 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11005",
+    "name": "Naum•Prokupets",
+    "born": "20 March 1948 in Basarabeasca, Basarabeasca (MDA)",
+    "measurements": "178 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11205",
+    "name": "Matija•Ljubek",
+    "born": "22 November 1953 in Belišće, Osječko-baranjska županija (CRO)",
+    "measurements": "180 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

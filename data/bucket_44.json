@@ -324,5 +324,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10944",
+    "name": "Nina•Savina",
+    "born": "29 September 1915 in St. Petersburg, St. Petersburg (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

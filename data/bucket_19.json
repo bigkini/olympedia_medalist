@@ -442,5 +442,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10919",
+    "name": "Tetiana•Teklian-Semykina",
+    "born": "19 October 1973 in Ukraïnka, Kyiv (UKR)",
+    "measurements": "163 cm / 60 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "UKR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

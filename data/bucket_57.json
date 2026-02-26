@@ -287,13 +287,71 @@
     "id": "8557",
     "name": "Boris•Tishin",
     "born": "2 January 1929 in Moskva (Moscow), Moskva (RUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "URS",
         "discipline": "Boxing",
         "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "10957",
+    "name": "Yury•Filatov",
+    "born": "30 July 1948 in Novo Ushytsia, Khmelnytskyi (UKR)",
+    "measurements": "190 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11057",
+    "name": "Greg•Barton",
+    "born": "2 December 1959 in Jackson, Michigan (USA)",
+    "measurements": "180 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

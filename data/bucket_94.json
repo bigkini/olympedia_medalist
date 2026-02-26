@@ -517,5 +517,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11094",
+    "name": "Frank•Havens",
+    "born": "1 August 1924 in Arlington, Virginia (USA)",
+    "measurements": "188 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

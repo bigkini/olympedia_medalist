@@ -363,5 +363,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10993",
+    "name": "Sergey•Nagorny",
+    "born": "8 December 1956 in Khmelnytskyi, Khmelnytskyi (UKR)",
+    "measurements": "188 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
