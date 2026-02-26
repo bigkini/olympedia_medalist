@@ -220,7 +220,7 @@
     "id": "7956",
     "name": "Johnny•Arthur",
     "born": "29 August 1929 in Springs, Gauteng (RSA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -228,6 +228,21 @@
         "discipline": "Boxing",
         "event": "Heavyweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8756",
+    "name": "Al•Robinson",
+    "born": "18 June 1947 in Paris, Texas (USA)",
+    "measurements": "180 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

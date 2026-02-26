@@ -221,5 +221,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8895",
+    "name": "Aziz•Salihu",
+    "born": "1 May 1954 in Banullë, Prishtinë (KOS)",
+    "measurements": "186 cm / 99 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Boxing",
+        "event": "Super-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

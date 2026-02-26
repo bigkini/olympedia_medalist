@@ -252,5 +252,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8676",
+    "name": "Fred•Gilmore",
+    "born": "22 May 1887 in Montréal, Québec (CAN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8876",
+    "name": "Tadija•Kačar",
+    "born": "16 January 1956 in Jajce, Srednjobosanski kanton (BIH)",
+    "measurements": "184 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

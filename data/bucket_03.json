@@ -252,5 +252,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8803",
+    "name": "Al•Young",
+    "born": "28 September 1877 in Lauterecken, Rheinland-Pfalz (GER)",
+    "measurements": "66 kg",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

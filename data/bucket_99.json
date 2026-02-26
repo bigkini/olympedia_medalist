@@ -252,5 +252,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8799",
+    "name": "Rhoshii•Wells",
+    "born": "30 December 1976 in Austin, Texas (USA)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8999",
+    "name": "Grant•Davies",
+    "born": "11 September 1963 in Dalby, Queensland (AUS)",
+    "measurements": "173 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

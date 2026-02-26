@@ -200,5 +200,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8685",
+    "name": "Steve•Halaiko",
+    "born": "27 December 1908 in Waverly, New York (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8785",
+    "name": "Johnny•Tate",
+    "born": "29 January 1955 in Marion, Arkansas (USA)",
+    "measurements": "193 cm / 104 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

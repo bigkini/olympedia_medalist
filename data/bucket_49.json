@@ -301,7 +301,7 @@
     "id": "8649",
     "name": "John•Daley",
     "born": "26 August 1909 in Newton, Massachusetts (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -309,6 +309,21 @@
         "discipline": "Boxing",
         "event": "Bantamweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8749",
+    "name": "Pete•Rademacher",
+    "born": "20 November 1928 in Tieton, Washington (USA)",
+    "measurements": "186 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

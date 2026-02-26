@@ -230,5 +230,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8780",
+    "name": "Ben•Spradling",
+    "born": "18 January 1879 in Washington, Missouri (USA)",
+    "measurements": "70 kg",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

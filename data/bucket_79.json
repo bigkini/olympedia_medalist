@@ -243,5 +243,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8679",
+    "name": "Kenny•Gould",
+    "born": "11 May 1967 in Rockford, Illinois (USA)",
+    "measurements": "167 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8779",
+    "name": "Michael•Spinks",
+    "born": "22 July 1956 in St. Louis, Missouri (USA)",
+    "measurements": "188 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

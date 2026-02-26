@@ -185,5 +185,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8677",
+    "name": "Paul•Gonzales, Jr.",
+    "born": "18 April 1964 in East Los Angeles, California (USA)",
+    "measurements": "174 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

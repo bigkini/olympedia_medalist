@@ -206,5 +206,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8751",
+    "name": "Leo•Randolph",
+    "born": "27 February 1958 in Tacoma, Washington (USA)",
+    "measurements": "172 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

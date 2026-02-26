@@ -273,5 +273,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8732",
+    "name": "Ray•Mercer",
+    "born": "4 April 1961 in Jacksonville, Florida (USA)",
+    "measurements": "185 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -266,5 +266,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8717",
+    "name": "Norvel•Lee",
+    "born": "22 September 1924 in Eagle Rock, Virginia (USA)",
+    "measurements": "185 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

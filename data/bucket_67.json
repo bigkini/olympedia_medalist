@@ -259,5 +259,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8667",
+    "name": "Eddie•Flynn",
+    "born": "25 October 1909 in Sapulpa, Oklahoma (USA)",
+    "measurements": "168 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "8767",
+    "name": "Ray•Seales",
+    "born": "4 September 1952 in ?, St. Croix (ISV)",
+    "measurements": "183 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

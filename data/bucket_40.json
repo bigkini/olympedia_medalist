@@ -394,5 +394,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8740",
+    "name": "Sammy•Mosberg",
+    "born": "14 June 1896 in Obertyn, Ivano-Frankivsk (UKR)",
+    "measurements": "166 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

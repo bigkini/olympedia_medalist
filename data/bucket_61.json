@@ -370,5 +370,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8661",
+    "name": "Romallis•Ellis",
+    "born": "16 December 1965 in Atlanta, Georgia (USA)",
+    "measurements": "171 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

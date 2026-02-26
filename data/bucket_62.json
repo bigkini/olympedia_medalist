@@ -302,5 +302,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8762",
+    "name": "Joe•Salas",
+    "born": "23 December 1903 in Los Angeles, California (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

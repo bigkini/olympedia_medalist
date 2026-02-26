@@ -220,5 +220,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8688",
+    "name": "Ronnie•Harris",
+    "born": "3 September 1948 in Canton, Ohio (USA)",
+    "measurements": "178 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "8788",
+    "name": "José•Torres",
+    "born": "3 May 1936 in Playa Ponce, Puerto Rico (PUR)",
+    "measurements": "178 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

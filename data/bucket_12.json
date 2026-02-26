@@ -271,5 +271,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8812",
+    "name": "Karim•Tulaganov",
+    "born": "27 August 1973 in ?, Toshkent Viloyati (UZB)",
+    "measurements": "178 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "UZB",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

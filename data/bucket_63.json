@@ -303,5 +303,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8663",
+    "name": "Fred•Feary",
+    "born": "10 April 1912 in Anderson, California (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8763",
+    "name": "Lou•Salica",
+    "born": "16 November 1912 in Brooklyn, New York, New York (USA)",
+    "measurements": "163 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -259,5 +259,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8710",
+    "name": "Fidel•LaBarba",
+    "born": "29 September 1905 in Bronx, New York (USA)",
+    "measurements": "160 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "9010",
+    "name": "Dennis•Green",
+    "born": "26 May 1931 in Sydney, New South Wales (AUS)",
+    "measurements": "178 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -323,5 +323,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8658",
+    "name": "Eddie•Eagan",
+    "born": "26 April 1898 in Denver, Colorado (USA)",
+    "measurements": "179 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1932 Winter Olympics",
+        "noc": "USA",
+        "discipline": "Bobsleigh (Bobsleigh)",
+        "event": "Four, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -392,5 +392,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9018",
+    "name": "Barry•Kelly",
+    "born": "24 September 1954 in Byron Bay, New South Wales (AUS)",
+    "measurements": "183 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

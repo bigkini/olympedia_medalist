@@ -351,7 +351,7 @@
     "id": "6978",
     "name": "Alfredo•da Motta",
     "born": "12 January 1921 in Rio de Janeiro, Rio de Janeiro (BRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -359,6 +359,21 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8778",
+    "name": "Leon•Spinks",
+    "born": "11 July 1953 in St. Louis, Missouri (USA)",
+    "measurements": "183 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

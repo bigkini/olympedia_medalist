@@ -324,5 +324,50 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8719",
+    "name": "Sugar Ray•Leonard",
+    "born": "17 May 1956 in Wilmington, North Carolina (USA)",
+    "measurements": "178 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "8819",
+    "name": "Marcelino•Bolívar",
+    "born": "14 July 1964 in Ciudad Bolívar, Bolívar (VEN)",
+    "measurements": "160 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "VEN",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9019",
+    "name": "Grant•Kenny",
+    "born": "14 June 1963 in Maryborough, Queensland (AUS)",
+    "measurements": "180 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -401,5 +401,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8783",
+    "name": "Antonio•Tarver",
+    "born": "21 November 1968 in Orlando, Florida (USA)",
+    "measurements": "188 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8883",
+    "name": "Mate•Parlov",
+    "born": "16 November 1948 in Split, Splitsko-dalmatinska županija (CRO)",
+    "measurements": "184 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

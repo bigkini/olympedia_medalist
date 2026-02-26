@@ -330,13 +330,28 @@
     "id": "8494",
     "name": "Gennady•Garbuzov",
     "born": "11 September 1930 in Moskva (Moscow), Moskva (RUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "URS",
         "discipline": "Boxing",
         "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8694",
+    "name": "Evander•Holyfield",
+    "born": "19 October 1962 in Atmore, Alabama (USA)",
+    "measurements": "185 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

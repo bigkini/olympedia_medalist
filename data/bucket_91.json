@@ -244,5 +244,65 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8691",
+    "name": "Hank•Herring",
+    "born": "19 June 1922 in St. Petersburg, Florida (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8791",
+    "name": "Russell•Van Horn",
+    "born": "30 July 1885 in ?, Pennsylvania (USA)",
+    "measurements": "61 kg",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8891",
+    "name": "Redžep•Redžepovski",
+    "born": "14 December 1962 in Kumanovo, Kumanovo (MKD)",
+    "measurements": "162 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8991",
+    "name": "Danielle•Woodward",
+    "born": "20 March 1965 in Melbourne, Victoria (AUS)",
+    "measurements": "171 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

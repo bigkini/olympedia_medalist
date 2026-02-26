@@ -207,5 +207,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8746",
+    "name": "Floyd•Patterson",
+    "born": "4 January 1935 in Waco, North Carolina (USA)",
+    "measurements": "183 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "8946",
+    "name": "Keith•Mwila",
+    "born": "November 1966",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ZAM",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

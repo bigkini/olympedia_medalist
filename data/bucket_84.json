@@ -352,7 +352,7 @@
     "id": "8184",
     "name": "Stig•Sjölin",
     "born": "21 December 1928 in Värnamo, Jönköping (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -360,6 +360,21 @@
         "discipline": "Boxing",
         "event": "Middleweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8784",
+    "name": "Frank•Tate",
+    "born": "27 August 1964 in Detroit, Michigan (USA)",
+    "measurements": "183 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

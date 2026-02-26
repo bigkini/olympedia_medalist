@@ -341,5 +341,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8700",
+    "name": "Marvin•Johnson",
+    "born": "12 April 1954 in Indianapolis, Indiana (USA)",
+    "measurements": "177 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

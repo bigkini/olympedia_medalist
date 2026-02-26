@@ -368,5 +368,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8715",
+    "name": "Lou•Laurie",
+    "born": "19 November 1917 in Cleveland, Ohio (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -280,5 +280,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8668",
+    "name": "George•Foreman",
+    "born": "10 January 1949 in Marshall, Texas (USA)",
+    "measurements": "192 cm / 99 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

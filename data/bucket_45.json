@@ -286,7 +286,7 @@
     "id": "8645",
     "name": "Fred•Kolberg",
     "born": "13 November 1900 in Anaheim, California (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -294,6 +294,36 @@
         "discipline": "Boxing",
         "event": "Welterweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8745",
+    "name": "Jerry•Page",
+    "born": "15 January 1961 in Columbus, Ohio (USA)",
+    "measurements": "174 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "8845",
+    "name": "Bernardo•Piñango",
+    "born": "9 February 1960 in Caracas, Distrito Capital (VEN)",
+    "measurements": "165 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "VEN",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

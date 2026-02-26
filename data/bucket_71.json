@@ -176,5 +176,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8671",
+    "name": "Joe•Frazier",
+    "born": "12 January 1944 in Beaufort, South Carolina (USA)",
+    "measurements": "183 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

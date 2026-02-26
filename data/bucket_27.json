@@ -454,13 +454,28 @@
     "id": "8627",
     "name": "Fred•Boylstein",
     "born": "16 March 1903 in Ford City, Pennsylvania (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "USA",
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8727",
+    "name": "Floyd•Mayweather, Jr.",
+    "born": "24 February 1977 in Grand Rapids, Michigan (USA)",
+    "measurements": "162 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

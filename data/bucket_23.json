@@ -257,13 +257,28 @@
     "id": "8623",
     "name": "Nat•Bor",
     "born": "1 March 1913 in Fall River, Massachusetts (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
         "noc": "USA",
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8723",
+    "name": "Harlan•Marbley",
+    "born": "11 October 1943 in White Oak, Maryland (USA)",
+    "measurements": "162 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

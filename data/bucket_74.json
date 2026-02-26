@@ -260,5 +260,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8874",
+    "name": "Ante•Josipović",
+    "born": "22 October 1961 in Banja Luka, Banja Luka (BIH)",
+    "measurements": "180 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

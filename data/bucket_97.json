@@ -214,5 +214,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8797",
+    "name": "Jim•Wallington",
+    "born": "28 July 1944 in Philadelphia, Pennsylvania (USA)",
+    "measurements": "180 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8897",
+    "name": "Damir•Škaro",
+    "born": "2 November 1959 in Zagreb, Grad Zagreb (CRO)",
+    "measurements": "188 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

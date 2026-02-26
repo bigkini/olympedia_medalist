@@ -312,5 +312,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8996",
+    "name": "Walter•Brown",
+    "born": "31 May 1925",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

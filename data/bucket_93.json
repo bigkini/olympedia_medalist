@@ -273,5 +273,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8893",
+    "name": "Ace•Rusevski",
+    "born": "30 November 1956 in Kumanovo, Kumanovo (MKD)",
+    "measurements": "173 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

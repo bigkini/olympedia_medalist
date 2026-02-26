@@ -347,5 +347,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8852",
+    "name": "Francisco•Rodríguez",
+    "born": "20 September 1945 in Cumaná, Sucre (VEN)",
+    "measurements": "174 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "VEN",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

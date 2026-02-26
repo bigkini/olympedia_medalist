@@ -265,5 +265,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8730",
+    "name": "Kennedy•McKinney",
+    "born": "10 January 1966 in Hernando, Mississippi (USA)",
+    "measurements": "170 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

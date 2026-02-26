@@ -279,5 +279,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8726",
+    "name": "Andrew•Maynard",
+    "born": "8 April 1964 in Cheverly, Maryland (USA)",
+    "measurements": "183 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

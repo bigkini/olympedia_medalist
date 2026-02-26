@@ -392,5 +392,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8782",
+    "name": "Peter•Sturholdt",
+    "born": "7 December 1885 in Red Wing, Minnesota (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

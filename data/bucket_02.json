@@ -200,5 +200,57 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8702",
+    "name": "Nate•Jones",
+    "born": "18 August 1972 in Chicago, Illinois (USA)",
+    "measurements": "183 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8802",
+    "name": "Jackie•Wilson",
+    "born": "17 January 1918 in Spencer, North Carolina (USA)",
+    "measurements": "182 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8902",
+    "name": "Zvonko•Vujin",
+    "born": "28 June 1943 in Zrenjanin, Srednji Banat (SRB)",
+    "measurements": "167 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

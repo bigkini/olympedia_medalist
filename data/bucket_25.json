@@ -348,5 +348,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8725",
+    "name": "Charles•Mayer",
+    "born": "7 January 1882 in Molsheim, Bas-Rhin (FRA)",
+    "measurements": "72 kg",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

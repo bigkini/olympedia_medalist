@@ -191,5 +191,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8737",
+    "name": "Charlie•Mooney",
+    "born": "27 January 1951 in Washington, District of Columbia (USA)",
+    "measurements": "165 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -398,5 +398,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8655",
+    "name": "Harry•Devine",
+    "born": "18 May 1909 in New Haven, Connecticut (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

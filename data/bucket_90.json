@@ -259,5 +259,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8790",
+    "name": "Jesse•Valdez",
+    "born": "12 July 1947 in Houston, Texas (USA)",
+    "measurements": "174 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

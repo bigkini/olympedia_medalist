@@ -303,5 +303,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8687",
+    "name": "Ronnie•Harris",
+    "born": "8 February 1947 in Detroit, Michigan (USA)",
+    "measurements": "169 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8787",
+    "name": "Henry•Tillman",
+    "born": "1 August 1960 in Los Angeles, California (USA)",
+    "measurements": "190 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

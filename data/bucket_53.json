@@ -307,7 +307,7 @@
     "id": "8553",
     "name": "Sergey•Shcherbakov",
     "born": "20 July 1918 in Moskva (Moscow), Moskva (RUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -315,6 +315,36 @@
         "discipline": "Boxing",
         "event": "Welterweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8653",
+    "name": "Oscar•De La Hoya",
+    "born": "4 February 1973 in Montebello, California (USA)",
+    "measurements": "180 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "8753",
+    "name": "David•Reid",
+    "born": "17 September 1973 in Philadelphia, Pennsylvania (USA)",
+    "measurements": "175 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

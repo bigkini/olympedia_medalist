@@ -279,13 +279,28 @@
     "id": "7965",
     "name": "Gerald•Dreyer",
     "born": "22 September 1929 in Pretoria, Gauteng (RSA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "RSA",
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "8665",
+    "name": "Jackie•Fields",
+    "born": "9 February 1908 in Chicago, Illinois (USA)",
+    "measurements": "171 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

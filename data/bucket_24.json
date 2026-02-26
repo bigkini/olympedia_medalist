@@ -236,5 +236,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8824",
+    "name": "Omar•Catarí",
+    "born": "25 April 1964 in Barquisimeto, Lara (VEN)",
+    "measurements": "170 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "VEN",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

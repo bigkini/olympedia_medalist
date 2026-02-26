@@ -256,7 +256,7 @@
     "id": "8175",
     "name": "Gunnar•Nilsson",
     "born": "3 March 1923 in Grevie, Staffanstorp, Skåne (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -264,6 +264,43 @@
         "discipline": "Boxing",
         "event": "Heavyweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8775",
+    "name": "Harry•Spanjer",
+    "born": "9 January 1873 in Grand Rapids, Michigan (USA)",
+    "measurements": "61 kg",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8875",
+    "name": "Slobodan•Kačar",
+    "born": "15 September 1957 in Jajce, Srednjobosanski kanton (BIH)",
+    "measurements": "188 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

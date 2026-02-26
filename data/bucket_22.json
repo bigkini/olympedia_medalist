@@ -308,7 +308,7 @@
     "id": "8522",
     "name": "Romualdas•Murauskas",
     "born": "2 October 1934 in Kaunas, Kaunas (LTU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -316,6 +316,28 @@
         "discipline": "Boxing",
         "event": "Light-Heavyweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8722",
+    "name": "Joe•Lydon",
+    "born": "2 February 1878 in Swinford, Mayo (IRL)",
+    "measurements": "60 kg",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }
