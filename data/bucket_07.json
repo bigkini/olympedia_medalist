@@ -340,5 +340,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9807",
+    "name": "Rolf-Dieter•Amend",
+    "born": "21 March 1949 in Magdeburg, Sachsen-Anhalt (GER)",
+    "measurements": "173 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

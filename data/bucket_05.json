@@ -259,5 +259,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9605",
+    "name": "Robert•Boutigny",
+    "born": "24 July 1927 in Villeneuve-le-Roi, Val-de-Marne (FRA)",
+    "measurements": "177 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9905",
+    "name": "Ulli•Eicke",
+    "born": "18 February 1952 in Wuppertal, Nordrhein-Westfalen (GER)",
+    "measurements": "186 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

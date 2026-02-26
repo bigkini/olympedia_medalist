@@ -429,5 +429,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9943",
+    "name": "Ludwig•Landen",
+    "born": "6 November 1908 in Köln (Cologne), Nordrhein-Westfalen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

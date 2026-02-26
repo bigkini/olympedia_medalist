@@ -400,5 +400,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9835",
+    "name": "Jürgen•Lehnert",
+    "born": "2 November 1954 in Magdeburg, Sachsen-Anhalt (GER)",
+    "measurements": "179 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

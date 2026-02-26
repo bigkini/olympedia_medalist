@@ -403,7 +403,7 @@
     "id": "8655",
     "name": "Harry•Devine",
     "born": "18 May 1909 in New Haven, Connecticut (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -411,6 +411,21 @@
         "discipline": "Boxing",
         "event": "Featherweight, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9955",
+    "name": "Meinrad•Miltenberger",
+    "born": "6 December 1924 in Herdecke, Nordrhein-Westfalen (GER)",
+    "measurements": "178 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

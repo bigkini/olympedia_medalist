@@ -369,5 +369,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9828",
+    "name": "Siegbert•Horn",
+    "born": "11 May 1950 in Hartmannsdorf, Schönewalde, Brandenburg (GER)",
+    "measurements": "180 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

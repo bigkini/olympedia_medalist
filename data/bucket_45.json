@@ -326,5 +326,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9945",
+    "name": "Paul•Lange",
+    "born": "6 February 1931 in Oberhausen, Nordrhein-Westfalen (GER)",
+    "measurements": "178 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Relay, 4 × 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -367,5 +367,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9958",
+    "name": "Ulrich•Papke",
+    "born": "4 March 1962 in Neuruppin, Brandenburg (GER)",
+    "measurements": "193 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

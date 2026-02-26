@@ -250,5 +250,56 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9672",
+    "name": "Philippe•Renaud",
+    "born": "23 November 1962 in Créteil, Val-de-Marne (FRA)",
+    "measurements": "178 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9872",
+    "name": "Anke•Nothnagel-von Seck",
+    "born": "10 September 1966 in Brandenburg an der Havel, Brandenburg (GER)",
+    "measurements": "174 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

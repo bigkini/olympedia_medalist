@@ -289,5 +289,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9890",
+    "name": "Thomas•Becker",
+    "born": "6 July 1967 in Hilden, Nordrhein-Westfalen (GER)",
+    "measurements": "192 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

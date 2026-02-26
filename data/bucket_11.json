@@ -237,5 +237,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9811",
+    "name": "Hans-Jörg•Bliesener",
+    "born": "6 April 1966 in Brandenburg an der Havel, Brandenburg (GER)",
+    "measurements": "185 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

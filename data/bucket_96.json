@@ -342,5 +342,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9896",
+    "name": "Fritz•Bondroit",
+    "born": "26 March 1912 in Herford, Nordrhein-Westfalen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

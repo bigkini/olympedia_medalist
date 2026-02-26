@@ -338,7 +338,7 @@
     "id": "9087",
     "name": "Karl•Proisl",
     "born": "9 July 1911 in Traisen, Niederösterreich (AUT)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -353,6 +353,28 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9887",
+    "name": "Annemarie•Zimmermann",
+    "born": "10 June 1940 in Lendersdorf, Nordrhein-Westfalen (GER)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

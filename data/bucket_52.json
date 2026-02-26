@@ -362,5 +362,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9652",
+    "name": "Patrick•Lefoulon",
+    "born": "6 May 1958 in Mantes-la-Jolie, Yvelines (FRA)",
+    "measurements": "175 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

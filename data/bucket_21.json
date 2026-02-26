@@ -366,7 +366,7 @@
     "id": "8521",
     "name": "Lev•Mukhin",
     "born": "15 October 1936 in Konstantinovsk, Rostov (RUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -374,6 +374,21 @@
         "discipline": "Boxing",
         "event": "Heavyweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9821",
+    "name": "Harald•Gimpel",
+    "born": "6 September 1951 in Wallendorf (Luppe), Schkopau, Sachsen-Anhalt (GER)",
+    "measurements": "173 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

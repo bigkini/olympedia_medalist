@@ -155,5 +155,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9848",
+    "name": "Heike•Singer",
+    "born": "14 July 1964 in Rodewisch, Sachsen (GER)",
+    "measurements": "181 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "9948",
+    "name": "Detlef•Lewe",
+    "born": "20 June 1939 in Dortmund, Nordrhein-Westfalen (GER)",
+    "measurements": "190 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

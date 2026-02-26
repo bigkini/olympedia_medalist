@@ -405,5 +405,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9916",
+    "name": "Erich•Hanisch",
+    "born": "28 March 1909 in Waltersdorf, Schönefeld, Brandenburg (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Folding Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

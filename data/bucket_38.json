@@ -325,7 +325,7 @@
     "id": "9438",
     "name": "Bernhard•Jensen",
     "born": "16 February 1912 in Odense, Syddanmark (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -333,6 +333,43 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9638",
+    "name": "Didier•Hoyer",
+    "born": "3 February 1961 in Boulogne-sur-Mer, Pas-de-Calais (FRA)",
+    "measurements": "177 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9938",
+    "name": "Gunar•Kirchbach",
+    "born": "12 October 1971 in Bad Saarow, Brandenburg (GER)",
+    "measurements": "184 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

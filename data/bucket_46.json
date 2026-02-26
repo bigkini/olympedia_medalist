@@ -252,5 +252,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9846",
+    "name": "Jörg•Schmidt",
+    "born": "16 February 1961 in Berlin, Berlin (GER)",
+    "measurements": "192 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9946",
+    "name": "Jochen•Lettmann",
+    "born": "10 April 1969 in Duisburg, Nordrhein-Westfalen (GER)",
+    "measurements": "181 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

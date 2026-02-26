@@ -479,5 +479,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9827",
+    "name": "Walter•Hofmann",
+    "born": "26 September 1949 in Sömmerda, Thüringen (GER)",
+    "measurements": "169 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "9927",
+    "name": "Willi•Horn",
+    "born": "17 January 1909 in Berlin, Berlin (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Folding Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

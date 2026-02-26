@@ -296,5 +296,50 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9603",
+    "name": "Jean•Boudehen",
+    "born": "11 January 1939 in Petit-Couronne, Seine-Maritime (FRA)",
+    "measurements": "175 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9803",
+    "name": "Bärbel•Köster",
+    "born": "26 May 1957 in Lübbersdorf, Mecklenburg-Vorpommern (GER)",
+    "measurements": "173 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9903",
+    "name": "André•Ehrenberg",
+    "born": "2 January 1972 in Braunschweig, Niedersachsen (GER)",
+    "measurements": "174 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

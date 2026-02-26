@@ -288,5 +288,34 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9886",
+    "name": "Therese•Zenz",
+    "born": "15 October 1932 in Merzig, Saarland (GER)",
+    "measurements": "165 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

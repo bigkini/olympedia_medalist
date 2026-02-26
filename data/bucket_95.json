@@ -236,5 +236,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9795",
+    "name": "Martina•Bischof",
+    "born": "23 November 1957 in Berlin, Berlin (GER)",
+    "measurements": "174 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

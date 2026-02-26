@@ -245,5 +245,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9885",
+    "name": "Magdalena•Wunderlich",
+    "born": "16 May 1952 in Großhesselohe, Bayern (GER)",
+    "measurements": "172 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

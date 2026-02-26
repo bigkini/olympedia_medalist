@@ -421,5 +421,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9864",
+    "name": "Roswitha•Esser",
+    "born": "18 January 1941 in Bad Godesberg, Bonn, Nordrhein-Westfalen (GER)",
+    "measurements": "167 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

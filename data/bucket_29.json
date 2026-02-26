@@ -304,5 +304,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9629",
+    "name": "Wilfrid•Forgues",
+    "born": "22 December 1969 in Tarbes, Hautes-Pyrénées (FRA)",
+    "measurements": "178 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "9829",
+    "name": "Dieter•Krause",
+    "born": "18 January 1936 in Brandenburg an der Havel, Brandenburg (GER)",
+    "measurements": "172 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Relay, 4 × 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

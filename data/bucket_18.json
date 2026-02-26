@@ -412,7 +412,7 @@
     "id": "9318",
     "name": "Warren•Saker",
     "born": "10 August 1907 in Toronto, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -427,6 +427,21 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9818",
+    "name": "Jürgen•Eschert",
+    "born": "24 August 1941 in Magdeburg, Sachsen-Anhalt (GER)",
+    "measurements": "176 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

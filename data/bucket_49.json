@@ -356,5 +356,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9649",
+    "name": "Jean•Laudet",
+    "born": "5 August 1930 in Nevers, Nièvre (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

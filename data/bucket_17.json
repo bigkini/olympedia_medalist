@@ -281,5 +281,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9617",
+    "name": "Sylvain•Curinier",
+    "born": "15 March 1969 in Lons-le-Saunier, Jura (FRA)",
+    "measurements": "180 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9817",
+    "name": "Reinhard•Eiben",
+    "born": "4 December 1951 in Crossen, Zwickau, Sachsen (GER)",
+    "measurements": "170 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Singles, Slalom, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -252,5 +252,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9839",
+    "name": "Uwe•Madeja",
+    "born": "6 February 1959 in Berlin, Berlin (GER)",
+    "measurements": "183 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

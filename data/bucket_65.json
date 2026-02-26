@@ -333,5 +333,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9665",
+    "name": "Jean-Claude•Olry",
+    "born": "28 December 1949 in Boves, Somme (FRA)",
+    "measurements": "171 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

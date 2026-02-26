@@ -308,5 +308,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9612",
+    "name": "Michel•Chapuis",
+    "born": "18 June 1941 in Roche-lez-Beaupré, Doubs (FRA)",
+    "measurements": "176 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

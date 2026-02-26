@@ -398,5 +398,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9678",
+    "name": "Didier•Vavasseur",
+    "born": "7 February 1961 in Évreux, Eure (FRA)",
+    "measurements": "180 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

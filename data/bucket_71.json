@@ -191,5 +191,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9671",
+    "name": "Marcel•Renaud",
+    "born": "27 May 1926 in Paris XIXe, Paris (FRA)",
+    "measurements": "177 cm",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9871",
+    "name": "Manuela•Mucke",
+    "born": "30 January 1975 in Lutherstadt Wittenberg, Sachsen-Anhalt (GER)",
+    "measurements": "175 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

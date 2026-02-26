@@ -452,5 +452,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9814",
+    "name": "Bernd•Duvigneau",
+    "born": "3 December 1955 in Magdeburg, Sachsen-Anhalt (GER)",
+    "measurements": "183 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

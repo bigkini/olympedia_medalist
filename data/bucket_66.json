@@ -237,5 +237,57 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9666",
+    "name": "Jean-Louis•Olry",
+    "born": "6 August 1946 in Montrouge, Hauts-de-Seine (FRA)",
+    "measurements": "169 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9866",
+    "name": "Gisela•Grothaus",
+    "born": "20 February 1955 in Berlin, Berlin (GER)",
+    "measurements": "164 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9966",
+    "name": "Thomas•Reineck",
+    "born": "18 November 1967 in Klausdorf, Schwentinental, Schleswig-Holstein (GER)",
+    "measurements": "191 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

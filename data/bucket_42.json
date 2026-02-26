@@ -251,5 +251,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9942",
+    "name": "Ernst•Krebs",
+    "born": "4 November 1906 in München (Munich), Bayern (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

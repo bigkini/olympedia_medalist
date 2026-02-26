@@ -274,5 +274,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9897",
+    "name": "Fritz•Briel",
+    "born": "24 October 1934 in Düsseldorf, Nordrhein-Westfalen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -207,5 +207,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9798",
+    "name": "Carsta•Genäuß",
+    "born": "30 November 1959 in Dresden, Sachsen (GER)",
+    "measurements": "169 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "9898",
+    "name": "Heinz•Büker",
+    "born": "6 July 1941 in Oberhausen, Nordrhein-Westfalen (GER)",
+    "measurements": "179 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

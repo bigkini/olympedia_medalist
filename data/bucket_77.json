@@ -200,5 +200,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9677",
+    "name": "Georges•Turlier",
+    "born": "16 July 1931 in Saint-Hilaire-Fontaine, Nièvre (FRA)",
+    "measurements": "173 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "9777",
+    "name": "Paul•Ratcliffe",
+    "born": "12 November 1973 in Salford, England (GBR)",
+    "measurements": "180 cm / 72 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

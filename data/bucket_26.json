@@ -323,5 +323,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9626",
+    "name": "Patrice•Estanguet",
+    "born": "19 April 1973 in Pau, Pyrénées-Atlantiques (FRA)",
+    "measurements": "181 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Singles, Slalom, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -236,5 +236,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9651",
+    "name": "Alain•Lebas",
+    "born": "10 November 1953 in Nevers, Nièvre (FRA)",
+    "measurements": "184 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9851",
+    "name": "Andreas•Stähle",
+    "born": "14 February 1965 in Halle (Saale), Sachsen-Anhalt (GER)",
+    "measurements": "183 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

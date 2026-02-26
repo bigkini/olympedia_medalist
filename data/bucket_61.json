@@ -415,5 +415,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9861",
+    "name": "Renate•Breuer",
+    "born": "1 December 1939 in Berlin, Berlin (GER)",
+    "measurements": "165 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

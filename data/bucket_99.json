@@ -319,5 +319,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9799",
+    "name": "Petra•Grabowski",
+    "born": "31 January 1952 in Brandenburg an der Havel, Brandenburg (GER)",
+    "measurements": "173 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

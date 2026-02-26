@@ -293,7 +293,7 @@
     "id": "9432",
     "name": "Ejvind•Hansen",
     "born": "28 July 1924 in Fodslette, Langeland, Syddanmark (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -301,6 +301,21 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "9632",
+    "name": "Louis•Gantois",
+    "born": "15 November 1929 in Saint-Maur-des-Fossés, Val-de-Marne (FRA)",
+    "measurements": "166 cm",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

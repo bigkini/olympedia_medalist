@@ -304,5 +304,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9810",
+    "name": "Frank-Peter•Bischof",
+    "born": "20 August 1954 in Forst (Lausitz), Brandenburg (GER)",
+    "measurements": "183 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "9910",
+    "name": "Oliver•Fix",
+    "born": "21 June 1973 in Augsburg, Bayern (GER)",
+    "measurements": "179 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
