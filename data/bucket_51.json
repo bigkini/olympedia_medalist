@@ -191,5 +191,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8651",
+    "name": "Howard•Davis, Jr.",
+    "born": "14 February 1956 in Glen Cove, New York (USA)",
+    "measurements": "178 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

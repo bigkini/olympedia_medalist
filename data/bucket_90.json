@@ -234,13 +234,28 @@
     "id": "7990",
     "name": "Dries•Niemann",
     "born": "12 August 1927 in Bloemfontein, Free State (RSA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "RSA",
         "discipline": "Boxing",
         "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8490",
+    "name": "Yevgeny•Feofanov",
+    "born": "22 April 1937 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "173 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

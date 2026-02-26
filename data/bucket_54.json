@@ -311,5 +311,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8254",
+    "name": "Jan•Heřmánek",
+    "born": "28 May 1907 in Dolní Lhota, Středočeský kraj (CZE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

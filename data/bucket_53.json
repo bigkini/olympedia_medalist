@@ -302,5 +302,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8553",
+    "name": "Sergey•Shcherbakov",
+    "born": "20 July 1918 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

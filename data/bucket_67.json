@@ -244,5 +244,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8267",
+    "name": "Bohumil•Němeček",
+    "born": "2 January 1938 in Tábor, Jihočeský kraj (CZE)",
+    "measurements": "175 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

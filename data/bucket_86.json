@@ -221,5 +221,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8486",
+    "name": "Anatoly•Bulakov",
+    "born": "3 February 1930 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

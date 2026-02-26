@@ -282,5 +282,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8557",
+    "name": "Boris•Tishin",
+    "born": "2 January 1929 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

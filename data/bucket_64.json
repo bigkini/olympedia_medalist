@@ -344,13 +344,35 @@
     "id": "7964",
     "name": "Charlie•Catterall",
     "born": "16 October 1914 in Harare, Harare (ZIM)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "RSA",
         "discipline": "Boxing",
         "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8464",
+    "name": "Leo•Rwabwogo",
+    "born": "3 June 1949 in Tororo, Eastern (UGA)",
+    "measurements": "162 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "UGA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "UGA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

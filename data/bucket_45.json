@@ -271,7 +271,7 @@
     "id": "7945",
     "name": "Mircea•Şimon",
     "born": "22 January 1954 in București (Bucharest), București (ROU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1976 Summer Olympics",
@@ -279,6 +279,21 @@
         "discipline": "Boxing",
         "event": "Heavyweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8645",
+    "name": "Fred•Kolberg",
+    "born": "13 November 1900 in Anaheim, California (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

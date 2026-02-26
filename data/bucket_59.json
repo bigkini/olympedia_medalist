@@ -382,5 +382,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8559",
+    "name": "Jonas•Čepulis",
+    "born": "11 August 1939 in Joniškėlis, Panevėžys (LTU)",
+    "measurements": "185 cm / 92 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

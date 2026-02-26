@@ -185,5 +185,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8505",
+    "name": "Aleksey•Kiselyov",
+    "born": "17 March 1938 in Lukyanovka, Ryazan (RUS)",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

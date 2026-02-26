@@ -265,5 +265,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8568",
+    "name": "Pyotr•Zayev",
+    "born": "26 July 1953 in Ssyokli, Lipetsk (RUS)",
+    "measurements": "179 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

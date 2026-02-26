@@ -192,5 +192,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8546",
+    "name": "Timofei•Scriabin",
+    "born": "14 November 1967 in Bălți, Bălți (MDA)",
+    "measurements": "169 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

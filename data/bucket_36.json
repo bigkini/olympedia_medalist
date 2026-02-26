@@ -301,5 +301,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8536",
+    "name": "Viktor•Rybakov",
+    "born": "28 May 1956 in Magadan, Magadan (RUS)",
+    "measurements": "167 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8636",
+    "name": "Michael•Carbajal",
+    "born": "17 September 1967 in Phoenix, Arizona (USA)",
+    "measurements": "165 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

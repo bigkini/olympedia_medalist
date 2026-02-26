@@ -326,5 +326,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8500",
+    "name": "Vladimir•Engibaryan",
+    "born": "24 April 1932 in Yerevan, Yerevan (ARM)",
+    "measurements": "164 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -161,5 +161,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8537",
+    "name": "Shamil•Sabirov",
+    "born": "4 April 1959 in Karpinsk, Sverdlovsk (RUS)",
+    "measurements": "161 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "8637",
+    "name": "Bob•Carmody",
+    "born": "4 September 1938 in Brooklyn, New York, New York (USA)",
+    "measurements": "158 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

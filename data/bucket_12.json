@@ -241,5 +241,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8312",
+    "name": "Phajol•Moolsan",
+    "born": "13 September 1968 in ? (THA)",
+    "measurements": "163 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "THA",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8612",
+    "name": "Tim•Austin",
+    "born": "14 April 1971 in Cincinnati, Ohio (USA)",
+    "measurements": "167 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

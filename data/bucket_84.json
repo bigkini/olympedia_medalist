@@ -347,5 +347,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8184",
+    "name": "Stig•Sjölin",
+    "born": "21 December 1928 in Värnamo, Jönköping (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

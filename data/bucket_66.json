@@ -200,5 +200,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8266",
+    "name": "Josef•Němec",
+    "born": "25 September 1933 in České Budějovice, Jihočeský kraj (CZE)",
+    "measurements": "187 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -236,5 +236,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8542",
+    "name": "Sergey•Sivko",
+    "born": "7 June 1940 in Tula, Tula (RUS)",
+    "measurements": "155 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

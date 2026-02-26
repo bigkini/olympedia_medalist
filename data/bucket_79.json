@@ -211,7 +211,7 @@
     "id": "7179",
     "name": "Stasys•Stonkus",
     "born": "29 December 1931 in Telšiai, Telšiai (LTU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -226,6 +226,21 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8379",
+    "name": "Habib•Galhia",
+    "born": "14 May 1941 in Kairouan, Kairouan (TUN)",
+    "measurements": "167 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "TUN",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

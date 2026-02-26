@@ -375,5 +375,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8308",
+    "name": "Vichai•Khadpo",
+    "born": "3 March 1968 in Khon Kaen, Khon Kaen (THA)",
+    "measurements": "163 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "THA",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8508",
+    "name": "Serik•Konakbayev",
+    "born": "25 October 1959 in Pavlodar, Pavlodar (KAZ)",
+    "measurements": "180 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8608",
+    "name": "Chuck•Adkins",
+    "born": "27 April 1932 in Gary, Indiana (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

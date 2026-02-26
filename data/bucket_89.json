@@ -400,5 +400,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8189",
+    "name": "Hasse•Thomsén",
+    "born": "27 February 1942 in Göteborg (Gothenburg), Västra Götaland (SWE)",
+    "measurements": "183 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8489",
+    "name": "Vadim•Yemelyanov",
+    "born": "25 April 1942 in Konyok, Krasnodar Kray (RUS)",
+    "measurements": "188 cm / 97 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

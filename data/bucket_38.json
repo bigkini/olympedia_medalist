@@ -245,5 +245,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8538",
+    "name": "Vladimir•Safronov",
+    "born": "29 December 1934 in Irkutsk, Irkutsk (RUS)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "8638",
+    "name": "Ricardo•Carreras",
+    "born": "8 December 1949 in New York, New York (USA)",
+    "measurements": "169 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -455,5 +455,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8513",
+    "name": "Anatoly•Lagetko",
+    "born": "6 November 1936 in Tokmak, Zaporizhzhia (UKR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

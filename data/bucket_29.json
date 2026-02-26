@@ -259,5 +259,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8629",
+    "name": "Nate•Brooks",
+    "born": "4 August 1933 in Cleveland, Ohio (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

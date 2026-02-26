@@ -371,5 +371,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8283",
+    "name": "Ján•Zachara",
+    "born": "27 August 1928 in Kubrá, Trenčín (SVK)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "8483",
+    "name": "Vilikton•Barannikov",
+    "born": "4 July 1938 in Ulan-Ude, Respublika Buryatiya (RUS)",
+    "measurements": "160 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

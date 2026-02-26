@@ -278,7 +278,7 @@
     "id": "7963",
     "name": "Dave•Carstens",
     "born": "23 September 1913 in Strand, Western Cape (RSA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -286,6 +286,21 @@
         "discipline": "Boxing",
         "event": "Light-Heavyweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "8563",
+    "name": "David•Torosyan",
+    "born": "23 September 1950 in Yerevan, Yerevan (ARM)",
+    "measurements": "158 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

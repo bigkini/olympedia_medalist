@@ -250,5 +250,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8630",
+    "name": "Charlie•Brown",
+    "born": "28 July 1939 in Cincinnati, Ohio (USA)",
+    "measurements": "168 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

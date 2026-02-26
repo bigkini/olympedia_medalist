@@ -333,5 +333,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8625",
+    "name": "Riddick•Bowe",
+    "born": "10 August 1967 in Brooklyn, New York, New York (USA)",
+    "measurements": "195 cm / 99 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Super-Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -191,5 +191,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8295",
+    "name": "Paea•Wolfgramm",
+    "born": "1 December 1969 in 'Utungake, Vava'u (TGA)",
+    "measurements": "185 cm / 140 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "TGA",
+        "discipline": "Boxing",
+        "event": "Super-Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8395",
+    "name": "Malik•Beyleroğlu",
+    "born": "21 January 1970 in ? (AZE)",
+    "measurements": "175 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "TUR",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

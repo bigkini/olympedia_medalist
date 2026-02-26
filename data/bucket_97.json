@@ -199,5 +199,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8397",
+    "name": "Eyüp•Can",
+    "born": "3 August 1964 in Konya, Konya (TUR)",
+    "measurements": "165 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "TUR",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

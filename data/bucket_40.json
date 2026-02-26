@@ -364,5 +364,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8340",
+    "name": "Thawee•Umponmaha",
+    "born": "15 November 1959 in ?, Rayong (THA)",
+    "measurements": "167 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "THA",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8640",
+    "name": "Terrance•Cauthen",
+    "born": "14 May 1976 in Trenton, New Jersey (USA)",
+    "measurements": "175 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

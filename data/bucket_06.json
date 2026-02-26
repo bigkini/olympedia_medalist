@@ -257,5 +257,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8306",
+    "name": "Somluck•Kamsing",
+    "born": "16 January 1973 in Khon Kaen, Khon Kaen (THA)",
+    "measurements": "171 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "THA",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

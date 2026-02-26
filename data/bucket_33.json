@@ -349,5 +349,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "8533",
+    "name": "Yury•Radonyak",
+    "born": "8 October 1935 in Grozny, Chechenskaya Respublika (RUS)",
+    "measurements": "167 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

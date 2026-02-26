@@ -237,5 +237,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8523",
+    "name": "Vladimir•Musalimov",
+    "born": "31 December 1944 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "181 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8623",
+    "name": "Nat•Bor",
+    "born": "1 March 1913 in Fall River, Massachusetts (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

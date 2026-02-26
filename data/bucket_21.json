@@ -361,5 +361,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8521",
+    "name": "Lev•Mukhin",
+    "born": "15 October 1936 in Konstantinovsk, Rostov (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

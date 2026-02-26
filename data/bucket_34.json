@@ -240,13 +240,28 @@
     "id": "8134",
     "name": "Thure•Ahlqvist",
     "born": "20 April 1907 in Borås, Västra Götaland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
         "noc": "SWE",
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8634",
+    "name": "Chris•Byrd",
+    "born": "15 August 1970 in Flint, Michigan (USA)",
+    "measurements": "185 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

@@ -264,5 +264,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8626",
+    "name": "Jim•Boyd",
+    "born": "30 November 1930 in Rocky Mount, North Carolina (USA)",
+    "measurements": "180 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Light-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -317,5 +317,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "8552",
+    "name": "Stanislav•Stepashkin",
+    "born": "1 September 1940 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "163 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Featherweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "8652",
+    "name": "Frankie•Genaro",
+    "born": "26 August 1901 in New York, New York (USA)",
+    "measurements": "156 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

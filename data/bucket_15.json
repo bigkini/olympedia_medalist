@@ -353,5 +353,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8515",
+    "name": "Vyacheslav•Lemeshev",
+    "born": "3 April 1952 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "178 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

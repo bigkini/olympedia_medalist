@@ -449,5 +449,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8627",
+    "name": "Fred•Boylstein",
+    "born": "16 March 1903 in Ford City, Pennsylvania (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

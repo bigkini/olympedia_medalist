@@ -272,7 +272,7 @@
     "id": "7996",
     "name": "Dennis•Shepherd",
     "born": "11 October 1926 in Johannesburg, Gauteng (RSA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -280,6 +280,36 @@
         "discipline": "Boxing",
         "event": "Featherweight, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8296",
+    "name": "Arkhom•Chenglai",
+    "born": "11 June 1970",
+    "measurements": "170 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "THA",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "8496",
+    "name": "Oleg•Grigoryev",
+    "born": "25 December 1937 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "156 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Boxing",
+        "event": "Bantamweight, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

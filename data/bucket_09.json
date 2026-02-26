@@ -218,11 +218,26 @@
     "id": "8009",
     "name": "Theunis•van Schalkwyk",
     "born": "14 September 1929 in Krugersdorp, Gauteng (RSA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "RSA",
+        "discipline": "Boxing",
+        "event": "Light-Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "8509",
+    "name": "Aleksandr•Koshkin",
+    "born": "13 June 1959 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "179 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
         "discipline": "Boxing",
         "event": "Light-Middleweight, Men\n(Olympic)",
         "medal": "Silver"

@@ -245,5 +245,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "8474",
+    "name": "Volodymyr•Klychko",
+    "born": "25 March 1976 in Solnechnoye, Semey, Shyrgys Qazaqstan (KAZ)",
+    "measurements": "195 cm / 105 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "UKR",
+        "discipline": "Boxing",
+        "event": "Super-Heavyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
