@@ -176,5 +176,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6179",
+    "name": "Enrico•Gilardi",
+    "born": "20 January 1957 in Roma, Roma (ITA)",
+    "measurements": "193 cm / 94 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

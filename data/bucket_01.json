@@ -184,5 +184,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6101",
+    "name": "Raúl•Fernández",
+    "born": "17 September 1905 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

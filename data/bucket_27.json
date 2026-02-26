@@ -337,5 +337,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6127",
+    "name": "Phil•Ford",
+    "born": "9 February 1956 in Rocky Mount, North Carolina (USA)",
+    "measurements": "188 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "6227",
+    "name": "Fernand•Guillou",
+    "born": "6 January 1926 in Montoire-sur-le-Loir, Loir-et-Cher (FRA)",
+    "measurements": "180 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

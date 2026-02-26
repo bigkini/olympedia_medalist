@@ -163,5 +163,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6156",
+    "name": "Héctor•García",
+    "born": "12 June 1926 in Montevideo, Montevideo (URU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

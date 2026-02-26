@@ -293,5 +293,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6116",
+    "name": "Vern•Fleming",
+    "born": "2 February 1962 in New York, New York (USA)",
+    "measurements": "195 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

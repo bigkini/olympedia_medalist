@@ -146,5 +146,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6032",
+    "name": "Clyde•Drexler",
+    "born": "22 June 1962 in New Orleans, Louisiana (USA)",
+    "measurements": "200 cm / 101 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

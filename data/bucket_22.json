@@ -244,5 +244,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6022",
+    "name": "•Mosquito",
+    "born": "4 January 1939 in São Paulo, São Paulo (BRA)",
+    "measurements": "178 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

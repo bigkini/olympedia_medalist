@@ -155,5 +155,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6277",
+    "name": "Silvio•Hernández",
+    "born": "31 December 1908 in Veracruz, Veracruz (MEX)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

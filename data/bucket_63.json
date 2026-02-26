@@ -191,5 +191,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6263",
+    "name": "Hersey•Hawkins",
+    "born": "29 September 1965 in Chicago, Illinois (USA)",
+    "measurements": "190 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

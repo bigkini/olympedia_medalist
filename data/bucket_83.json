@@ -259,5 +259,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6083",
+    "name": "Billy•Evans",
+    "born": "13 September 1932 in Berea, Kentucky (USA)",
+    "measurements": "185 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "6183",
+    "name": "Maurice•Girardot",
+    "born": "22 December 1921 in Paris XVIIIe, Paris (FRA)",
+    "measurements": "178 cm",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

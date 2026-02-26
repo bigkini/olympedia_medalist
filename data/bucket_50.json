@@ -110,5 +110,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6050",
+    "name": "Edvar•Simões",
+    "born": "23 April 1943 in São José dos Campos, São Paulo (BRA)",
+    "measurements": "185 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

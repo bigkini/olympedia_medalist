@@ -213,5 +213,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6294",
+    "name": "Bill•Hosket",
+    "born": "20 December 1946 in Dayton, Ohio (USA)",
+    "measurements": "203 cm / 102 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

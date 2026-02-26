@@ -295,5 +295,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6264",
+    "name": "Spencer•Haywood",
+    "born": "22 April 1949 in Silver City, Mississippi (USA)",
+    "measurements": "203 cm / 102 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

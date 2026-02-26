@@ -381,5 +381,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6213",
+    "name": "Alan•Gregov",
+    "born": "1 April 1970 in Zadar, Zadarska županija (CRO)",
+    "measurements": "190 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CRO",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

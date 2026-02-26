@@ -221,5 +221,34 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6053",
+    "name": "Gintaras•Einikis",
+    "born": "30 September 1969 in Kretinga, Klaipėda (LTU)",
+    "measurements": "208 cm / 120 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "LTU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "LTU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "LTU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

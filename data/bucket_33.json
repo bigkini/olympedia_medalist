@@ -319,5 +319,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6133",
+    "name": "Marc•Freiberger",
+    "born": "27 November 1928 in Amarillo, Texas (USA)",
+    "measurements": "211 cm / 98 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

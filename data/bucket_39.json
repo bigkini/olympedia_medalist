@@ -155,5 +155,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6239",
+    "name": "Sabit•Hadžić",
+    "born": "7 August 1957 in Sarajevo, Kanton Sarajevo (BIH)",
+    "measurements": "188 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

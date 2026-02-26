@@ -167,5 +167,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6212",
+    "name": "Jeff•Grayer",
+    "born": "17 December 1965 in Flint, Michigan (USA)",
+    "measurements": "195 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -132,5 +132,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6173",
+    "name": "•Boccardo",
+    "born": "28 January 1936 in São Manuel, São Paulo (BRA)",
+    "measurements": "192 cm",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

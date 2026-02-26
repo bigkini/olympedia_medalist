@@ -331,5 +331,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6178",
+    "name": "Tex•Gibbons",
+    "born": "7 October 1907 in Elk City, Oklahoma (USA)",
+    "measurements": "185 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -191,5 +191,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6128",
+    "name": "Joe•Fortenberry",
+    "born": "1 April 1911 in Slidell, Texas (USA)",
+    "measurements": "203 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

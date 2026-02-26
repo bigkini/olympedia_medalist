@@ -162,5 +162,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6199",
+    "name": "Carlos•González",
+    "born": "2 May 1930 in Montevideo, Montevideo (URU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

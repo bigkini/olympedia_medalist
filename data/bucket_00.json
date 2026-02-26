@@ -281,5 +281,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6300",
+    "name": "Phil•Hubbard",
+    "born": "13 December 1956 in Canton, Ohio (USA)",
+    "measurements": "200 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

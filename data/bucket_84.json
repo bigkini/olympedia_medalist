@@ -272,5 +272,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6084",
+    "name": "André•Even",
+    "born": "14 January 1926 in Pont-l'Évêque, Calvados (FRA)",
+    "measurements": "183 cm",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "6184",
+    "name": "Wayne•Glasgow",
+    "born": "17 January 1926 in Dacome, Oklahoma (USA)",
+    "measurements": "190 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "6284",
+    "name": "Grant•Hill",
+    "born": "5 October 1972 in Dallas, Texas (USA)",
+    "measurements": "203 cm / 102 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

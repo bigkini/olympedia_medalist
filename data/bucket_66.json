@@ -185,5 +185,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6266",
+    "name": "Walt•Hazzard",
+    "born": "15 April 1942 in Philadelphia, Pennsylvania (USA)",
+    "measurements": "191 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

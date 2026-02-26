@@ -178,5 +178,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6085",
+    "name": "Patrick•Ewing",
+    "born": "5 August 1962 in Kingston, Kingston (JAM)",
+    "measurements": "213 cm / 109 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

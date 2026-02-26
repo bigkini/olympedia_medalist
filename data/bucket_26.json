@@ -205,5 +205,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6126",
+    "name": "Gib•Ford",
+    "born": "14 September 1931 in Tulia, Texas (USA)",
+    "measurements": "193 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
