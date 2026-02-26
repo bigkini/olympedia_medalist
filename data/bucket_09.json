@@ -183,5 +183,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6309",
+    "name": "Darrall•Imhoff",
+    "born": "11 October 1938 in San Gabriel, California (USA)",
+    "measurements": "211 cm / 98 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

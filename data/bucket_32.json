@@ -161,5 +161,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6432",
+    "name": "Radivoj•Korać",
+    "born": "5 November 1938 in Sombor, Zapadna Bačka (SRB)",
+    "measurements": "193 cm / 94 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -147,5 +147,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6473",
+    "name": "Christian•Laettner",
+    "born": "17 August 1969 in Angola, New York (USA)",
+    "measurements": "211 cm / 107 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

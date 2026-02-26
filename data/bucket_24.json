@@ -191,5 +191,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6424",
+    "name": "Jon•Koncak",
+    "born": "17 May 1963 in Cedar Rapids, Iowa (USA)",
+    "measurements": "213 cm / 113 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

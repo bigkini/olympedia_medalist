@@ -163,5 +163,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6374",
+    "name": "Artūras•Karnišovas",
+    "born": "27 April 1972 in Klaipėda, Klaipėda (LTU)",
+    "measurements": "203 cm / 96 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "LTU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "LTU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "6474",
+    "name": "Tom•LaGarde",
+    "born": "10 February 1955 in Detroit, Michigan (USA)",
+    "measurements": "208 cm / 97 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

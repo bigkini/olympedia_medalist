@@ -169,5 +169,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6486",
+    "name": "Tabaré•Larre Borges",
+    "born": "6 January 1922 in Montevideo, Montevideo (URU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

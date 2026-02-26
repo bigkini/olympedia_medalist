@@ -289,5 +289,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6414",
+    "name": "Carl•Knowles",
+    "born": "24 February 1910 in San Diego, California (USA)",
+    "measurements": "188 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

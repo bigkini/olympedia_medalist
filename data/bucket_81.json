@@ -322,5 +322,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6381",
+    "name": "John•Keller",
+    "born": "10 November 1928 in Page City, Kansas (USA)",
+    "measurements": "190 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

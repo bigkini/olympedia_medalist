@@ -317,5 +317,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6384",
+    "name": "Bob•Kenney",
+    "born": "23 June 1931 in Arkansas City, Kansas (USA)",
+    "measurements": "188 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "6484",
+    "name": "Les•Lane",
+    "born": "6 March 1932 in Purcell, Oklahoma (USA)",
+    "measurements": "177 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

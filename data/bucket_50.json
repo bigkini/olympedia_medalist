@@ -125,5 +125,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6450",
+    "name": "Duje•Krstulović",
+    "born": "5 February 1953 in Split, Splitsko-dalmatinska županija (CRO)",
+    "measurements": "203 cm",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -234,5 +234,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6336",
+    "name": "Magic•Johnson",
+    "born": "14 August 1959 in Lansing, Michigan (USA)",
+    "measurements": "205 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "6436",
+    "name": "Yury•Korneyev",
+    "born": "26 March 1937 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "198 cm / 92 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

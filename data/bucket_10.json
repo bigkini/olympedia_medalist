@@ -200,5 +200,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6410",
+    "name": "Joe•Kleine",
+    "born": "4 January 1962 in Colorado Springs, Colorado (USA)",
+    "measurements": "211 cm / 122 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

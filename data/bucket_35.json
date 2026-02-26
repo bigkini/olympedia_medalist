@@ -204,7 +204,22 @@
     "id": "6035",
     "name": "Nodar•Jorjik'ia",
     "born": "15 November 1921 in Kutaisi, Imereti (GEO)",
-    "measurements": null,
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "6435",
+    "name": "Otar•Korkia",
+    "born": "10 May 1923 in Kutaisi, Imereti (GEO)",
+    "measurements": "195 cm",
     "medals": [
       {
         "game": "1952 Summer Olympics",

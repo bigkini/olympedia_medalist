@@ -169,5 +169,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6320",
+    "name": "Luke•Jackson",
+    "born": "31 October 1941 in San Marcos, Texas (USA)",
+    "measurements": "206 cm / 107 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

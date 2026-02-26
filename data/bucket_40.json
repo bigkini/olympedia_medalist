@@ -267,5 +267,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6340",
+    "name": "Bobby•Jones",
+    "born": "18 December 1951 in Charlotte, North Carolina (USA)",
+    "measurements": "203 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "6440",
+    "name": "Sergey•Kovalenko",
+    "born": "11 August 1947 in Lüshunkou, Dalian, Liaoning (CHN)",
+    "measurements": "216 cm / 111 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

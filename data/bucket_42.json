@@ -184,5 +184,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6342",
+    "name": "Michael•Jordan",
+    "born": "17 February 1963 in Brooklyn, New York, New York (USA)",
+    "measurements": "198 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

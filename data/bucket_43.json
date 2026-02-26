@@ -332,5 +332,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6343",
+    "name": "Sergėjus•Jovaiša",
+    "born": "17 December 1954 in Anykščiai, Utena (LTU)",
+    "measurements": "195 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "LTU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

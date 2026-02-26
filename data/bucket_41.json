@@ -146,5 +146,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6341",
+    "name": "Wally•Jones",
+    "born": "14 July 1926 in Harlan, Kentucky (USA)",
+    "measurements": "193 cm / 102 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

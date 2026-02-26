@@ -289,5 +289,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6383",
+    "name": "Dean•Kelley",
+    "born": "23 September 1931 in Monmouth, Kansas (USA)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

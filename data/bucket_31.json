@@ -169,5 +169,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6331",
+    "name": "Andrés•Jiménez",
+    "born": "6 June 1962 in Carmona, Sevilla (ESP)",
+    "measurements": "205 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

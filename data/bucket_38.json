@@ -185,5 +185,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6338",
+    "name": "Dwight•Jones",
+    "born": "27 February 1952 in Houston, Texas (USA)",
+    "measurements": "203 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

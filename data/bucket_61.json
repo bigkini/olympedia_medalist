@@ -241,7 +241,7 @@
     "id": "5961",
     "name": "Ed•Dawson",
     "born": "10 October 1907 in Alford, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -249,6 +249,21 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "6461",
+    "name": "Mitch•Kupchak",
+    "born": "24 May 1954 in Hicksville, New York (USA)",
+    "measurements": "208 cm / 104 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

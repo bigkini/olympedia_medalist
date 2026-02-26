@@ -170,5 +170,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6339",
+    "name": "K. C.•Jones",
+    "born": "25 May 1932 in Taylor, Texas (USA)",
+    "measurements": "185 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

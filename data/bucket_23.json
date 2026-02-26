@@ -152,13 +152,43 @@
     "id": "3623",
     "name": "Harry•Kurschat",
     "born": "3 November 1930 in Berlin, Berlin (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "GER",
         "discipline": "Boxing",
         "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "6323",
+    "name": "Bob•Jeangerard",
+    "born": "20 June 1932 in Evanston, Illinois (USA)",
+    "measurements": "190 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "6423",
+    "name": "Arijan•Komazec",
+    "born": "23 January 1970 in Zadar, Zadarska županija (CRO)",
+    "measurements": "200 cm / 98 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CRO",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

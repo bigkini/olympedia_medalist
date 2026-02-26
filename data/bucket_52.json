@@ -257,5 +257,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "6452",
+    "name": "Heino•Kruus",
+    "born": "30 September 1926 in Tallinn, Harjumaa (EST)",
+    "measurements": "186 cm",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

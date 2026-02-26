@@ -102,5 +102,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6337",
+    "name": "Francis•Johnson",
+    "born": "5 August 1910 in Hartford, Kansas (USA)",
+    "measurements": "180 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

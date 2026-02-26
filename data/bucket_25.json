@@ -266,5 +266,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6325",
+    "name": "Vinko•Jelovac",
+    "born": "18 September 1948 in Pazin, Istarska županija (CRO)",
+    "measurements": "208 cm / 94 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -221,5 +221,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "6445",
+    "name": "Gintaras•Krapikas",
+    "born": "6 July 1961 in Kretinga, Klaipėda (LTU)",
+    "measurements": "197 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "LTU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
