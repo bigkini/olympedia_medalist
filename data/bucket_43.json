@@ -511,5 +511,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11643",
+    "name": "Gustaf Adolf•Boltenstern, Sr.",
+    "born": "1 April 1861 in Helsingborg, Skåne (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11743",
+    "name": "Harry•Chamberlin",
+    "born": "19 May 1887 in Elgin, Illinois (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

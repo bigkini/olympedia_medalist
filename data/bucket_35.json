@@ -512,5 +512,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11535",
+    "name": "José, Marqués•Álvarez de Bohorques",
+    "born": "23 March 1895 in Madrid, Madrid (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

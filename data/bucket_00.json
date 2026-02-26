@@ -490,5 +490,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11700",
+    "name": "Thomas•Byström",
+    "born": "27 November 1893 in Stockholm, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

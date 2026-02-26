@@ -422,5 +422,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11645",
+    "name": "Carl, Greve•Bonde",
+    "born": "28 April 1872 in Mörkö, Södertälje, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

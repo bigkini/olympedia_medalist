@@ -444,5 +444,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11746",
+    "name": "Frank•Chapot",
+    "born": "24 February 1932 in Camden, New Jersey (USA)",
+    "measurements": "178 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11846",
+    "name": "Karol•von Rómmel",
+    "born": "23 May 1888 in Hrodna, Hrodna (BLR)",
+    "measurements": "172 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

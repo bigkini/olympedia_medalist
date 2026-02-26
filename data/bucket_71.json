@@ -325,5 +325,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11771",
+    "name": "Mac•Cone",
+    "born": "23 August 1952 in Memphis, Tennessee (USA)",
+    "measurements": "188 cm / 82 kg",
+    "medals": [
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11871",
+    "name": "Ernst•Deloch",
+    "born": "17 May 1886 in Karchów, Pawłowiczki, Opolskie (POL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

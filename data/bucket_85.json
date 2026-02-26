@@ -383,7 +383,7 @@
     "id": "11385",
     "name": "Vicky•Latta",
     "born": "10 June 1951 in Auckland, Auckland (NZL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -398,6 +398,21 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Open\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11785",
+    "name": "André•Coumans",
+    "born": "10 April 1893 in Liège, Liège (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

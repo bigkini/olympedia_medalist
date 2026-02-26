@@ -316,7 +316,7 @@
     "id": "10870",
     "name": "Bohumil•Kudrna",
     "born": "15 March 1920 in Brandlín, Jihočeský kraj (CZE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -331,6 +331,21 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11870",
+    "name": "Norman•Dello Joio",
+    "born": "7 June 1956 in New York, New York (USA)",
+    "measurements": "172 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -355,5 +355,34 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11634",
+    "name": "Herbert•Blöcker",
+    "born": "1 January 1943 in Fiefharrie, Negenharrie, Schleswig-Holstein (GER)",
+    "measurements": "173 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

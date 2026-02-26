@@ -423,5 +423,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11649",
+    "name": "Boris•Boor",
+    "born": "12 December 1950 in Bratislava, Bratislava (SVK)",
+    "measurements": "178 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

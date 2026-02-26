@@ -479,5 +479,65 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11515",
+    "name": "Gregor•Adlercreutz",
+    "born": "16 August 1898 in Stockholm, Stockholm (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11615",
+    "name": "Pierre•Bertran de Balanda",
+    "born": "28 September 1887 in Toulouse, Haute-Garonne (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11715",
+    "name": "Raúl•Campero",
+    "born": "29 November 1919 in San Blas, Nayarit (MEX)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11815",
+    "name": "Emmanuel•de Blommaert de Soye",
+    "born": "15 October 1875 in Blicquy, Leuze-en-Hainaut, Hainaut (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

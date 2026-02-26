@@ -378,5 +378,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11665",
+    "name": "Heinz•Brandt",
+    "born": "11 March 1907 in Charlottenburg, Berlin (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11765",
+    "name": "Brien•Cobcroft",
+    "born": "11 October 1934 in Sydney, New South Wales (AUS)",
+    "measurements": "177 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

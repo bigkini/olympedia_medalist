@@ -353,5 +353,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11612",
+    "name": "Andrew•Bennie",
+    "born": "18 August 1956 in Auckland, Auckland (NZL)",
+    "measurements": "180 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

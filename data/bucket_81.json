@@ -559,5 +559,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11481",
+    "name": "Mary•Thomson-King",
+    "born": "8 June 1961 in Newark, England (GBR)",
+    "measurements": "178 cm / 63 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2012 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11581",
+    "name": "Kamal•Bahamdan",
+    "born": "12 February 1970 in Ar-Riyad, Ar-Riyad (KSA)",
+    "measurements": "172 cm / 69 kg",
+    "medals": [
+      {
+        "game": "2012 Summer Olympics",
+        "noc": "KSA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -560,5 +560,34 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11827",
+    "name": "Gerard•de Kruijff",
+    "born": "27 January 1890 in Buren, Gelderland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

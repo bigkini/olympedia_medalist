@@ -362,5 +362,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11651",
+    "name": "Aníbal•d'Almeida",
+    "born": "18 October 1898 in Figueiró da Granja, Fornos de Algodres, Distrito da Guarda (POR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "POR",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -461,5 +461,57 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11538",
+    "name": "Alessandro•Alvisi",
+    "born": "12 February 1887 in Vicenza, Vicenza (ITA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11738",
+    "name": "Georges•Cauchy",
+    "born": {},
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Vaulting (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11838",
+    "name": "Joseph, Marquis•de Montesquiou-Fézensac",
+    "born": "11 January 1875 in Paris VIIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Hacks and Hunter Combined, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

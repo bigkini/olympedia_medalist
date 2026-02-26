@@ -450,5 +450,56 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11608",
+    "name": "José•Beltrão",
+    "born": "27 November 1905 in Lisboa, Distrito de Lisboa (POR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "POR",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11808",
+    "name": "Bruce•Davidson",
+    "born": "31 December 1949 in Newburgh, New York (USA)",
+    "measurements": "180 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

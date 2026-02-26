@@ -412,5 +412,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11672",
+    "name": "Wolfgang•Brinkmann",
+    "born": "23 May 1950 in Bielefeld, Nordrhein-Westfalen (GER)",
+    "measurements": "178 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

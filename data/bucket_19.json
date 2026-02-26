@@ -457,5 +457,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11819",
+    "name": "Louis•de Champsavin",
+    "born": "24 November 1867 in Assérac, Loire-Atlantique (FRA)",
+    "measurements": "166 cm",
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

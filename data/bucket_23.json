@@ -368,7 +368,7 @@
     "id": "11123",
     "name": "Steve•Macknowski",
     "born": "16 February 1922 in Yonkers, New York (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -383,6 +383,36 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11523",
+    "name": "Khaled•Al-Eid",
+    "born": "2 January 1969 in Ar-Riyad, Ar-Riyad (KSA)",
+    "measurements": "175 cm / 57 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "KSA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11823",
+    "name": "Herman•de Gaiffier d'Hestroy",
+    "born": "18 May 1895 in Namur, Namur (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

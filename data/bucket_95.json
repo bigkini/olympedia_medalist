@@ -316,5 +316,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11495",
+    "name": "Ida•von Nagel",
+    "born": "15 May 1917 in Beberbeck, Hofgeismar, Hessen (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11795",
+    "name": "Edgar Henri•Cuepper",
+    "born": "16 May 1949 in Eupen, Liège (BEL)",
+    "measurements": "183 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

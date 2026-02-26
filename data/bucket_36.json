@@ -460,13 +460,43 @@
     "id": "11236",
     "name": "Enrique•Padilla",
     "born": "12 June 1890",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "ARG",
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11636",
+    "name": "Janusz•Bobik",
+    "born": "17 December 1955 in Śródza, Śląskie (POL)",
+    "measurements": "169 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11736",
+    "name": "Ernst•Casparsson",
+    "born": "15 November 1886 in Krokek, Norrköping, Östergötland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

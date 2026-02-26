@@ -330,13 +330,49 @@
     "id": "11242",
     "name": "Tom•Griffin",
     "born": "19 February 1884 in Sydney, New South Wales (AUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "ANZ",
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11642",
+    "name": "Gustaf Adolf•Boltenstern, Jr.",
+    "born": "15 May 1904 in Stockholm, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
         "medal": "Gold"
       }
     ]

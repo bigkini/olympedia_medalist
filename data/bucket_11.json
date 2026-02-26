@@ -304,5 +304,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11611",
+    "name": "Mervyn•Bennett",
+    "born": "7 September 1944",
+    "measurements": "179 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11811",
+    "name": "Jim•Day",
+    "born": "2 July 1946 in Thornhill, Ontario (CAN)",
+    "measurements": "180 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

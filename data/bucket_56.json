@@ -319,5 +319,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11656",
+    "name": "Daniël•Bouckaert",
+    "born": "17 May 1894 in Waregem, West-Vlaanderen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Vaulting (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Vaulting (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

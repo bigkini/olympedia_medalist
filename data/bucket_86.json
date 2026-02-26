@@ -332,5 +332,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11686",
+    "name": "Willi•Büsing",
+    "born": "2 March 1921 in Jade, Niedersachsen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -227,7 +227,7 @@
     "id": "11350",
     "name": "Lis•Hartel",
     "born": "14 March 1921 in Hellerup, Gentofte, Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -242,6 +242,43 @@
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Individual, Open\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11650",
+    "name": "Bob•Borg",
+    "born": "27 May 1913 in Manila, Manila (PHI)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11750",
+    "name": "Mauro•Checcoli",
+    "born": "1 March 1943 in Bologna, Bologna (ITA)",
+    "measurements": "171 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

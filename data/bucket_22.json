@@ -440,7 +440,7 @@
     "id": "11122",
     "name": "Steve•Lysak",
     "born": "7 August 1912 in Newark, New Jersey (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -455,6 +455,21 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11522",
+    "name": "Ramzy•Al-Duhami",
+    "born": "5 January 1972 in Ar-Riyad, Ar-Riyad (KSA)",
+    "measurements": "162 cm / 70 kg",
+    "medals": [
+      {
+        "game": "2012 Summer Olympics",
+        "noc": "KSA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

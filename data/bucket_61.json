@@ -481,5 +481,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11561",
+    "name": "Victor•Archenoul",
+    "born": "16 December 1871 in La Boussac, Ille-et-Vilaine (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Hacks and Hunter Combined, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

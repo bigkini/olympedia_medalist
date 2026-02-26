@@ -408,5 +408,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11791",
+    "name": "Óscar•Cristi",
+    "born": "29 June 1916 in Valparaíso, Valparaíso (CHI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "CHI",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "CHI",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

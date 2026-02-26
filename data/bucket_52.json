@@ -474,5 +474,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11552",
+    "name": "Paolo•Angioni",
+    "born": "22 January 1938 in Cagliari, Cagliari (ITA)",
+    "measurements": "177 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11752",
+    "name": "Bernard•Chevallier",
+    "born": "4 October 1912 in Chartres, Eure-et-Loir (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11852",
+    "name": "Hélder•Martins",
+    "born": "28 November 1901 in Lisboa, Distrito de Lisboa (POR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "POR",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -405,5 +405,48 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11606",
+    "name": "Ludger•Beerbaum",
+    "born": "26 August 1963 in Detmold, Nordrhein-Westfalen (GER)",
+    "measurements": "190 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2016 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

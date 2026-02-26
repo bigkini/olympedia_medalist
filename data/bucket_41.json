@@ -407,5 +407,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11541",
+    "name": "Otto•Ammermann",
+    "born": "7 September 1932 in Kleinensiel, Niedersachsen (GER)",
+    "measurements": "183 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11841",
+    "name": "Jean, Baron•de Neuflize",
+    "born": "21 August 1850 in Paris, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Driving (Equestrian)",
+        "event": "Four-In-Hand Competition, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

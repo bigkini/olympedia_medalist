@@ -248,7 +248,7 @@
     "id": "11248",
     "name": "Charles•McMurtrie",
     "born": "1 May 1878 in Orange, New South Wales (AUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -256,6 +256,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11648",
+    "name": "Jules•Bonvalet",
+    "born": "18 June 1888 in Saint-Jean-Geest, Jodoigne, Brabant Wallon (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

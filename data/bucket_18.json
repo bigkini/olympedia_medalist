@@ -539,5 +539,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11818",
+    "name": "Jan•de Bruine",
+    "born": "15 July 1903 in Winschoten, Groningen (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

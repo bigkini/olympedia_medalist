@@ -350,5 +350,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11574",
+    "name": "Luiz Felipe•de Azevedo",
+    "born": "17 August 1953 in Rio de Janeiro, Rio de Janeiro (BRA)",
+    "measurements": "179 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

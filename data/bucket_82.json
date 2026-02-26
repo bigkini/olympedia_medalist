@@ -482,5 +482,57 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11682",
+    "name": "Toni•Bühler",
+    "born": "15 June 1922 in Winterthur, Zürich (SUI)",
+    "measurements": "177 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11782",
+    "name": "Frédéric•Cottier",
+    "born": "5 February 1954 in Neuilly-sur-Seine, Hauts-de-Seine (FRA)",
+    "measurements": "178 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11882",
+    "name": "Emanuele, Conte•Di Pralormo",
+    "born": "13 July 1887 in Pralormo, Torino (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

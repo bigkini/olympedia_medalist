@@ -441,5 +441,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11562",
+    "name": "Alessandro•Argenton",
+    "born": "11 February 1937 in Cividale del Friuli, Udine (ITA)",
+    "measurements": "172 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

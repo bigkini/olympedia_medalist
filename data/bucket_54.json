@@ -408,5 +408,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11654",
+    "name": "Roger-Yves•Bost",
+    "born": "21 October 1965 in Boulogne-Billancourt, Hauts-de-Seine (FRA)",
+    "measurements": "176 cm / 80 kg",
+    "medals": [
+      {
+        "game": "2016 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

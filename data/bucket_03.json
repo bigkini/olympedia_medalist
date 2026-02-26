@@ -415,5 +415,155 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11503",
+    "name": "Isabell•Werth",
+    "born": "21 July 1969 in Sevelen, Issum, Nordrhein-Westfalen (GER)",
+    "measurements": "169 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2016 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2016 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2020 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2020 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2024 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2024 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11603",
+    "name": "Otto•Becker",
+    "born": "3 December 1958 in Aschaffenburg, Bayern (GER)",
+    "measurements": "182 cm / 78 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11703",
+    "name": "Giulio•Cacciandra",
+    "born": "15 July 1884 in Alessandria, Alessandria (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

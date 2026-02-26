@@ -399,5 +399,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11768",
+    "name": "Anton•Colenbrander",
+    "born": "3 May 1889 in Jatinegara, Jawa Timur (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Fencing",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

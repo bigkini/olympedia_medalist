@@ -526,5 +526,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11814",
+    "name": "Jacques•de Prunelé",
+    "born": "21 June 1876 in Estrées-Deniécourt, Somme (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Long Jump, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

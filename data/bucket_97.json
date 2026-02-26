@@ -354,5 +354,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11797",
+    "name": "Herman•d'Oultremont",
+    "born": "2 April 1882 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

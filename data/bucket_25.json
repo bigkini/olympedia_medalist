@@ -519,5 +519,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11725",
+    "name": "Luís•de Menezes",
+    "born": "14 July 1902 in Santarém, Distrito de Santarém (POR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "POR",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -573,5 +573,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11813",
+    "name": "Gérard•de Balorre",
+    "born": "25 November 1899 in Paris VIIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

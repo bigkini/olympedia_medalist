@@ -392,5 +392,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11567",
+    "name": "Carlo•Asinari Di San Marzano",
+    "born": "3 November 1884 in Torino, Torino (ITA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11767",
+    "name": "Tad•Coffin",
+    "born": "9 May 1955 in Toledo, Ohio (USA)",
+    "measurements": "180 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -474,7 +474,7 @@
     "id": "11240",
     "name": "Dan•Carroll",
     "born": "17 February 1887 in Melbourne, Victoria (AUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -488,6 +488,42 @@
         "noc": "USA",
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11640",
+    "name": "Harry•Boldt",
+    "born": "23 February 1930 in Chernyakhovsk, Kaliningrad (RUS)",
+    "measurements": "184 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
         "medal": "Gold"
       }
     ]

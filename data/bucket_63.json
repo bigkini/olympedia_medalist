@@ -430,5 +430,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11563",
+    "name": "Eddie•Argo",
+    "born": "22 September 1895 in Hollins, Alabama (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

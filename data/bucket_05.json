@@ -442,5 +442,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11505",
+    "name": "Hannelore•Weygand",
+    "born": "30 October 1924 in Düsseldorf, Nordrhein-Westfalen (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11705",
+    "name": "Ettore•Caffaratti",
+    "born": "12 May 1886 in Abbadia Alpina, Pinerolo, Torino (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

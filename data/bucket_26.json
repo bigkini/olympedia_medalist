@@ -447,5 +447,49 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11626",
+    "name": "Carl•Björnstjerna",
+    "born": "7 April 1886 in Stockholm, Stockholm (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11726",
+    "name": "Jacques•Cariou",
+    "born": "23 September 1870 in Peumérit, Finistère (FRA)",
+    "measurements": "173 cm",
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
