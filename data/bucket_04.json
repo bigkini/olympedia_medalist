@@ -430,5 +430,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12604",
+    "name": "Henri•Rang",
+    "born": "8 June 1902 in Lugoj, Timiș (ROU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

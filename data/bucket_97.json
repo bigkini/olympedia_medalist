@@ -359,7 +359,7 @@
     "id": "11797",
     "name": "Herman•d'Oultremont",
     "born": "2 April 1882 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -367,6 +367,21 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12497",
+    "name": "Oskar•Nilsson",
+    "born": "25 January 1897 in Ringarum, Valdemarsvik, Östergötland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Vaulting (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

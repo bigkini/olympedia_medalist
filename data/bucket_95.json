@@ -382,5 +382,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12295",
+    "name": "Gerard•le Heux",
+    "born": "7 May 1885 in Deventer, Overijssel (NED)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12395",
+    "name": "Arthur•McCashin",
+    "born": "5 May 1909 in Larne, Northern Ireland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

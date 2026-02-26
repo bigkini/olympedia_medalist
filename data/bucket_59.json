@@ -574,5 +574,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12459",
+    "name": "Hans•Moser",
+    "born": "19 January 1901 in Oberdiessbach, Bern (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

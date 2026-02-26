@@ -463,5 +463,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12362",
+    "name": "Petar•Mandadzhiev",
+    "born": "6 November 1929",
+    "measurements": "165 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

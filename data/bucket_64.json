@@ -458,5 +458,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12364",
+    "name": "Beat•Mändli",
+    "born": "1 October 1969 in Laufen-Uhwiesen, Zürich (SUI)",
+    "measurements": "182 cm / 72 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12464",
+    "name": "Jörg•Münzner",
+    "born": "14 July 1960 in Hamburg, Hamburg (GER)",
+    "measurements": "179 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

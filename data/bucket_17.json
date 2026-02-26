@@ -423,5 +423,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12517",
+    "name": "Ragnar•Olson",
+    "born": "10 August 1880 in Kristianstad, Skåne (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

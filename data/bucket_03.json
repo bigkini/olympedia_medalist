@@ -609,5 +609,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12603",
+    "name": "Daniel•Ramseier",
+    "born": "29 July 1963 in Zürich, Zürich (SUI)",
+    "measurements": "186 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

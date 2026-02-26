@@ -420,13 +420,65 @@
     "id": "12085",
     "name": "Ernst•Hallberg",
     "born": "5 January 1894 in Falkenberg, Halland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
         "noc": "SWE",
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12385",
+    "name": "François•Mathy",
+    "born": "31 December 1944 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
+    "measurements": "180 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12485",
+    "name": "Éric•Navet",
+    "born": "9 May 1959 in Bayeux, Calvados (FRA)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12585",
+    "name": "Michael•Poulin",
+    "born": "10 June 1945 in Newport, Rhode Island (USA)",
+    "measurements": "167 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
         "medal": "Bronze"
       }
     ]

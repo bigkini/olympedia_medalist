@@ -374,7 +374,7 @@
     "id": "12139",
     "name": "Champ•Hough",
     "born": "3 May 1934 in San Diego, California (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -382,6 +382,21 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12539",
+    "name": "Hubert•Parot",
+    "born": "23 May 1933 in Athis-Mons, Essonne (FRA)",
+    "measurements": "168 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

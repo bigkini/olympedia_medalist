@@ -619,5 +619,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12327",
+    "name": "Hermann•Linkenbach",
+    "born": "8 April 1889 in Barmen, Wuppertal, Nordrhein-Westfalen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

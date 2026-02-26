@@ -554,7 +554,7 @@
     "id": "12135",
     "name": "Henric•Horn af Åminne",
     "born": "12 March 1880 in Stockholm, Stockholm (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -562,6 +562,21 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12335",
+    "name": "Alberto•Lombardi",
+    "born": "29 August 1893 in Dronero, Cuneo (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

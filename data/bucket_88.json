@@ -397,5 +397,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12488",
+    "name": "Bruno•Neumann",
+    "born": "26 April 1883 in Kaliningrad, Kaliningrad (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

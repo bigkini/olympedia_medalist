@@ -477,12 +477,42 @@
     "id": "12022",
     "name": "Daniel•Gillois",
     "born": "5 February 1888 in Fontainebleau, Seine-et-Marne (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "FRA",
         "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12422",
+    "name": "Ernest•Meyer",
+    "born": "15 February 1865 in Saumur, Maine-et-Loire (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12522",
+    "name": "Bjart•Ording",
+    "born": "19 May 1898 in Nes, Viken (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
       }

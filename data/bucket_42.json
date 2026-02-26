@@ -381,13 +381,28 @@
     "id": "12242",
     "name": "Isaac•Kitts",
     "born": "15 January 1896 in Oswego, New York (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
         "noc": "USA",
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12342",
+    "name": "Hans•Lunding",
+    "born": "25 February 1899 in Stepping, Kolding, Syddanmark (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

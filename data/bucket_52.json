@@ -524,7 +524,7 @@
     "id": "12052",
     "name": "Johan•Greter",
     "born": "25 October 1900 in Amsterdam, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -532,6 +532,36 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12452",
+    "name": "Carlos•Moratorio",
+    "born": "10 November 1929 in La Cruz, Corrientes (ARG)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12552",
+    "name": "José Luis•Pérez Soto",
+    "born": "18 June 1943 in Tonaya, Jalisco (MEX)",
+    "measurements": "171 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

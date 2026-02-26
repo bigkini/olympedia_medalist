@@ -404,14 +404,29 @@
   {
     "id": "11275",
     "name": "Rémy•Maertens",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "BEL",
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12575",
+    "name": "Alois•Podhajsky",
+    "born": "24 February 1898 in Mostar, Hercegovačko-neretvanski kanton (BIH)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

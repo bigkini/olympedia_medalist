@@ -578,5 +578,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12440",
+    "name": "Roger•Moeremans d'Emaüs",
+    "born": "12 June 1890 in Dilbeek, Vlaams Brabant (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

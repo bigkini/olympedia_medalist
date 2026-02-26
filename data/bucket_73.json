@@ -437,5 +437,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12473",
+    "name": "Cord•Mysegaes",
+    "born": "22 March 1968 in Delmenhorst, Niedersachsen (GER)",
+    "measurements": "178 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

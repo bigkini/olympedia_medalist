@@ -434,5 +434,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12301",
+    "name": "Ben•Lear",
+    "born": "12 May 1879 in Hamilton, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

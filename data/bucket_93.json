@@ -415,5 +415,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12293",
+    "name": "Jack•Le Goff",
+    "born": "8 April 1931 in Alençon, Orne (FRA)",
+    "measurements": "182 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

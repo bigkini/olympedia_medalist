@@ -514,5 +514,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12306",
+    "name": "Ulrich•Lehmann",
+    "born": "26 January 1944 in Ostermundigen, Bern (SUI)",
+    "measurements": "184 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -517,5 +517,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12478",
+    "name": "Georges•Nagelmackers",
+    "born": "24 June 1845 in Liège, Liège (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Driving (Equestrian)",
+        "event": "Four-In-Hand Competition, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

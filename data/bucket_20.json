@@ -326,5 +326,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12520",
+    "name": "Salvatore•Oppes",
+    "born": "2 November 1909 in Pozzomaggiore, Sassari (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

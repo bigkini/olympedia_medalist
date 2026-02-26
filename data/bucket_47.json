@@ -343,5 +343,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12347",
+    "name": "Alfons•Lütke Westhues",
+    "born": "17 May 1930 in Westbevern, Nordrhein-Westfalen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

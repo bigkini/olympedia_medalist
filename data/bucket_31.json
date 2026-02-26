@@ -339,5 +339,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12631",
+    "name": "Michel•Roche",
+    "born": "8 September 1939 in Brunoy, Essonne (FRA)",
+    "measurements": "190 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

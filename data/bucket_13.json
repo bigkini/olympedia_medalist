@@ -603,5 +603,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12413",
+    "name": "Manuel•Mendívil",
+    "born": "24 August 1935 in Huatabampo, Sonora (MEX)",
+    "measurements": "176 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

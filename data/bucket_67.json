@@ -434,13 +434,28 @@
     "id": "12267",
     "name": "Charles•Kuhn",
     "born": "28 April 1889",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
         "noc": "SUI",
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12567",
+    "name": "Denis•Pigott",
+    "born": "15 October 1946",
+    "measurements": "173 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
         "medal": "Bronze"
       }
     ]

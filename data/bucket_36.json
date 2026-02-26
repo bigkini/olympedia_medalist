@@ -537,5 +537,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12436",
+    "name": "•Doda",
+    "born": "5 February 1973 in São Paulo, São Paulo (BRA)",
+    "measurements": "186 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -481,5 +481,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12346",
+    "name": "Peter•Luther",
+    "born": "2 January 1939 in Averfleth-bei-Wilster, Schleswig-Holstein (GER)",
+    "measurements": "172 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

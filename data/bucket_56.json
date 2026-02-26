@@ -356,5 +356,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12456",
+    "name": "George•Morris",
+    "born": "26 February 1938 in New York, New York (USA)",
+    "measurements": "178 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

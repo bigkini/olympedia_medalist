@@ -427,5 +427,34 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12372",
+    "name": "Charles, Baron•Marion",
+    "born": "14 January 1887 in Saint-Germain-en-Laye, Yvelines (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

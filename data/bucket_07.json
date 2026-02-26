@@ -463,7 +463,7 @@
     "id": "11407",
     "name": "Kerry•Millikin",
     "born": "10 December 1961",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1996 Summer Olympics",
@@ -471,6 +471,21 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Individual, Open\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12607",
+    "name": "Giuseppe•Ravano",
+    "born": "5 February 1943 in Rapallo, Genova (ITA)",
+    "measurements": "184 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

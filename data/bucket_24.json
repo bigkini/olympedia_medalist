@@ -419,5 +419,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12524",
+    "name": "Vittorio•Orlandi",
+    "born": "8 September 1938 in Cassano Magnago, Varese (ITA)",
+    "measurements": "171 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

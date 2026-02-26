@@ -428,5 +428,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12551",
+    "name": "Joaquín•Pérez",
+    "born": "25 October 1936 in Ameca, Jalisco (MEX)",
+    "measurements": "173 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

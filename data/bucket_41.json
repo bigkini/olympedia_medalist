@@ -487,5 +487,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12341",
+    "name": "Janne•Lundblad",
+    "born": "11 April 1877 in Linköping, Östergötland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

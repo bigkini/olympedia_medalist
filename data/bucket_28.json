@@ -473,5 +473,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12328",
+    "name": "Oswald•Lints",
+    "born": "18 April 1895 in Leuven, Vlaams Brabant (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -427,5 +427,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12492",
+    "name": "Lars•Nieberg",
+    "born": "24 July 1963 in Wittingen, Niedersachsen (GER)",
+    "measurements": "183 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12592",
+    "name": "Arthur•Qvist",
+    "born": "17 February 1896 in Oslo, Oslo (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

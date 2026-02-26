@@ -300,7 +300,7 @@
     "id": "12237",
     "name": "Frode•Kirkebjerg",
     "born": "10 May 1888 in Malt, Vejen, Syddanmark (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -308,6 +308,21 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Individual, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12637",
+    "name": "Sergey•Rogozhin",
+    "born": "6 July 1956 in Nalchik, Kabardino-Balkarskaya Respublika (RUS)",
+    "measurements": "174 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

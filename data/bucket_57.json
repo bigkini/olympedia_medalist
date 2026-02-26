@@ -428,5 +428,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12557",
+    "name": "Gehnäll•Persson",
+    "born": "21 August 1910 in Steneby, Bengtsfors, Västra Götaland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

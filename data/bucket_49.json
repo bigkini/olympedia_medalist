@@ -453,5 +453,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12349",
+    "name": "Henri•Laame",
+    "born": "31 August 1891 in Mons, Hainaut (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

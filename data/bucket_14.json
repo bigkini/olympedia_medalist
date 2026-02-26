@@ -546,7 +546,7 @@
     "id": "12014",
     "name": "Alphonse•Gemuseus",
     "born": "8 May 1898 in Basel, Basel-Stadt (SUI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -560,6 +560,58 @@
         "noc": "SUI",
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12314",
+    "name": "Carl Gustaf•Lewenhaupt",
+    "born": "7 January 1884 in Örebro, Örebro (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12414",
+    "name": "César•Mendoza",
+    "born": "11 September 1918 in Santiago, Santiago Metropolitan (CHI)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "CHI",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12614",
+    "name": "Helmut•Rethemeier",
+    "born": "8 June 1939 in Vlotho, Nordrhein-Westfalen (GER)",
+    "measurements": "178 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
         "medal": "Silver"
       }
     ]
