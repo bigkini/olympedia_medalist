@@ -404,13 +404,28 @@
     "id": "11768",
     "name": "Anton•Colenbrander",
     "born": "3 May 1889 in Jatinegara, Jawa Timur (INA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "NED",
         "discipline": "Fencing",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11968",
+    "name": "Torrance•Watkins Fleischmann",
+    "born": "30 July 1949",
+    "measurements": "165 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
         "medal": "Gold"
       }
     ]

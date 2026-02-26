@@ -281,5 +281,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11950",
+    "name": "Dick•Fanshawe",
+    "born": "22 June 1906 in Naas, Kildare (IRL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12050",
+    "name": "Carl•Green",
+    "born": "1 January 1894 in Flen, Södermanland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Vaulting (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -470,5 +470,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12079",
+    "name": "Lutz•Gössing",
+    "born": "13 May 1938 in Dortmund, Nordrhein-Westfalen (GER)",
+    "measurements": "176 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

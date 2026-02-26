@@ -490,13 +490,50 @@
     "id": "11736",
     "name": "Ernst•Casparsson",
     "born": "15 November 1886 in Krokek, Norrköping, Östergötland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
         "noc": "SWE",
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11936",
+    "name": "Peter•Eriksson",
+    "born": "6 October 1959 in Västra Karup, Båstad, Skåne (SWE)",
+    "measurements": "176 cm / 66 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12236",
+    "name": "Uli•Kirchhoff",
+    "born": "9 August 1967 in Lohne (Oldenburg), Niedersachsen (GER)",
+    "measurements": "190 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
         "medal": "Gold"
       }
     ]

@@ -462,7 +462,7 @@
     "id": "11705",
     "name": "Ettore•Caffaratti",
     "born": "12 May 1886 in Abbadia Alpina, Pinerolo, Torino (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -484,6 +484,21 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11905",
+    "name": "Pierre•Durand",
+    "born": "15 December 1931 in Verdille, Charente (FRA)",
+    "measurements": "174 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

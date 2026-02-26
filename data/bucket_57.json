@@ -396,7 +396,7 @@
     "id": "11557",
     "name": "Michał•Antoniewicz",
     "born": "7 July 1897 in Kraków (Cracow), Małopolskie (POL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -411,6 +411,21 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12057",
+    "name": "Tim•Grubb",
+    "born": "30 May 1954 in Grantham, England (GBR)",
+    "measurements": "170 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

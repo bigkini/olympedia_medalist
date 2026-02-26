@@ -289,5 +289,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11998",
+    "name": "Georgi•Gadzhev",
+    "born": "8 June 1941",
+    "measurements": "178 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

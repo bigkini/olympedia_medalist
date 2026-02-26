@@ -421,5 +421,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11902",
+    "name": "Pierre•Dufour d'Astafort",
+    "born": "6 February 1886 in Le Mans, Sarthe (FRA)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12002",
+    "name": "Jaime•García",
+    "born": "3 October 1910 in Madrid, Madrid (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

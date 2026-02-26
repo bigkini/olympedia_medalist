@@ -345,7 +345,7 @@
     "id": "11871",
     "name": "Ernst•Deloch",
     "born": "17 May 1886 in Karchów, Pawłowiczki, Opolskie (POL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -353,6 +353,21 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12071",
+    "name": "Jean-Jacques•Guyon",
+    "born": "21 December 1932 in Paris XVe, Paris (FRA)",
+    "measurements": "171 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -423,5 +423,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12254",
+    "name": "Jan•Kowalczyk",
+    "born": "18 December 1941 in Drogomyśl, Śląskie (POL)",
+    "measurements": "169 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

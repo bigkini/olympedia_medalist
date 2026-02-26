@@ -531,7 +531,7 @@
     "id": "11814",
     "name": "Jacques•de Prunelé",
     "born": "21 June 1876 in Estrées-Deniécourt, Somme (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -539,6 +539,28 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Long Jump, Open\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12014",
+    "name": "Alphonse•Gemuseus",
+    "born": "8 May 1898 in Basel, Basel-Stadt (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

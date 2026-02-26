@@ -334,5 +334,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12011",
+    "name": "Tom•Gayford",
+    "born": "21 November 1928 in Toronto, Ontario (CAN)",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12111",
+    "name": "Guy•Henry",
+    "born": "28 January 1875 in Fort Robinson, Nebraska (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

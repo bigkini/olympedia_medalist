@@ -666,5 +666,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11989",
+    "name": "Thomas•Frühmann",
+    "born": "23 January 1953 in Wien (Vienna), Wien (AUT)",
+    "measurements": "178 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12189",
+    "name": "Eugen•Johansen",
+    "born": "1 February 1892 in Oslo, Oslo (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

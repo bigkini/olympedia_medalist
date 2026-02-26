@@ -369,5 +369,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12139",
+    "name": "Champ•Hough",
+    "born": "3 May 1934 in San Diego, California (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

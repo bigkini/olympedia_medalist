@@ -469,7 +469,7 @@
     "id": "11516",
     "name": "Nils•Adlercreutz",
     "born": "8 July 1866 in Brunneby, Motala, Östergötland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -477,6 +477,21 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11916",
+    "name": "Ricardo•Echeverría",
+    "born": "31 May 1918 in Antofagasta, Antofagasta (CHI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "CHI",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

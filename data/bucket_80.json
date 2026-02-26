@@ -349,5 +349,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12080",
+    "name": "Aimé•Haegeman",
+    "born": "19 October 1861 in Stabroek, Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

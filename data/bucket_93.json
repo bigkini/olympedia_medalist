@@ -400,5 +400,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12193",
+    "name": "Ben•Jones",
+    "born": "19 October 1932 in Newport, England (GBR)",
+    "measurements": "178 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

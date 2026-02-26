@@ -565,7 +565,7 @@
     "id": "11827",
     "name": "Gerard•de Kruijff",
     "born": "27 January 1890 in Buren, Gelderland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -587,6 +587,36 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12027",
+    "name": "Hervé•Godignon",
+    "born": "22 April 1952 in Paris, Paris (FRA)",
+    "measurements": "172 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12127",
+    "name": "Dietmar•Hogrefe",
+    "born": "25 August 1962 in Varel, Niedersachsen (GER)",
+    "measurements": "179 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -397,13 +397,50 @@
     "id": "11229",
     "name": "Guillermo•Naylor",
     "born": "4 September 1884 in Belgrano, Ciudad Autónoma de Buenos Aires (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "ARG",
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11929",
+    "name": "Jim•Elder",
+    "born": "27 July 1934 in Toronto, Ontario (CAN)",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "CAN",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12229",
+    "name": "Gustaf•Kilman",
+    "born": "9 July 1882 in Ytterby, Kungälv, Västra Götaland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

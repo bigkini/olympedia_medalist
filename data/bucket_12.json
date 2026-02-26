@@ -368,5 +368,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12112",
+    "name": "Brian•Herbinson",
+    "born": "25 November 1930 in Ballymena, Northern Ireland (GBR)",
+    "measurements": "195 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "CAN",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

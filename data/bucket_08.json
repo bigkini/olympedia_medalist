@@ -501,5 +501,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12208",
+    "name": "Thies•Kaspareit",
+    "born": "1 February 1964 in Oldenburg in Holstein, Schleswig-Holstein (GER)",
+    "measurements": "180 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

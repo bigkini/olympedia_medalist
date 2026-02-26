@@ -438,5 +438,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12049",
+    "name": "David•Green",
+    "born": "28 February 1960 in Brisbane, Queensland (AUS)",
+    "measurements": "183 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -486,7 +486,7 @@
     "id": "11561",
     "name": "Victor•Archenoul",
     "born": "16 December 1871 in La Boussac, Ille-et-Vilaine (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -494,6 +494,58 @@
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Hacks and Hunter Combined, Open\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11961",
+    "name": "•Field",
+    "born": {},
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Vaulting (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Vaulting (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12161",
+    "name": "Svetoslav•Ivanov",
+    "born": "16 December 1951",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12261",
+    "name": "Adam•Królikiewicz",
+    "born": "9 December 1894 in Lviv, Lviv (UKR)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

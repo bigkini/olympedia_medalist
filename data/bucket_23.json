@@ -405,7 +405,7 @@
     "id": "11823",
     "name": "Herman•de Gaiffier d'Hestroy",
     "born": "18 May 1895 in Namur, Namur (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -413,6 +413,21 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12123",
+    "name": "Bertie•Hill",
+    "born": "7 February 1927 in Swimbridge, England (GBR)",
+    "measurements": "180 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

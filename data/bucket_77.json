@@ -311,5 +311,49 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11977",
+    "name": "William•Fox-Pitt",
+    "born": "2 January 1969 in Hampstead, England (GBR)",
+    "measurements": "196 cm / 80 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2012 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12077",
+    "name": "Kazimierz•Gzowski",
+    "born": "21 October 1901 in Sumy, Sumy (UKR)",
+    "measurements": "171 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

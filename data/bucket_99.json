@@ -467,5 +467,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12199",
+    "name": "Jan•Jönsson",
+    "born": "27 April 1944 in Motala, Östergötland (SWE)",
+    "measurements": "183 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

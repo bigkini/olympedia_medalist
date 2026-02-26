@@ -429,5 +429,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12267",
+    "name": "Charles•Kuhn",
+    "born": "28 April 1889",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

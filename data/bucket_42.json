@@ -345,7 +345,7 @@
     "id": "11642",
     "name": "Gustaf Adolf•Boltenstern, Jr.",
     "born": "15 May 1904 in Stockholm, Stockholm (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -374,6 +374,21 @@
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Open\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12242",
+    "name": "Isaac•Kitts",
+    "born": "15 January 1896 in Oswego, New York (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

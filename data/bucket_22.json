@@ -472,5 +472,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12022",
+    "name": "Daniel•Gillois",
+    "born": "5 February 1888 in Fontainebleau, Seine-et-Marne (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

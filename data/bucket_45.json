@@ -427,7 +427,7 @@
     "id": "11645",
     "name": "Carl, Greve•Bonde",
     "born": "28 April 1872 in Mörkö, Södertälje, Stockholm (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -442,6 +442,36 @@
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12045",
+    "name": "Ephraim•Graham",
+    "born": "10 August 1881 in Pinewood, Tennessee (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12245",
+    "name": "Harry•Klugmann",
+    "born": "28 October 1940 in Słupsk, Pomorskie (POL)",
+    "measurements": "170 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

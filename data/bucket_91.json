@@ -413,7 +413,7 @@
     "id": "11791",
     "name": "Óscar•Cristi",
     "born": "29 June 1916 in Valparaíso, Valparaíso (CHI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -427,6 +427,21 @@
         "noc": "CHI",
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11991",
+    "name": "Markus•Fuchs",
+    "born": "23 June 1955 in Wängi, Thurgau (SUI)",
+    "measurements": "168 cm / 73 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
         "medal": "Silver"
       }
     ]

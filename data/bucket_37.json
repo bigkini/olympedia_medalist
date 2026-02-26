@@ -295,5 +295,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12237",
+    "name": "Frode•Kirkebjerg",
+    "born": "10 May 1888 in Malt, Vejen, Syddanmark (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

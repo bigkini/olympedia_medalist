@@ -486,5 +486,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11990",
+    "name": "Folke•Frölén",
+    "born": "25 February 1908 in Eskilstuna, Södermanland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

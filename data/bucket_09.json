@@ -404,5 +404,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12209",
+    "name": "Petrus•Kastenman",
+    "born": "15 August 1924 in Bälinge, Södermanland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

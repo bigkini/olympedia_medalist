@@ -448,7 +448,7 @@
     "id": "11228",
     "name": "Manuel•Andrada",
     "born": "9 January 1890 in Coronel Suárez, Provincia de Buenos Aires (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -456,6 +456,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12028",
+    "name": "Jesús•Gómez",
+    "born": "14 May 1941 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
+    "measurements": "158 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }
