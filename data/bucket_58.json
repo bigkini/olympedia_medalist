@@ -286,5 +286,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7258",
+    "name": "Jeff•Turner",
+    "born": "9 April 1962 in Bangor, Maine (USA)",
+    "measurements": "205 cm / 104 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

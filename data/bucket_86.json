@@ -206,5 +206,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7286",
+    "name": "Renzo•Vecchiato",
+    "born": "8 August 1955 in Trieste, Trieste (ITA)",
+    "measurements": "207 cm / 110 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

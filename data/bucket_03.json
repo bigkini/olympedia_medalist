@@ -222,5 +222,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7103",
+    "name": "Jerry•Shipp",
+    "born": "27 September 1935 in Shreveport, Louisiana (USA)",
+    "measurements": "198 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

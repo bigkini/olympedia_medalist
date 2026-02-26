@@ -230,5 +230,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7238",
+    "name": "Milenko•Topić",
+    "born": "6 March 1969 in Pančevo, Južna Bačka (SRB)",
+    "measurements": "205 cm / 105 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "SCG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

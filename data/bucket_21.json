@@ -302,5 +302,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7321",
+    "name": "Branko•Vukičević",
+    "born": "18 December 1961 in Beograd (Belgrade), Beograd (SRB)",
+    "measurements": "212 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

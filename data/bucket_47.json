@@ -253,5 +253,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7547",
+    "name": "Léonard•Steyaert",
+    "born": "11 March 1910 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": "73 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

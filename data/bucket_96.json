@@ -215,5 +215,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "6996",
+    "name": "Carlos•Roselló",
+    "born": "2 May 1922 in Montevideo, Montevideo (URU)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7196",
+    "name": "Duane•Swanson",
+    "born": "23 August 1913 in Waterman, Illinois (USA)",
+    "measurements": "188 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

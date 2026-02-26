@@ -367,5 +367,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7359",
+    "name": "Howie•Williams",
+    "born": "29 October 1927 in New Ross, Indiana (USA)",
+    "measurements": "183 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

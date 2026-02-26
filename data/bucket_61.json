@@ -340,5 +340,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7061",
+    "name": "Glynn•Saulters",
+    "born": "10 February 1945 in Minden, Louisiana (USA)",
+    "measurements": "188 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -213,5 +213,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7068",
+    "name": "•Jatyr",
+    "born": "18 October 1938 in São Paulo, São Paulo (BRA)",
+    "measurements": "186 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7168",
+    "name": "Franklin•Standard",
+    "born": "8 June 1949 in La Habana (Havana), Ciudad de La Habana (CUB)",
+    "measurements": "197 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

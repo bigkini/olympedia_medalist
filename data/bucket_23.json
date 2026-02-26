@@ -192,5 +192,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7223",
+    "name": "Wayman•Tisdale",
+    "born": "9 June 1964 in Fort Worth, Texas (USA)",
+    "measurements": "205 cm / 118 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "7523",
+    "name": "Jean•Delarge",
+    "born": "6 April 1906 in Liège, Liège (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Boxing",
+        "event": "Welterweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

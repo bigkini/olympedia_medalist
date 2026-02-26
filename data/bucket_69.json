@@ -193,5 +193,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7369",
+    "name": "Leon•Wood",
+    "born": "25 March 1962 in Columbia, South Carolina (USA)",
+    "measurements": "190 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "7569",
+    "name": "Clarence•Hill",
+    "born": "26 June 1951",
+    "measurements": "187 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "BER",
+        "discipline": "Boxing",
+        "event": "Heavyweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

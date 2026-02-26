@@ -228,5 +228,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7193",
+    "name": "Ivan•Sunara",
+    "born": "27 March 1959 in Cera, Šibensko-kninska županija (CRO)",
+    "measurements": "203 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

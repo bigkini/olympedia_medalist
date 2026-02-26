@@ -214,5 +214,65 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7065",
+    "name": "Milton•Scarón",
+    "born": "25 August 1936 in Montevideo, Montevideo (URU)",
+    "measurements": "185 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7165",
+    "name": "Ken•Spain",
+    "born": "6 October 1946 in Houston, Texas (USA)",
+    "measurements": "206 cm / 109 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "7265",
+    "name": "Alejandro•Urgellés",
+    "born": "2 July 1951 in Santiago de Cuba, Santiago de Cuba (CUB)",
+    "measurements": "194 cm / 97 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7365",
+    "name": "Rubén•Wolkowyski",
+    "born": "30 September 1973 in Juan José Castelli, Chaco (ARG)",
+    "measurements": "208 cm / 120 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

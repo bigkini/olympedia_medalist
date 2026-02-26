@@ -296,5 +296,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7354",
+    "name": "Bill•Wheatley",
+    "born": "5 July 1909 in Gypsum, Kansas (USA)",
+    "measurements": "188 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -235,7 +235,7 @@
     "id": "6857",
     "name": "Kazys•Petkevičius",
     "born": "1 January 1926 in Steigviliai, Šiauliai (LTU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -250,6 +250,21 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "7157",
+    "name": "Massinet•Sorcinelli",
+    "born": "27 February 1922 in São Paulo, São Paulo (BRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

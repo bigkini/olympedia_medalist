@@ -353,5 +353,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7155",
+    "name": "Tiit•Sokk",
+    "born": "15 November 1964 in Tartu, Tartumaa (EST)",
+    "measurements": "192 cm / 99 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "7355",
+    "name": "Jo-Jo•White",
+    "born": "16 November 1946 in St. Louis, Missouri (USA)",
+    "measurements": "191 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

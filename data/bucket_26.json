@@ -220,5 +220,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7226",
+    "name": "Vladimir•Tkachenko",
+    "born": "20 September 1957 in Golovinka, Krasnodar Kray (RUS)",
+    "measurements": "220 cm / 110 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

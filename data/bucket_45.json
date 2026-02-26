@@ -251,5 +251,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7145",
+    "name": "Marco•Solfrini",
+    "born": "30 January 1958 in Brescia, Brescia (ITA)",
+    "measurements": "196 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

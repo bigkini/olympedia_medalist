@@ -148,5 +148,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7202",
+    "name": "Žan•Tabak",
+    "born": "15 June 1970 in Split, Splitsko-dalmatinska županija (CRO)",
+    "measurements": "213 cm / 117 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CRO",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

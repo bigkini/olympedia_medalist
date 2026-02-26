@@ -160,7 +160,7 @@
     "id": "6005",
     "name": "Marcus Vinícius•Dias",
     "born": "22 January 1923 in Rio de Janeiro, Rio de Janeiro (BRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -168,6 +168,21 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7305",
+    "name": "Renato•Villalta",
+    "born": "3 February 1955 in Maserada sul Piave, Treviso (ITA)",
+    "measurements": "203 cm / 102 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

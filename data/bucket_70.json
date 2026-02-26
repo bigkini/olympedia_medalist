@@ -162,5 +162,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7070",
+    "name": "Willard•Schmidt",
+    "born": "14 February 1910 in Swanton, Nebraska (USA)",
+    "measurements": "205 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

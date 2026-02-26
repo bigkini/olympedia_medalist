@@ -177,5 +177,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7411",
+    "name": "Aljoša•Žorga",
+    "born": "25 February 1947 in Ljubljana, Ljubljana (SLO)",
+    "measurements": "200 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

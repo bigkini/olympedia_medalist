@@ -167,7 +167,7 @@
     "id": "6199",
     "name": "Carlos•González",
     "born": "2 May 1930 in Montevideo, Montevideo (URU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -175,6 +175,21 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7199",
+    "name": "Mike•Sylvester",
+    "born": "10 December 1951 in Cincinnati, Ohio (USA)",
+    "measurements": "197 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

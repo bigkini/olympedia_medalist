@@ -275,7 +275,7 @@
     "id": "6192",
     "name": "Andrés•Gómez",
     "born": "30 November 1913 in Guadalajara, Jalisco (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -283,6 +283,21 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "6992",
+    "name": "Fernando•Romay",
+    "born": "23 September 1959 in La Coruña, La Coruña (ESP)",
+    "measurements": "212 cm / 110 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

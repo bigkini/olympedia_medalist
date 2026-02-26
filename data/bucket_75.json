@@ -174,7 +174,7 @@
     "id": "5775",
     "name": "Arkady•Bochkaryov",
     "born": "24 February 1931 in Moskva (Moscow), Moskva (RUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -182,6 +182,28 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "7175",
+    "name": "John•Stockton",
+    "born": "26 March 1962 in Spokane, Washington (USA)",
+    "measurements": "185 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

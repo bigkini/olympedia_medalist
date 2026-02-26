@@ -252,5 +252,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7360",
+    "name": "George•Wilson",
+    "born": "9 May 1942 in Meridian, Mississippi (USA)",
+    "measurements": "203 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

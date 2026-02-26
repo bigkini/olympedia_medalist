@@ -176,5 +176,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7141",
+    "name": "Charles E.•Smith, IV",
+    "born": "29 November 1967 in Washington, District of Columbia (USA)",
+    "measurements": "185 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -259,5 +259,57 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7035",
+    "name": "Aleksandr•Salnikov",
+    "born": "3 July 1949 in Sevastopol, Sevastopol (UKR)",
+    "measurements": "197 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7135",
+    "name": "Branko•Skroče",
+    "born": "17 May 1955 in Zadar, Zadarska županija (CRO)",
+    "measurements": "195 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "7235",
+    "name": "Ron•Tomsic",
+    "born": "3 April 1933 in Oakland, California (USA)",
+    "measurements": "180 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

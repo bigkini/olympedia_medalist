@@ -213,5 +213,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7132",
+    "name": "Petar•Skansi",
+    "born": "23 November 1943 in Sumartin, Splitsko-dalmatinska županija (CRO)",
+    "measurements": "206 cm / 104 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "YUG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "7232",
+    "name": "Dejan•Tomašević",
+    "born": "6 May 1973 in Beograd (Belgrade), Beograd (SRB)",
+    "measurements": "208 cm / 105 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "SCG",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -304,5 +304,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7183",
+    "name": "Mikhail•Studenetsky",
+    "born": "6 March 1934 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "7283",
+    "name": "Óscar•Varona",
+    "born": "22 July 1949",
+    "measurements": "192 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

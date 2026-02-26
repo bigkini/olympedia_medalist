@@ -334,5 +334,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7140",
+    "name": "Charles D.•Smith",
+    "born": "16 July 1965 in Bridgeport, Connecticut (USA)",
+    "measurements": "208 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

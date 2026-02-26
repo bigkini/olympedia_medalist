@@ -161,5 +161,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7271",
+    "name": "Rytis•Vaišvila",
+    "born": "23 May 1971 in Klaipėda, Klaipėda (LTU)",
+    "measurements": "193 cm / 92 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "LTU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

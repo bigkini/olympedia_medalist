@@ -222,5 +222,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7276",
+    "name": "Albert•Valtin",
+    "born": "17 November 1937 in Kharkiv, Kharkiv (UKR)",
+    "measurements": "201 cm / 98 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

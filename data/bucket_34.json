@@ -220,5 +220,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7134",
+    "name": "Greer•Skousen",
+    "born": "24 September 1916 in Casas Grandes, Chihuahua (MEX)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

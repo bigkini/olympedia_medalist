@@ -308,5 +308,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7008",
+    "name": "Bill•Russell",
+    "born": "12 February 1934 in Monroe, Louisiana (USA)",
+    "measurements": "207 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "7208",
+    "name": "Sergey•Tarakanov",
+    "born": "25 April 1958 in Lodeynoye Pole, Leningrad (RUS)",
+    "measurements": "202 cm / 96 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

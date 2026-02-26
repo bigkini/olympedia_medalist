@@ -265,5 +265,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7028",
+    "name": "Zurab•Sak'andelidze",
+    "born": "9 August 1945 in Kutaisi, Imereti (GEO)",
+    "measurements": "186 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "7628",
+    "name": "Angel•Angelov",
+    "born": "10 July 1948 in Sofia, Sofia Grad (BUL)",
+    "measurements": "170 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -221,5 +221,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7042",
+    "name": "•Epi",
+    "born": "12 June 1959 in Zaragoza (Saragossa), Zaragoza (ESP)",
+    "measurements": "198 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

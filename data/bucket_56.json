@@ -168,7 +168,7 @@
     "id": "6156",
     "name": "Héctor•García",
     "born": "12 June 1926 in Montevideo, Montevideo (URU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -183,6 +183,21 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7556",
+    "name": "Jos•Vissers",
+    "born": "28 November 1928 in Geel, Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Boxing",
+        "event": "Lightweight, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

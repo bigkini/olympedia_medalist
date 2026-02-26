@@ -233,7 +233,7 @@
     "id": "6794",
     "name": "Yury•Ozerov",
     "born": "5 July 1928 in Moskva (Moscow), Moskva (RUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -248,6 +248,21 @@
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "7594",
+    "name": "Servílio•de Oliveira",
+    "born": "6 May 1948 in São Paulo, São Paulo (BRA)",
+    "measurements": "160 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Boxing",
+        "event": "Flyweight, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

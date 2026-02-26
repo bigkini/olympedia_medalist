@@ -207,5 +207,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "7329",
+    "name": "Jim•Walsh",
+    "born": "29 August 1930 in San Francisco, California (USA)",
+    "measurements": "193 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "7629",
+    "name": "Daniel•Bozhinov",
+    "born": "8 September 1971 in Varna, Varna (BUL)",
+    "measurements": "168 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Boxing",
+        "event": "Light-Flyweight, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

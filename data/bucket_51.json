@@ -161,5 +161,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7151",
+    "name": "Ignacio•Solozábal",
+    "born": "8 January 1959 in Barcelona, Barcelona (ESP)",
+    "measurements": "185 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "7351",
+    "name": "Jerry•West",
+    "born": "28 May 1938 in Cheylan, West Virginia (USA)",
+    "measurements": "191 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

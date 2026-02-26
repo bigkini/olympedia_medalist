@@ -258,5 +258,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7363",
+    "name": "Red•Wiseman",
+    "born": "12 July 1913 in Winnipeg, Manitoba (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -296,5 +296,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7425",
+    "name": "Mohamed•Allalou",
+    "born": "28 September 1973 in Thénia, Boumerdès (ALG)",
+    "measurements": "174 cm / 63 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ALG",
+        "discipline": "Boxing",
+        "event": "Light-Welterweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

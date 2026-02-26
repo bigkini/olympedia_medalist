@@ -191,5 +191,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "7217",
+    "name": "Pierre•Thiolon",
+    "born": "17 January 1927 in Paris XVIe, Paris (FRA)",
+    "measurements": "190 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "7317",
+    "name": "Aleksandr•Volkov",
+    "born": "29 March 1964 in Omsk, Omsk (RUS)",
+    "measurements": "205 cm / 108 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "7417",
+    "name": "Mindaugas•Žukauskas",
+    "born": "24 August 1975 in Šiauliai, Šiauliai (LTU)",
+    "measurements": "201 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "LTU",
+        "discipline": "Basketball (Basketball)",
+        "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

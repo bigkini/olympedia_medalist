@@ -241,13 +241,28 @@
     "id": "6807",
     "name": "José•Pamplona",
     "born": "6 February 1911 in Zacatecas, Zacatecas (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "MEX",
         "discipline": "Basketball (Basketball)",
         "event": "Basketball, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "7507",
+    "name": "Joseph•Beeken",
+    "born": "5 April 1904 in Liège, Liège (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

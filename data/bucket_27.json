@@ -419,5 +419,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "7427",
+    "name": "Mohamed•Bahari",
+    "born": "29 June 1976 in Sidi Bel Abbès, Sidi Bel Abbès (ALG)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ALG",
+        "discipline": "Boxing",
+        "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
