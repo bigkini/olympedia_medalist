@@ -395,5 +395,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10379",
+    "name": "Piet•Wijdekop",
+    "born": "13 September 1912 in Amsterdam, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Folding Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

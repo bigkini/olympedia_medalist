@@ -428,5 +428,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10055",
+    "name": "László•Foltán",
+    "born": "25 May 1953 in Budapest, Budapest (HUN)",
+    "measurements": "186 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

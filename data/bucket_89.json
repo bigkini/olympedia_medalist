@@ -511,5 +511,64 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "9989",
+    "name": "Ewald•Tilker",
+    "born": "3 November 1911 in Herford, Nordrhein-Westfalen (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10089",
+    "name": "András•Rajna",
+    "born": "3 September 1960 in Budapest, Budapest (HUN)",
+    "measurements": "190 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10289",
+    "name": "Ivans•Klementjevs",
+    "born": "18 November 1960 in Butniki, Jēkabpils novads (LAT)",
+    "measurements": "176 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "LAT",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "LAT",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

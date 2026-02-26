@@ -273,5 +273,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10051",
+    "name": "József•Deme",
+    "born": "11 December 1951 in Szolnok, Jász-Nagykun-Szolnok (HUN)",
+    "measurements": "190 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

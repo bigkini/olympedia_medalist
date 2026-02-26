@@ -361,7 +361,7 @@
     "id": "9649",
     "name": "Jean•Laudet",
     "born": "5 August 1930 in Nevers, Nièvre (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -369,6 +369,21 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "10049",
+    "name": "István•Csizmadia",
+    "born": "16 December 1944 in Budapest, Budapest (HUN)",
+    "measurements": "183 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

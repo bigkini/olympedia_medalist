@@ -340,5 +340,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10175",
+    "name": "Aldo•Dezi",
+    "born": "27 June 1939 in Castel Gandolfo, Roma (ITA)",
+    "measurements": "165 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -334,5 +334,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9999",
+    "name": "Olaf•Winter",
+    "born": "18 July 1973 in Neustrelitz, Mecklenburg-Vorpommern (GER)",
+    "measurements": "189 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

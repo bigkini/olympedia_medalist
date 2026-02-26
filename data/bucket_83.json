@@ -461,5 +461,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "9983",
+    "name": "Michael•Senft",
+    "born": "28 September 1972 in Bad Kreuznach, Rheinland-Pfalz (GER)",
+    "measurements": "180 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

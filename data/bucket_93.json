@@ -318,5 +318,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9993",
+    "name": "Mario•von Appen",
+    "born": "31 July 1965 in Hamburg, Hamburg (GER)",
+    "measurements": "198 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

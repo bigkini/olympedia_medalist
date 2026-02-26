@@ -285,13 +285,28 @@
     "id": "9941",
     "name": "Erich•Koschik",
     "born": "3 January 1913 in Hamburg, Hamburg (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "GER",
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "10041",
+    "name": "Zoltán•Bakó",
+    "born": "11 October 1951 in Budapest, Budapest (HUN)",
+    "measurements": "190 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

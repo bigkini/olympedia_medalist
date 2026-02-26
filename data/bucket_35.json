@@ -415,5 +415,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10035",
+    "name": "Mária•Zakariás",
+    "born": "28 December 1952 in Budapest, Budapest (HUN)",
+    "measurements": "165 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

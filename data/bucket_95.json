@@ -251,5 +251,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10095",
+    "name": "István•Szabó",
+    "born": "15 June 1950 in Budapest, Budapest (HUN)",
+    "measurements": "170 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

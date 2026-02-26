@@ -258,5 +258,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10031",
+    "name": "Klára•Rajnai",
+    "born": "21 November 1953 in Budapest, Budapest (HUN)",
+    "measurements": "173 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

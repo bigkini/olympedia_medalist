@@ -228,5 +228,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10037",
+    "name": "Attila•Adrovicz",
+    "born": "8 April 1966 in Budapest, Budapest (HUN)",
+    "measurements": "189 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

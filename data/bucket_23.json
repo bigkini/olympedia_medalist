@@ -304,5 +304,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10023",
+    "name": "Vilma•Egresi",
+    "born": "7 May 1936 in Budapest, Budapest (HUN)",
+    "measurements": "162 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

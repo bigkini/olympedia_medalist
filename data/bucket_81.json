@@ -461,7 +461,7 @@
     "id": "8281",
     "name": "Július•Torma",
     "born": "7 March 1922 in Budapest, Budapest (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -469,6 +469,21 @@
         "discipline": "Boxing",
         "event": "Welterweight, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "10081",
+    "name": "Ferenc•Mohácsi",
+    "born": "25 October 1929 in Budapest, Budapest (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

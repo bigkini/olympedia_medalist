@@ -326,5 +326,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10067",
+    "name": "Mihály•Hesz",
+    "born": "15 December 1943 in Nógrád, Nógrád (HUN)",
+    "measurements": "186 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

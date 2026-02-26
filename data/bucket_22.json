@@ -413,5 +413,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10022",
+    "name": "Éva•Dónusz",
+    "born": "29 September 1967 in Vác, Pest (HUN)",
+    "measurements": "170 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

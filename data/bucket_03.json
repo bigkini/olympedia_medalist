@@ -341,5 +341,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10003",
+    "name": "Holger•Zander",
+    "born": "24 May 1943 in St. Michaelisdonn, Schleswig-Holstein (GER)",
+    "measurements": "176 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

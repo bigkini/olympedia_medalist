@@ -375,5 +375,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10106",
+    "name": "Tibor•Tatai",
+    "born": "4 August 1944 in Pöse, Vas (HUN)",
+    "measurements": "185 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

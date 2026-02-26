@@ -377,5 +377,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10052",
+    "name": "László•Fábián",
+    "born": "10 July 1936 in Budapest, Budapest (HUN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "10352",
+    "name": "Toon•Geurts",
+    "born": "29 February 1932 in Veldhoven, Noord-Brabant (NED)",
+    "measurements": "182 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

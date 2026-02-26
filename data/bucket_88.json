@@ -302,5 +302,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10088",
+    "name": "Imre•Pulai",
+    "born": "14 November 1967 in Budapest, Budapest (HUN)",
+    "measurements": "201 cm / 114 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

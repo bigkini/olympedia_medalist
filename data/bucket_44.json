@@ -309,5 +309,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10344",
+    "name": "Mieke•Jaapies",
+    "born": "7 August 1943 in Wormerveer, Noord-Holland (NED)",
+    "measurements": "167 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

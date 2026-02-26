@@ -289,5 +289,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10405",
+    "name": "Ivar•Mathisen",
+    "born": "14 June 1920 in Bærum, Viken (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

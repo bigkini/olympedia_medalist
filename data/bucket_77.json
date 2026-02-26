@@ -230,5 +230,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "10177",
+    "name": "Bruno•Dreossi",
+    "born": "11 July 1964 in Monfalcone, Gorizia (ITA)",
+    "measurements": "187 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

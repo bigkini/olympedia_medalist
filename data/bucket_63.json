@@ -363,5 +363,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10063",
+    "name": "Ferenc•Hatlaczky",
+    "born": "17 January 1934 in Vecsés, Pest (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

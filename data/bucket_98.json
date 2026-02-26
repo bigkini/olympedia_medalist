@@ -237,5 +237,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10098",
+    "name": "András•Szente",
+    "born": "10 December 1939 in Budapest, Budapest (HUN)",
+    "measurements": "179 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Relay, 4 × 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

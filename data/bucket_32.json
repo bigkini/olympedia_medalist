@@ -318,5 +318,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10032",
+    "name": "Éva•Rakusz",
+    "born": "13 May 1961 in Miskolc, Borsod-Abaúj-Zemplén (HUN)",
+    "measurements": "176 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

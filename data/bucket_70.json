@@ -227,7 +227,7 @@
     "id": "9970",
     "name": "Michel•Scheuer",
     "born": "20 May 1927 in Rodange, Luxembourg (LUX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -249,6 +249,36 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "10070",
+    "name": "Sándor•Hódosi",
+    "born": "28 April 1966 in Budapest, Budapest (HUN)",
+    "measurements": "188 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "10370",
+    "name": "Nicolaas•Tates",
+    "born": "5 May 1915 in Zaandam, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

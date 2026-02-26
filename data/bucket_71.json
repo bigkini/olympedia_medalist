@@ -228,5 +228,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10071",
+    "name": "István•Joós",
+    "born": "27 March 1953 in Győr, Győr-Moson-Sopron (HUN)",
+    "measurements": "186 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10371",
+    "name": "Wim•van der Kroft",
+    "born": "16 August 1916 in Haarlem, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

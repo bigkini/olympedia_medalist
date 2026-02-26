@@ -289,5 +289,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10066",
+    "name": "István•Hernek",
+    "born": "23 April 1935 in Törökszentmiklós, Jász-Nagykun-Szolnok (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

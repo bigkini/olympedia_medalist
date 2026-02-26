@@ -316,13 +316,28 @@
     "id": "8254",
     "name": "Jan•Heřmánek",
     "born": "28 May 1907 in Dolní Lhota, Středočeský kraj (CZE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
         "noc": "TCH",
         "discipline": "Boxing",
         "event": "Middleweight, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10054",
+    "name": "László•Fidel",
+    "born": "29 June 1965 in Vác, Pest (HUN)",
+    "measurements": "187 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

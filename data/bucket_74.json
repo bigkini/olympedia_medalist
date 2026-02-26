@@ -290,5 +290,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10074",
+    "name": "Lajos•Kiss",
+    "born": "22 May 1934 in Miskolc, Borsod-Abaúj-Zemplén (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

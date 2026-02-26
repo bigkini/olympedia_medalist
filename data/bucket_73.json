@@ -362,5 +362,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10073",
+    "name": "Imre•Kemecsey",
+    "born": "11 February 1941 in Budapest, Budapest (HUN)",
+    "measurements": "167 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Relay, 4 × 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

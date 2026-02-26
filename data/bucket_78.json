@@ -413,5 +413,57 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "9978",
+    "name": "Hans-Otto•Schumacher",
+    "born": "17 February 1950 in Grevenbroich, Nordrhein-Westfalen (GER)",
+    "measurements": "181 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Canadian Doubles, Slalom, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10178",
+    "name": "Pierpaolo•Ferrazzi",
+    "born": "23 July 1965 in Bassano del Grappa, Vicenza (ITA)",
+    "measurements": "180 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Canoe Slalom (Canoeing)",
+        "event": "Kayak Singles, Slalom, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "10378",
+    "name": "Cor•Wijdekop",
+    "born": "31 January 1914 in Amsterdam, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Folding Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

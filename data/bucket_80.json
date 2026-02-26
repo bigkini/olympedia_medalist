@@ -267,5 +267,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "10080",
+    "name": "György•Mészáros",
+    "born": "30 April 1933 in Budapest, Budapest (HUN)",
+    "measurements": "181 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Relay, 4 × 500 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10180",
+    "name": "Francesco•La Macchia",
+    "born": "9 October 1938 in Furnari, Messina (ITA)",
+    "measurements": "173 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Canadian Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

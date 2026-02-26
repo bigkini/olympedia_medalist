@@ -391,7 +391,7 @@
     "id": "9900",
     "name": "Helmut•Cämmerer",
     "born": "5 May 1911 in Hamburg, Hamburg (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -399,6 +399,35 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "10000",
+    "name": "André•Wohllebe",
+    "born": "9 January 1962 in Ost-Berlin (East Berlin), Berlin (GER)",
+    "measurements": "186 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Singles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

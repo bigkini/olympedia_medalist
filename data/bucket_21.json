@@ -391,5 +391,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "10021",
+    "name": "Kinga•Czigány",
+    "born": "17 February 1972 in Győr, Győr-Moson-Sopron (HUN)",
+    "measurements": "173 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 500 metres, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "10421",
+    "name": "Egil•Søby",
+    "born": "25 November 1945 in Tønsberg, Vestfold (NOR)",
+    "measurements": "195 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Canoe Sprint (Canoeing)",
+        "event": "Kayak Fours, 1,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
