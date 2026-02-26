@@ -427,5 +427,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11305",
+    "name": "Amy-Cathérine•de Bary",
+    "born": "29 January 1944",
+    "measurements": "170 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

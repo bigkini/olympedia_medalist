@@ -310,5 +310,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11371",
+    "name": "Anne Grethe•Jensen-Törnblad",
+    "born": "7 November 1951 in Vejlø, Næstved, Sjælland (DEN)",
+    "measurements": "174 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

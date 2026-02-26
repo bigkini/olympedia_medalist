@@ -466,5 +466,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11461",
+    "name": "Pat•Smythe",
+    "born": "22 November 1928 in East Sheen, England (GBR)",
+    "measurements": "170 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -455,5 +455,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11236",
+    "name": "Enrique•Padilla",
+    "born": "12 June 1890",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

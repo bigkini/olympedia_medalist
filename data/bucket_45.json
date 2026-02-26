@@ -407,5 +407,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11245",
+    "name": "Arthur•McCabe",
+    "born": "23 June 1887 in Tamworth, New South Wales (AUS)",
+    "measurements": "168 cm",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "ANZ",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

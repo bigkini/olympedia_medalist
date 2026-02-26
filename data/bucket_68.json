@@ -384,5 +384,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11368",
+    "name": "Lisa•Jacquin",
+    "born": "22 February 1962 in Tucson, Arizona (USA)",
+    "measurements": "172 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

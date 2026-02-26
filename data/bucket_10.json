@@ -371,5 +371,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11410",
+    "name": "Ann•Moore",
+    "born": "20 August 1950 in Sutton Coldfield, Birmingham, England (GBR)",
+    "measurements": "157 cm / 53 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

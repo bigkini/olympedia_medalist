@@ -190,7 +190,7 @@
     "id": "10950",
     "name": "Gratsian•Botev",
     "born": "12 December 1928 in Luga, Leningrad (RUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -205,6 +205,43 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11250",
+    "name": "Tom•Richards",
+    "born": "29 April 1882 in Emmaville, New South Wales (AUS)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "ANZ",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11350",
+    "name": "Lis•Hartel",
+    "born": "14 March 1921 in Hellerup, Gentofte, Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "DEN",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

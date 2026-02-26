@@ -354,5 +354,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11239",
+    "name": "Phil•Carmichael",
+    "born": "25 January 1884 in Sandgate, Queensland (AUS)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "ANZ",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

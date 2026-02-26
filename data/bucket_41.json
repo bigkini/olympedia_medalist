@@ -362,5 +362,50 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11241",
+    "name": "Bob•Craig",
+    "born": "1 September 1881 in Sydney, New South Wales (AUS)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "ANZ",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11341",
+    "name": "Gabriela•Grillo",
+    "born": "19 August 1952 in Duisburg, Nordrhein-Westfalen (GER)",
+    "measurements": "178 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11441",
+    "name": "Lucinda•Prior-Palmer-Green",
+    "born": "7 November 1953 in Andover, England (GBR)",
+    "measurements": "173 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

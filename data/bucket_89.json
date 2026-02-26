@@ -636,5 +636,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11289",
+    "name": "Jane•Bullen",
+    "born": "7 January 1948 in Catherston Leweston, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11389",
+    "name": "Alexandra•Ledermann",
+    "born": "14 May 1969 in Évreux, Eure (FRA)",
+    "measurements": "171 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

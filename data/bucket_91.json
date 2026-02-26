@@ -371,5 +371,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11291",
+    "name": "Ingamay•Bylund",
+    "born": "25 September 1947 in Skog, Söderhamn, Gävleborg (SWE)",
+    "measurements": "176 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11391",
+    "name": "Janou•Lefèbvre",
+    "born": "14 May 1945 in Thành phố Hồ Chí Minh, Thành phố Hồ Chí Minh (VIE)",
+    "measurements": "167 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

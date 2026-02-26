@@ -420,5 +420,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11276",
+    "name": "Christin•Piek",
+    "born": "23 January 1889 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

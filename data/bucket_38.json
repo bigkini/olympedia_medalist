@@ -431,5 +431,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11238",
+    "name": "Frank•Smith",
+    "born": "28 February 1886 in Wellington, New South Wales (AUS)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "ANZ",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11438",
+    "name": "Eva-Maria•Pracht",
+    "born": "29 June 1937 in Würzburg, Bayern (GER)",
+    "measurements": "169 cm / 47 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

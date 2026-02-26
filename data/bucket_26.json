@@ -432,5 +432,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11426",
+    "name": "Bridget•Parker",
+    "born": "5 January 1939 in ?, Northumberland (GBR)",
+    "measurements": "162 cm / 52 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

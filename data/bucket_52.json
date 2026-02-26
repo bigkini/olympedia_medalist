@@ -459,5 +459,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11452",
+    "name": "Wendy•Schaeffer",
+    "born": "16 September 1974 in Adelaide, South Australia (AUS)",
+    "measurements": "167 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -393,5 +393,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11404",
+    "name": "Lesley•McNaught-Mändli",
+    "born": "10 February 1964 in Hinckley, England (GBR)",
+    "measurements": "173 cm / 70 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

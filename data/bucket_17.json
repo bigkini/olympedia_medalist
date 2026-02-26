@@ -386,5 +386,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11417",
+    "name": "Cindy•Neale-Ishoy",
+    "born": "19 June 1952 in Edmonton, Alberta (CAN)",
+    "measurements": "159 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

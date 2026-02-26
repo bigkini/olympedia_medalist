@@ -464,5 +464,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11415",
+    "name": "Louise•Nathhorst",
+    "born": "26 March 1955 in Stockholm, Stockholm (SWE)",
+    "measurements": "168 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

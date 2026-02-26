@@ -274,5 +274,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11298",
+    "name": "Diana•Clapham",
+    "born": "8 June 1957 in Kuala Lumpur, Kuala Lumpur (MAS)",
+    "measurements": "170 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

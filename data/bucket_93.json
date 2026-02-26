@@ -385,5 +385,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11293",
+    "name": "Anna•Casagrande",
+    "born": "26 July 1958 in Milano, Milano (ITA)",
+    "measurements": "165 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

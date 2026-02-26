@@ -524,5 +524,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11318",
+    "name": "Lana•duPont",
+    "born": "6 July 1939 in Philadelphia, Pennsylvania (USA)",
+    "measurements": "170 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

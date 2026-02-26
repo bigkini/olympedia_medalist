@@ -496,5 +496,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11314",
+    "name": "Anghel•Donescu",
+    "born": "18 October 1945 in București (Bucharest), București (ROU)",
+    "measurements": "176 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11414",
+    "name": "Dorothy•Morkis",
+    "born": "29 December 1942 in Boston, Massachusetts (USA)",
+    "measurements": "172 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

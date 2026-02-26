@@ -473,5 +473,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11455",
+    "name": "Marina•Sciocchetti",
+    "born": "13 November 1958 in Gallarate, Varese (ITA)",
+    "measurements": "164 cm / 53 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

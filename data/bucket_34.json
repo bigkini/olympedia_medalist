@@ -325,5 +325,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11234",
+    "name": "Juan•Miles",
+    "born": "24 June 1895 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11334",
+    "name": "Mary•Gordon-Watson",
+    "born": "3 April 1948 in Blandford, England (GBR)",
+    "measurements": "162 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -537,5 +537,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11381",
+    "name": "Anne•Kursinski",
+    "born": "16 April 1959 in Los Angeles, California (USA)",
+    "measurements": "168 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

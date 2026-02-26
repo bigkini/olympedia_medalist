@@ -390,13 +390,28 @@
     "id": "10775",
     "name": "Helge•Larsson",
     "born": "25 October 1916 in Stockholm, Stockholm (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "SWE",
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11275",
+    "name": "Rémy•Maertens",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

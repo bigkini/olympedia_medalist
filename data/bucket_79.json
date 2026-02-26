@@ -440,5 +440,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11279",
+    "name": "François•Van Hoorenbeek",
+    "born": {},
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11379",
+    "name": "Marges•Knighton",
+    "born": "14 February 1955 in Sheffield, England (GBR)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

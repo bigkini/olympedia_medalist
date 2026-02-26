@@ -494,13 +494,28 @@
     "id": "11225",
     "name": "Erik•Bjurberg",
     "born": "1 June 1895 in Solna, Stockholm (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "SWE",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11425",
+    "name": "Bettina•Overesch-Böker-Hoy",
+    "born": "7 November 1962 in Rheine, Nordrhein-Westfalen (GER)",
+    "measurements": "166 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
         "medal": "Bronze"
       }
     ]

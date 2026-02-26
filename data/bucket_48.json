@@ -233,7 +233,7 @@
     "id": "10848",
     "name": "Václav•Havel",
     "born": "5 October 1920 in Praha (Prague), Hlavní město Praha (CZE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -241,6 +241,21 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11248",
+    "name": "Charles•McMurtrie",
+    "born": "1 May 1878 in Orange, New South Wales (AUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "ANZ",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

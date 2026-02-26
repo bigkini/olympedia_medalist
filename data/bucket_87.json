@@ -436,5 +436,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11287",
+    "name": "Charlotte•Bredahl",
+    "born": "21 April 1957 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": "175 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11387",
+    "name": "Carol•Lavell",
+    "born": "8 April 1943 in Newport, Rhode Island (USA)",
+    "measurements": "162 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

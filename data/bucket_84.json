@@ -443,5 +443,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11284",
+    "name": "•Black Eagle",
+    "born": "July 1865 in ?, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

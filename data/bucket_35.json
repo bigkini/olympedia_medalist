@@ -475,5 +475,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11235",
+    "name": "Jack•Nelson",
+    "born": "26 May 1891 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11335",
+    "name": "Marianne•Gossweiler",
+    "born": "15 May 1943 in Schaffhausen, Schaffhausen (SUI)",
+    "measurements": "175 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

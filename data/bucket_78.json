@@ -487,5 +487,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11278",
+    "name": "Charles•Van Den Broeck",
+    "born": {},
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11478",
+    "name": "Sissy•Max-Theurer",
+    "born": "20 September 1956 in Linz, Oberösterreich (AUT)",
+    "measurements": "168 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -324,7 +324,7 @@
     "id": "10880",
     "name": "Václav•Mottl",
     "born": "19 May 1914 in Praha (Prague), Hlavní město Praha (CZE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -332,6 +332,21 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Doubles, 10,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11380",
+    "name": "Anne•Koch-van Olst",
+    "born": "25 March 1962 in Hasseris, Aalborg, Nordjylland (DEN)",
+    "measurements": "184 cm / 70 kg",
+    "medals": [
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

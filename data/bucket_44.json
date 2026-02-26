@@ -329,13 +329,43 @@
     "id": "10944",
     "name": "Nina•Savina",
     "born": "29 September 1915 in St. Petersburg, St. Petersburg (RUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "URS",
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Singles, 500 metres, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11244",
+    "name": "Mannie•McArthur",
+    "born": "30 July 1882 in Sydney, New South Wales (AUS)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "ANZ",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11444",
+    "name": "Heidi•Robbiani",
+    "born": "27 October 1950",
+    "measurements": "170 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
         "medal": "Bronze"
       }
     ]

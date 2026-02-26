@@ -446,13 +446,50 @@
     "id": "10858",
     "name": "Alfréd•Jindra",
     "born": "31 March 1930 in Praha (Prague), Hlavní město Praha (CZE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "TCH",
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Singles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11258",
+    "name": "Tineke•Bartels-de Vries",
+    "born": "6 February 1951 in Eindhoven, Noord-Brabant (NED)",
+    "measurements": "177 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11458",
+    "name": "Gina•Smith",
+    "born": "11 November 1957 in Saskatoon, Saskatchewan (CAN)",
+    "measurements": "175 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
         "medal": "Bronze"
       }
     ]

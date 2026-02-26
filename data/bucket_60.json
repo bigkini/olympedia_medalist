@@ -444,5 +444,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11260",
+    "name": "Malin•Baryard-Johnsson",
+    "born": "10 April 1975 in Söderköping, Östergötland (SWE)",
+    "measurements": "172 cm / 52 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2020 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11460",
+    "name": "Melanie•Smith",
+    "born": "23 September 1949 in Memphis, Tennessee (USA)",
+    "measurements": "170 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

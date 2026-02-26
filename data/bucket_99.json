@@ -430,5 +430,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11299",
+    "name": "Sally•Clark",
+    "born": "11 April 1958 in Palmerston North, Manawatu-Wanganui (NZL)",
+    "measurements": "162 cm",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

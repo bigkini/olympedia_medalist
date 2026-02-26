@@ -311,5 +311,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11420",
+    "name": "Ashley•Nicoll-Holzer",
+    "born": "10 October 1963 in Toronto, Ontario (CAN)",
+    "measurements": "152 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

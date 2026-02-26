@@ -539,5 +539,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11394",
+    "name": "Ann-Kathrin•Linsenhoff",
+    "born": "1 August 1960 in Düsseldorf, Nordrhein-Westfalen (GER)",
+    "measurements": "176 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

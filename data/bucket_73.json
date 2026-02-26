@@ -407,5 +407,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11273",
+    "name": "Edouard•Bourguignon",
+    "born": "18 August 1887",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

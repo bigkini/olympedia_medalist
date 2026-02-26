@@ -460,5 +460,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11300",
+    "name": "Marion•Coakes",
+    "born": "6 June 1947 in New Milton, England (GBR)",
+    "measurements": "165 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11400",
+    "name": "Edith•Master",
+    "born": "25 August 1932 in New York, New York (USA)",
+    "measurements": "165 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

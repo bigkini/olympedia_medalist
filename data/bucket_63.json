@@ -408,5 +408,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11363",
+    "name": "Ulla•Håkansson",
+    "born": "9 November 1937 in Motala, Östergötland (SWE)",
+    "measurements": "170 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

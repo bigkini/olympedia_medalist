@@ -283,5 +283,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11247",
+    "name": "Chris•McKivat",
+    "born": "27 November 1879 in Burrawang, New South Wales (AUS)",
+    "measurements": "173 cm",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "ANZ",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11447",
+    "name": "Gonnelien•Rothenberger-Gordijn",
+    "born": "5 June 1968 in Weert, Limburg (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

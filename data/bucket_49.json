@@ -408,5 +408,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11249",
+    "name": "Syd•Middleton",
+    "born": "24 February 1884 in Sydney, New South Wales (AUS)",
+    "measurements": "188 cm",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "ANZ",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

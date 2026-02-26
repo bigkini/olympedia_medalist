@@ -325,5 +325,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11242",
+    "name": "Tom•Griffin",
+    "born": "19 February 1884 in Sydney, New South Wales (AUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "ANZ",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

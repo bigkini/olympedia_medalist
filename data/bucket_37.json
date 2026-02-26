@@ -265,5 +265,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "11237",
+    "name": "John•Barnett",
+    "born": "19 January 1880 in Tuena, New South Wales (AUS)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "ANZ",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11437",
+    "name": "Tinks•Pottinger",
+    "born": "26 April 1956 in Waipawa, Hawke's Bay (NZL)",
+    "measurements": "167 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

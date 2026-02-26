@@ -466,5 +466,50 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11243",
+    "name": "Jack•Hickey",
+    "born": "4 January 1887 in Sydney, New South Wales (AUS)",
+    "measurements": "173 cm",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "ANZ",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11343",
+    "name": "Hilda•Gurney",
+    "born": "10 September 1943 in Los Angeles, California (USA)",
+    "measurements": "168 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11443",
+    "name": "Doris•Ramseier",
+    "born": "18 May 1939",
+    "measurements": "170 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

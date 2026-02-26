@@ -372,13 +372,50 @@
     "id": "10424",
     "name": "Knut•Østby",
     "born": "12 November 1922 in Modum, Viken (NOR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "NOR",
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11324",
+    "name": "Beatriz•Ferrer-Salat Serra",
+    "born": "11 March 1966 in Barcelona, Barcelona (ESP)",
+    "measurements": "176 cm / 58 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11424",
+    "name": "Margit•Otto-Crépin",
+    "born": "9 February 1945 in Quierschied, Saarland (GER)",
+    "measurements": "166 cm / 52 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
         "medal": "Silver"
       }
     ]

@@ -476,5 +476,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "11283",
+    "name": "•Almighty Voice",
+    "born": "19 February 1873 in Cattaraugus Reservation, New York (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11383",
+    "name": "Anneliese•Küppers",
+    "born": "6 August 1929 in Duisburg, Nordrhein-Westfalen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -315,7 +315,7 @@
     "id": "10951",
     "name": "Gennady•Bukharin",
     "born": "16 March 1929 in Maslovka, Respublika Tatarstan (RUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -330,6 +330,36 @@
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Canadian Singles, 10,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "11251",
+    "name": "Charles•Russell",
+    "born": "5 December 1884 in Petersham, New South Wales (AUS)",
+    "measurements": "178 cm",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "ANZ",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11451",
+    "name": "Annemarie•Sanders-Keijzer",
+    "born": "3 April 1958 in Koog aan de Zaan, Noord-Holland (NED)",
+    "measurements": "163 cm / 52 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

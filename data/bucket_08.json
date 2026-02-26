@@ -435,5 +435,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "11408",
+    "name": "Vera•Misevich",
+    "born": "10 April 1945 in Kyiv, Kyiv (UKR)",
+    "measurements": "169 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

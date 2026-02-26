@@ -272,7 +272,7 @@
     "id": "10811",
     "name": "Hans•Wetterström",
     "born": "11 December 1923 in Nyköping, Södermanland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -286,6 +286,21 @@
         "noc": "SWE",
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Doubles, 10,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11311",
+    "name": "Karen•Straker-Dixon",
+    "born": "17 September 1964 in Barnard Castle, England (GBR)",
+    "measurements": "165 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
         "medal": "Silver"
       }
     ]

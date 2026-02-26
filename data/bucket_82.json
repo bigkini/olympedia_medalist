@@ -442,13 +442,43 @@
     "id": "10982",
     "name": "Mihhail•Kaaleste",
     "born": "20 August 1931 in Väike-Vertuškino, Põlvamaa (EST)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "URS",
         "discipline": "Canoe Sprint (Canoeing)",
         "event": "Kayak Doubles, 1,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "11282",
+    "name": "George•Lyon",
+    "born": "27 July 1858 in Richmond Hill, Ontario (CAN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Golf",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "11382",
+    "name": "Kathy•Kusner",
+    "born": "21 March 1940 in Gainesville, Florida (USA)",
+    "measurements": "152 cm / 45 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
         "medal": "Silver"
       }
     ]
