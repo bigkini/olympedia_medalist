@@ -679,13 +679,28 @@
     "id": "18202",
     "name": "Art•Stickney",
     "born": "25 May 1879 in St. Louis, Missouri (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
         "noc": "USA",
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18502",
+    "name": "Francisco•Fábregas",
+    "born": "1 July 1949 in Barcelona, Barcelona (ESP)",
+    "measurements": "177 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

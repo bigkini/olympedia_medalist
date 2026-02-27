@@ -870,7 +870,7 @@
     "id": "18189",
     "name": "Harry•Potter",
     "born": "4 October 1881 in St. Louis, Missouri (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -878,6 +878,21 @@
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18489",
+    "name": "Carlos•del Coso",
+    "born": "24 April 1933 in Madrid, Madrid (ESP)",
+    "measurements": "165 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

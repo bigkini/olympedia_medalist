@@ -688,5 +688,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18441",
+    "name": "Maider•Tellería",
+    "born": "14 July 1973 in San Sebastián, Guipúzcoa (ESP)",
+    "measurements": "160 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

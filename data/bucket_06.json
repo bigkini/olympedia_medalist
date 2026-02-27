@@ -676,7 +676,7 @@
     "id": "18106",
     "name": "Teodor•Marian",
     "born": "1904",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -684,6 +684,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18506",
+    "name": "Juantxo•García-Mauriño",
+    "born": "11 March 1964 in Barcelona, Barcelona (ESP)",
+    "measurements": "169 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

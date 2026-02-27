@@ -745,5 +745,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18455",
+    "name": "Jaime•Arbós",
+    "born": "29 February 1952 in Terrassa, Barcelona (ESP)",
+    "measurements": "170 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

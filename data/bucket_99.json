@@ -704,13 +704,28 @@
     "id": "18099",
     "name": "Rinus•van Rekum",
     "born": "7 February 1884 in Arnhem, Gelderland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "NED",
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18499",
+    "name": "Xavier•Escudé",
+    "born": "17 May 1966 in Terrassa, Barcelona (ESP)",
+    "measurements": "176 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

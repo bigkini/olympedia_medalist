@@ -490,5 +490,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18350",
+    "name": "Hans A.•Bjerrum",
+    "born": "8 September 1899 in Hellerup, Gentofte, Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

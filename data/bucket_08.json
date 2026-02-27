@@ -907,7 +907,7 @@
     "id": "18108",
     "name": "Paul•Nedelcovici",
     "born": "1899 in București (Bucharest), București (ROU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -915,6 +915,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18508",
+    "name": "Rafael•Garralda",
+    "born": "21 January 1956 in Madrid, Madrid (ESP)",
+    "measurements": "180 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

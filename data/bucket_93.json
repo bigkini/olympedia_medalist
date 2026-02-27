@@ -599,13 +599,28 @@
     "id": "18193",
     "name": "John•Rahm",
     "born": "8 January 1854 in Richmond, Virginia (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
         "noc": "USA",
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18493",
+    "name": "Joaquín•Dualde",
+    "born": "14 November 1932 in Barcelona, Barcelona (ESP)",
+    "measurements": "180 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

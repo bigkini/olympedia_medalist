@@ -717,8 +717,8 @@
   {
     "id": "18065",
     "name": "Fritz•Müller",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -726,6 +726,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18265",
+    "name": "Lawrence•Feuerbach",
+    "born": "11 July 1879 in Manhattan, New York, New York (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Athletics",
+        "event": "Shot Put, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -612,13 +612,28 @@
     "id": "18068",
     "name": "August•Schmierer",
     "born": "28 April 1870 in Stuttgart, Baden-Württemberg (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "GER",
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18468",
+    "name": "Ricardo•Cabot",
+    "born": "6 November 1949 in Barcelona, Barcelona (ESP)",
+    "measurements": "174 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

@@ -740,8 +740,8 @@
   {
     "id": "18221",
     "name": "William•Partridge",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -749,6 +749,21 @@
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18421",
+    "name": "Carmen•Barea",
+    "born": "5 October 1966 in Málaga, Málaga (ESP)",
+    "measurements": "164 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

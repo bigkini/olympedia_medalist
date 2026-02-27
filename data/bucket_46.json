@@ -748,5 +748,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18546",
+    "name": "Ramón•Sala",
+    "born": "8 August 1971 in Terrassa, Barcelona (ESP)",
+    "measurements": "173 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

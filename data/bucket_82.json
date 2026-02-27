@@ -798,7 +798,7 @@
     "id": "18182",
     "name": "Burt•McKinnie",
     "born": "17 January 1879 in Pleasanton, Kansas (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -812,6 +812,21 @@
         "noc": "USA",
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18282",
+    "name": "Chuck•Rose",
+    "born": "5 May 1873 in St. Louis, Missouri (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

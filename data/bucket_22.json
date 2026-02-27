@@ -818,7 +818,7 @@
     "id": "18222",
     "name": "George•Passmore",
     "born": "24 August 1889 in St. Louis, Missouri (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -826,6 +826,36 @@
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18422",
+    "name": "Sonia•Barrio",
+    "born": "13 December 1969 in Madrid, Madrid (ESP)",
+    "measurements": "164 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18522",
+    "name": "Ignacio•Macaya",
+    "born": "2 December 1933 in Barcelona, Barcelona (ESP)",
+    "measurements": "182 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

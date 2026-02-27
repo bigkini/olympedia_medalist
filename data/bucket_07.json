@@ -701,7 +701,7 @@
     "id": "18107",
     "name": "Sorin•Mihăilescu",
     "born": "1898",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -709,6 +709,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18507",
+    "name": "José Miguel•García",
+    "born": "29 September 1952 in Zaragoza (Saragossa), Zaragoza (ESP)",
+    "measurements": "170 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

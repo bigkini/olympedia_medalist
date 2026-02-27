@@ -618,13 +618,43 @@
     "id": "18192",
     "name": "Sim•Price",
     "born": "16 May 1882 in St. Louis, Missouri (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
         "noc": "USA",
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18492",
+    "name": "Eduardo•Dualde",
+    "born": "1 December 1933 in Barcelona, Barcelona (ESP)",
+    "measurements": "176 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18692",
+    "name": "Sandie•Lister",
+    "born": "16 August 1961 in Halifax, England (GBR)",
+    "measurements": "164 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

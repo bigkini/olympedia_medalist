@@ -703,7 +703,7 @@
     "id": "18185",
     "name": "Frank•Newton",
     "born": "3 January 1874 in Washington, District of Columbia (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -718,6 +718,21 @@
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18285",
+    "name": "Charles•Thias",
+    "born": "15 November 1879 in ?, Illinois (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

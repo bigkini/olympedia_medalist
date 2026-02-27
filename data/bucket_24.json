@@ -595,14 +595,44 @@
   {
     "id": "18224",
     "name": "W. J.•Ross",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
         "noc": "USA",
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18424",
+    "name": "Mercedes•Coghen",
+    "born": "2 August 1962 in Madrid, Madrid (ESP)",
+    "measurements": "170 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18524",
+    "name": "Santiago•Malgosa",
+    "born": "25 July 1956 in Terrassa, Barcelona (ESP)",
+    "measurements": "179 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

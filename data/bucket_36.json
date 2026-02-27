@@ -823,13 +823,28 @@
     "id": "18236",
     "name": "Norman•Cleaveland",
     "born": "4 April 1901 in Oakland, California (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "USA",
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18436",
+    "name": "Teresa•Motos",
+    "born": "29 December 1963 in San Sebastián, Guipúzcoa (ESP)",
+    "measurements": "167 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Gold"
       }
     ]

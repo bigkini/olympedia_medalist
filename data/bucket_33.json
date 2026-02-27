@@ -774,7 +774,7 @@
     "id": "18233",
     "name": "Fred•Roe",
     "born": "18 January 1889 in Robert Lee, Texas (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -782,6 +782,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18433",
+    "name": "Anna•Maiques",
+    "born": "3 September 1967 in Barcelona, Barcelona (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

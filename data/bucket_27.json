@@ -809,14 +809,29 @@
   {
     "id": "18227",
     "name": "A. M.•Woods",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
         "noc": "USA",
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18527",
+    "name": "Paulino•Monsalve",
+    "born": "30 October 1958 in Madrid, Madrid (ESP)",
+    "measurements": "180 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

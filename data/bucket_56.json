@@ -579,5 +579,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18556",
+    "name": "Jaime•Zumalacárregui",
+    "born": "7 September 1956 in Madrid, Madrid (ESP)",
+    "measurements": "176 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

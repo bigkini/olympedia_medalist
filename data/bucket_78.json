@@ -722,13 +722,28 @@
     "id": "17978",
     "name": "George•Miller",
     "born": "6 December 1867 in Kensington, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18278",
+    "name": "Oscar•Olsen",
+    "born": "15 December 1875 in Oslo, Oslo (NOR)",
+    "measurements": "175 cm",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

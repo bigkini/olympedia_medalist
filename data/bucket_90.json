@@ -749,13 +749,43 @@
     "id": "18090",
     "name": "Antonio•Nava",
     "born": "5 September 1905 in Ixcaquixtla, Puebla (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "MEX",
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18490",
+    "name": "José Antonio•Dinarés",
+    "born": "5 June 1940 in Terrassa, Barcelona (ESP)",
+    "measurements": "175 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18690",
+    "name": "Kath•Johnson",
+    "born": "21 January 1967 in King's Lynn, England (GBR)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

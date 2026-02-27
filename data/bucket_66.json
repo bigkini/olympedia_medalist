@@ -611,8 +611,8 @@
   {
     "id": "18066",
     "name": "Eduard•Poppe",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -620,6 +620,36 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18366",
+    "name": "Hans Jørgen•Hansen",
+    "born": "6 October 1879 in Tved, Svendborg, Syddanmark (DEN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18466",
+    "name": "Francisco•Cavaller",
+    "born": "14 October 1932 in Barcelona, Barcelona (ESP)",
+    "measurements": "175 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

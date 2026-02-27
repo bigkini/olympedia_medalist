@@ -648,7 +648,7 @@
     "id": "18176",
     "name": "Orus•Jones",
     "born": "8 March 1867 in Jackson, Ohio (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -656,6 +656,21 @@
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18276",
+    "name": "Conrad•Magnusson",
+    "born": "18 August 1874 in Oslo, Oslo (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

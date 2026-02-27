@@ -532,13 +532,28 @@
     "id": "18098",
     "name": "Willem•van Loon",
     "born": "15 August 1891 in Arnhem, Gelderland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "NED",
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18398",
+    "name": "Andreas•Rasmussen",
+    "born": "15 March 1893 in Aalborg, Nordjylland (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

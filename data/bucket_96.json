@@ -636,7 +636,7 @@
     "id": "18096",
     "name": "Henk•Janssen",
     "born": "17 June 1890 in Arnhem, Gelderland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -644,6 +644,36 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18496",
+    "name": "Juan•Escarré",
+    "born": "23 February 1969 in Alicante, Alicante (ESP)",
+    "measurements": "187 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18696",
+    "name": "Tammy•Miller",
+    "born": "21 June 1967 in Stockport, England (GBR)",
+    "measurements": "165 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

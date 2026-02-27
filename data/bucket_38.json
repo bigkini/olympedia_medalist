@@ -759,5 +759,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18438",
+    "name": "Virginia•Ramírez",
+    "born": "22 May 1964 in Madrid, Madrid (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

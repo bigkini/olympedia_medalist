@@ -628,7 +628,7 @@
     "id": "17975",
     "name": "Walter•McCreery",
     "born": "13 August 1871 in Zürich, Zürich (SUI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -636,6 +636,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18675",
+    "name": "Jill•Atkins",
+    "born": "30 May 1963 in Bradford, England (GBR)",
+    "measurements": "165 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

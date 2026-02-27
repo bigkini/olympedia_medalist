@@ -697,5 +697,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18454",
+    "name": "Juan•Arbós",
+    "born": "12 November 1952 in Terrassa, Barcelona (ESP)",
+    "measurements": "170 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18554",
+    "name": "Narcís•Ventalló",
+    "born": "17 October 1940 in Terrassa, Barcelona (ESP)",
+    "measurements": "168 cm / 53 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

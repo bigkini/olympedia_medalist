@@ -694,5 +694,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18353",
+    "name": "Svend•Blach",
+    "born": "6 December 1893 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18453",
+    "name": "Pedro•Amat",
+    "born": "13 July 1940 in Terrassa, Barcelona (ESP)",
+    "measurements": "183 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18553",
+    "name": "Luis María•Usoz",
+    "born": "19 October 1932 in San Sebastián, Guipúzcoa (ESP)",
+    "measurements": "169 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -941,7 +941,7 @@
     "id": "18187",
     "name": "Mason•Phelps",
     "born": "7 December 1885 in Chicago, Illinois (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -949,6 +949,36 @@
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18487",
+    "name": "Miguel•de Paz",
+    "born": "31 January 1961 in Terrassa, Barcelona (ESP)",
+    "measurements": "176 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18687",
+    "name": "Sue•Fraser",
+    "born": "15 July 1966 in Aberdeen, Scotland (GBR)",
+    "measurements": "173 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

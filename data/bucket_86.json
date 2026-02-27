@@ -617,13 +617,43 @@
     "id": "18186",
     "name": "George•Oliver",
     "born": "18 January 1883 in Birmingham, Alabama (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
         "noc": "USA",
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18286",
+    "name": "Orin•Upshaw",
+    "born": "23 July 1874 in Peoria, Illinois (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18686",
+    "name": "Vicky•Dixon",
+    "born": "5 August 1959 in Ormskirk, England (GBR)",
+    "measurements": "170 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

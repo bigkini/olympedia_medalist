@@ -619,7 +619,7 @@
     "id": "18195",
     "name": "Ned•Sawyer",
     "born": "20 June 1882 in Pine Island, Minnesota (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -627,6 +627,36 @@
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18495",
+    "name": "Rafael•Egusquiza",
+    "born": "14 June 1935 in Bilbao, Vizcaya (ESP)",
+    "measurements": "187 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18695",
+    "name": "Jackie•McWilliams",
+    "born": "18 February 1964 in Ballymoney, Northern Ireland (GBR)",
+    "measurements": "160 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

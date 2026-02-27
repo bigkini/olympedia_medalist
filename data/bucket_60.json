@@ -792,5 +792,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18360",
+    "name": "Frands•Faber",
+    "born": "22 June 1897 in Frederiksberg, Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

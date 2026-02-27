@@ -481,5 +481,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18437",
+    "name": "Núria•Olivé",
+    "born": "20 August 1968 in Barcelona, Barcelona (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

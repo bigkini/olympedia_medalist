@@ -728,5 +728,57 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18352",
+    "name": "Eyvind•Blach",
+    "born": "31 December 1895 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18452",
+    "name": "Pol•Amat",
+    "born": "18 June 1978 in Terrassa, Barcelona (ESP)",
+    "measurements": "183 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18552",
+    "name": "Pablo•Usoz",
+    "born": "31 December 1968 in Madrid, Madrid (ESP)",
+    "measurements": "178 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

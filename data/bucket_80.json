@@ -532,7 +532,7 @@
     "id": "17980",
     "name": "Vivian•Lockett",
     "born": "18 July 1880 in New Brighton, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -540,6 +540,36 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18280",
+    "name": "Gus•Rodenberg",
+    "born": "25 July 1873 in Stolzenau, Niedersachsen (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18480",
+    "name": "José•Colomer",
+    "born": "10 June 1935 in Terrassa, Barcelona (ESP)",
+    "measurements": "185 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

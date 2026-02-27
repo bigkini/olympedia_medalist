@@ -672,7 +672,7 @@
     "id": "18232",
     "name": "Nelson•Margetts",
     "born": "27 May 1879 in Salt Lake City, Utah (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -680,6 +680,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18532",
+    "name": "Juan•Pellón",
+    "born": "21 January 1955 in Santander, Cantabria (ESP)",
+    "measurements": "174 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

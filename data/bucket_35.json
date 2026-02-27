@@ -796,5 +796,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18435",
+    "name": "Eli•Maragall",
+    "born": "25 November 1970 in Barcelona, Barcelona (ESP)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18535",
+    "name": "Víctor•Pujol",
+    "born": "4 October 1967 in Barcelona, Barcelona (ESP)",
+    "measurements": "177 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

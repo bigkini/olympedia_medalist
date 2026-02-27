@@ -502,5 +502,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18448",
+    "name": "Jaime•Amat",
+    "born": "1 March 1970 in Barcelona, Barcelona (ESP)",
+    "measurements": "168 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

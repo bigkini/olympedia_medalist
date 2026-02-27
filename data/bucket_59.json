@@ -708,5 +708,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18359",
+    "name": "Thorvald•Eigenbrod",
+    "born": "2 December 1892 in Aalborg, Nordjylland (DEN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18459",
+    "name": "Jordi•Arnau",
+    "born": "7 April 1970 in Terrassa, Barcelona (ESP)",
+    "measurements": "170 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

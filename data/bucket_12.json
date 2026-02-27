@@ -589,7 +589,7 @@
     "id": "18112",
     "name": "Soare•Sterian",
     "born": "2 May 1906 in București (Bucharest), București (ROU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -597,6 +597,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18512",
+    "name": "Antonio•González",
+    "born": "13 October 1969 in Santander, Cantabria (ESP)",
+    "measurements": "175 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

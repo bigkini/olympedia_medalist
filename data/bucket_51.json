@@ -725,5 +725,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18451",
+    "name": "Juan•Amat",
+    "born": "10 July 1946 in Terrassa, Barcelona (ESP)",
+    "measurements": "193 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

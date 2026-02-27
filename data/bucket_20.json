@@ -518,13 +518,28 @@
     "id": "18220",
     "name": "William•Murphy",
     "born": "23 May 1867 in Québec City, Québec (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
         "noc": "USA",
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18520",
+    "name": "Ramón•Jufresa",
+    "born": "18 April 1970 in Terrassa, Barcelona (ESP)",
+    "measurements": "188 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

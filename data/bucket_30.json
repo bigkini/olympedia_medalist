@@ -656,5 +656,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18430",
+    "name": "Mariví•González",
+    "born": "27 December 1961 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
+    "measurements": "153 cm / 49 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

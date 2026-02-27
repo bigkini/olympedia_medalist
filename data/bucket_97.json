@@ -561,7 +561,7 @@
     "id": "18097",
     "name": "Anton•van Loon",
     "born": "25 June 1888 in Arnhem, Gelderland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -569,6 +569,21 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18697",
+    "name": "Helen•Morgan",
+    "born": "20 July 1966 in Porthcawl, Wales (GBR)",
+    "measurements": "172 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -860,7 +860,7 @@
     "id": "18181",
     "name": "John•Maxwell",
     "born": "16 July 1871 in Olena, Illinois (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -868,6 +868,21 @@
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18681",
+    "name": "Karen•Brown",
+    "born": "9 January 1963 in Redhill, England (GBR)",
+    "measurements": "170 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

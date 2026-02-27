@@ -657,5 +657,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18439",
+    "name": "Masa•Rodríguez",
+    "born": "12 April 1957 in Gijón, Asturias (ESP)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18539",
+    "name": "Carlos•Roca",
+    "born": "29 April 1958 in Barcelona, Barcelona (ESP)",
+    "measurements": "170 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

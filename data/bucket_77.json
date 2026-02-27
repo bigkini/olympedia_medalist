@@ -646,5 +646,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18277",
+    "name": "Jim•Mitchel",
+    "born": "30 January 1864 in Emly, Tipperary (IRL)",
+    "measurements": "187 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Athletics",
+        "event": "56-pound Weight Throw, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18477",
+    "name": "Ignacio•Cobos",
+    "born": "12 June 1966 in Madrid, Madrid (ESP)",
+    "measurements": "183 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18677",
+    "name": "Lisa•Bayliss",
+    "born": "27 November 1966 in Walsall, England (GBR)",
+    "measurements": "167 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

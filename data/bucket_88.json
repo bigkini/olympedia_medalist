@@ -638,13 +638,43 @@
     "id": "18088",
     "name": "Juan•Gracia",
     "born": "18 April 1901 in Quiriego, Sonora (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "MEX",
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18388",
+    "name": "Paul•Metz",
+    "born": "17 November 1892 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18688",
+    "name": "Wendy•Fraser",
+    "born": "23 April 1963 in Bukoba, Kagera (TAN)",
+    "measurements": "163 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

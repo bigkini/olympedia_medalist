@@ -684,7 +684,7 @@
     "id": "17972",
     "name": "Hardress•Lloyd",
     "born": "14 August 1874 in Gloster, Offaly (IRL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -692,6 +692,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18272",
+    "name": "Sam•Jones",
+    "born": "16 January 1880 in Fairfield, Connecticut (USA)",
+    "measurements": "189 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Athletics",
+        "event": "High Jump, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -591,7 +591,7 @@
     "id": "18173",
     "name": "Bob•Hunter",
     "born": "20 November 1886 in Chicago, Illinois (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -599,6 +599,21 @@
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18373",
+    "name": "Erik•Husted",
+    "born": "3 January 1900 in Helsingør, Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -580,7 +580,7 @@
     "id": "18234",
     "name": "Rod•Wanamaker",
     "born": "10 October 1899 in Philadelphia, Pennsylvania (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -588,6 +588,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18434",
+    "name": "Silvia•Manrique",
+    "born": "6 March 1973 in Llodio, Álava (ESP)",
+    "measurements": "159 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }
