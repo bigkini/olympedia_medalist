@@ -691,7 +691,7 @@
     "id": "17955",
     "name": "Bernard•Redwood",
     "born": "28 November 1874 in Finchley, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -705,6 +705,43 @@
         "noc": "GBR",
         "discipline": "Motorboating",
         "event": "C-Class, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18155",
+    "name": "Ned•Cummins",
+    "born": "25 July 1886 in Chicago, Illinois (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18255",
+    "name": "Babe•Slater",
+    "born": "30 April 1896 in Berkeley, California (USA)",
+    "measurements": "191 cm / 92 kg",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

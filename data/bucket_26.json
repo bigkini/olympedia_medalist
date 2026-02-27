@@ -815,5 +815,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18226",
+    "name": "Albert•Venn",
+    "born": "24 September 1867 in Marshall, Michigan (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

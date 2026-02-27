@@ -660,8 +660,8 @@
   {
     "id": "18059",
     "name": "Willy•Hofmeister",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -669,6 +669,43 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18159",
+    "name": "Chandler•Egan",
+    "born": "21 August 1884 in Chicago, Illinois (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18259",
+    "name": "Alan•Valentine",
+    "born": "23 February 1901 in Glen Cove, New York (USA)",
+    "measurements": "183 cm",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -729,5 +729,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18138",
+    "name": "Margaret•Abbott",
+    "born": "15 June 1876 in Kolkata (Calcutta), West Bengal (IND)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18238",
+    "name": "Bob•Devereaux",
+    "born": "24 August 1897 in Cheshire, Ohio (USA)",
+    "measurements": "175 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

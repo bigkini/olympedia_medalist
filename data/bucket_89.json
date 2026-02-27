@@ -855,7 +855,7 @@
     "id": "18089",
     "name": "Julio•Müller",
     "born": "28 February 1905 in Chihuahua, Chihuahua (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -863,6 +863,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18189",
+    "name": "Harry•Potter",
+    "born": "4 October 1881 in St. Louis, Missouri (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

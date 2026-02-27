@@ -669,5 +669,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18123",
+    "name": "Arvid•Andersson",
+    "born": "9 July 1881 in Kila, Strängnäs, Södermanland (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18223",
+    "name": "William•Passmore",
+    "born": "6 September 1882 in St. Louis, Missouri (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

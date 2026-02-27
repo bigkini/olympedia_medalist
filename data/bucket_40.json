@@ -846,5 +846,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18240",
+    "name": "Charlie•Doe",
+    "born": "4 September 1898 in San Francisco, California (USA)",
+    "measurements": "173 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

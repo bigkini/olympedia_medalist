@@ -756,7 +756,7 @@
     "id": "18035",
     "name": "Matt•Hynes",
     "born": "21 January 1883 in Gortmore, Killanin, Galway (IRL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -764,6 +764,36 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18135",
+    "name": "Herbert•Lindström",
+    "born": "16 March 1886 in Harö, Norrtälje, Stockholm (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18235",
+    "name": "Phil•Clark",
+    "born": "18 September 1898 in San Francisco, California (USA)",
+    "measurements": "88 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

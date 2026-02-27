@@ -703,7 +703,7 @@
     "id": "17652",
     "name": "Pierre•Chibert",
     "born": "16 November 1879 in Saint-Gilles, Région de Bruxelles-Capitale (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -711,6 +711,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18252",
+    "name": "Cornelius•Righter",
+    "born": "7 March 1897 in Campbell, California (USA)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

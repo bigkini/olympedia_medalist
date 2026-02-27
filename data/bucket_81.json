@@ -845,13 +845,28 @@
     "id": "17981",
     "name": "Percy•O'Reilly",
     "born": "27 July 1870 in Colamber, Edgeworthstown, Longford (IRL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18181",
+    "name": "John•Maxwell",
+    "born": "16 July 1871 in Olena, Illinois (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

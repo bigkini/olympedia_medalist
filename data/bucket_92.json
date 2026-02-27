@@ -603,7 +603,7 @@
     "id": "18092",
     "name": "Alfred•Read",
     "born": "13 October 1878 in Bethnal Green, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -611,6 +611,21 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18192",
+    "name": "Sim•Price",
+    "born": "16 May 1882 in St. Louis, Missouri (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

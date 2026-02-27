@@ -762,5 +762,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18115",
+    "name": "Paul•Vidrașcu",
+    "born": "1901",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18215",
+    "name": "Jay•Gould",
+    "born": "1 September 1888 in Mamaroneck, New York (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Jeu De Paume",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

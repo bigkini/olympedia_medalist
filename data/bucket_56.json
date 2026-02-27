@@ -554,7 +554,7 @@
     "id": "18056",
     "name": "Albert•Amrhein",
     "born": "29 December 1870 in Frankfurt am Main, Hessen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -562,6 +562,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18256",
+    "name": "Norm•Slater",
+    "born": "23 January 1894 in San Francisco, California (USA)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

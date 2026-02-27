@@ -656,7 +656,7 @@
     "id": "18041",
     "name": "Alexander•Munro",
     "born": "30 November 1870 in Stornoway, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -671,6 +671,21 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18241",
+    "name": "Linn•Farish",
+    "born": "3 October 1901 in Rumsey, California (USA)",
+    "measurements": "88 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

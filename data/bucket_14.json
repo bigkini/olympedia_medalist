@@ -798,8 +798,8 @@
   {
     "id": "18014",
     "name": "M. W.•Talbott",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -807,6 +807,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18114",
+    "name": "Mihai•Vardală",
+    "born": "4 November 1904 in București (Bucharest), București (ROU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

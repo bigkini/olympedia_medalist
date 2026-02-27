@@ -525,5 +525,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18231",
+    "name": "Tommy•Hitchcock",
+    "born": "11 February 1900 in Aiken, South Carolina (USA)",
+    "measurements": "178 cm",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

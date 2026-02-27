@@ -726,13 +726,28 @@
     "id": "18021",
     "name": "Thomas•Willcocks",
     "born": "8 March 1877 in Buckfastleigh, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18221",
+    "name": "William•Partridge",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

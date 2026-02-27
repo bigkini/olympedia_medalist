@@ -679,5 +679,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18253",
+    "name": "William•Rogers",
+    "born": "6 February 1902 in Ventura, California (USA)",
+    "measurements": "79 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

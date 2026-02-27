@@ -574,7 +574,7 @@
     "id": "18012",
     "name": "Barney•Solomon",
     "born": "11 February 1883 in Camborne, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -582,6 +582,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18112",
+    "name": "Soare•Sterian",
+    "born": "2 May 1906 in București (Bucharest), București (ROU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

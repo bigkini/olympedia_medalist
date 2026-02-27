@@ -593,5 +593,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18229",
+    "name": "Terry•Allen",
+    "born": "1 April 1888 in Fort Douglas, Utah (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

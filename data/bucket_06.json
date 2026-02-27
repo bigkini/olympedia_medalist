@@ -661,7 +661,7 @@
     "id": "18006",
     "name": "Arthur•Lawry",
     "born": "1883 in Camborne, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -669,6 +669,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18106",
+    "name": "Teodor•Marian",
+    "born": "1904",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

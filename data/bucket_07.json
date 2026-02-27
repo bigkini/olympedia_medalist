@@ -685,8 +685,8 @@
   {
     "id": "18007",
     "name": "M. L.•Logan",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -694,6 +694,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18107",
+    "name": "Sorin•Mihăilescu",
+    "born": "1898",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

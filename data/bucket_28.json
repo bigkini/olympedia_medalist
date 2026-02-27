@@ -633,7 +633,7 @@
     "id": "18028",
     "name": "Ernest•Ebbage",
     "born": "1 August 1873 in Stibbard, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -641,6 +641,36 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18128",
+    "name": "August•Gustafsson",
+    "born": "4 November 1875 in Tibro, Västra Götaland (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18228",
+    "name": "Elmer•Boeseke",
+    "born": "5 August 1895 in Santa Barbara, California (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

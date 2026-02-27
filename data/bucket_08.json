@@ -902,5 +902,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18108",
+    "name": "Paul•Nedelcovici",
+    "born": "1899 in București (Bucharest), București (ROU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

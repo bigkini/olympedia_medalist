@@ -584,7 +584,7 @@
     "id": "18093",
     "name": "Wim•Bekkers",
     "born": "21 August 1890 in Arnhem, Gelderland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -592,6 +592,21 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18193",
+    "name": "John•Rahm",
+    "born": "8 January 1854 in Richmond, Virginia (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

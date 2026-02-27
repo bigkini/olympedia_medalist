@@ -710,7 +710,7 @@
     "id": "18025",
     "name": "Walter•Chaffe",
     "born": "2 April 1870 in Dunsford, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -724,6 +724,36 @@
         "noc": "GBR",
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18125",
+    "name": "Johan•Edman",
+    "born": "29 March 1875 in Långserud, Säffle, Värmland (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18225",
+    "name": "Jack•Sullivan",
+    "born": "29 August 1870 in Cobourg, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

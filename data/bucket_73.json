@@ -586,5 +586,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18173",
+    "name": "Bob•Hunter",
+    "born": "20 November 1886 in Chicago, Illinois (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

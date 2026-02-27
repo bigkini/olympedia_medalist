@@ -761,7 +761,7 @@
     "id": "18074",
     "name": "Periklis•Kakousis",
     "born": "1879",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -769,6 +769,21 @@
         "discipline": "Tug-Of-War",
         "event": "Unlimited, Two Hands, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18174",
+    "name": "Art•Hussey",
+    "born": "5 March 1882 in Toledo, Ohio (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

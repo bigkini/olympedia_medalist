@@ -728,8 +728,8 @@
   {
     "id": "18058",
     "name": "Jacob•Hermann",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -737,6 +737,36 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18158",
+    "name": "Ken•Edwards",
+    "born": "9 March 1886 in Chicago, Illinois (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18258",
+    "name": "Ed•Turkington",
+    "born": "10 January 1899 in San Francisco, California (USA)",
+    "measurements": "88 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

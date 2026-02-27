@@ -678,7 +678,7 @@
     "id": "18051",
     "name": "James•Woodget",
     "born": "28 September 1874 in Burnham Market, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -686,6 +686,43 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18151",
+    "name": "Lee•Carleton",
+    "born": "20 August 1862 in Cumberland, Maryland (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18251",
+    "name": "Jack•Patrick",
+    "born": "25 November 1898 in Palo Alto, California (USA)",
+    "measurements": "187 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

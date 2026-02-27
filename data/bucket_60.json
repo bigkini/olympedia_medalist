@@ -751,8 +751,8 @@
   {
     "id": "18060",
     "name": "Hermann•Kreuzer",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -760,6 +760,36 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18160",
+    "name": "Walter•Egan",
+    "born": "2 June 1881 in Chicago, Illinois (USA)",
+    "measurements": "178 cm",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18260",
+    "name": "Alan•Williams",
+    "born": "7 October 1893 in West Orange, New Jersey (USA)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

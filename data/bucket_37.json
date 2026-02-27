@@ -455,7 +455,7 @@
   {
     "id": "18037",
     "name": "Alexander•Kidd",
-    "born": null,
+    "born": {},
     "measurements": "96 kg",
     "medals": [
       {
@@ -464,6 +464,21 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18237",
+    "name": "Dudley•DeGroot",
+    "born": "20 November 1899 in Chicago, Illinois (USA)",
+    "measurements": "189 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

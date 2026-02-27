@@ -733,5 +733,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18246",
+    "name": "Dick•Hyland",
+    "born": "6 July 1900 in San Francisco, California (USA)",
+    "measurements": "82 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -641,5 +641,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18230",
+    "name": "Arthur•Harris",
+    "born": "1 August 1890 in Norfolk, Nebraska (USA)",
+    "measurements": "169 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

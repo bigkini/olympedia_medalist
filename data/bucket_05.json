@@ -730,7 +730,7 @@
     "id": "18005",
     "name": "Jimmy•Jose",
     "born": "1881 in Falmouth, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -738,6 +738,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18105",
+    "name": "Nae•Mărăscu",
+    "born": "5 September 1898 in Zvorsca, Cluj (ROU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

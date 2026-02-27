@@ -803,13 +803,28 @@
     "id": "18022",
     "name": "Frank•Wilson",
     "born": "1876",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "GBR",
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18222",
+    "name": "George•Passmore",
+    "born": "24 August 1889 in St. Louis, Missouri (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

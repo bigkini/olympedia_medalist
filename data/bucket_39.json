@@ -642,5 +642,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18239",
+    "name": "George•Dixon",
+    "born": "10 April 1901 in Vallejo, California (USA)",
+    "measurements": "183 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

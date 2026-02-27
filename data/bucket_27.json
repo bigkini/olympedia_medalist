@@ -773,7 +773,7 @@
     "id": "18027",
     "name": "Joseph•Dowler",
     "born": "1 February 1879 in Rushden, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -787,6 +787,36 @@
         "noc": "GBR",
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18127",
+    "name": "Erik•Fredriksson",
+    "born": "13 June 1885 in Sköldinge, Katrineolm, Södermanland (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18227",
+    "name": "A. M.•Woods",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

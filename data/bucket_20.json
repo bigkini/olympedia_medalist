@@ -503,13 +503,28 @@
     "id": "18020",
     "name": "Karl•Whittindale",
     "born": "1 March 1880 in Kenilworth, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "GBR",
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18220",
+    "name": "William•Murphy",
+    "born": "23 May 1867 in Québec City, Québec (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

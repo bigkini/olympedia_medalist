@@ -919,7 +919,7 @@
     "id": "17987",
     "name": "John Jacob•Astor",
     "born": "20 May 1886 in New York, New York (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -933,6 +933,21 @@
         "noc": "GBR",
         "discipline": "Racquets",
         "event": "Doubles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18187",
+    "name": "Mason•Phelps",
+    "born": "7 December 1885 in Chicago, Illinois (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

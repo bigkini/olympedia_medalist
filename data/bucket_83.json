@@ -748,7 +748,7 @@
     "id": "17983",
     "name": "Auston•Rotheram",
     "born": "11 June 1876 in Sallymount House, Fore, Westmeath (IRL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -756,6 +756,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18183",
+    "name": "Nat•Moore",
+    "born": "31 January 1884 in Chicago, Illinois (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

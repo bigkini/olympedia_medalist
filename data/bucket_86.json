@@ -595,7 +595,7 @@
     "id": "17986",
     "name": "Jack, Lord•Wodehouse",
     "born": "11 November 1883 in Witton, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -610,6 +610,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18186",
+    "name": "George•Oliver",
+    "born": "18 January 1883 in Birmingham, Alabama (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

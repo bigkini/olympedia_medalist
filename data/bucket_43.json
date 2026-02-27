@@ -797,7 +797,7 @@
     "id": "18043",
     "name": "John•Sewell",
     "born": "23 April 1882 in Halfmorton, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -811,6 +811,21 @@
         "noc": "GBR",
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18243",
+    "name": "Jim•Fitzpatrick",
+    "born": "2 June 1892 in Los Angeles, California (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

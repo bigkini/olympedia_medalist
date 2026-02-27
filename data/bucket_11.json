@@ -651,7 +651,7 @@
     "id": "18011",
     "name": "Valentine•Smith",
     "born": "21 September 1873 in Birmingham, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -659,6 +659,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18111",
+    "name": "Mircea•Sfetescu",
+    "born": "4 January 1905 in București (Bucharest), București (ROU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

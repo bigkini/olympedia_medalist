@@ -604,7 +604,7 @@
     "id": "18095",
     "name": "Sijtse•Jansma",
     "born": "22 May 1898 in Leeuwarden, Friesland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -612,6 +612,21 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18195",
+    "name": "Ned•Sawyer",
+    "born": "20 June 1882 in Pine Island, Minnesota (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

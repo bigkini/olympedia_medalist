@@ -698,5 +698,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18185",
+    "name": "Frank•Newton",
+    "born": "3 January 1874 in Washington, District of Columbia (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -487,5 +487,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18248",
+    "name": "Charles•Mehan",
+    "born": "15 May 1896 in Nogales, Arizona (USA)",
+    "measurements": "178 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -818,5 +818,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18236",
+    "name": "Norman•Cleaveland",
+    "born": "4 April 1901 in Oakland, California (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

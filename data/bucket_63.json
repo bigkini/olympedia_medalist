@@ -650,7 +650,7 @@
     "id": "18063",
     "name": "Erich•Ludwig",
     "born": "1 May 1879 in Frankfurt am Main, Hessen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -658,6 +658,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18163",
+    "name": "Harry•Fraser",
+    "born": "26 October 1872 in Woodstock, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

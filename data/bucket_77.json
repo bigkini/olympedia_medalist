@@ -621,7 +621,7 @@
     "id": "17977",
     "name": "Charles•Miller",
     "born": "23 October 1868 in Marylebone, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -629,6 +629,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18177",
+    "name": "Al•Lambert",
+    "born": "6 December 1875 in Alexandria, Virginia (USA)",
+    "measurements": "167 cm",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

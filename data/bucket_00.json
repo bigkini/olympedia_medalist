@@ -712,7 +712,7 @@
     "id": "18100",
     "name": "Wim•van Rekum",
     "born": "9 June 1892 in Arnhem, Gelderland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -720,6 +720,21 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18200",
+    "name": "Clement•Smoot",
+    "born": "7 April 1884 in Highland Park, Illinois (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -783,7 +783,7 @@
     "id": "17982",
     "name": "Toby•Rawlinson",
     "born": "17 January 1867 in London, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -791,6 +791,28 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18182",
+    "name": "Burt•McKinnie",
+    "born": "17 January 1879 in Pleasanton, Kansas (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

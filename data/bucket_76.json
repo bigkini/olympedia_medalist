@@ -633,7 +633,7 @@
     "id": "17976",
     "name": "Tim•Melvill",
     "born": "13 February 1877 in Cape Town, Western Cape (RSA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -641,6 +641,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18176",
+    "name": "Orus•Jones",
+    "born": "8 March 1867 in Jackson, Ohio (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

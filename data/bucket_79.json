@@ -691,7 +691,7 @@
     "id": "17979",
     "name": "Patteson•Nickalls",
     "born": "23 January 1876 in Widdington, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -699,6 +699,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18179",
+    "name": "Allan•Lard",
+    "born": "6 August 1866 in Lexington, Kentucky (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

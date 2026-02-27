@@ -443,13 +443,50 @@
     "id": "18050",
     "name": "Ernest•Thorne",
     "born": "7 June 1887 in Wandsworth, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "GBR",
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18150",
+    "name": "Jack•Cady",
+    "born": "26 January 1866 in New York, New York (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Golf",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18250",
+    "name": "John•O'Neil",
+    "born": "4 October 1898 in Faulkton, South Dakota (USA)",
+    "measurements": "177 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

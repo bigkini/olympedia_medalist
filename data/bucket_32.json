@@ -642,7 +642,7 @@
     "id": "18032",
     "name": "Fred•Holmes",
     "born": "9 August 1886 in Cosford, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -650,6 +650,36 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18132",
+    "name": "Carl•Jonsson",
+    "born": "16 July 1885 in Ryd, Jönköping, Jönköping (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18232",
+    "name": "Nelson•Margetts",
+    "born": "27 May 1879 in Salt Lake City, Utah (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

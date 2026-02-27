@@ -560,5 +560,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18134",
+    "name": "Erik•Larsson",
+    "born": "14 May 1888 in Axberg, Örebro, Örebro (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18234",
+    "name": "Rod•Wanamaker",
+    "born": "10 October 1899 in Philadelphia, Pennsylvania (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

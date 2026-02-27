@@ -754,13 +754,28 @@
     "id": "18091",
     "name": "Alberto•Ramos",
     "born": "25 May 1907 in Zanatepec, Oaxaca (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "MEX",
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18191",
+    "name": "Abbie•Pratt",
+    "born": "21 March 1859 in Cleveland, Ohio (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Golf",
+        "event": "Individual, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

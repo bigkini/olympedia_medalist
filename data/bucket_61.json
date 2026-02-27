@@ -881,5 +881,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18261",
+    "name": "Heaton•Wrenn",
+    "born": "18 January 1900 in San Francisco, California (USA)",
+    "measurements": "178 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

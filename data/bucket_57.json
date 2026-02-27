@@ -663,7 +663,7 @@
     "id": "18057",
     "name": "Hugo•Betting",
     "born": "25 January 1880 in Stuttgart, Baden-Württemberg (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -671,6 +671,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18257",
+    "name": "Charles•Tilden",
+    "born": "4 June 1894 in Alameda, California (USA)",
+    "measurements": "184 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

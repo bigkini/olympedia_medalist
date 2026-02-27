@@ -826,13 +826,43 @@
     "id": "18010",
     "name": "Herbert•Nicol",
     "born": "12 April 1873 in Birmingham, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "GBR",
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18110",
+    "name": "Eugen•Sfetescu",
+    "born": "3 May 1907 in București (Bucharest), București (ROU)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18210",
+    "name": "Polly•Whittier",
+    "born": "9 December 1876 in Boston, Massachusetts (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Golf",
+        "event": "Individual, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]
