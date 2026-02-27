@@ -880,5 +880,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19494",
+    "name": "Kim•Yeong-Suk",
+    "born": "17 February 1965",
+    "measurements": "160 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19694",
+    "name": "Florentine•Steenberghe",
+    "born": "11 November 1967 in Utrecht, Utrecht (NED)",
+    "measurements": "168 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

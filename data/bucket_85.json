@@ -770,7 +770,7 @@
     "id": "19385",
     "name": "Akio•Soda",
     "born": "10 April 1909 in Dalian, Liaoning (CHN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -778,6 +778,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19485",
+    "name": "Hwang•Geum-Suk",
+    "born": "13 December 1965",
+    "measurements": "164 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19685",
+    "name": "Ellen•Kuipers",
+    "born": "8 April 1971 in Hattem, Gelderland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

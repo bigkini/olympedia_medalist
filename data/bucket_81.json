@@ -997,5 +997,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19681",
+    "name": "Elsemieke•Hillen",
+    "born": "30 September 1959 in Den Haag (The Hague), Zuid-Holland (NED)",
+    "measurements": "172 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19781",
+    "name": "Jenne•Langhout",
+    "born": "27 September 1918 in Jakarta, Daerah Khusus Ibukota Jakarta (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

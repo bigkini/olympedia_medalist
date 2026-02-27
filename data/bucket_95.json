@@ -694,7 +694,7 @@
     "id": "19195",
     "name": "Ahmed Sher•Khan",
     "born": "1 November 1912",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -702,6 +702,28 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19695",
+    "name": "Margje•Teeuwen",
+    "born": "21 May 1974 in Eindhoven, Noord-Brabant (NED)",
+    "measurements": "164 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

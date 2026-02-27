@@ -706,5 +706,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19496",
+    "name": "Gwon•Su-Hyeon",
+    "born": "23 February 1974",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19696",
+    "name": "Carole•Thate",
+    "born": "6 December 1971 in Utrecht, Utrecht (NED)",
+    "measurements": "168 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

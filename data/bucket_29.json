@@ -658,11 +658,48 @@
     "id": "19029",
     "name": "Oliver•Kurtz",
     "born": "23 October 1971 in Köln (Cologne), Nordrhein-Westfalen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
         "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19529",
+    "name": "Kim•Yong-Bae",
+    "born": "4 February 1974 in ?, Jeollanam (KOR)",
+    "measurements": "171 cm / 68 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19729",
+    "name": "Maurits•Crucq",
+    "born": "10 February 1968 in Voorburg, Zuid-Holland (NED)",
+    "measurements": "187 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"

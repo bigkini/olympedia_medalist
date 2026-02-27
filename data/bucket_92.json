@@ -703,5 +703,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19492",
+    "name": "Kim•Myeong-Ok",
+    "born": "17 September 1972",
+    "measurements": "167 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19692",
+    "name": "Alette•Pos",
+    "born": "30 March 1962 in Arnhem, Gelderland (NED)",
+    "measurements": "164 cm / 52 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

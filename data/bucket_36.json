@@ -913,7 +913,7 @@
     "id": "19236",
     "name": "Jaswant•Rajput",
     "born": "1926 in Delhi, National Capital Territory of Delhi (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -921,6 +921,42 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19736",
+    "name": "Teun•de Nooijer",
+    "born": "22 March 1976 in Egmond-Binnen, Noord-Holland (NED)",
+    "measurements": "184 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2012 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

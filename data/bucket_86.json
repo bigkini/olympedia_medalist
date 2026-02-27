@@ -724,5 +724,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19686",
+    "name": "Sandra•Le Poole",
+    "born": "20 October 1959 in Leiden, Zuid-Holland (NED)",
+    "measurements": "164 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

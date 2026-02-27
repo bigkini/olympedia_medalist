@@ -908,7 +908,7 @@
     "id": "19222",
     "name": "Rex•Norris",
     "born": "18 July 1899",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -916,6 +916,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19522",
+    "name": "Jeon•Jong-Ha",
+    "born": "28 February 1973",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19722",
+    "name": "Jan•Brand",
+    "born": "24 June 1908 in Amsterdam, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

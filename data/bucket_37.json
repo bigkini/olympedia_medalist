@@ -578,5 +578,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19737",
+    "name": "Aat•de Roos",
+    "born": "15 April 1919 in Bloemendaal, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

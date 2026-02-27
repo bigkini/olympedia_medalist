@@ -669,5 +669,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19770",
+    "name": "René•Klaassen",
+    "born": "4 March 1961 in Velp, Rheden, Gelderland (NED)",
+    "measurements": "181 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

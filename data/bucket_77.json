@@ -766,5 +766,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19677",
+    "name": "Mijntje•Donners",
+    "born": "4 February 1974 in 's-Hertogenbosch, Noord-Brabant (NED)",
+    "measurements": "170 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19777",
+    "name": "Hidde•Kruize",
+    "born": "30 September 1961 in Den Haag (The Hague), Zuid-Holland (NED)",
+    "measurements": "179 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

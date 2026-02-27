@@ -651,5 +651,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19701",
+    "name": "Marieke•van Doorn",
+    "born": "15 June 1960 in Rotterdam, Zuid-Holland (NED)",
+    "measurements": "165 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

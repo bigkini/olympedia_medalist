@@ -586,5 +586,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19497",
+    "name": "Gwon•Chang-Suk",
+    "born": "4 May 1971",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19697",
+    "name": "Jacqueline•Toxopeus",
+    "born": "11 December 1964 in Wageningen, Gelderland (NED)",
+    "measurements": "169 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

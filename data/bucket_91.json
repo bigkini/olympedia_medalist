@@ -844,7 +844,7 @@
     "id": "19391",
     "name": "Toshio•Usami",
     "born": "22 February 1908 in ?, Aichi (JPN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -852,6 +852,43 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19491",
+    "name": "Kim•Mi-Seon",
+    "born": "6 June 1964",
+    "measurements": "165 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19691",
+    "name": "Martine•Ohr",
+    "born": "11 June 1964 in Den Helder, Noord-Holland (NED)",
+    "measurements": "170 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

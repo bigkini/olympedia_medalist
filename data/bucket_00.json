@@ -779,7 +779,7 @@
     "id": "19300",
     "name": "Tarlochan•Singh Bawa",
     "born": "12 February 1923 in Lahore, Punjab (PAK)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -787,6 +787,43 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19500",
+    "name": "Lee•Ji-Yeong",
+    "born": "26 November 1971",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19700",
+    "name": "Suzan•van der Wielen",
+    "born": "30 October 1971 in Emmen, Drenthe (NED)",
+    "measurements": "170 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

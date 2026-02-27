@@ -709,5 +709,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19512",
+    "name": "U•Hyeon-Jeong",
+    "born": "20 February 1977",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19712",
+    "name": "Jules•Ancion",
+    "born": "21 August 1924 in Palembang, Sumatera Selatan (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

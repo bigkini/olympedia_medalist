@@ -828,5 +828,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19678",
+    "name": "Willemijn•Duyster",
+    "born": "5 April 1970 in Amsterdam, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

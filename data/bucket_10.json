@@ -938,7 +938,7 @@
     "id": "19310",
     "name": "Gurdev•Singh",
     "born": "12 August 1933 in Sansarpur, Jalandhar, Punjab (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -946,6 +946,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19510",
+    "name": "Seo•Hyo-Seon",
+    "born": "20 September 1966",
+    "measurements": "162 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19710",
+    "name": "Willemien•Aardenburg",
+    "born": "30 August 1966 in Laren, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

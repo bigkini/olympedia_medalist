@@ -1026,5 +1026,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19487",
+    "name": "Jeon•Yeong-Seon",
+    "born": "8 April 1974",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19687",
+    "name": "Lisanne•Lejeune",
+    "born": "28 July 1963 in Den Haag (The Hague), Zuid-Holland (NED)",
+    "measurements": "173 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

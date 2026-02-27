@@ -750,5 +750,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19511",
+    "name": "Seo•Gwang-Mi",
+    "born": "1 February 1965",
+    "measurements": "158 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

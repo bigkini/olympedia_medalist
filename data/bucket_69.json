@@ -650,7 +650,7 @@
     "id": "19369",
     "name": "Kenichi•Konishi",
     "born": "20 March 1909 in Hamheung, Hamgyeongnam (PRK)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -658,6 +658,43 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19669",
+    "name": "Carina•Benninga",
+    "born": "18 August 1962 in Leiden, Zuid-Holland (NED)",
+    "measurements": "164 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19769",
+    "name": "Leo•Klein Gebbink",
+    "born": "9 January 1968 in Zelhem, Gelderland (NED)",
+    "measurements": "182 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -990,5 +990,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19489",
+    "name": "Jin•Won-Sim",
+    "born": "13 December 1965",
+    "measurements": "160 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19689",
+    "name": "Jeannette•Lewin",
+    "born": "27 February 1972 in Vianen, Utrecht (NED)",
+    "measurements": "172 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

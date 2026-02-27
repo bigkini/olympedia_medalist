@@ -819,7 +819,7 @@
     "id": "19384",
     "name": "Katsumi•Shibata",
     "born": "1909 in Nagoya, Aichi (JPN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -827,6 +827,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19484",
+    "name": "Han•Ok-Gyeong",
+    "born": "27 September 1965",
+    "measurements": "162 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19684",
+    "name": "Nicky•Koolen",
+    "born": "1 December 1972 in Aldershot, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

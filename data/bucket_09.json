@@ -744,13 +744,28 @@
     "id": "19309",
     "name": "Balkrishan•Singh",
     "born": "10 March 1933 in Patiala, Punjab (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "IND",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19709",
+    "name": "Margriet•Zegers",
+    "born": "29 April 1954 in Heerenveen, Friesland (NED)",
+    "measurements": "170 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Gold"
       }
     ]

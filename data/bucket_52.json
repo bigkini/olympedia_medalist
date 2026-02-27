@@ -825,5 +825,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19752",
+    "name": "Dick•Esser",
+    "born": "9 July 1918 in near Makassar, Sulawesi Selatan (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

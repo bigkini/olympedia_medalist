@@ -636,7 +636,7 @@
     "id": "19173",
     "name": "Lionel•Emmett",
     "born": "8 January 1913 in Achalpur, Maharashtra (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -644,6 +644,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19673",
+    "name": "Yvonne•Buter",
+    "born": "18 March 1959 in Schiedam, Zuid-Holland (NED)",
+    "measurements": "162 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

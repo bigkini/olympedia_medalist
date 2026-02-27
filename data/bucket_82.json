@@ -905,5 +905,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19682",
+    "name": "Noor•Holsboer",
+    "born": "12 July 1967 in Enschede, Overijssel (NED)",
+    "measurements": "169 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

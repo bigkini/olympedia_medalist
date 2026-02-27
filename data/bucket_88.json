@@ -728,7 +728,7 @@
     "id": "19188",
     "name": "Sayed Muhammad•Hussain",
     "born": "1 October 1911",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -736,6 +736,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19488",
+    "name": "Jin•Deok-San",
+    "born": "12 December 1972",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19688",
+    "name": "Helen•Lejeune-van der Ben",
+    "born": "25 July 1964 in Amsterdam, Noord-Holland (NED)",
+    "measurements": "182 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

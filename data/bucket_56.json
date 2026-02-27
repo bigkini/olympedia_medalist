@@ -654,5 +654,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19756",
+    "name": "Piet•Gunning",
+    "born": "5 July 1913 in Hoogkerk, Groningen (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

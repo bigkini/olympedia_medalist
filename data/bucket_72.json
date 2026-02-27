@@ -754,5 +754,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19672",
+    "name": "Marjolein•Bolhuis-Eijsvogel",
+    "born": "16 June 1961 in Haarlem, Noord-Holland (NED)",
+    "measurements": "168 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19772",
+    "name": "August•Kop",
+    "born": "5 May 1904 in Purmerend, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

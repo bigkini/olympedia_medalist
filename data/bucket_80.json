@@ -652,7 +652,7 @@
     "id": "19480",
     "name": "Choi•Mi-Sun",
     "born": "30 September 1972",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1996 Summer Olympics",
@@ -660,6 +660,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Women\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19680",
+    "name": "Irene•Hendriks",
+    "born": "13 April 1958 in Ngalieme, Kinshasa, Kinshasa (COD)",
+    "measurements": "168 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

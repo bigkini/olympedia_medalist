@@ -805,7 +805,7 @@
     "id": "19305",
     "name": "Balbir•Singh, Sr.",
     "born": "31 December 1923 in Haripur Khalsa, Punjab (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -827,6 +827,43 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19505",
+    "name": "Im•Gye-Suk",
+    "born": "3 October 1964",
+    "measurements": "159 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19705",
+    "name": "Sophie•von Weiler",
+    "born": "24 December 1958 in 's-Hertogenbosch, Noord-Brabant (NED)",
+    "measurements": "159 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

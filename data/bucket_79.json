@@ -818,7 +818,7 @@
     "id": "19479",
     "name": "Choi•Eun-Gyeong",
     "born": "23 September 1971",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1996 Summer Olympics",
@@ -826,6 +826,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Women\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19679",
+    "name": "Annemieke•Fokke",
+    "born": "4 November 1967 in Heemstede, Noord-Holland (NED)",
+    "measurements": "159 cm / 53 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

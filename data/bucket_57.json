@@ -763,5 +763,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19757",
+    "name": "Inge•Heijbroek",
+    "born": "12 October 1915 in Hilversum, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

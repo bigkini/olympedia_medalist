@@ -774,5 +774,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19499",
+    "name": "Lee•Eun-Yeong",
+    "born": "7 July 1974",
+    "measurements": "164 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19699",
+    "name": "Dillianne•van den Boogaard",
+    "born": "9 August 1974 in Veghel, Noord-Brabant (NED)",
+    "measurements": "178 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

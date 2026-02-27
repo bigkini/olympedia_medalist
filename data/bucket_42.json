@@ -601,5 +601,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19542",
+    "name": "Song•Seong-Tae",
+    "born": "3 January 1972",
+    "measurements": "177 cm / 73 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19742",
+    "name": "Jeroen•Delmée",
+    "born": "8 March 1973 in Boxtel, Noord-Brabant (NED)",
+    "measurements": "173 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

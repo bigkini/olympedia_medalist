@@ -793,5 +793,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19767",
+    "name": "Adriaan•Katte",
+    "born": "24 June 1900 in Amsterdam, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -759,7 +759,7 @@
     "id": "19239",
     "name": "Michael•Rocque",
     "born": "1899",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -767,6 +767,28 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19739",
+    "name": "Rein•de Waal",
+    "born": "24 November 1904 in Amsterdam, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

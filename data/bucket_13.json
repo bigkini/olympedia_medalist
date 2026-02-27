@@ -973,7 +973,7 @@
     "id": "19313",
     "name": "Charles•Stephen",
     "born": "7 May 1930 in Lahore, Punjab (PAK)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -981,6 +981,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19713",
+    "name": "Jan•Ankerman",
+    "born": "2 March 1906 in Wommels, Friesland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

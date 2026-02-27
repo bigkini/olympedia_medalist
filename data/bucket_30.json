@@ -731,5 +731,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19530",
+    "name": "Kim•Yun",
+    "born": "14 April 1974",
+    "measurements": "185 cm / 83 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

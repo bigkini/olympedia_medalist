@@ -784,5 +784,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19671",
+    "name": "Fieke•Boekhorst",
+    "born": "18 December 1957 in Helmond, Noord-Brabant (NED)",
+    "measurements": "166 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19771",
+    "name": "Hendrik Jan•Kooijman",
+    "born": "17 January 1960 in Velsen, Noord-Holland (NED)",
+    "measurements": "181 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

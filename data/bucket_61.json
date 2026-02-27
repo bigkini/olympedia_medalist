@@ -968,7 +968,7 @@
     "id": "19161",
     "name": "Willie•Goodsir-Cullen",
     "born": "29 March 1907 in Firozpur, Punjab (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -976,6 +976,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19761",
+    "name": "Gerrit•Jannink",
+    "born": "1 December 1904 in Enschede, Overijssel (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

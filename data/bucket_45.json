@@ -705,5 +705,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19745",
+    "name": "Cees Jan•Diepeveen",
+    "born": "24 July 1956 in Amsterdam, Noord-Holland (NED)",
+    "measurements": "173 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

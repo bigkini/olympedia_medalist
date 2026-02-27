@@ -602,5 +602,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19498",
+    "name": "Lee•Eun-Gyeong",
+    "born": "10 November 1972",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19698",
+    "name": "Fleur•van de Kieft",
+    "born": "22 October 1973 in Amsterdam, Noord-Holland (NED)",
+    "measurements": "163 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

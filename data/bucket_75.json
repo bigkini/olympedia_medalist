@@ -705,5 +705,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19675",
+    "name": "Stella•de Heij",
+    "born": "17 January 1968 in Driehuis, Velsen, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

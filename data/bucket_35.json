@@ -876,7 +876,7 @@
     "id": "19035",
     "name": "Paul•Mehlitz",
     "born": "25 December 1906 in Wilmersdorf, Berlin (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -884,6 +884,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19735",
+    "name": "Jan•de Looper",
+    "born": "2 May 1914 in Hilversum, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

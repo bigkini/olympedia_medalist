@@ -799,5 +799,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19753",
+    "name": "Patrick•Faber",
+    "born": "7 May 1964 in 's-Hertogenbosch, Noord-Brabant (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

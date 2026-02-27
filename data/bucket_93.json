@@ -691,5 +691,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19493",
+    "name": "Kim•Sun-Deok",
+    "born": "20 December 1967",
+    "measurements": "167 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19693",
+    "name": "Lisette•Sevens",
+    "born": "29 June 1949 in Helmond, Noord-Brabant (NED)",
+    "measurements": "169 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

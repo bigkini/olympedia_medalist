@@ -765,5 +765,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19504",
+    "name": "Im•Jeong-Suk",
+    "born": "24 November 1972",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]
