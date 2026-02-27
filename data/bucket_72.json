@@ -709,5 +709,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18872",
+    "name": "John•Taylor",
+    "born": "18 March 1928 in Bengaluru (Bangalore), Karnataka (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -693,7 +693,7 @@
     "id": "18371",
     "name": "Henning•Holst",
     "born": "25 October 1891 in København (Copenhagen), Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -701,6 +701,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18771",
+    "name": "Russell•Garcia",
+    "born": "20 June 1970 in Portsmouth, England (GBR)",
+    "measurements": "175 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

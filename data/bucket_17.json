@@ -687,8 +687,8 @@
   {
     "id": "18217",
     "name": "W. R.•Gibson",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -696,6 +696,21 @@
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18817",
+    "name": "Billy•McConnell",
+    "born": "19 April 1956 in Newry, Northern Ireland (GBR)",
+    "measurements": "177 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

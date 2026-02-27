@@ -704,5 +704,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18802",
+    "name": "Arthur•Leighton",
+    "born": "6 March 1889 in Esk, Queensland (AUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -691,5 +691,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18777",
+    "name": "Bill•Griffiths",
+    "born": "26 June 1922 in Abergavenny, Wales (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18877",
+    "name": "Philip•Turnbull",
+    "born": "7 April 1879 in Cardiff, Wales (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

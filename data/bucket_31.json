@@ -540,5 +540,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18831",
+    "name": "Tony•Nunn",
+    "born": "24 May 1927 in Hambledon, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

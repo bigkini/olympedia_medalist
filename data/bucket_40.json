@@ -883,5 +883,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18840",
+    "name": "Frederick•Phillips",
+    "born": "13 March 1884 in Newport, Wales (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

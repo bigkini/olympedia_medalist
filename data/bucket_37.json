@@ -486,13 +486,50 @@
     "id": "18437",
     "name": "Núria•Olivé",
     "born": "20 August 1968 in Barcelona, Barcelona (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
         "noc": "ESP",
         "discipline": "Hockey",
         "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18737",
+    "name": "Frank•Connah",
+    "born": "1884 in Warrington, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18837",
+    "name": "Veryan•Pappin",
+    "born": "19 May 1958 in Henley-on-Thames, England (GBR)",
+    "measurements": "183 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

@@ -896,5 +896,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18761",
+    "name": "Llewellyn•Evans",
+    "born": "2 January 1876 in Kaiapoi, Canterbury (NZL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18861",
+    "name": "George•Sime",
+    "born": "28 February 1915 in Glasgow, Scotland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

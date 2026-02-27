@@ -848,5 +848,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18736",
+    "name": "John•Cockett",
+    "born": "23 December 1927 in Broadstairs, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18836",
+    "name": "Wilfred•Pallot",
+    "born": "5 November 1884 in Cardiff, Wales (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

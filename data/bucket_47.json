@@ -515,5 +515,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18747",
+    "name": "Graham•Dadds",
+    "born": "16 March 1911 in Swansea, Wales (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18847",
+    "name": "Frank•Reynolds",
+    "born": "21 August 1917 in Wellington, Tamil Nadu (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

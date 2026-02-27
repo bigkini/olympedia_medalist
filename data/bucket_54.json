@@ -727,5 +727,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18754",
+    "name": "Richard•Dodds",
+    "born": "23 February 1959 in York, England (GBR)",
+    "measurements": "181 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

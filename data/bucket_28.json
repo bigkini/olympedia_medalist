@@ -703,5 +703,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18828",
+    "name": "Alan•Noble",
+    "born": "9 February 1885 in Loughborough, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

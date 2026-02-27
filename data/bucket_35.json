@@ -826,5 +826,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18735",
+    "name": "Robert•Clift",
+    "born": "1 August 1962 in Newport, Wales (GBR)",
+    "measurements": "182 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18835",
+    "name": "Edgar•Page",
+    "born": "31 December 1884 in Penn, Wolverhampton, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

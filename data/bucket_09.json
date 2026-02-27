@@ -654,13 +654,28 @@
     "id": "18209",
     "name": "Harry•Weber",
     "born": "20 March 1882 in Toledo, Ohio (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
         "noc": "USA",
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18809",
+    "name": "Robert•Lyne",
+    "born": "2 April 1885 in Newport, Wales (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

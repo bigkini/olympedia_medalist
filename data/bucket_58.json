@@ -799,5 +799,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18758",
+    "name": "Dennis•Eagan",
+    "born": "13 August 1926 in Quetta, Balochistan (PAK)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18858",
+    "name": "Charles•Shepherd",
+    "born": "27 February 1887 in ? (BAR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

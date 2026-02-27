@@ -819,7 +819,7 @@
     "id": "18243",
     "name": "Jim•Fitzpatrick",
     "born": "2 June 1892 in Los Angeles, California (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -827,6 +827,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18843",
+    "name": "Mark•Precious",
+    "born": "29 August 1956",
+    "measurements": "176 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

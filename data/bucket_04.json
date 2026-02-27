@@ -703,7 +703,7 @@
     "id": "18104",
     "name": "Ion•Gârleșteanu",
     "born": "1900",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -711,6 +711,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18804",
+    "name": "Robin•Lindsay",
+    "born": "11 January 1914 in Delhi, National Capital Territory of Delhi (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

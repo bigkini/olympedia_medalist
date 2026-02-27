@@ -678,5 +678,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18788",
+    "name": "Norman•Hughes",
+    "born": "30 September 1952 in Nantwich, England (GBR)",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

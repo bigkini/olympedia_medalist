@@ -659,5 +659,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18795",
+    "name": "Ivan•Laing",
+    "born": "18 August 1885 in Hawick, Scotland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

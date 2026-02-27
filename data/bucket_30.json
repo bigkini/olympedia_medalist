@@ -671,5 +671,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18830",
+    "name": "Neil•Nugent",
+    "born": "6 December 1926 in Meerut, Uttar Pradesh (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

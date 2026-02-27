@@ -856,7 +856,7 @@
     "id": "18210",
     "name": "Polly•Whittier",
     "born": "9 December 1876 in Boston, Massachusetts (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -864,6 +864,21 @@
         "discipline": "Golf",
         "event": "Individual, Women\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18810",
+    "name": "Sholto•Marcon",
+    "born": "31 March 1890 in Headington, Oxford, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

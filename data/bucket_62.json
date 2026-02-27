@@ -723,5 +723,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18762",
+    "name": "David•Faulkner",
+    "born": "10 September 1962 in Portsmouth, England (GBR)",
+    "measurements": "182 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -885,5 +885,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18781",
+    "name": "James•Harper-Orr",
+    "born": "18 October 1878 in Glasgow, Scotland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

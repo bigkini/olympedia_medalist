@@ -517,5 +517,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18848",
+    "name": "Edwin•Richards",
+    "born": "15 December 1879 in Llanover, Wales (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

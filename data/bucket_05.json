@@ -745,7 +745,7 @@
     "id": "18105",
     "name": "Nae•Mărăscu",
     "born": "5 September 1898 in Zvorsca, Cluj (ROU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -753,6 +753,36 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18705",
+    "name": "Jane•Sixsmith",
+    "born": "5 September 1967 in Sutton Coldfield, Birmingham, England (GBR)",
+    "measurements": "161 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18805",
+    "name": "William•Lindsay",
+    "born": "3 March 1916 in Glasgow, Scotland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

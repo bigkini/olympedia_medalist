@@ -726,5 +726,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18707",
+    "name": "Bob•Adlard",
+    "born": "15 November 1915 in Winchcombe, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18807",
+    "name": "Gerald•Logan",
+    "born": "29 December 1879 in Wimbledon, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

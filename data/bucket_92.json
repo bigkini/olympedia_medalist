@@ -658,5 +658,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18792",
+    "name": "Robert•Kennedy",
+    "born": "31 July 1880 in Edenderry, Northern Ireland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -701,5 +701,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18706",
+    "name": "Jo•Thompson",
+    "born": "13 May 1965 in Dartford, England (GBR)",
+    "measurements": "168 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

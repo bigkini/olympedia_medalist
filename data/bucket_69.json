@@ -583,7 +583,7 @@
     "id": "18269",
     "name": "Charles•Haberkorn",
     "born": "16 November 1880 in ?, Baden-Württemberg (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -591,6 +591,21 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18769",
+    "name": "Harry•Freeman",
+    "born": "7 February 1876 in Staines, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

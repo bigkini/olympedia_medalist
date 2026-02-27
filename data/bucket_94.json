@@ -767,7 +767,7 @@
     "id": "18094",
     "name": "Jan•Hengeveld",
     "born": "24 December 1894 in Arnhem, Gelderland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -775,6 +775,21 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18794",
+    "name": "Jimmy•Kirkwood",
+    "born": "12 February 1962 in Lisburn, Northern Ireland (GBR)",
+    "measurements": "182 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

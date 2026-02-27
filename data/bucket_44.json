@@ -692,5 +692,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18844",
+    "name": "Reggie•Pridmore",
+    "born": "29 April 1886 in Edgbaston, Birmingham, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
