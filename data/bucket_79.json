@@ -798,5 +798,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19279",
+    "name": "Jaipal•Singh",
+    "born": "3 January 1903 in Khooty, Jharkhand (IND)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19479",
+    "name": "Choi•Eun-Gyeong",
+    "born": "23 September 1971",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

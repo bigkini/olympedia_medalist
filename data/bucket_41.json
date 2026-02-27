@@ -755,5 +755,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19241",
+    "name": "Munir•Sait",
+    "born": "27 May 1940 in Chennai (Madras), Tamil Nadu (IND)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

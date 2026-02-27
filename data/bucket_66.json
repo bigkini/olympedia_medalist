@@ -674,5 +674,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19266",
+    "name": "Dharam•Singh",
+    "born": "30 October 1937 in Fatuwal, Punjab (IND)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

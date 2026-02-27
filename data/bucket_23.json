@@ -759,5 +759,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19223",
+    "name": "Bandu•Patil",
+    "born": "1 January 1936",
+    "measurements": "160 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

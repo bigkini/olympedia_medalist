@@ -743,5 +743,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19217",
+    "name": "Muhammad•Shahid",
+    "born": "14 April 1960 in Varanasi, Uttar Pradesh (IND)",
+    "measurements": "160 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

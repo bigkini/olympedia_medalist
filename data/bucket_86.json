@@ -709,5 +709,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19286",
+    "name": "Mukhbain•Singh",
+    "born": "12 December 1944",
+    "measurements": "173 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

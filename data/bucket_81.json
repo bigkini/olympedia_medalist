@@ -950,7 +950,7 @@
     "id": "19181",
     "name": "Michael•Gateley",
     "born": "13 June 1904 in Delhi, National Capital Territory of Delhi (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -958,6 +958,43 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19281",
+    "name": "Gindi•Singh",
+    "born": "3 August 1940 in Delhi, National Capital Territory of Delhi (IND)",
+    "measurements": "171 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19481",
+    "name": "Jeong•Eun-Gyeong",
+    "born": "22 March 1965",
+    "measurements": "163 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -773,10 +773,32 @@
     "id": "19162",
     "name": "Meldric•daLuz",
     "born": "1 February 1921 in Kolkata (Calcutta), West Bengal (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19262",
+    "name": "Charanjit•Singh",
+    "born": "22 February 1931 in Mairi, Himachal Pradesh (IND)",
+    "measurements": "175 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1964 Summer Olympics",
         "noc": "IND",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",

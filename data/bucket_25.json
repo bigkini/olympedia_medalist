@@ -787,5 +787,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19225",
+    "name": "Govind•Perumal",
+    "born": "25 September 1925",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

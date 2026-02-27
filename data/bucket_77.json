@@ -751,5 +751,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19477",
+    "name": "Jo•Gi-Hyang",
+    "born": "23 September 1963",
+    "measurements": "159 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

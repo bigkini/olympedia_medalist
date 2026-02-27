@@ -635,5 +635,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19234",
+    "name": "Muniswamy•Rajagopal",
+    "born": "24 March 1926",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

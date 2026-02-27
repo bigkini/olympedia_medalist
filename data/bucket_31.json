@@ -570,5 +570,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19231",
+    "name": "Eric•Pinniger",
+    "born": "28 December 1902 in Saharanpur, Uttar Pradesh (IND)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

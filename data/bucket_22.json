@@ -903,5 +903,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19222",
+    "name": "Rex•Norris",
+    "born": "18 July 1899",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

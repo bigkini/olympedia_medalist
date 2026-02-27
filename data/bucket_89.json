@@ -961,5 +961,34 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19289",
+    "name": "Prithipal•Singh",
+    "born": "28 January 1932 in Nankana Sahib, Punjab (PAK)",
+    "measurements": "175 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

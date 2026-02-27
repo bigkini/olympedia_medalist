@@ -729,7 +729,7 @@
     "id": "18972",
     "name": "Erich•Cuntz",
     "born": "23 December 1916",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -737,6 +737,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19272",
+    "name": "Harcharan•Singh",
+    "born": "15 January 1950 in Marar, Punjab (IND)",
+    "measurements": "175 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

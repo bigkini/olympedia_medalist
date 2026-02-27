@@ -673,7 +673,7 @@
     "id": "19175",
     "name": "Peter Paul•Fernandes",
     "born": "15 September 1916 in Karachi, Sindh (PAK)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -681,6 +681,28 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19475",
+    "name": "Jang•Eun-Jeong",
+    "born": "18 August 1970",
+    "measurements": "164 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -757,7 +757,7 @@
     "id": "19200",
     "name": "Amir•Kumar",
     "born": "10 August 1923 in Lahore, Punjab (PAK)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -768,6 +768,21 @@
       },
       {
         "game": "1956 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19300",
+    "name": "Tarlochan•Singh Bawa",
+    "born": "12 February 1923 in Lahore, Punjab (PAK)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
         "noc": "IND",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",

@@ -796,5 +796,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19221",
+    "name": "Baboo•Nimal",
+    "born": "15 March 1908 in Khadki, Maharashtra (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

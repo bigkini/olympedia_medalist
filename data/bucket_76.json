@@ -718,5 +718,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19276",
+    "name": "Gogi•Singh",
+    "born": "25 February 1944 in Faridkot, Punjab (IND)",
+    "measurements": "173 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19376",
+    "name": "Eiichi•Nakamura",
+    "born": "1909 in Kyoto, Kyoto (JPN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19476",
+    "name": "Jo•Eun-Jeong",
+    "born": "22 September 1971",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

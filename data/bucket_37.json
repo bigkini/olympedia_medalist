@@ -553,7 +553,7 @@
     "id": "19037",
     "name": "Carl•Menke",
     "born": "3 July 1906",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -561,6 +561,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19237",
+    "name": "Inam-ur•Rahman",
+    "born": "23 November 1943 in Bhopal, Madhya Pradesh (IND)",
+    "measurements": "169 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

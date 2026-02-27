@@ -590,5 +590,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19247",
+    "name": "Shabban•Shahab-ud-Din",
+    "born": "8 November 1909",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

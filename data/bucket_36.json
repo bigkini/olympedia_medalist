@@ -908,5 +908,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19236",
+    "name": "Jaswant•Rajput",
+    "born": "1926 in Delhi, National Capital Territory of Delhi (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

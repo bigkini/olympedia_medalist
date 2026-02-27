@@ -639,5 +639,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19256",
+    "name": "Balbir•Singh",
+    "born": "5 April 1945 in Sansarpur, Jalandhar, Punjab (IND)",
+    "measurements": "173 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

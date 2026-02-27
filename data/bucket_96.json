@@ -681,10 +681,25 @@
     "id": "19196",
     "name": "Ahsan Muhammad•Khan",
     "born": "7 April 1916",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19296",
+    "name": "Surinder•Singh Sodhi",
+    "born": "22 June 1957 in Firozpur, Punjab (IND)",
+    "measurements": "178 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
         "noc": "IND",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",

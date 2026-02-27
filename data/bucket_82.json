@@ -865,7 +865,7 @@
     "id": "19182",
     "name": "Gerry•Glackan",
     "born": "8 August 1923 in Jabalpur, Madhya Pradesh (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -873,6 +873,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19282",
+    "name": "Kulwant•Singh",
+    "born": "18 December 1948",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19482",
+    "name": "Jeong•Sang-Hyeon",
+    "born": "17 January 1963",
+    "measurements": "162 cm / 53 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

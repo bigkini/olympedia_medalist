@@ -943,7 +943,7 @@
     "id": "19013",
     "name": "Theo•Haag",
     "born": "13 March 1901 in Le Havre, Seine-Maritime (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -951,6 +951,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19213",
+    "name": "George•Marthins",
+    "born": "24 December 1905 in Chennai (Madras), Tamil Nadu (IND)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19313",
+    "name": "Charles•Stephen",
+    "born": "7 May 1930 in Lahore, Punjab (PAK)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -767,7 +767,7 @@
     "id": "19178",
     "name": "Ranganathan•Francis",
     "born": "15 March 1920 in Yangon (Rangoon), Yangon (MYA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -789,6 +789,43 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19278",
+    "name": "Jagjit•Singh",
+    "born": "1 January 1944 in Jalandhar, Punjab (IND)",
+    "measurements": "170 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19478",
+    "name": "Choi•Chun-Ok",
+    "born": "15 May 1965",
+    "measurements": "168 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

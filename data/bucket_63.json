@@ -695,10 +695,25 @@
     "id": "19163",
     "name": "Ali•Dara",
     "born": "1 April 1915 in Faisalabad, Punjab (PAK)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19263",
+    "name": "Darshan•Singh",
+    "born": "15 April 1938 in Sansarpur, Jalandhar, Punjab (IND)",
+    "measurements": "170 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
         "noc": "IND",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",

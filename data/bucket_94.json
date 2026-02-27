@@ -865,5 +865,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19294",
+    "name": "Ravinder Pal•Singh",
+    "born": "6 September 1960 in Sitapur, Uttar Pradesh (IND)",
+    "measurements": "168 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

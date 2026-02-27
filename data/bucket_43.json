@@ -844,5 +844,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19243",
+    "name": "Syed Mushtaq•Ali",
+    "born": "10 July 1942",
+    "measurements": "165 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

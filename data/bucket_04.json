@@ -733,7 +733,7 @@
     "id": "19004",
     "name": "Hans•Haußmann",
     "born": "30 March 1900 in Heidelberg, Baden-Württemberg (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -741,6 +741,28 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19304",
+    "name": "Raghbir•Singh Bhola",
+    "born": "18 August 1927 in Multan, Punjab (PAK)",
+    "measurements": "183 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

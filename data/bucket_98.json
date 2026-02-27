@@ -577,7 +577,7 @@
     "id": "19198",
     "name": "Feroze•Khan",
     "born": "9 September 1904 in Basti Daneshmandan, Jalandhar, Punjab (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -585,6 +585,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19298",
+    "name": "Tarsem•Singh",
+    "born": "9 December 1946 in Sansarpur, Jalandhar, Punjab (IND)",
+    "measurements": "173 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -995,5 +995,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19303",
+    "name": "Amit•Singh Bakshi",
+    "born": "17 September 1925",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

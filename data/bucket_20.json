@@ -573,5 +573,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19320",
+    "name": "Zafar•Iqbal",
+    "born": "20 June 1956 in ?, Bihar (IND)",
+    "measurements": "172 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

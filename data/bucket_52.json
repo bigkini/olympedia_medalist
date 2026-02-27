@@ -795,5 +795,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19252",
+    "name": "Amarjit•Rana",
+    "born": "3 February 1960 in Khusropur, Punjab (IND)",
+    "measurements": "175 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19352",
+    "name": "Shunkichi•Hamada",
+    "born": "19 October 1910 in Kobe, Hyogo (JPN)",
+    "measurements": "171 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -800,5 +800,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19216",
+    "name": "Masude•Minhas",
+    "born": "1911 in Sarikue (PAK)",
+    "measurements": "178 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

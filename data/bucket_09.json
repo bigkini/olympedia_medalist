@@ -714,7 +714,7 @@
     "id": "19009",
     "name": "Fritz•Horn",
     "born": "1909",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -722,6 +722,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19209",
+    "name": "Jaman Lal•Sharma",
+    "born": "6 February 1936 in Bannu, Khyber-Pukhtunkhwa (PAK)",
+    "measurements": "169 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19309",
+    "name": "Balkrishan•Singh",
+    "born": "10 March 1933 in Patiala, Punjab (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

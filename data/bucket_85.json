@@ -765,5 +765,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19385",
+    "name": "Akio•Soda",
+    "born": "10 April 1909 in Dalian, Liaoning (CHN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

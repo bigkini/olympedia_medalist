@@ -586,5 +586,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19242",
+    "name": "Govind•Sawant",
+    "born": "28 November 1935 in Vadodara, Gujarat (IND)",
+    "measurements": "171 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -690,5 +690,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19245",
+    "name": "Allan•Schofield",
+    "born": "26 January 1957",
+    "measurements": "169 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

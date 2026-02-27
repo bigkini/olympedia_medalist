@@ -622,7 +622,7 @@
     "id": "19180",
     "name": "Joe•Galibardy",
     "born": "10 January 1915 in Chennai (Madras), Tamil Nadu (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -630,6 +630,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19280",
+    "name": "Jaswant•Singh",
+    "born": "10 August 1931 in Sadhar, Faisalabad, Punjab (PAK)",
+    "measurements": "185 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19480",
+    "name": "Choi•Mi-Sun",
+    "born": "30 September 1972",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

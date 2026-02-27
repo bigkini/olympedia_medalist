@@ -788,5 +788,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19265",
+    "name": "Dharam•Singh Gill",
+    "born": "19 January 1919 in Gandiwind, Amritsar, Punjab (IND)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19365",
+    "name": "Sadayoshi•Kobayashi",
+    "born": "14 February 1905 in ?, Kanagawa (JPN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

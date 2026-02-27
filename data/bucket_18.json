@@ -931,7 +931,7 @@
     "id": "19018",
     "name": "Erwin•Keller",
     "born": "8 April 1905 in Concepción, Biobío (CHI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -939,6 +939,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19218",
+    "name": "M. P.•Ganesh",
+    "born": "8 July 1946 in Kodagu (Coorg), Karnataka (IND)",
+    "measurements": "172 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19318",
+    "name": "Maxie•Vaz",
+    "born": "1923 in ?, Goa (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -875,5 +875,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19226",
+    "name": "Krishnamurty•Perumal",
+    "born": "26 September 1947 in Chennai (Madras), Tamil Nadu (IND)",
+    "measurements": "174 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

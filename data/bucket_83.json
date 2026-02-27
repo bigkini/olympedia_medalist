@@ -833,5 +833,57 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19283",
+    "name": "Kunwar Digvijay•Singh",
+    "born": "22 February 1922 in Barabanki, Uttar Pradesh (IND)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19383",
+    "name": "Yoshio•Sakai",
+    "born": "2 May 1910 in Tokyo, Tokyo (JPN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19483",
+    "name": "Han•Geum-Sil",
+    "born": "24 January 1968",
+    "measurements": "169 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

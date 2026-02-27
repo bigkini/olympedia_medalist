@@ -688,5 +688,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19292",
+    "name": "Rajinder•Singh",
+    "born": "7 January 1958 in Amritsar, Punjab (IND)",
+    "measurements": "175 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

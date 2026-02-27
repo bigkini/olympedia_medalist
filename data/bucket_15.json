@@ -807,5 +807,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19215",
+    "name": "Cyril•Michie",
+    "born": "20 August 1900 in Danapur, Bihar (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

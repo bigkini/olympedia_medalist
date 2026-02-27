@@ -851,7 +851,7 @@
     "id": "19014",
     "name": "Karl-Heinz•Irmer",
     "born": "22 July 1903 in Bremen, Bremen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -859,6 +859,43 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19214",
+    "name": "Mirza Nasir-ud-Din•Masood",
+    "born": "23 April 1906 in Delhi, National Capital Territory of Delhi (IND)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19314",
+    "name": "Carlyle•Tapsell",
+    "born": "24 July 1909 in Adra, West Bengal (IND)",
+    "measurements": "182 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

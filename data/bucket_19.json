@@ -841,7 +841,7 @@
     "id": "19019",
     "name": "Herbert•Kemmer",
     "born": "13 May 1905 in Darmstadt, Hessen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -856,6 +856,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19319",
+    "name": "Muhammad•Yusuf",
+    "born": "1895 in Peshawar, Khyber-Pukhtunkhwa (PAK)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }
