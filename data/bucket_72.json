@@ -781,7 +781,7 @@
     "id": "19772",
     "name": "August•Kop",
     "born": "5 May 1904 in Purmerend, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -789,6 +789,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19972",
+    "name": "Bashir•Ahmed",
+    "born": "23 December 1934 in Karachi, Sindh (PAK)",
+    "measurements": "171 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

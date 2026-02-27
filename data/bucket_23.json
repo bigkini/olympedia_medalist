@@ -774,5 +774,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19923",
+    "name": "Selwyn•Maister",
+    "born": "24 May 1946 in Christchurch, Canterbury (NZL)",
+    "measurements": "163 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

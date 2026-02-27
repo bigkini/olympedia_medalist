@@ -808,11 +808,26 @@
     "id": "19365",
     "name": "Sadayoshi•Kobayashi",
     "born": "14 February 1905 in ?, Kanagawa (JPN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
         "noc": "JPN",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19965",
+    "name": "Akhtar Ul•Islam",
+    "born": "1 January 1947 in Jabalpur, Madhya Pradesh (IND)",
+    "measurements": "185 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "PAK",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"

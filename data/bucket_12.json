@@ -729,7 +729,7 @@
     "id": "19712",
     "name": "Jules•Ancion",
     "born": "21 August 1924 in Palembang, Sumatera Selatan (INA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -737,6 +737,58 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19812",
+    "name": "Ab•Tresling",
+    "born": "4 May 1909 in Den Haag (The Hague), Zuid-Holland (NED)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19912",
+    "name": "Tony•Ineson",
+    "born": "23 April 1950 in Christchurch, Canterbury (NZL)",
+    "measurements": "168 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20012",
+    "name": "Habib Ali•Kiddie",
+    "born": "7 December 1929 in Delhi, National Capital Territory of Delhi (IND)",
+    "measurements": "173 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

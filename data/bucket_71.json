@@ -814,5 +814,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19971",
+    "name": "Asif•Bajwa",
+    "born": "8 June 1972 in Sialkot, Punjab (PAK)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

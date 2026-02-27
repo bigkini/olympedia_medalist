@@ -592,5 +592,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19831",
+    "name": "Wouter•van Pelt",
+    "born": "23 April 1968 in Alphen aan den Rijn, Zuid-Holland (NED)",
+    "measurements": "178 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20031",
+    "name": "Muhammad•Rashid",
+    "born": "14 April 1941",
+    "measurements": "181 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

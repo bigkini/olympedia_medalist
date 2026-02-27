@@ -588,5 +588,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20020",
+    "name": "Manzoor-ul•Hassan",
+    "born": "15 January 1952",
+    "measurements": "174 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

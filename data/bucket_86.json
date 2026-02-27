@@ -739,5 +739,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19986",
+    "name": "Hanif•Khan",
+    "born": "5 July 1959 in Karachi, Sindh (PAK)",
+    "measurements": "168 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -891,7 +891,7 @@
     "id": "19735",
     "name": "Jan•de Looper",
     "born": "2 May 1914 in Hilversum, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -899,6 +899,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20035",
+    "name": "Mushtaq•Ahmed",
+    "born": "28 August 1932 in Amritsar, Punjab (IND)",
+    "measurements": "173 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

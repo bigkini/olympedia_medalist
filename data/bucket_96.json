@@ -743,5 +743,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19996",
+    "name": "Muhammad•Khalid",
+    "born": "18 March 1973",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -834,5 +834,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19962",
+    "name": "Abdul Rashid•Al-Hasan",
+    "born": "14 April 1959 in Gojra, Punjab (PAK)",
+    "measurements": "170 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

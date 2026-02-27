@@ -879,5 +879,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20027",
+    "name": "Ashfaq•Ahmed",
+    "born": "11 November 1946 in Rawalpindi, Punjab (PAK)",
+    "measurements": "162 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -725,5 +725,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19924",
+    "name": "Trevor•Manning",
+    "born": "19 December 1945 in Wellington, Wellington (NZL)",
+    "measurements": "175 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

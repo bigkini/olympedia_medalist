@@ -959,5 +959,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19936",
+    "name": "Arthur•Parkin",
+    "born": "15 February 1952 in Whangarei, Northland (NZL)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20036",
+    "name": "Mushtaq•Ahmed",
+    "born": "15 February 1956 in Karachi, Sindh (PAK)",
+    "measurements": "170 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

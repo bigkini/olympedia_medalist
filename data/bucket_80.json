@@ -677,5 +677,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19880",
+    "name": "Paul•Ackerley",
+    "born": "16 May 1949 in Christchurch, Canterbury (NZL)",
+    "measurements": "179 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -824,11 +824,41 @@
     "id": "19038",
     "name": "Fritz•Meßner",
     "born": "18 January 1912 in Wilmersdorf, Berlin (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19938",
+    "name": "Ramesh•Patel",
+    "born": "12 September 1953 in Auckland, Auckland (NZL)",
+    "measurements": "176 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20038",
+    "name": "Qazi Massarrat•Hussain",
+    "born": "16 March 1935 in ? (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "PAK",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"

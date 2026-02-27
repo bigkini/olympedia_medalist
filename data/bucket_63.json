@@ -749,5 +749,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19963",
+    "name": "Abdul Waheed•Khan",
+    "born": "30 November 1936 in Rajpur, Madhya Pradesh (IND)",
+    "measurements": "174 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

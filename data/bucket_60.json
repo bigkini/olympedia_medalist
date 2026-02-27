@@ -864,11 +864,26 @@
     "id": "19160",
     "name": "Ernie•Goodsir-Cullen",
     "born": "15 July 1912 in Kasauli, Himachal Pradesh (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19960",
+    "name": "•Abdul Rashid",
+    "born": "1 June 1922 in Rawalpindi, Punjab (PAK)",
+    "measurements": "169 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "PAK",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"

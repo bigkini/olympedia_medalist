@@ -655,11 +655,55 @@
     "id": "19734",
     "name": "Henk•de Looper",
     "born": "26 December 1912 in Hilversum, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19834",
+    "name": "Remco•van Wijk",
+    "born": "7 October 1972 in Breda, Noord-Brabant (NED)",
+    "measurements": "185 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20034",
+    "name": "Munawar•uz Zaman",
+    "born": "2 July 1951 in Lahore, Punjab (PAK)",
+    "measurements": "169 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "PAK",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"

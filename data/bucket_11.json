@@ -765,5 +765,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20011",
+    "name": "Khurshid•Azam",
+    "born": "16 June 1942",
+    "measurements": "171 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

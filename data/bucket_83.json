@@ -885,5 +885,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19883",
+    "name": "Jeff•Archibald",
+    "born": "2 February 1952 in Auckland, Auckland (NZL)",
+    "measurements": "177 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19983",
+    "name": "Ghulam•Rasool",
+    "born": "1 May 1931 in Amritsar, Punjab (IND)",
+    "measurements": "175 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

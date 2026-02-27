@@ -878,11 +878,41 @@
     "id": "19719",
     "name": "Henk•Bouwman",
     "born": "30 June 1926 in Amsterdam, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19819",
+    "name": "Robert•van der Veen",
+    "born": "26 September 1906 in Shanghai, Shanghai (CHN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20019",
+    "name": "Mansoor•Ahmed",
+    "born": "7 January 1968 in Rawalpindi, Punjab (PAK)",
+    "measurements": "169 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PAK",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"

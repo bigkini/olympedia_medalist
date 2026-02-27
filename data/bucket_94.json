@@ -910,5 +910,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19994",
+    "name": "Khalid•Hamid",
+    "born": "18 October 1962 in Gujranwala, Punjab (PAK)",
+    "measurements": "169 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

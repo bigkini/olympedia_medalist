@@ -673,5 +673,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19801",
+    "name": "René•Sparenberg",
+    "born": "3 December 1918 in Semarang, Jawa Tengah (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

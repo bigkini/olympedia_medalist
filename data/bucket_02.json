@@ -756,5 +756,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19902",
+    "name": "Greg•Dayman",
+    "born": "21 February 1947 in Wellington, Wellington (NZL)",
+    "measurements": "188 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20002",
+    "name": "Farhat Hassan•Khan",
+    "born": "10 January 1965",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

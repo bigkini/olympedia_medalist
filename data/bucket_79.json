@@ -843,5 +843,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19979",
+    "name": "Tauqir•Dar",
+    "born": "31 January 1964 in Lahore, Punjab (PAK)",
+    "measurements": "175 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

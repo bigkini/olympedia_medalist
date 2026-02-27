@@ -1017,7 +1017,7 @@
     "id": "19781",
     "name": "Jenne•Langhout",
     "born": "27 September 1918 in Jakarta, Daerah Khusus Ibukota Jakarta (INA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -1025,6 +1025,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19981",
+    "name": "Fazalur•Rehman",
+    "born": "15 March 1941 in Abbottabad, Khyber-Pukhtunkhwa (PAK)",
+    "measurements": "169 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -866,5 +866,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19805",
+    "name": "Tim•Steens",
+    "born": "13 December 1955 in Rotterdam, Zuid-Holland (NED)",
+    "measurements": "168 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20005",
+    "name": "•Samiullah",
+    "born": "6 September 1951 in Bahawalpur, Punjab (PAK)",
+    "measurements": "171 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

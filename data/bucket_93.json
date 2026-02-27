@@ -721,5 +721,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19793",
+    "name": "Erik•Parlevliet",
+    "born": "8 June 1964 in Zevenaar, Gelderland (NED)",
+    "measurements": "193 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19993",
+    "name": "Khalid•Bashir",
+    "born": "14 February 1968 in Faisalabad, Punjab (PAK)",
+    "measurements": "177 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

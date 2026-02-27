@@ -684,5 +684,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19970",
+    "name": "Ayaz•Mahmood",
+    "born": "24 May 1964 in Karachi, Sindh (PAK)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

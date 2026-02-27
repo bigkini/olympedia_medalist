@@ -710,7 +710,7 @@
     "id": "19675",
     "name": "Stella•de Heij",
     "born": "17 January 1968 in Driehuis, Velsen, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1996 Summer Olympics",
@@ -718,6 +718,28 @@
         "discipline": "Hockey",
         "event": "Hockey, Women\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19975",
+    "name": "Jahangir•Butt",
+    "born": "17 April 1943 in Gujranwala, Punjab (PAK)",
+    "measurements": "175 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

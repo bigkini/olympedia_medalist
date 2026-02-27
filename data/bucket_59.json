@@ -804,5 +804,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19959",
+    "name": "Abdul•Hamid",
+    "born": "7 July 1942",
+    "measurements": "163 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

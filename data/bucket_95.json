@@ -726,5 +726,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19795",
+    "name": "Suzanne•Plesman",
+    "born": "23 October 1971 in Den Haag (The Hague), Zuid-Holland (NED)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19995",
+    "name": "Khalid•Mahmood",
+    "born": "28 December 1941 in Jhelum, Punjab (PAK)",
+    "measurements": "175 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

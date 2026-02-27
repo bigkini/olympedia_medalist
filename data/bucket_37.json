@@ -583,11 +583,63 @@
     "id": "19737",
     "name": "Aat•de Roos",
     "born": "15 April 1919 in Bloemendaal, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19837",
+    "name": "Stephan•Veen",
+    "born": "27 July 1970 in Groningen, Groningen (NED)",
+    "measurements": "180 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19937",
+    "name": "Mohan•Patel",
+    "born": "11 November 1952 in Auckland, Auckland (NZL)",
+    "measurements": "170 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20037",
+    "name": "Musaddiq•Hussain",
+    "born": "17 April 1968 in Peshawar, Khyber-Pukhtunkhwa (PAK)",
+    "measurements": "170 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PAK",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"

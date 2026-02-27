@@ -849,7 +849,7 @@
     "id": "19684",
     "name": "Nicky•Koolen",
     "born": "1 December 1972 in Aldershot, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1996 Summer Olympics",
@@ -857,6 +857,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Women\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19784",
+    "name": "Frank•Leistra",
+    "born": "1 April 1960 in Delft, Zuid-Holland (NED)",
+    "measurements": "185 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19984",
+    "name": "Gulraiz•Akhtar",
+    "born": "2 February 1943 in Rawalpindi, Punjab (PAK)",
+    "measurements": "172 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

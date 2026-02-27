@@ -891,5 +891,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19791",
+    "name": "Lau•Mulder",
+    "born": "7 July 1927 in Jakarta, Daerah Khusus Ibukota Jakarta (INA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19991",
+    "name": "•Kalimullah",
+    "born": "2 January 1958 in Bahawalpur, Punjab (PAK)",
+    "measurements": "175 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

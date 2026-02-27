@@ -1056,5 +1056,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19787",
+    "name": "Dick•Loggere",
+    "born": "6 May 1921 in Amsterdam, Noord-Holland (NED)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19987",
+    "name": "Hassan•Sardar",
+    "born": "22 October 1957 in Karachi, Sindh (PAK)",
+    "measurements": "178 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

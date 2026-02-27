@@ -1020,5 +1020,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19889",
+    "name": "Thur•Borren",
+    "born": "5 June 1949 in Eindhoven, Noord-Brabant (NED)",
+    "measurements": "174 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19989",
+    "name": "•Islah-ud-Din",
+    "born": "10 January 1948 in Long Island City, New York (USA)",
+    "measurements": "174 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

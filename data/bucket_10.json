@@ -968,7 +968,7 @@
     "id": "19710",
     "name": "Willemien•Aardenburg",
     "born": "30 August 1966 in Laren, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1988 Summer Olympics",
@@ -976,6 +976,43 @@
         "discipline": "Hockey",
         "event": "Hockey, Women\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19810",
+    "name": "Eddy•Tiel",
+    "born": "29 December 1926 in Den Haag (The Hague), Zuid-Holland (NED)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20010",
+    "name": "Khurshid•Aslam",
+    "born": "6 April 1936 in Lucknow, Uttar Pradesh (IND)",
+    "measurements": "179 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

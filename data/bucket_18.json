@@ -961,7 +961,7 @@
     "id": "19318",
     "name": "Maxie•Vaz",
     "born": "1923 in ?, Goa (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -969,6 +969,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19818",
+    "name": "Ru•van der Haar",
+    "born": "6 October 1913 in Banyumas, Jawa Tengah (INA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20018",
+    "name": "Muhammad•Afzal Manna",
+    "born": "10 December 1938",
+    "measurements": "173 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

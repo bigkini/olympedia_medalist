@@ -810,5 +810,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19977",
+    "name": "Munir Ahmed•Dar",
+    "born": "28 March 1935 in Amritsar, Punjab (IND)",
+    "measurements": "171 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

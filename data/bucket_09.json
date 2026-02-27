@@ -769,5 +769,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20009",
+    "name": "Nawaz Khizar•Bajwa",
+    "born": "20 September 1942",
+    "measurements": "170 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

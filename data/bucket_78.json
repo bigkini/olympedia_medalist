@@ -833,7 +833,7 @@
     "id": "19678",
     "name": "Willemijn•Duyster",
     "born": "5 April 1970 in Amsterdam, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1996 Summer Olympics",
@@ -841,6 +841,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Women\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19978",
+    "name": "Tanvir•Dar",
+    "born": "4 June 1937 in Amritsar, Punjab (IND)",
+    "measurements": "167 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

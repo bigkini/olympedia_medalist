@@ -746,5 +746,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20030",
+    "name": "Muhammad Qamar•Ibrahim",
+    "born": "14 January 1968 in Karachi, Sindh (PAK)",
+    "measurements": "177 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

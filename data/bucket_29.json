@@ -705,5 +705,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19829",
+    "name": "Tycho•van Meer",
+    "born": "30 September 1974 in Eindhoven, Noord-Brabant (NED)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19929",
+    "name": "Alan•McIntyre",
+    "born": "20 September 1949 in Wanganui, Manawatu-Wanganui (NZL)",
+    "measurements": "167 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

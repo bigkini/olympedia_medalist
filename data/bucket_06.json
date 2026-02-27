@@ -768,5 +768,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20006",
+    "name": "Shahid Ali•Khan",
+    "born": "16 December 1964 in Karachi, Sindh (PAK)",
+    "measurements": "170 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

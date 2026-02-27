@@ -639,5 +639,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19798",
+    "name": "Gert Jan•Schlatmann",
+    "born": "6 December 1963 in Bloemendaal, Noord-Holland (NED)",
+    "measurements": "178 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19898",
+    "name": "John•Christensen",
+    "born": "29 April 1948 in Christchurch, Canterbury (NZL)",
+    "measurements": "180 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

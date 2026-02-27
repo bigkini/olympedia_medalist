@@ -800,7 +800,7 @@
     "id": "19685",
     "name": "Ellen•Kuipers",
     "born": "8 April 1971 in Hattem, Gelderland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1996 Summer Olympics",
@@ -808,6 +808,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Women\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19985",
+    "name": "Habibur•Rehman",
+    "born": "15 August 1925 in Bhopal, Madhya Pradesh (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

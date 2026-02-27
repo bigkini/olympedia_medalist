@@ -694,7 +694,7 @@
     "id": "19368",
     "name": "Haruhiko•Kon",
     "born": "17 August 1910 in Tokyo, Tokyo (JPN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -702,6 +702,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19968",
+    "name": "Arshad•Mahmood",
+    "born": "1 November 1947",
+    "measurements": "189 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

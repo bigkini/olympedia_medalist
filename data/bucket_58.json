@@ -874,5 +874,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19958",
+    "name": "Abdul•Hamid",
+    "born": "7 January 1927 in Bannu, Khyber-Pukhtunkhwa (PAK)",
+    "measurements": "175 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
