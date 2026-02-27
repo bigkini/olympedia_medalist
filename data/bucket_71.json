@@ -463,7 +463,7 @@
     "id": "14671",
     "name": "Reg•Harris",
     "born": "1 March 1920 in Birtle Moor, Bury, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -477,6 +477,36 @@
         "noc": "GBR",
         "discipline": "Cycling Track (Cycling)",
         "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "14771",
+    "name": "Bill•Holmes",
+    "born": "14 January 1936 in Kingston upon Hull, England (GBR)",
+    "measurements": "175 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15271",
+    "name": "Jean-Claude•Lecante",
+    "born": "12 November 1934 in Saint-Ouen-sur-Seine, Seine-Saint-Denis (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

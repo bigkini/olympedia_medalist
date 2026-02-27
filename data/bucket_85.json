@@ -571,5 +571,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "15285",
+    "name": "René•Le Grevès",
+    "born": "6 June 1910 in Paris XIVe, Paris (FRA)",
+    "measurements": "165 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

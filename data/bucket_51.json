@@ -554,5 +554,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "15051",
+    "name": "Ron•Kiefel",
+    "born": "11 April 1960 in Wheat Ridge, Colorado (USA)",
+    "measurements": "183 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -396,7 +396,7 @@
     "id": "14631",
     "name": "René•Hamel",
     "born": "14 October 1902 in Orsha, Vitebsk (BLR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -411,6 +411,36 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14831",
+    "name": "Sven•Höglund",
+    "born": "23 October 1910 in Vendel, Tierp, Uppsala (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15031",
+    "name": "Ron•Keeble",
+    "born": "14 January 1946 in London, England (GBR)",
+    "measurements": "177 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -549,5 +549,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15265",
+    "name": "Jan•Łazarski",
+    "born": "26 October 1892 in Kraków (Cracow), Małopolskie (POL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

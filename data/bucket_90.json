@@ -596,5 +596,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14890",
+    "name": "Bernard•Janssens",
+    "born": "18 August 1895 in Hoboken, Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

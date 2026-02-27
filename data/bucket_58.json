@@ -552,5 +552,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "15258",
+    "name": "Jack•Lauterwasser",
+    "born": "4 June 1904 in City of London, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

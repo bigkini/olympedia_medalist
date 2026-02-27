@@ -549,5 +549,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "15074",
+    "name": "John•Kirk",
+    "born": "20 November 1890 in Kingston upon Hull, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

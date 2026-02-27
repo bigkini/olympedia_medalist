@@ -497,5 +497,57 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "14823",
+    "name": "Thomas•Huschke",
+    "born": "29 December 1947 in Berlin, Berlin (GER)",
+    "measurements": "181 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14923",
+    "name": "Bernt•Johansson",
+    "born": "18 April 1953 in Göteborg (Gothenburg), Västra Götaland (SWE)",
+    "measurements": "176 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15123",
+    "name": "Vlastibor•Konečný",
+    "born": "2 January 1957 in Frýdek-Místek, Moravskoslezský kraj (CZE)",
+    "measurements": "181 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

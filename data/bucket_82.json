@@ -644,5 +644,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14982",
+    "name": "Per•Lyngemark",
+    "born": "23 May 1941 in Frederiksberg, Hovedstaden (DEN)",
+    "measurements": "178 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15182",
+    "name": "Xaver•Kurmann",
+    "born": "29 August 1948 in Willisau, Luzern (SUI)",
+    "measurements": "178 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

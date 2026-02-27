@@ -599,7 +599,7 @@
     "id": "14635",
     "name": "Bill•Hammond",
     "born": "2 July 1886 in Eastbourne, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -607,6 +607,36 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "14935",
+    "name": "Georg•Johnsson",
+    "born": "2 March 1902 in Brunflo, Östersund, Jämtland (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15235",
+    "name": "Octave•Lapize",
+    "born": "24 October 1887 in Paris XIVe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "100 kilometres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

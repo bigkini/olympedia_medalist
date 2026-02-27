@@ -508,5 +508,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "15272",
+    "name": "Robert•Lechner",
+    "born": "22 January 1967 in Bruckmühl, Bayern (GER)",
+    "measurements": "175 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

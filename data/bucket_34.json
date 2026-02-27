@@ -454,7 +454,7 @@
     "id": "14634",
     "name": "Frederick•Hamlin",
     "born": "18 April 1881 in Barking, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -462,6 +462,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "14934",
+    "name": "Victor•Johnson",
+    "born": "10 May 1883 in Aston, Birmingham, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

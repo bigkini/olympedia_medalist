@@ -584,5 +584,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "15067",
+    "name": "Clarrie•Kingsbury",
+    "born": "3 November 1882 in Portsmouth, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "20 kilometres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

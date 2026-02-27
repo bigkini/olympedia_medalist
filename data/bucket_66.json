@@ -503,5 +503,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15166",
+    "name": "Albert•Krushel",
+    "born": "21 October 1889 in Buffalo, New York (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

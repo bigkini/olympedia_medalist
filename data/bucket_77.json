@@ -511,5 +511,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "15077",
+    "name": "Jürgen•Kissner",
+    "born": "18 August 1942 in Luckau, Brandenburg (GER)",
+    "measurements": "187 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15277",
+    "name": "André•Leducq",
+    "born": "27 February 1904 in Saint-Ouen-sur-Seine, Seine-Saint-Denis (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

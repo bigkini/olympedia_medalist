@@ -643,5 +643,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "15084",
+    "name": "Michal•Klasa",
+    "born": "19 December 1953 in Brno, Jihomoravský kraj (CZE)",
+    "measurements": "182 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15184",
+    "name": "Nikolay•Kuznetsov",
+    "born": "20 July 1973 in St. Petersburg, St. Petersburg (RUS)",
+    "measurements": "180 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

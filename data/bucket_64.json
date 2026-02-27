@@ -555,5 +555,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "15064",
+    "name": "Charles•King",
+    "born": "12 June 1911 in Putney, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

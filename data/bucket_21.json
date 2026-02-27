@@ -588,5 +588,78 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14821",
+    "name": "Marcus•Hurley",
+    "born": "22 December 1883 in New Rochelle, New York (USA)",
+    "measurements": "181 cm",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "¼ mile, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "⅓ mile, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "½ mile, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1 mile, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "2 miles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15121",
+    "name": "Gennady•Komnatov",
+    "born": "18 September 1949 in Zhelannoye, Omsk (RUS)",
+    "measurements": "173 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15221",
+    "name": "Josef•Landsberg",
+    "born": "13 May 1890 in Örebro, Örebro (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

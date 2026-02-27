@@ -617,13 +617,43 @@
     "id": "14122",
     "name": "Leon•De Lathouwer",
     "born": "19 September 1929 in Wetteren, Oost-Vlaanderen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "BEL",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15022",
+    "name": "Richard•Katzer",
+    "born": "1888 in Bożków, Dolnośląskie (POL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15222",
+    "name": "Maik•Landsmann",
+    "born": "25 October 1967 in Erfurt, Thüringen (GER)",
+    "measurements": "183 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

@@ -579,5 +579,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "15199",
+    "name": "Karl•Köther",
+    "born": "27 May 1905 in Hannover, Niedersachsen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -510,5 +510,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14868",
+    "name": "Alan•Jackson",
+    "born": "19 November 1933 in Stockport, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "14968",
+    "name": "Takanobu•Jumonji",
+    "born": "10 November 1975 in Noda, Chiba (JPN)",
+    "measurements": "180 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

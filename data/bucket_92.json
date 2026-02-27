@@ -469,13 +469,35 @@
     "id": "12692",
     "name": "Folke•Sandström",
     "born": "27 September 1892 in Edshult, Alingsås, Västra Götaland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "SWE",
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14992",
+    "name": "Henry•Kaltenbrunn",
+    "born": "15 May 1897 in Vryburg, North West (RSA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

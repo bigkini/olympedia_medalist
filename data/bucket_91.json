@@ -564,5 +564,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14891",
+    "name": "Erik•Jansson",
+    "born": "14 May 1907 in Sundborn, Falun, Dalarna (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

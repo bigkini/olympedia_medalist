@@ -705,5 +705,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14840",
+    "name": "Roger•Ilegems",
+    "born": "13 December 1962 in Niel, Antwerpen (BEL)",
+    "measurements": "174 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -440,5 +440,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14847",
+    "name": "Miguel•Induráin",
+    "born": "16 July 1964 in Villava, Navarra (ESP)",
+    "measurements": "188 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Individual Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

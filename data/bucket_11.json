@@ -519,5 +519,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15111",
+    "name": "Gerard•Koel",
+    "born": "16 January 1941 in Amsterdam, Noord-Holland (NED)",
+    "measurements": "179 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

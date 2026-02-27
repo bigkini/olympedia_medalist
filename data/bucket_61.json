@@ -688,5 +688,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14861",
+    "name": "William•Isaacs",
+    "born": "4 March 1884 in Fulham, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

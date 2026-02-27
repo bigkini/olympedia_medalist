@@ -554,13 +554,28 @@
     "id": "12925",
     "name": "František•Ventura",
     "born": "27 October 1895 in Cerekvice nad Loučnou, Pardubický kraj (CZE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
         "noc": "TCH",
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15125",
+    "name": "Aristidis•Konstantinidis",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "GRE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

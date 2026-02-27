@@ -577,7 +577,7 @@
     "id": "14100",
     "name": "Mino•De Rossi",
     "born": "21 May 1931 in Arquata Scrivia, Alessandria (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -585,6 +585,36 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15100",
+    "name": "Knut•Knudsen",
+    "born": "12 October 1950 in Levanger, Trøndelag (NOR)",
+    "measurements": "185 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15300",
+    "name": "Vladimir•Leonov",
+    "born": "25 April 1937 in Tula, Tula (RUS)",
+    "measurements": "170 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

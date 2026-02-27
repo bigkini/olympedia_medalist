@@ -434,7 +434,7 @@
     "id": "13769",
     "name": "Don•Burgess",
     "born": "8 February 1933 in Hendon, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -449,6 +449,36 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14769",
+    "name": "Charles•Holland",
+    "born": "20 September 1908 in Aldridge, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15269",
+    "name": "Roger•Le Nizerhy",
+    "born": "3 December 1916 in Paris Xe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

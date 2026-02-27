@@ -457,5 +457,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "14888",
+    "name": "Jan•Jansen",
+    "born": "26 February 1945 in Basdorf, Vöhl, Hessen (GER)",
+    "measurements": "174 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

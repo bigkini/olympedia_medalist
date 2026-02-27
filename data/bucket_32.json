@@ -471,13 +471,35 @@
     "id": "14432",
     "name": "Auguste•Garrebeek",
     "born": "10 January 1912 in Dworp, Vlaams Brabant (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "BEL",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14932",
+    "name": "Ernest•Johnson",
+    "born": "18 November 1912 in Putney, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

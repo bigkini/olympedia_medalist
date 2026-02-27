@@ -507,5 +507,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15009",
+    "name": "Jan•Karlsson",
+    "born": "8 February 1966 in Falköping, Västra Götaland (SWE)",
+    "measurements": "185 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

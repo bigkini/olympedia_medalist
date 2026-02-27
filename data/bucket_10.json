@@ -625,7 +625,7 @@
     "id": "14210",
     "name": "Jacques•Dupont",
     "born": "19 June 1928 in Lézat-sur-Lèze, Ariège (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -640,6 +640,36 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "1,000 metres Time Trial, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15010",
+    "name": "Werner•Karlsson",
+    "born": "8 July 1887 in Dillnäs, Gnesta, Södermanland (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15210",
+    "name": "John•Lake",
+    "born": "27 July 1877 in Port Richmond, Staten Island, New York (USA)",
+    "measurements": "172 cm",
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

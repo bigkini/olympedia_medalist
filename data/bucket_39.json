@@ -486,5 +486,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14839",
+    "name": "Piet•Ikelaar",
+    "born": "2 January 1896 in Nieuwer-Amstel, Amstelveen, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "50 kilometres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

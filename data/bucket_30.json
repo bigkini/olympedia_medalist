@@ -544,5 +544,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "15130",
+    "name": "Joe•Kopsky",
+    "born": "4 November 1882 in New York, New York (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -568,5 +568,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14857",
+    "name": "Preben•Isaksson",
+    "born": "22 January 1943 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": "183 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

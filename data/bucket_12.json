@@ -457,5 +457,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "15012",
+    "name": "Rudolf•Karsch",
+    "born": "26 December 1913 in Leipzig, Sachsen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

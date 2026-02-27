@@ -546,7 +546,7 @@
     "id": "14617",
     "name": "Bruno•Goetze",
     "born": "23 June 1882 in Toruń, Kujawsko-Pomorskie (POL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1906  Intercalated Games",
@@ -554,6 +554,36 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Tandem Sprint, 2,000 metres, Men\n(Intercalated)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15017",
+    "name": "Artūras•Kasputis",
+    "born": "26 February 1967 in Klaipėda, Klaipėda (LTU)",
+    "measurements": "183 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15217",
+    "name": "Thomas•Lance",
+    "born": "14 June 1891 in Paddington, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

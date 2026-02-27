@@ -509,13 +509,42 @@
     "id": "14063",
     "name": "Auguste•Daumain",
     "born": "31 July 1877 in Selles-sur-Cher, Loir-et-Cher (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "FRA",
         "discipline": "Cycling Track (Cycling)",
         "event": "25 kilometres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14763",
+    "name": "Rik•Hoevenaers",
+    "born": "1 August 1901 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

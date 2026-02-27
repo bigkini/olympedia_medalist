@@ -548,13 +548,28 @@
     "id": "14744",
     "name": "Francis•Higgins",
     "born": "29 January 1882 in St. Pancras, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
         "noc": "GBR",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15144",
+    "name": "Nikolay•Kovsh",
+    "born": "22 January 1965 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "182 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

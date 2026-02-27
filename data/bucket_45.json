@@ -534,5 +534,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "15245",
+    "name": "Armando•Latini",
+    "born": "20 May 1913 in Roma, Roma (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

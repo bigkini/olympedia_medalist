@@ -476,7 +476,7 @@
     "id": "14501",
     "name": "Franco•Giorgetti",
     "born": "13 October 1902 in Varese, Varese (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -484,6 +484,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14901",
+    "name": "Zenon•Jaskuła",
+    "born": "4 June 1962 in Śrem, Wielkopolskie (POL)",
+    "measurements": "183 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

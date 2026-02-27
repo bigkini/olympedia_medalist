@@ -558,5 +558,49 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14838",
+    "name": "Ernst•Ihbe",
+    "born": "20 December 1913 in Erlbach, Markneukirchen, Sachsen (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15038",
+    "name": "Shane•Kelly",
+    "born": "7 January 1972 in Ararat, Victoria (AUS)",
+    "measurements": "182 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Keirin, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

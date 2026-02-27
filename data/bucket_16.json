@@ -554,5 +554,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15116",
+    "name": "Georgios•Koletis",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "GRE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -679,5 +679,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14908",
+    "name": "Mogens Frey•Jensen",
+    "born": "2 July 1941 in Glostrup, Hovedstaden (DEN)",
+    "measurements": "176 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15108",
+    "name": "Benedykt•Kocot",
+    "born": "11 April 1954 in Chrząstowice, Opolskie (POL)",
+    "measurements": "173 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

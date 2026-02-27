@@ -411,13 +411,42 @@
     "id": "14648",
     "name": "Edmund•Hansen",
     "born": "9 September 1900 in Odense, Syddanmark (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "DEN",
         "discipline": "Cycling Track (Cycling)",
         "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "14948",
+    "name": "Ben•Jones",
+    "born": "2 January 1882 in Leigh, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "5,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "20 kilometres, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]
