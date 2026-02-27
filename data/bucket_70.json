@@ -467,5 +467,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17370",
+    "name": "Jorgelina•Rimoldi",
+    "born": "6 October 1971 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "155 cm / 56 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

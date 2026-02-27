@@ -707,7 +707,7 @@
     "id": "17022",
     "name": "Arie•van Vliet",
     "born": "18 March 1916 in Woerden, Utrecht (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -722,6 +722,50 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "1,000 metres Time Trial, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17222",
+    "name": "Milton•Wynants",
+    "born": "29 March 1972 in Paysandú, Paysandú (URU)",
+    "measurements": "169 cm / 69 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17522",
+    "name": "Stephen•Davies",
+    "born": "2 January 1969 in Parkes, New South Wales (AUS)",
+    "measurements": "174 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -672,5 +672,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17358",
+    "name": "Mariana•González",
+    "born": "12 March 1976 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "158 cm / 50 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17458",
+    "name": "Sharon•Buchanan-Patmore",
+    "born": "12 March 1963 in ?, Western Australia (AUS)",
+    "measurements": "168 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

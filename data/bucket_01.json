@@ -531,5 +531,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17301",
+    "name": "Billy•Burns",
+    "born": "24 March 1875 in East Oxford, Ontario (CAN)",
+    "measurements": "180 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17501",
+    "name": "David•Bell",
+    "born": "11 March 1955 in Melbourne, Victoria (AUS)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -618,7 +618,7 @@
     "id": "17157",
     "name": "Joseph•Weerbrouck",
     "born": "9 January 1882 in Antwerpen (Antwerp), Antwerpen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -626,6 +626,36 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "20 kilometres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17257",
+    "name": "Mario•Zanin",
+    "born": "3 July 1940 in Santa Lucia di Piave, Treviso (ITA)",
+    "measurements": "174 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17357",
+    "name": "Anabel•Gambero",
+    "born": "9 July 1972 in Quilmes, Provincia de Buenos Aires (ARG)",
+    "measurements": "165 cm / 58 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

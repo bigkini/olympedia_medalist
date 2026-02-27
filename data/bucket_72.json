@@ -588,13 +588,57 @@
     "id": "17072",
     "name": "Lucien•Victor",
     "born": "28 June 1931 in Oekene, West-Vlaanderen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "BEL",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17272",
+    "name": "Edi•Ziegler",
+    "born": "25 February 1930 in Schweinfurt, Bayern (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17472",
+    "name": "Rechelle•Hawkes",
+    "born": "30 May 1967 in Albany, Western Australia (AUS)",
+    "measurements": "165 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Gold"
       }
     ]

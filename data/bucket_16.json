@@ -614,5 +614,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17316",
+    "name": "Stuart•Laidlaw",
+    "born": "2 March 1877 in Havelock, Ontario (CAN)",
+    "measurements": "168 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17516",
+    "name": "Greg•Corbitt",
+    "born": "2 September 1971 in Perth, Western Australia (AUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

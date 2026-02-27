@@ -782,7 +782,7 @@
     "id": "17061",
     "name": "Michel•Vermeulin",
     "born": "6 September 1934 in Montreuil, Seine-Saint-Denis (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -797,6 +797,21 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17461",
+    "name": "Sally•Carbon",
+    "born": "14 April 1967 in Cottesloe, Western Australia (AUS)",
+    "measurements": "165 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

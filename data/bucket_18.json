@@ -769,5 +769,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17218",
+    "name": "Albert•Wyckmans",
+    "born": "12 September 1897 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17318",
+    "name": "Hilliard•Lyle",
+    "born": "21 December 1879 in Allenford, Ontario (CAN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17518",
+    "name": "Mervyn•Crossman",
+    "born": "7 April 1935 in Home Hill, Queensland (AUS)",
+    "measurements": "175 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

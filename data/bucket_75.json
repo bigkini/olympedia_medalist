@@ -586,5 +586,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17175",
+    "name": "George•Wiley",
+    "born": "7 May 1881 in Little Falls, New York (USA)",
+    "measurements": "163 cm",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "5 miles, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "25 miles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -554,13 +554,50 @@
     "id": "16796",
     "name": "Luigi•Tasselli",
     "born": "20 October 1901 in Virgilio, Borgo Virgilio, Mantova (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
         "noc": "ITA",
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17296",
+    "name": "Élie•Blanchard",
+    "born": "3 August 1881 in Montréal, Québec (CAN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17496",
+    "name": "Liane•Tooth",
+    "born": "13 March 1962 in Sydney, New South Wales (AUS)",
+    "measurements": "159 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Gold"
       }
     ]

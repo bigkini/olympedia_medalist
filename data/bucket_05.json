@@ -655,13 +655,43 @@
     "id": "17105",
     "name": "Gerrit•Voorting",
     "born": "18 January 1923 in Velsen, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "NED",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17305",
+    "name": "Sandy•Cowan",
+    "born": "5 February 1879 in Chesley, Ontario (CAN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17505",
+    "name": "Warren•Birmingham",
+    "born": "22 August 1962",
+    "measurements": "171 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

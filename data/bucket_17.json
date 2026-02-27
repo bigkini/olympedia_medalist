@@ -638,5 +638,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17317",
+    "name": "•Lightfoot",
+    "born": "18 January 1877 in Cattaraugus Reservation, New York (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

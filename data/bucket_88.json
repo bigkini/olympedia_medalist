@@ -559,5 +559,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17488",
+    "name": "Sandra•Pisani",
+    "born": "23 January 1959 in Adelaide, South Australia (AUS)",
+    "measurements": "174 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

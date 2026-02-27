@@ -751,13 +751,43 @@
     "id": "16610",
     "name": "Gunnar•Sköld",
     "born": "24 September 1894 in Västerås, Västmanland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "SWE",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17310",
+    "name": "Jack•Flett",
+    "born": "19 November 1871 in Kildonan, Manitoba (CAN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17510",
+    "name": "Stuart•Carruthers",
+    "born": "31 March 1970 in Melbourne, Victoria (AUS)",
+    "measurements": "176 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

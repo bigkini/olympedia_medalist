@@ -585,5 +585,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17363",
+    "name": "Karina•Masotta",
+    "born": "5 March 1971",
+    "measurements": "170 cm / 58 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

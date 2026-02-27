@@ -516,5 +516,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17192",
+    "name": "Volker•Winkler",
+    "born": "20 July 1957 in Merseburg, Sachsen-Anhalt (GER)",
+    "measurements": "184 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17292",
+    "name": "Hans-Henrik•Ørsted",
+    "born": "13 December 1954 in Grenaa, Norddjurs, Midtjylland (DEN)",
+    "measurements": "186 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17492",
+    "name": "Kim•Small",
+    "born": "13 April 1965",
+    "measurements": "159 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

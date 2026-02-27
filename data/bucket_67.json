@@ -636,5 +636,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17467",
+    "name": "Maree•Fish",
+    "born": "23 January 1963 in Hobart, Tasmania (AUS)",
+    "measurements": "161 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

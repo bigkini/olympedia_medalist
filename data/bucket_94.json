@@ -717,5 +717,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17494",
+    "name": "Debbie•Bowman-Sullivan",
+    "born": "4 July 1963 in Southport, Queensland (AUS)",
+    "measurements": "165 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

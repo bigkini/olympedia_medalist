@@ -584,5 +584,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17202",
+    "name": "Carsten•Wolf",
+    "born": "26 August 1964 in Potsdam, Brandenburg (GER)",
+    "measurements": "184 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17302",
+    "name": "Doc•Campbell",
+    "born": "1 February 1878 in Orangeville, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

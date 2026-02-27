@@ -724,5 +724,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17284",
+    "name": "Francesco•Zucchetti",
+    "born": "14 April 1902 in Cernusco sul Naviglio, Milano (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

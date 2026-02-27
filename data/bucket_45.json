@@ -576,7 +576,7 @@
     "id": "16145",
     "name": "Virginio•Pizzali",
     "born": "28 December 1934 in Mortegliano, Udine (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -584,6 +584,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17245",
+    "name": "Manuel•Youshimatz",
+    "born": "10 May 1962 in Puebla, Puebla (MEX)",
+    "measurements": "165 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

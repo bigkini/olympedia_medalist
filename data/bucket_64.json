@@ -600,5 +600,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17464",
+    "name": "Louise•Dobson",
+    "born": "1 September 1972 in Shepparton, Victoria (AUS)",
+    "measurements": "173 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

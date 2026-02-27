@@ -594,7 +594,7 @@
     "id": "16979",
     "name": "Piet•van der Horst",
     "born": "25 October 1903 in Klundert, Noord-Brabant (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -602,6 +602,36 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17279",
+    "name": "Bart•Zoet",
+    "born": "20 October 1942 in Sassenheim, Zuid-Holland (NED)",
+    "measurements": "176 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17479",
+    "name": "Karen•Marsden",
+    "born": "28 November 1962 in Margaret River, Western Australia (AUS)",
+    "measurements": "176 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

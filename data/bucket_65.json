@@ -631,5 +631,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17365",
+    "name": "Vanina•Oneto",
+    "born": "15 June 1973 in San Fernando, Provincia de Buenos Aires (ARG)",
+    "measurements": "164 cm / 66 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17465",
+    "name": "Loretta•Dorman",
+    "born": "23 July 1963",
+    "measurements": "165 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

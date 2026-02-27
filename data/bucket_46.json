@@ -664,7 +664,7 @@
     "id": "15646",
     "name": "Guido•Messina",
     "born": "4 January 1931 in Monreale, Palermo (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -672,6 +672,35 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17346",
+    "name": "Magdalena•Aicega",
+    "born": "1 November 1973 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "165 cm / 60 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

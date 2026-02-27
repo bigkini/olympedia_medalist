@@ -562,5 +562,64 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17171",
+    "name": "Matthias•Wiegand",
+    "born": "22 April 1954 in Plauen im Vogtland, Sachsen (GER)",
+    "measurements": "178 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17371",
+    "name": "Ceci•Rognoni",
+    "born": "1 December 1976 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "167 cm / 58 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17471",
+    "name": "Juliet•Haslam",
+    "born": "31 May 1969 in Adelaide, South Australia (AUS)",
+    "measurements": "174 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -685,7 +685,7 @@
     "id": "17119",
     "name": "James•Walker",
     "born": "1897",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -699,6 +699,43 @@
         "noc": "RSA",
         "discipline": "Cycling Road (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17219",
+    "name": "Harry•Wyld",
+    "born": "5 June 1900 in Newton, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "50 kilometres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17319",
+    "name": "•Man Afraid of the Soap",
+    "born": "2 October 1869 in Ohsweken, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

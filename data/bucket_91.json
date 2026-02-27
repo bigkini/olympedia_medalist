@@ -697,5 +697,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17491",
+    "name": "Danni•Roche",
+    "born": "25 May 1970 in Melbourne, Victoria (AUS)",
+    "measurements": "160 cm / 50 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

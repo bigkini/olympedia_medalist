@@ -522,7 +522,7 @@
     "id": "16095",
     "name": "Axel Wilhelm•Persson",
     "born": "23 January 1888 in Eskilstuna, Södermanland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -537,6 +537,36 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17195",
+    "name": "Benno•Wiss",
+    "born": "13 July 1962 in Dietwil, Aargau (SUI)",
+    "measurements": "184 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17295",
+    "name": "•Black Hawk",
+    "born": "23 May 1877 in ?, Ontario (CAN)",
+    "measurements": "183 cm",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

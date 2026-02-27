@@ -859,13 +859,28 @@
     "id": "16987",
     "name": "Daan•van Dijk",
     "born": "10 May 1907 in Den Haag (The Hague), Zuid-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
         "noc": "NED",
         "discipline": "Cycling Track (Cycling)",
         "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17487",
+    "name": "Nova•Peris-Kneebone",
+    "born": "25 February 1971 in Darwin, Northern Territory (AUS)",
+    "measurements": "170 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Gold"
       }
     ]

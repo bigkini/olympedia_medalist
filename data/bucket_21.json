@@ -676,5 +676,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17221",
+    "name": "Percy•Wyld",
+    "born": "7 June 1907 in Tibshelf, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

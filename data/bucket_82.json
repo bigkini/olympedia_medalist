@@ -733,5 +733,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17482",
+    "name": "Kathleen•Partridge",
+    "born": "7 December 1963 in Sydney, New South Wales (AUS)",
+    "measurements": "170 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

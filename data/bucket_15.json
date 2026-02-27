@@ -677,7 +677,7 @@
     "id": "17015",
     "name": "Eugène•Van Roosbroeck",
     "born": "13 May 1928 in Noorderwijk, Antwerpen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -685,6 +685,36 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17315",
+    "name": "Benjamin•Jamieson",
+    "born": "15 March 1874 in Arran Township, Ontario (CAN)",
+    "measurements": "75 kg",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17515",
+    "name": "Ian•Cooke",
+    "born": "6 March 1952",
+    "measurements": "181 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

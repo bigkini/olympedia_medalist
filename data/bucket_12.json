@@ -509,5 +509,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17312",
+    "name": "•Half Moon",
+    "born": "30 April 1872 in ?, Ontario (CAN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17512",
+    "name": "Ric•Charlesworth",
+    "born": "6 February 1952 in Subiaco, Western Australia (AUS)",
+    "measurements": "173 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

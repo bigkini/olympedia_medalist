@@ -579,5 +579,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17211",
+    "name": "Lode•Wouters",
+    "born": "27 May 1929 in Klein-Vorst, Antwerpen (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17311",
+    "name": "Tom•Gorman",
+    "born": "9 June 1886 in Ottawa, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -538,5 +538,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17486",
+    "name": "Jackie•Pereira",
+    "born": "29 October 1964 in Perth, Western Australia (AUS)",
+    "measurements": "157 cm / 50 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

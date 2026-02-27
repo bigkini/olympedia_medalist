@@ -695,5 +695,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17460",
+    "name": "Michelle•Capes-Hager",
+    "born": "3 October 1966 in East Fremantle, Western Australia (AUS)",
+    "measurements": "167 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

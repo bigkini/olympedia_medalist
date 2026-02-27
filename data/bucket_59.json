@@ -619,5 +619,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17459",
+    "name": "Lee•Capes",
+    "born": "3 October 1961 in North Fremantle, Western Australia (AUS)",
+    "measurements": "170 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

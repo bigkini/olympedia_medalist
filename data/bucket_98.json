@@ -457,13 +457,28 @@
     "id": "16398",
     "name": "Arthur•Rushen",
     "born": "10 June 1884 in London, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1906  Intercalated Games",
         "noc": "GBR",
         "discipline": "Cycling Track (Cycling)",
         "event": "Tandem Sprint, 2,000 metres, Men\n(Intercalated)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17298",
+    "name": "Paddy•Brennan",
+    "born": "29 July 1877 in ? (IRL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

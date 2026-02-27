@@ -749,5 +749,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17314",
+    "name": "Henny•Hoobin",
+    "born": "15 February 1879 in Montréal, Québec (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

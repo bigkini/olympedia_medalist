@@ -658,5 +658,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17178",
+    "name": "Ko•Willems",
+    "born": "27 October 1900 in Amsterdam, Noord-Holland (NED)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "50 kilometres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17478",
+    "name": "Clover•Maitland",
+    "born": "14 March 1972 in Maryborough, Queensland (AUS)",
+    "measurements": "168 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

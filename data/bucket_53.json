@@ -632,7 +632,7 @@
     "id": "16553",
     "name": "Tommy•Shardelow",
     "born": "11 November 1931 in Durban, KwaZulu-Natal (RSA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -647,6 +647,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17453",
+    "name": "Shelley•Andrews",
+    "born": "19 November 1971 in Newcastle, New South Wales (AUS)",
+    "measurements": "168 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

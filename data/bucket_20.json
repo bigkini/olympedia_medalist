@@ -423,5 +423,50 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17220",
+    "name": "Lew•Wyld",
+    "born": "15 July 1905 in Tibshelf, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17320",
+    "name": "Clary•MacKerrow",
+    "born": "18 January 1877 in Montréal, Québec (CAN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17520",
+    "name": "Barry•Dancer",
+    "born": "27 August 1952 in Brisbane, Queensland (AUS)",
+    "measurements": "178 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]
