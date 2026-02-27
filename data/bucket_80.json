@@ -572,5 +572,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18880",
+    "name": "Hugh•Walker",
+    "born": "1 February 1888 in Gavinton, Scotland (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18980",
+    "name": "Horst•Dröse",
+    "born": "23 November 1949 in Frankfurt am Main, Hessen (GER)",
+    "measurements": "176 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

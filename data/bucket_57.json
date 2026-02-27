@@ -703,5 +703,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18957",
+    "name": "Andreas•Becker",
+    "born": "8 March 1970 in Mülheim an der Ruhr, Nordrhein-Westfalen (GER)",
+    "measurements": "190 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

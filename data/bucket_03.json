@@ -965,5 +965,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19003",
+    "name": "Werner•Hamel",
+    "born": "9 February 1911 in Berlin, Berlin (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

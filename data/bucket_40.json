@@ -888,7 +888,7 @@
     "id": "18840",
     "name": "Frederick•Phillips",
     "born": "13 March 1884 in Newport, Wales (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -896,6 +896,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18940",
+    "name": "Hella•Roth",
+    "born": "21 September 1963 in Stuttgart, Baden-Württemberg (GER)",
+    "measurements": "166 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

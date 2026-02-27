@@ -533,5 +533,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18937",
+    "name": "Susanne•Müller",
+    "born": "12 May 1972 in Hanau, Hessen (GER)",
+    "measurements": "169 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

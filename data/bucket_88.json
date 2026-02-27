@@ -693,5 +693,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18888",
+    "name": "Harvey•Wood",
+    "born": "10 April 1885 in Beverley, England (GBR)",
+    "measurements": "193 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18988",
+    "name": "Eberhard•Ferstl",
+    "born": "16 January 1933 in München (Munich), Bayern (GER)",
+    "measurements": "181 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -718,7 +718,7 @@
     "id": "18804",
     "name": "Robin•Lindsay",
     "born": "11 January 1914 in Delhi, National Capital Territory of Delhi (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -726,6 +726,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19004",
+    "name": "Hans•Haußmann",
+    "born": "30 March 1900 in Heidelberg, Baden-Württemberg (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

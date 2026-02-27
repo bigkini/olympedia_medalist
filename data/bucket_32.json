@@ -697,5 +697,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18732",
+    "name": "Harold•Cassels",
+    "born": "4 November 1898 in Langzhong, Sichuan (CHN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18932",
+    "name": "Irina•Kuhnt",
+    "born": "18 January 1968 in Bad Harzburg, Niedersachsen (GER)",
+    "measurements": "162 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -657,5 +657,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18986",
+    "name": "Hanns-Henning•Fastrich",
+    "born": "23 August 1963 in Duisburg, Nordrhein-Westfalen (GER)",
+    "measurements": "184 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -794,5 +794,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18991",
+    "name": "Erwin•Franzkowiak",
+    "born": "29 November 1894 in Schöneberg, Berlin (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

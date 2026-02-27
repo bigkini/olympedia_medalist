@@ -525,13 +525,28 @@
     "id": "18850",
     "name": "Franks•Robinson",
     "born": "30 March 1886 in Rathdrum, Wicklow (IRL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18950",
+    "name": "Susanne•Wollschläger",
+    "born": "5 May 1965 in Duisburg, Nordrhein-Westfalen (GER)",
+    "measurements": "173 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

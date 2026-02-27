@@ -641,13 +641,43 @@
     "id": "18824",
     "name": "Henry•Murphy",
     "born": "12 December 1882 in Dublin, Dublin City (IRL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18724",
+    "name": "Alexander•Burt",
+    "born": "9 April 1884 in Glasgow, Scotland (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18924",
+    "name": "Birgit•Hahn",
+    "born": "29 June 1958 in Mönchengladbach, Nordrhein-Westfalen (GER)",
+    "measurements": "166 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

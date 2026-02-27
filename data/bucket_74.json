@@ -842,7 +842,7 @@
     "id": "18774",
     "name": "Eric•Green",
     "born": "28 August 1878 in Leatherhead, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -850,6 +850,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18974",
+    "name": "Werner•Delmes",
+    "born": "28 September 1930 in Köln (Cologne), Nordrhein-Westfalen (GER)",
+    "measurements": "177 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

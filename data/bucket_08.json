@@ -932,5 +932,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19008",
+    "name": "Herbert•Hobein",
+    "born": "25 December 1906 in Einbeck, Niedersachsen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

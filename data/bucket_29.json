@@ -613,7 +613,7 @@
     "id": "18829",
     "name": "Richard•Norris",
     "born": "10 December 1931 in Mumbai, Maharashtra (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -621,6 +621,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18729",
+    "name": "Walter•Campbell",
+    "born": "14 October 1886 in Dublin, Dublin City (IRL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18929",
+    "name": "Katrin•Kauschke",
+    "born": "13 September 1971 in Braunschweig, Niedersachsen (GER)",
+    "measurements": "176 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

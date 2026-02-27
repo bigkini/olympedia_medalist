@@ -731,5 +731,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18879",
+    "name": "Micky•Walford",
+    "born": "27 November 1915 in Norton, Stockton-on-Tees, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18979",
+    "name": "Heiner•Dopp",
+    "born": "27 June 1956 in Bad Dürkheim, Rheinland-Pfalz (GER)",
+    "measurements": "186 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

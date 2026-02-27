@@ -850,7 +850,7 @@
     "id": "18826",
     "name": "Hugh•Neilson",
     "born": "5 May 1884 in Glasgow, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -858,6 +858,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18926",
+    "name": "Franziska•Hentschel",
+    "born": "29 June 1970 in Stuttgart, Baden-Württemberg (GER)",
+    "measurements": "170 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -766,5 +766,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18721",
+    "name": "Norman•Borrett",
+    "born": "1 October 1917 in Wanstead, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

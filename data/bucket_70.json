@@ -609,5 +609,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18970",
+    "name": "Hugo•Budinger",
+    "born": "10 June 1927 in Düsseldorf, Nordrhein-Westfalen (GER)",
+    "measurements": "180 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

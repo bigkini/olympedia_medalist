@@ -775,7 +775,7 @@
     "id": "18805",
     "name": "William•Lindsay",
     "born": "3 March 1916 in Glasgow, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -783,6 +783,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19005",
+    "name": "Kurt•Haverbeck",
+    "born": "22 February 1899 in Hannover, Niedersachsen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

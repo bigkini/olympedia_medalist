@@ -605,5 +605,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18934",
+    "name": "Sigrid•Landgraf",
+    "born": "7 May 1959 in Hanau, Hessen (GER)",
+    "measurements": "174 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

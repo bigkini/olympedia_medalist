@@ -594,5 +594,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18956",
+    "name": "Christoph•Bechmann",
+    "born": "23 November 1971 in Speyer, Rheinland-Pfalz (GER)",
+    "measurements": "190 cm / 88 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

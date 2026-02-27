@@ -738,5 +738,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18962",
+    "name": "Benno•Boche",
+    "born": "28 May 1897 in Wilmersdorf, Berlin (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

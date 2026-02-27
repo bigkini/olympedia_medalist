@@ -714,7 +714,7 @@
     "id": "18872",
     "name": "John•Taylor",
     "born": "18 March 1928 in Bengaluru (Bangalore), Karnataka (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -722,6 +722,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18972",
+    "name": "Erich•Cuntz",
+    "born": "23 December 1916",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

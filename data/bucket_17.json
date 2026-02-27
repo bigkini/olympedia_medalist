@@ -713,5 +713,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18917",
+    "name": "Elke•Drüll",
+    "born": "1 April 1956 in Neuss, Nordrhein-Westfalen (GER)",
+    "measurements": "163 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

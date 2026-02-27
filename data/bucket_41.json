@@ -725,5 +725,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18941",
+    "name": "Gaby•Schley-Schöwe",
+    "born": "26 February 1964 in Hamburg, Hamburg (GER)",
+    "measurements": "165 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

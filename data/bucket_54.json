@@ -749,5 +749,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18954",
+    "name": "Christian•Bassemir",
+    "born": "13 March 1956 in Bad Peterstal, Bad Peterstal-Griesbach, Baden-Württemberg (GER)",
+    "measurements": "178 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

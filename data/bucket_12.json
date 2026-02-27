@@ -636,5 +636,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19012",
+    "name": "Uli•Hänel",
+    "born": "6 March 1957 in Plau am See, Mecklenburg-Vorpommern (GER)",
+    "measurements": "182 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

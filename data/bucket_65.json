@@ -748,11 +748,26 @@
     "id": "18865",
     "name": "Norman•Stevenson",
     "born": "25 November 1875 in Edinburgh, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18965",
+    "name": "Günther•Brennecke",
+    "born": "13 January 1927 in Goslar, Niedersachsen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"

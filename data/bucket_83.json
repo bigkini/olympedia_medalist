@@ -777,8 +777,8 @@
   {
     "id": "18283",
     "name": "Henry•Seiling",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -786,6 +786,36 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18883",
+    "name": "Cyril•Wilkinson",
+    "born": "4 October 1884 in Elvet Hill, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18983",
+    "name": "Björn•Emmerling",
+    "born": "16 November 1975 in Würzburg, Bayern (GER)",
+    "measurements": "182 cm / 81 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

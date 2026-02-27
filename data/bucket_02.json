@@ -709,7 +709,7 @@
     "id": "18802",
     "name": "Arthur•Leighton",
     "born": "6 March 1889 in Esk, Queensland (AUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -717,6 +717,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19002",
+    "name": "Thomas•Gunst",
+    "born": "26 July 1959 in Bad Dürkheim, Rheinland-Pfalz (GER)",
+    "measurements": "173 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

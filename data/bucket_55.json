@@ -760,5 +760,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18955",
+    "name": "Wolfgang•Baumgart",
+    "born": "23 October 1949 in Inheiden, Hessen (GER)",
+    "measurements": "186 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

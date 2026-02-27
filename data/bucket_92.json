@@ -663,7 +663,7 @@
     "id": "18792",
     "name": "Robert•Kennedy",
     "born": "31 July 1880 in Edenderry, Northern Ireland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -671,6 +671,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18992",
+    "name": "Dieter•Freise",
+    "born": "18 February 1945 in Heidelberg, Baden-Württemberg (GER)",
+    "measurements": "182 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

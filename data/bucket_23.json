@@ -714,5 +714,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18723",
+    "name": "Henry•Brown",
+    "born": "13 March 1887 in Dundalk, Louth (IRL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18923",
+    "name": "Eva•Hagenbäumer",
+    "born": "5 January 1967 in Wiesbaden, Hessen (GER)",
+    "measurements": "176 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

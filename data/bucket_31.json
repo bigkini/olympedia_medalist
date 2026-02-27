@@ -545,7 +545,7 @@
     "id": "18831",
     "name": "Tony•Nunn",
     "born": "24 May 1927 in Hambledon, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -553,6 +553,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18931",
+    "name": "Martina•Koch-Hallmen",
+    "born": "20 May 1959 in Frankfurt am Main, Hessen (GER)",
+    "measurements": "166 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

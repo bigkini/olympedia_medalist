@@ -666,7 +666,7 @@
     "id": "18111",
     "name": "Mircea•Sfetescu",
     "born": "4 January 1905 in București (Bucharest), București (ROU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -674,6 +674,36 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18711",
+    "name": "Charles•Atkin",
+    "born": "26 February 1889 in Sheffield, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19011",
+    "name": "Karl-Joachim•Hürter",
+    "born": "21 October 1960 in Mayen, Rheinland-Pfalz (GER)",
+    "measurements": "182 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

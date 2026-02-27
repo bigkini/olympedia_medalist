@@ -646,5 +646,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18993",
+    "name": "Werner•Freyberg",
+    "born": "29 July 1902 in Leipzig, Sachsen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

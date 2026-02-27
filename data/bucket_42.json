@@ -546,13 +546,28 @@
     "id": "18842",
     "name": "Charles•Power",
     "born": "26 August 1878 in Coonoor, Tamil Nadu (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18942",
+    "name": "Susi•Schmid",
+    "born": "27 August 1960 in Bergisch Gladbach, Nordrhein-Westfalen (GER)",
+    "measurements": "170 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

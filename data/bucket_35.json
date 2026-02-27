@@ -846,7 +846,7 @@
     "id": "18835",
     "name": "Edgar•Page",
     "born": "31 December 1884 in Penn, Wolverhampton, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -854,6 +854,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18935",
+    "name": "Corinna•Lingnau",
+    "born": "18 January 1960 in Leverkusen, Nordrhein-Westfalen (GER)",
+    "measurements": "162 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -697,7 +697,7 @@
     "id": "18844",
     "name": "Reggie•Pridmore",
     "born": "29 April 1886 in Edgbaston, Birmingham, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -705,6 +705,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18944",
+    "name": "Ulla•Thielemann",
+    "born": "9 January 1960 in Hanau, Hessen (GER)",
+    "measurements": "170 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -535,13 +535,28 @@
     "id": "18847",
     "name": "Frank•Reynolds",
     "born": "21 August 1917 in Wellington, Tamil Nadu (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "GBR",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18947",
+    "name": "Andrea•Weiermann-Lietz",
+    "born": "15 December 1958 in Köln (Cologne), Nordrhein-Westfalen (GER)",
+    "measurements": "163 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

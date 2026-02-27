@@ -858,5 +858,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18722",
+    "name": "Dave•Brodie",
+    "born": "29 May 1910 in Barrhead, Scotland (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18922",
+    "name": "Birgit•Hagen",
+    "born": "6 June 1957 in Grevenbroich, Nordrhein-Westfalen (GER)",
+    "measurements": "165 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -636,7 +636,7 @@
     "id": "18245",
     "name": "Lou•Hunter",
     "born": "4 October 1899 in Louisville, Kentucky (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -644,6 +644,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18945",
+    "name": "Simone•Thomaschinski-Gräßer",
+    "born": "4 April 1970 in Frankfurt am Main, Hessen (GER)",
+    "measurements": "176 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -676,7 +676,7 @@
     "id": "18830",
     "name": "Neil•Nugent",
     "born": "6 December 1926 in Meerut, Uttar Pradesh (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -684,6 +684,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18730",
+    "name": "Denys•Carnill",
+    "born": "11 March 1926 in Hampstead, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18930",
+    "name": "Natascha•Keller",
+    "born": "3 July 1977 in West-Berlin, Berlin (GER)",
+    "measurements": "170 cm / 69 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }
