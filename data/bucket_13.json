@@ -803,5 +803,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "16713",
+    "name": "Arthur•Stokes",
+    "born": "13 November 1875 in Coventry, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

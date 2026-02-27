@@ -644,7 +644,7 @@
     "id": "16238",
     "name": "Charles•Rampelberg",
     "born": "11 October 1909 in Tourcoing, Nord (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -652,6 +652,36 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "1,000 metres Time Trial, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16838",
+    "name": "Lothar•Thoms",
+    "born": "18 May 1956 in Guben, Brandenburg (GER)",
+    "measurements": "179 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16938",
+    "name": "Mindaugas•Umaras",
+    "born": "1 July 1968 in Kaunas, Kaunas (LTU)",
+    "measurements": "182 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

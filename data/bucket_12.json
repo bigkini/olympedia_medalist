@@ -494,5 +494,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "16612",
+    "name": "Igor•Sláma",
+    "born": "8 May 1959 in Brno, Jihomoravský kraj (CZE)",
+    "measurements": "175 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

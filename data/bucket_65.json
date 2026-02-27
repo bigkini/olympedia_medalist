@@ -601,5 +601,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "16565",
+    "name": "Jack•Sibbit",
+    "born": "4 March 1895 in Ancoats, Manchester, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16965",
+    "name": "Léon•van Bon",
+    "born": "28 January 1972 in Asperen, Gelderland (NED)",
+    "measurements": "166 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

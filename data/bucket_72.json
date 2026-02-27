@@ -568,5 +568,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "16772",
+    "name": "Frode•Sørensen",
+    "born": "8 February 1912 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17072",
+    "name": "Lucien•Victor",
+    "born": "28 June 1931 in Oekene, West-Vlaanderen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

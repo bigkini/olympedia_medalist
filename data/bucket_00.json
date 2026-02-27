@@ -632,5 +632,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "16600",
+    "name": "Sergey•Shelpakov",
+    "born": "18 September 1956 in Isilkul, Omsk (RUS)",
+    "measurements": "183 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

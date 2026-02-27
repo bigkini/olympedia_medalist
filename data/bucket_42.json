@@ -451,5 +451,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17142",
+    "name": "Andrew•Weaver",
+    "born": "12 February 1959 in Columbus, Ohio (USA)",
+    "measurements": "183 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

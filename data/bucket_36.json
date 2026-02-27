@@ -689,7 +689,7 @@
     "id": "16336",
     "name": "Ray•Robinson",
     "born": "3 September 1929 in Johannesburg, Gauteng (RSA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -704,6 +704,36 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16636",
+    "name": "Viktor•Sokolov",
+    "born": "24 April 1954 in Klimovsk, Moskva (RUS)",
+    "measurements": "192 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16736",
+    "name": "Sergey•Sukhoruchenkov",
+    "born": "10 August 1956 in Trostnaya, Bryansk (RUS)",
+    "measurements": "176 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

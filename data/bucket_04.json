@@ -623,5 +623,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "16704",
+    "name": "Jock•Stewart",
+    "born": "15 December 1883 in Dufftown, Scotland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

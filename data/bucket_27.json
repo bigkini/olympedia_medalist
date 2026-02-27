@@ -679,5 +679,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "16927",
+    "name": "Yevgeny•Anashkin",
+    "born": "18 June 1970 in Gus-Khrustalny, Vladimir (RUS)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17027",
+    "name": "Claudio•Vandelli",
+    "born": "27 July 1961 in Modena, Modena (ITA)",
+    "measurements": "182 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -612,13 +612,65 @@
     "id": "16174",
     "name": "Reinhold•Pommer",
     "born": "6 January 1935 in Zigartice, Olomoucký kraj (CZE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "GER",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16674",
+    "name": "Bryan•Steel",
+    "born": "5 January 1969 in Nottingham, England (GBR)",
+    "measurements": "174 cm / 70 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16774",
+    "name": "Poul•Sørensen",
+    "born": "3 August 1906 in Maribo, Lolland, Sjælland (DEN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16974",
+    "name": "Willy•Vanden Berghen",
+    "born": "3 July 1939 in Vilvoorde, Vlaams Brabant (BEL)",
+    "measurements": "183 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

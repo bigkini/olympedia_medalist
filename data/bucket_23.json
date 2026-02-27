@@ -579,5 +579,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "16923",
+    "name": "Lucy•Tyler-Sharman",
+    "born": "6 June 1965 in Louisville, Kentucky (USA)",
+    "measurements": "177 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17123",
+    "name": "Brian•Walton",
+    "born": "18 December 1965 in Ottawa, Ontario (CAN)",
+    "measurements": "177 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

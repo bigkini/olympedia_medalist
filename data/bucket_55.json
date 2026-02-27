@@ -671,5 +671,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17055",
+    "name": "André•Vercruyssen",
+    "born": "5 February 1895 in Burcht, Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

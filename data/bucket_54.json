@@ -576,13 +576,50 @@
     "id": "16154",
     "name": "Dick•Ploog",
     "born": "27 November 1936 in Melbourne, Victoria (AUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "AUS",
         "discipline": "Cycling Track (Cycling)",
         "event": "Sprint, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16754",
+    "name": "Jimmy•Swift",
+    "born": "25 June 1931 in Durban, KwaZulu-Natal (RSA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17154",
+    "name": "David•Weller",
+    "born": "11 February 1957 in Portmore, Saint Catherine (JAM)",
+    "measurements": "188 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "JAM",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

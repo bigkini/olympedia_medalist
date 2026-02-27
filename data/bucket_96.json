@@ -549,5 +549,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "16796",
+    "name": "Luigi•Tasselli",
+    "born": "20 October 1901 in Virgilio, Borgo Virgilio, Mantova (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -628,7 +628,7 @@
     "id": "15849",
     "name": "George•Newberry",
     "born": "6 March 1917 in Swadlincote, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -636,6 +636,36 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16649",
+    "name": "Achille•Souchard",
+    "born": "17 May 1900 in Allonnes, Sarthe (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16949",
+    "name": "Nelson•Vails",
+    "born": "13 October 1960 in New York, New York (USA)",
+    "measurements": "175 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

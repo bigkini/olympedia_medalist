@@ -773,7 +773,7 @@
     "id": "16489",
     "name": "Charles•Schlee",
     "born": "21 July 1873 in København (Copenhagen), Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -781,6 +781,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "5 miles, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17089",
+    "name": "Martin•Vinnicombe",
+    "born": "5 December 1964 in Melbourne, Victoria (AUS)",
+    "measurements": "183 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

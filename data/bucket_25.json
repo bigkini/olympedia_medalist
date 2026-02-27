@@ -650,7 +650,7 @@
     "id": "15925",
     "name": "Giuseppe•Ogna",
     "born": "5 November 1933 in Brescia, Brescia (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -658,6 +658,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17125",
+    "name": "Andreas•Walzer",
+    "born": "20 May 1970 in Homburg, Saarland (GER)",
+    "measurements": "185 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

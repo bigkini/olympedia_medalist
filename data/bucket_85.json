@@ -623,5 +623,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "16685",
+    "name": "Jerome•Steinert",
+    "born": "6 November 1883 in Hicksville, New York (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

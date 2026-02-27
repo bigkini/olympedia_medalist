@@ -751,13 +751,43 @@
     "id": "16408",
     "name": "Enzo•Sacchi",
     "born": "6 January 1926 in Firenze, Firenze (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "ITA",
         "discipline": "Cycling Track (Cycling)",
         "event": "Sprint, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16908",
+    "name": "Igor•Tselovalnikov",
+    "born": "2 January 1944 in Yerevan, Yerevan (ARM)",
+    "measurements": "174 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17008",
+    "name": "Rik•Van Looy",
+    "born": "20 December 1933 in Herentals, Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

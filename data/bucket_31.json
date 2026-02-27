@@ -443,5 +443,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "16531",
+    "name": "Clyde•Sefton",
+    "born": "20 January 1951 in South Purrumbete, Victoria (AUS)",
+    "measurements": "174 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

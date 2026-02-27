@@ -588,7 +588,7 @@
     "id": "15757",
     "name": "Maurice•Moucheraud",
     "born": "28 July 1933 in Potangis, Marne (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -596,6 +596,36 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16857",
+    "name": "Anton•Tkáč",
+    "born": "30 March 1951 in Lozorno, Bratislava (SVK)",
+    "measurements": "183 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17157",
+    "name": "Joseph•Weerbrouck",
+    "born": "9 January 1882 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "20 kilometres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

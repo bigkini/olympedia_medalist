@@ -669,5 +669,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "16583",
+    "name": "Oleksandr•Symonenko",
+    "born": "14 February 1974 in Kropyvnytskyi, Kirovohrad (UKR)",
+    "measurements": "180 cm / 76 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "UKR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16883",
+    "name": "Livio•Trapè",
+    "born": "26 May 1937 in Montefiascone, Viterbo (ITA)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

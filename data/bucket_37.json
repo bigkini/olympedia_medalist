@@ -377,5 +377,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "16937",
+    "name": "Gintautas•Umaras",
+    "born": "20 May 1963 in Kaunas, Kaunas (LTU)",
+    "measurements": "187 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17037",
+    "name": "Boris•Vasilyev",
+    "born": "15 January 1937 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "171 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

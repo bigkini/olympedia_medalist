@@ -709,5 +709,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "16584",
+    "name": "Mauro•Simonetti",
+    "born": "14 July 1948 in Livorno, Livorno (ITA)",
+    "measurements": "182 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -629,7 +629,7 @@
     "id": "16491",
     "name": "Adolf•Schmal",
     "born": "18 September 1872 in Dortmund, Nordrhein-Westfalen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1896 Summer Olympics",
@@ -651,6 +651,50 @@
         "discipline": "Fencing",
         "event": "12-Hours Race, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16691",
+    "name": "Harry•Stenqvist",
+    "born": "25 December 1893 in Chicago, Illinois (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16991",
+    "name": "Jacques•van Egmond",
+    "born": "17 February 1908 in Haarlem, Noord-Holland (NED)",
+    "measurements": "193 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

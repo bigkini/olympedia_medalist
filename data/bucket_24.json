@@ -509,5 +509,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "16924",
+    "name": "Horst•Tüller",
+    "born": "5 February 1931 in Wuppertal, Nordrhein-Westfalen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

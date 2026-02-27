@@ -479,7 +479,7 @@
     "id": "15697",
     "name": "Russell•Mockridge",
     "born": "18 July 1928 in South Melbourne, Victoria (AUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -494,6 +494,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16697",
+    "name": "Leo•Sterckx",
+    "born": "16 July 1936 in Hulshout, Antwerpen (BEL)",
+    "measurements": "178 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

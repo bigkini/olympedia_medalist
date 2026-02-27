@@ -765,5 +765,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "16540",
+    "name": "Vladimir•Semenets",
+    "born": "9 January 1950 in Volsk, Saratov (RUS)",
+    "measurements": "180 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

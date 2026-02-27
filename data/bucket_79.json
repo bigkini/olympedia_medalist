@@ -572,7 +572,7 @@
     "id": "14579",
     "name": "Robert•Grondelaers",
     "born": "28 February 1933 in Opglabbeek, Limburg (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -587,6 +587,21 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16979",
+    "name": "Piet•van der Horst",
+    "born": "25 October 1903 in Klundert, Noord-Brabant (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

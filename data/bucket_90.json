@@ -663,5 +663,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17090",
+    "name": "Aleksandr•Vinokurov",
+    "born": "16 September 1973 in Bishkul, Soltustyk Qazaqstan (KAZ)",
+    "measurements": "177 cm / 68 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "KAZ",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2012 Summer Olympics",
+        "noc": "KAZ",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -452,5 +452,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17070",
+    "name": "Laurent•Vial",
+    "born": "9 September 1959 in Corcelles, Bern (SUI)",
+    "measurements": "185 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

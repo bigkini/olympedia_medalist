@@ -736,7 +736,7 @@
     "id": "16310",
     "name": "Severino•Rigoni",
     "born": "3 October 1914 in Gallio, Vicenza (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -744,6 +744,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16610",
+    "name": "Gunnar•Sköld",
+    "born": "24 September 1894 in Västerås, Västmanland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

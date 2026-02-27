@@ -611,7 +611,7 @@
     "id": "15867",
     "name": "Klaus Kynde•Nielsen",
     "born": "13 April 1966 in Århus (Aarhus), Midtjylland (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -619,6 +619,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16667",
+    "name": "Tomasz•Stankiewicz",
+    "born": "28 December 1902 in Warszawa (Warsaw), Mazowieckie (POL)",
+    "measurements": "186 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

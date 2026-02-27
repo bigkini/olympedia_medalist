@@ -585,5 +585,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "16532",
+    "name": "Guglielmo•Segato",
+    "born": "23 March 1906 in Piazzola sul Brenta, Padova (ITA)",
+    "measurements": "167 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16832",
+    "name": "Tiny•Thomas",
+    "born": "18 August 1921 in Shipley, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

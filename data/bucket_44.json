@@ -618,5 +618,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17144",
+    "name": "Gottlieb•Weber",
+    "born": "26 July 1910 in Uster, Zürich (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

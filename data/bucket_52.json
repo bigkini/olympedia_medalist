@@ -668,5 +668,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "16552",
+    "name": "Anton•Shantyr",
+    "born": "25 April 1974 in Budapest, Budapest (HUN)",
+    "measurements": "183 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16652",
+    "name": "Monty•Southall",
+    "born": "17 July 1907 in Wandsworth, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -708,7 +708,7 @@
     "id": "16382",
     "name": "René•Rouffeteau",
     "born": "30 March 1926 in Saint-Denis, Seine-Saint-Denis (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -716,6 +716,21 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16582",
+    "name": "Jürgen•Simon",
+    "born": "10 January 1938 in Gera, Thüringen (GER)",
+    "measurements": "186 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

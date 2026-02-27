@@ -596,5 +596,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "16862",
+    "name": "Alfred•Tonello",
+    "born": "11 March 1929 in Paris XIIIe, Paris (FRA)",
+    "measurements": "174 cm",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

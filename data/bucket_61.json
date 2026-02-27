@@ -762,5 +762,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "16961",
+    "name": "Mario•Vallotto",
+    "born": "18 November 1933 in Mirano, Venezia (ITA)",
+    "measurements": "172 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17061",
+    "name": "Michel•Vermeulin",
+    "born": "6 September 1934 in Montreuil, Seine-Saint-Denis (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]
