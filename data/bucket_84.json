@@ -754,5 +754,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17884",
+    "name": "Jean•Etcheberry",
+    "born": "27 August 1901 in Boucau, Pyrénées-Atlantiques (FRA)",
+    "measurements": "173 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

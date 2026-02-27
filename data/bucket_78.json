@@ -695,5 +695,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17878",
+    "name": "Jean•Collas",
+    "born": "3 July 1874 in Paris IVe, Paris (FRA)",
+    "measurements": "182 cm",
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17978",
+    "name": "George•Miller",
+    "born": "6 December 1867 in Kensington, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

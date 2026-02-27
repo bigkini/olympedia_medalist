@@ -544,7 +544,7 @@
     "id": "17812",
     "name": "Pablo•Escandón",
     "born": "4 May 1856 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -552,6 +552,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17912",
+    "name": "Charles•Beachcroft",
+    "born": "1870 in Rickmansworth, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

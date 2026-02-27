@@ -486,8 +486,8 @@
   {
     "id": "17798",
     "name": "•Night Hawk",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -495,6 +495,21 @@
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17898",
+    "name": "Hubert•Lefèbvre",
+    "born": "29 November 1878 in Paris XIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -676,7 +676,7 @@
     "id": "17055",
     "name": "André•Vercruyssen",
     "born": "5 February 1895 in Burcht, Antwerpen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -684,6 +684,28 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17955",
+    "name": "Bernard•Redwood",
+    "born": "28 November 1874 in Finchley, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Motorboating",
+        "event": "B-Class (under 60 feet), Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Motorboating",
+        "event": "C-Class, Open\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -649,13 +649,35 @@
     "id": "17807",
     "name": "Álvaro, Marqués•de Figueroa",
     "born": "24 December 1893 in Madrid, Madrid (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "ESP",
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17907",
+    "name": "Émile•Sarrade",
+    "born": "10 March 1877 in Paris IIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

@@ -862,13 +862,28 @@
     "id": "17808",
     "name": "José•de Figueroa",
     "born": "24 December 1897 in Madrid, Madrid (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "ESP",
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17908",
+    "name": "Raoul•Thiercelin",
+    "born": "12 March 1898 in Savigny-sur-Braye, Loir-et-Cher (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

@@ -709,7 +709,7 @@
     "id": "17674",
     "name": "Robert•Gevers",
     "born": "6 October 1882 in Antwerpen (Antwerp), Antwerpen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -717,6 +717,43 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17874",
+    "name": "Adolphe•Bousquet",
+    "born": "14 August 1899 in Maraussan, Hérault (FRA)",
+    "measurements": "167 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17974",
+    "name": "John•McCann",
+    "born": "25 August 1879 in Dublin, Dublin City (IRL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

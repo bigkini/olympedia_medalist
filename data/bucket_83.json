@@ -728,5 +728,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17883",
+    "name": "Alfred•Eluère",
+    "born": "28 July 1893 in Saint-Clément-des-Levées, Maine-et-Loire (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -834,7 +834,7 @@
     "id": "17861",
     "name": "Maurice•Raoul-Duval",
     "born": "27 April 1866 in Le Pecq, Yvelines (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -842,6 +842,28 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17961",
+    "name": "Walter•Buckmaster",
+    "born": "16 October 1872 in Wimbledon, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -473,7 +473,7 @@
     "id": "17820",
     "name": "Willie•Attrill",
     "born": "14 February 1868 in Cowes, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -481,6 +481,21 @@
         "discipline": "Cricket",
         "event": "Cricket, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17920",
+    "name": "William•Donne",
+    "born": "2 April 1876 in Castle Cary, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

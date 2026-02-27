@@ -591,7 +591,7 @@
     "id": "17677",
     "name": "Charles•Guiette",
     "born": "28 March 1885 in Antwerpen (Antwerp), Antwerpen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -599,6 +599,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17877",
+    "name": "Alphonse•Castex",
+    "born": "6 January 1899 in Dax, Landes (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17977",
+    "name": "Charles•Miller",
+    "born": "23 October 1868 in Marylebone, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

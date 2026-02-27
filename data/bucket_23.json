@@ -629,7 +629,7 @@
     "id": "17823",
     "name": "Robert•Horne",
     "born": "12 October 1877 in Bexley, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -637,6 +637,21 @@
         "discipline": "Cricket",
         "event": "Cricket, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17923",
+    "name": "Montagu•Toller",
+    "born": "2 February 1871 in Barnstaple, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

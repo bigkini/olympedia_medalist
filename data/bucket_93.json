@@ -549,5 +549,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17893",
+    "name": "Jean•Hervé",
+    "born": "30 March 1884 in Paris IXe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -707,5 +707,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17890",
+    "name": "Charles•Gondouin",
+    "born": "21 July 1875 in Paris Xe, Paris (FRA)",
+    "measurements": "169 cm",
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

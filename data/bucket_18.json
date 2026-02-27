@@ -818,8 +818,8 @@
   {
     "id": "17818",
     "name": "William•Wright",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -827,6 +827,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17918",
+    "name": "Harry•Corner",
+    "born": "9 July 1874 in Taunton, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

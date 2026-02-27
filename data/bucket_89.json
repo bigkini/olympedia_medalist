@@ -820,5 +820,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17889",
+    "name": "Auguste•Giroux",
+    "born": "29 July 1874 in Châteauneuf-sur-Loire, Loiret (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

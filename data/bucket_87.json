@@ -899,5 +899,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17887",
+    "name": "Jean-Guy•Gautier",
+    "born": "30 December 1875 in Jarnac, Charente (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

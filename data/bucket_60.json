@@ -732,5 +732,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17960",
+    "name": "Denis•Bingham",
+    "born": "11 August 1880 in Bangor, Northern Ireland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

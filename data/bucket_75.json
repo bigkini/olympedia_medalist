@@ -608,5 +608,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17875",
+    "name": "Jean•Bruneval",
+    "born": "28 December 1899 in Rennes, Ille-et-Vilaine (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17975",
+    "name": "Walter•McCreery",
+    "born": "13 August 1871 in Zürich, Zürich (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

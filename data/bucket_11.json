@@ -621,7 +621,7 @@
     "id": "17811",
     "name": "Eustaquio•Escandón",
     "born": "25 January 1862 in Paris VIIIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -629,6 +629,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17911",
+    "name": "Joseph•Roffo",
+    "born": "21 January 1879 in Paris Xe, Paris (FRA)",
+    "measurements": "182 cm",
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -667,7 +667,7 @@
     "id": "17800",
     "name": "•Rain in Face",
     "born": "10 February 1885",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -675,6 +675,21 @@
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17900",
+    "name": "Marcel-Frédéric•Lubin-Lebrère",
+    "born": "21 July 1891 in Agen, Lot-et-Garonne (FRA)",
+    "measurements": "181 cm / 92 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

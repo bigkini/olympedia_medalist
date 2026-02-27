@@ -775,13 +775,28 @@
     "id": "17826",
     "name": "Douglas•Robinson",
     "born": "12 August 1864 in Plymouth, Montserrat (MTS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "FRA",
         "discipline": "Cricket",
         "event": "Cricket, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17926",
+    "name": "Walter•Rutherford",
+    "born": "23 September 1857 in Crailing, Scotland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Golf",
+        "event": "Individual, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

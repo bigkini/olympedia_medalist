@@ -773,7 +773,7 @@
     "id": "17822",
     "name": "William•Browning",
     "born": "1 June 1874 in Westminster, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -781,6 +781,21 @@
         "discipline": "Cricket",
         "event": "Cricket, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17922",
+    "name": "John•Symes",
+    "born": "11 January 1879 in Crediton, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

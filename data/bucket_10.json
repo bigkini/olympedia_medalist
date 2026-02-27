@@ -796,7 +796,7 @@
     "id": "17810",
     "name": "Manuel, Marqués•Escandón",
     "born": "13 August 1857 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -804,6 +804,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17910",
+    "name": "Roger•Basset",
+    "born": "3 May 1881 in Lyon, Rhône (FRA)",
+    "measurements": "168 cm",
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

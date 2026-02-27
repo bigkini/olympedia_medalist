@@ -689,7 +689,7 @@
     "id": "17838",
     "name": "Jacques•Sautereau",
     "born": "7 September 1860 in Louveciennes, Yvelines (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -697,6 +697,21 @@
         "discipline": "Croquet",
         "event": "Singles, Two Balls, Open\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17938",
+    "name": "Sydney•Hayes",
+    "born": "19 July 1891 in Stockport, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

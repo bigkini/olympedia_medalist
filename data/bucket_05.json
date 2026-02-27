@@ -700,13 +700,28 @@
     "id": "17805",
     "name": "Alexander•Turnbull",
     "born": "6 December 1872 in Paris, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "CAN",
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17905",
+    "name": "André•Rischmann",
+    "born": "26 January 1882 in Paris Ie, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

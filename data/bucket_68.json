@@ -577,5 +577,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17868",
+    "name": "Louis•Béguet",
+    "born": "7 December 1894 in Neuf-Mesnil, Nord (FRA)",
+    "measurements": "172 cm / 99 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17968",
+    "name": "Humphrey•Guinness",
+    "born": "24 March 1902 in Haslemere, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

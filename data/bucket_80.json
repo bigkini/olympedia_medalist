@@ -512,5 +512,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17880",
+    "name": "Sélim•Curtet",
+    "born": {},
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17980",
+    "name": "Vivian•Lockett",
+    "born": "18 July 1880 in New Brighton, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

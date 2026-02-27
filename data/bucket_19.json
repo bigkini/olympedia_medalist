@@ -744,7 +744,7 @@
     "id": "17819",
     "name": "William•Anderson",
     "born": "27 June 1859 in Edinburgh, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -752,6 +752,21 @@
         "discipline": "Cricket",
         "event": "Cricket, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17919",
+    "name": "Frederick•Cuming",
+    "born": "27 May 1875 in Bradninch, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

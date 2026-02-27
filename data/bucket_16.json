@@ -649,7 +649,7 @@
     "id": "17816",
     "name": "Leopoldo, Conde•Sainz de la Maza",
     "born": "23 December 1879 in Utrera, Sevilla (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -657,6 +657,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17916",
+    "name": "Francis•Burchell",
+    "born": "25 September 1873 in Clifton, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -763,5 +763,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17882",
+    "name": "Albert•Dupouy",
+    "born": "21 February 1901 in Carignan, Ardennes (FRA)",
+    "measurements": "170 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17982",
+    "name": "Toby•Rawlinson",
+    "born": "17 January 1867 in London, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

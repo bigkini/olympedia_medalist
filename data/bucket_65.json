@@ -698,5 +698,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17965",
+    "name": "Bryan•Fowler",
+    "born": "18 August 1898 in Kells, Meath (IRL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

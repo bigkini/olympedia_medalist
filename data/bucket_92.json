@@ -561,5 +561,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17892",
+    "name": "Constantin•Henriquez",
+    "born": "1880 in Port-de-Paix, Nord-Ouest (HAI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

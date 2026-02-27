@@ -653,7 +653,7 @@
     "id": "17862",
     "name": "Édouard•de Rothschild",
     "born": "24 February 1868 in Paris Ie, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -661,6 +661,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17962",
+    "name": "Denis•Daly",
+    "born": "5 September 1862 in Athenry, Galway (IRL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

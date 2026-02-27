@@ -601,5 +601,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17896",
+    "name": "Victor•Lardanchet",
+    "born": "29 December 1863 in Desnes, Jura (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

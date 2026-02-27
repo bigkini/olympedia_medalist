@@ -680,7 +680,7 @@
     "id": "17825",
     "name": "Arthur•MacEvoy",
     "born": "8 November 1868 in Chantilly, Oise (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -688,6 +688,21 @@
         "discipline": "Cricket",
         "event": "Cricket, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17925",
+    "name": "David•Robertson",
+    "born": "21 March 1869 in Shawlands, Scotland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Golf",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -526,5 +526,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17897",
+    "name": "René•Lasserre",
+    "born": "9 October 1895 in Bayonne, Pyrénées-Atlantiques (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

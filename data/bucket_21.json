@@ -696,7 +696,7 @@
     "id": "17821",
     "name": "John•Braid",
     "born": "29 January 1869 in Kirkcaldy, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -704,6 +704,21 @@
         "discipline": "Cricket",
         "event": "Cricket, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17921",
+    "name": "Alfred•Powlesland",
+    "born": "7 August 1875 in Newton Abbot, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -642,7 +642,7 @@
     "id": "17864",
     "name": "Vladimir•Aïtoff",
     "born": "5 August 1879 in Paris VIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -650,6 +650,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17964",
+    "name": "Jean, Comte•De Madre",
+    "born": "17 September 1862 in Meudon, Hauts-de-Seine (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

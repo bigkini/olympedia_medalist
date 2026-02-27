@@ -722,7 +722,7 @@
     "id": "17815",
     "name": "Jacobo, Duque•de Alba",
     "born": "17 October 1878 in Madrid, Madrid (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -730,6 +730,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17915",
+    "name": "George•Buckley",
+    "born": "20 May 1875 in Clapton, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

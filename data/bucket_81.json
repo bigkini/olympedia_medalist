@@ -825,5 +825,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17881",
+    "name": "Clément•Dupont",
+    "born": "11 April 1899 in Argelès-Gazost, Hautes-Pyrénées (FRA)",
+    "measurements": "165 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17981",
+    "name": "Percy•O'Reilly",
+    "born": "27 July 1870 in Colamber, Edgeworthstown, Longford (IRL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

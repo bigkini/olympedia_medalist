@@ -631,13 +631,28 @@
     "id": "17806",
     "name": "Edgar•Aabye",
     "born": "1 September 1865 in Helsingør, Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "DEN",
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17906",
+    "name": "André•Roosevelt",
+    "born": "24 April 1879 in Paris VIIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

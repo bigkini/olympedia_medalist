@@ -603,5 +603,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17888",
+    "name": "Gilbert•Gérintès",
+    "born": "16 August 1902 in Saint-Étienne, Loire (FRA)",
+    "measurements": "180 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

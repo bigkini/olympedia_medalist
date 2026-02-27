@@ -569,5 +569,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17895",
+    "name": "Maurice•Labeyrie",
+    "born": "3 October 1887 in Saint-Geours-de-Maremne, Landes (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

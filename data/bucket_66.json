@@ -585,5 +585,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17966",
+    "name": "Freddie•Freake",
+    "born": "7 March 1876 in Botley, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

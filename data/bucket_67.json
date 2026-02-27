@@ -666,5 +666,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17867",
+    "name": "Jean•Bayard",
+    "born": "23 October 1897 in Toulouse, Haute-Garonne (FRA)",
+    "measurements": "173 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17967",
+    "name": "Freddie•Guest",
+    "born": "14 June 1875 in London, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

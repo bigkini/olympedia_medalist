@@ -634,5 +634,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17959",
+    "name": "Frederick•Barrett",
+    "born": "20 June 1875 in Cork, Cork (IRL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

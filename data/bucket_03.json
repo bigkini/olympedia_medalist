@@ -872,8 +872,8 @@
   {
     "id": "17803",
     "name": "•Snake Eater",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -881,6 +881,21 @@
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17903",
+    "name": "Alexandre•Pharamond",
+    "born": "20 October 1876 in Paris Ie, Paris (FRA)",
+    "measurements": "164 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -564,8 +564,8 @@
   {
     "id": "17686",
     "name": "Raymond•Keppens",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -573,6 +573,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17886",
+    "name": "Henri•Galau",
+    "born": "18 July 1897 in Villefranche-de-Conflent, Pyrénées-Orientales (FRA)",
+    "measurements": "173 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -620,7 +620,7 @@
     "id": "17863",
     "name": "Abel•Albert",
     "born": "31 January 1873 in Paris VIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -628,6 +628,21 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17963",
+    "name": "David•Dawnay",
+    "born": "10 July 1903 in Marylebone, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

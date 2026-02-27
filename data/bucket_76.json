@@ -613,5 +613,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17876",
+    "name": "Aimé•Cassayet-Armagnac",
+    "born": "9 April 1893 in Mont-de-Marsan, Landes (FRA)",
+    "measurements": "183 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17976",
+    "name": "Tim•Melvill",
+    "born": "13 February 1877 in Cape Town, Western Cape (RSA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

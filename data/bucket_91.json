@@ -712,5 +712,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17891",
+    "name": "Raoul•Got",
+    "born": "11 October 1900 in Perpignan, Pyrénées-Orientales (FRA)",
+    "measurements": "165 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -658,7 +658,7 @@
     "id": "17804",
     "name": "•Spotted Tail",
     "born": "1883 in Ohsweken, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -666,6 +666,21 @@
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17904",
+    "name": "Étienne•Piquiral",
+    "born": "15 June 1901 in Perpignan, Pyrénées-Orientales (FRA)",
+    "measurements": "180 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

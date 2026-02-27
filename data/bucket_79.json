@@ -661,7 +661,7 @@
     "id": "17679",
     "name": "Adolphe•Goemaere",
     "born": "7 May 1895 in Saint-Josse-ten-Noode, Région de Bruxelles-Capitale (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -669,6 +669,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17879",
+    "name": "René•Crabos",
+    "born": "7 February 1899 in Saint-Sever, Landes (FRA)",
+    "measurements": "167 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17979",
+    "name": "Patteson•Nickalls",
+    "born": "23 January 1876 in Widdington, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

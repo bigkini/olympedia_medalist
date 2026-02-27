@@ -838,7 +838,7 @@
     "id": "17513",
     "name": "Baeden•Choppy",
     "born": "14 April 1976 in Mackay, Queensland (AUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1996 Summer Olympics",
@@ -846,6 +846,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17913",
+    "name": "Arthur•Birkett",
+    "born": "25 October 1875 in Exeter, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

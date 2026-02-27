@@ -566,7 +566,7 @@
     "id": "17801",
     "name": "•Red Jacket",
     "born": "15 April 1879 in Six Nations Reserve, Brantford, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -574,6 +574,21 @@
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17901",
+    "name": "Joseph•Olivier",
+    "born": "2 December 1874 in Paris VIe, Paris (FRA)",
+    "measurements": "180 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }
