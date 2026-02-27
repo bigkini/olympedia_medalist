@@ -658,5 +658,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18057",
+    "name": "Hugo•Betting",
+    "born": "25 January 1880 in Stuttgart, Baden-Württemberg (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

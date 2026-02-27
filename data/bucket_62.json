@@ -668,7 +668,7 @@
     "id": "17962",
     "name": "Denis•Daly",
     "born": "5 September 1862 in Athenry, Galway (IRL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -676,6 +676,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18062",
+    "name": "Hans•Latscha",
+    "born": "10 March 1881 in Essen, Nordrhein-Westfalen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

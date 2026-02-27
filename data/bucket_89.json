@@ -825,7 +825,7 @@
     "id": "17889",
     "name": "Auguste•Giroux",
     "born": "29 July 1874 in Châteauneuf-sur-Loire, Loiret (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -833,6 +833,36 @@
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17989",
+    "name": "Cecil•Browning",
+    "born": "29 January 1883 in Hampstead, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Racquets",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18089",
+    "name": "Julio•Müller",
+    "born": "28 February 1905 in Chihuahua, Chihuahua (MEX)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

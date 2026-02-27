@@ -729,5 +729,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17990",
+    "name": "Edmond•Bury",
+    "born": "4 November 1884 in Kensington, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Racquets",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18090",
+    "name": "Antonio•Nava",
+    "born": "5 September 1905 in Ixcaquixtla, Puebla (MEX)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

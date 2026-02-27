@@ -441,13 +441,28 @@
     "id": "17937",
     "name": "Eric•Dutton",
     "born": "26 July 1883 in Chorlton-cum-Hardy, Manchester, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18037",
+    "name": "Alexander•Kidd",
+    "born": null,
+    "measurements": "96 kg",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

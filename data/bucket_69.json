@@ -553,13 +553,28 @@
     "id": "17969",
     "name": "William•Hinde",
     "born": "25 June 1900 in Cupar, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "GBR",
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18069",
+    "name": "Adolf•Stockhausen",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

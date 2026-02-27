@@ -657,13 +657,28 @@
     "id": "17964",
     "name": "Jean, Comte•De Madre",
     "born": "17 September 1862 in Meudon, Hauts-de-Seine (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "GBR",
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18064",
+    "name": "Richard•Ludwig",
+    "born": "22 May 1877 in Frankfurt am Main, Hessen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

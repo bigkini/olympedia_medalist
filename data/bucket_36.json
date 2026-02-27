@@ -793,7 +793,7 @@
     "id": "17936",
     "name": "George•Buckland",
     "born": "13 April 1883 in Didsbury, Manchester, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -801,6 +801,21 @@
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18036",
+    "name": "Albert•Ireton",
+    "born": "15 May 1879 in Baldock, England (GBR)",
+    "measurements": "93 kg",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Boxing",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

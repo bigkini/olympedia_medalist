@@ -663,7 +663,7 @@
     "id": "17851",
     "name": "John•Beresford",
     "born": "5 December 1866 in Newcastle upon Tyne, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -671,6 +671,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18051",
+    "name": "James•Woodget",
+    "born": "28 September 1874 in Burnham Market, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

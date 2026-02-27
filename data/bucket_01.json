@@ -591,5 +591,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "18001",
+    "name": "Leslie•Hood",
+    "born": "13 September 1876 in York, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18101",
+    "name": "Dumitru•Armășel",
+    "born": "1901",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

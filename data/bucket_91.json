@@ -727,5 +727,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17991",
+    "name": "Henry•Leaf",
+    "born": "18 October 1862 in Scarborough, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Racquets",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Racquets",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18091",
+    "name": "Alberto•Ramos",
+    "born": "25 May 1907 in Zanatepec, Oaxaca (MEX)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

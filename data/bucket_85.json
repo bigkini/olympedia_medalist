@@ -683,5 +683,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17985",
+    "name": "Percival•Wise",
+    "born": "17 April 1885 in Hong Kong, Hong Kong (HKG)",
+    "measurements": "177 cm",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

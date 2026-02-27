@@ -758,13 +758,35 @@
     "id": "17827",
     "name": "Alfred•Schneidau",
     "born": "5 February 1867 in Camden, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "FRA",
         "discipline": "Cricket",
         "event": "Cricket, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18027",
+    "name": "Joseph•Dowler",
+    "born": "1 February 1879 in Rushden, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

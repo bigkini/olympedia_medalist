@@ -566,13 +566,50 @@
     "id": "17892",
     "name": "Constantin•Henriquez",
     "born": "1880 in Port-de-Paix, Nord-Ouest (HAI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "FRA",
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17992",
+    "name": "Evan•Noel",
+    "born": "23 January 1879 in Stanmore, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Jeu De Paume",
+        "event": "Singles, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Jeu De Paume",
+        "event": "Doubles, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18092",
+    "name": "Alfred•Read",
+    "born": "13 October 1878 in Bethnal Green, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

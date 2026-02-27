@@ -664,7 +664,7 @@
     "id": "17907",
     "name": "Émile•Sarrade",
     "born": "10 March 1877 in Paris IIIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -678,6 +678,21 @@
         "noc": "FRA",
         "discipline": "Rugby (Rugby)",
         "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18007",
+    "name": "M. L.•Logan",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

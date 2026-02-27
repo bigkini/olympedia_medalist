@@ -737,7 +737,7 @@
     "id": "17915",
     "name": "George•Buckley",
     "born": "20 May 1875 in Clapton, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -745,6 +745,21 @@
         "discipline": "Cricket",
         "event": "Cricket, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18015",
+    "name": "Nicholas•Tregurtha",
+    "born": "14 December 1883 in Penzance, England (GBR)",
+    "measurements": "175 cm",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

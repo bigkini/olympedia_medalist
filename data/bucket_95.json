@@ -574,13 +574,43 @@
     "id": "17895",
     "name": "Maurice•Labeyrie",
     "born": "3 October 1887 in Saint-Geours-de-Maremne, Landes (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "FRA",
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17995",
+    "name": "Henry•Birtles",
+    "born": "1874 in Moseley, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18095",
+    "name": "Sijtse•Jansma",
+    "born": "22 May 1898 in Leeuwarden, Friesland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

@@ -708,13 +708,28 @@
     "id": "17946",
     "name": "Norman•Whitley",
     "born": "29 June 1883 in Chorlton-cum-Hardy, Manchester, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18046",
+    "name": "George•Smith",
+    "born": "1876 in Kirkdale, Liverpool, England (GBR)",
+    "measurements": "95 kg",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

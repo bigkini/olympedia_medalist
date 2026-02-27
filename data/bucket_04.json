@@ -683,5 +683,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18004",
+    "name": "Eddie•Jones",
+    "born": "31 March 1880 in Falmouth, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

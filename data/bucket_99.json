@@ -684,5 +684,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17999",
+    "name": "Frederick•Dean",
+    "born": "1 September 1880 in Plymouth, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18099",
+    "name": "Rinus•van Rekum",
+    "born": "7 February 1884 in Arnhem, Gelderland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

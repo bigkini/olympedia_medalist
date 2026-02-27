@@ -821,5 +821,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18010",
+    "name": "Herbert•Nicol",
+    "born": "12 April 1873 in Birmingham, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

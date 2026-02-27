@@ -616,7 +616,7 @@
     "id": "17930",
     "name": "Neville•Lytton",
     "born": "6 February 1879 in Kolkata (Calcutta), West Bengal (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -624,6 +624,21 @@
         "discipline": "Jeu De Paume",
         "event": "Singles, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "18030",
+    "name": "William•Greggan",
+    "born": "5 December 1882 in Kirkcudbright, Scotland (GBR)",
+    "measurements": "89 kg",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

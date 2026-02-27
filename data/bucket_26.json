@@ -790,13 +790,28 @@
     "id": "17926",
     "name": "Walter•Rutherford",
     "born": "23 September 1857 in Crailing, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "GBR",
         "discipline": "Golf",
         "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18026",
+    "name": "Jim•Clarke",
+    "born": "6 October 1874 in Bohola, Mayo (IRL)",
+    "measurements": "83 kg",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

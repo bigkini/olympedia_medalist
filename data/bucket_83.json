@@ -733,13 +733,28 @@
     "id": "17883",
     "name": "Alfred•Eluère",
     "born": "28 July 1893 in Saint-Clément-des-Levées, Maine-et-Loire (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "FRA",
         "discipline": "Rugby (Rugby)",
         "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17983",
+    "name": "Auston•Rotheram",
+    "born": "11 June 1876 in Sallymount House, Fore, Westmeath (IRL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

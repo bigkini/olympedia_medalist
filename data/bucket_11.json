@@ -646,5 +646,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "18011",
+    "name": "Valentine•Smith",
+    "born": "21 September 1873 in Birmingham, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -485,5 +485,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18047",
+    "name": "Harry•Stiff",
+    "born": "23 October 1881 in Sudbury, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

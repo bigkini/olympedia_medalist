@@ -486,13 +486,28 @@
     "id": "17942",
     "name": "Gerald•Mason",
     "born": "12 August 1877 in Ashton upon Mersey, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18042",
+    "name": "Paddy•Philbin",
+    "born": "4 August 1874 in Castlebar, Mayo (IRL)",
+    "measurements": "98 kg",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

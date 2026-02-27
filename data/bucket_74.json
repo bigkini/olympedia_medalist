@@ -746,7 +746,7 @@
     "id": "17974",
     "name": "John•McCann",
     "born": "25 August 1879 in Dublin, Dublin City (IRL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -754,6 +754,21 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18074",
+    "name": "Periklis•Kakousis",
+    "born": "1879",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "GRE",
+        "discipline": "Tug-Of-War",
+        "event": "Unlimited, Two Hands, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

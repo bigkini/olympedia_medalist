@@ -635,13 +635,28 @@
     "id": "17963",
     "name": "David•Dawnay",
     "born": "10 July 1903 in Marylebone, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "GBR",
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18063",
+    "name": "Erich•Ludwig",
+    "born": "1 May 1879 in Frankfurt am Main, Hessen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

@@ -747,5 +747,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17994",
+    "name": "Frank•Bayliss",
+    "born": "5 July 1876 in Birmingham, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18094",
+    "name": "Jan•Hengeveld",
+    "born": "24 December 1894 in Arnhem, Gelderland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

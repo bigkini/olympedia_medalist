@@ -532,7 +532,7 @@
     "id": "17956",
     "name": "Thomas•Thornycroft",
     "born": "22 November 1881 in Brentford, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -547,6 +547,21 @@
         "discipline": "Motorboating",
         "event": "C-Class, Open\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18056",
+    "name": "Albert•Amrhein",
+    "born": "29 December 1870 in Frankfurt am Main, Hessen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

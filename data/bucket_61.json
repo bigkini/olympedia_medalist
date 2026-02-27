@@ -849,7 +849,7 @@
     "id": "17961",
     "name": "Walter•Buckmaster",
     "born": "16 October 1872 in Wimbledon, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -863,6 +863,21 @@
         "noc": "GBR",
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18061",
+    "name": "Arnold•Landvoigt",
+    "born": "6 February 1879 in Washington, District of Columbia (USA)",
+    "measurements": "173 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

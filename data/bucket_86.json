@@ -590,5 +590,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17986",
+    "name": "Jack, Lord•Wodehouse",
+    "born": "11 November 1883 in Witton, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -568,7 +568,7 @@
     "id": "17829",
     "name": "Henry•Terry",
     "born": "27 May 1869 in Huddersfield, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -576,6 +576,21 @@
         "discipline": "Cricket",
         "event": "Cricket, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18029",
+    "name": "Frederick•Goodfellow",
+    "born": "July 1874 in Cambridge, England (GBR)",
+    "measurements": "99 kg",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

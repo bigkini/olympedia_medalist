@@ -644,7 +644,7 @@
     "id": "17923",
     "name": "Montagu•Toller",
     "born": "2 February 1871 in Barnstaple, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -652,6 +652,21 @@
         "discipline": "Cricket",
         "event": "Cricket, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "18023",
+    "name": "Tom•Butler",
+    "born": "8 December 1871 in Woodstown, Waterford (IRL)",
+    "measurements": "100 kg",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

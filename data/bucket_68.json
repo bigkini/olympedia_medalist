@@ -597,13 +597,28 @@
     "id": "17968",
     "name": "Humphrey•Guinness",
     "born": "24 March 1902 in Haslemere, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "GBR",
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "18068",
+    "name": "August•Schmierer",
+    "born": "28 April 1870 in Stuttgart, Baden-Württemberg (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

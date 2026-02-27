@@ -754,5 +754,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18033",
+    "name": "Thomas•Homewood",
+    "born": "25 September 1881 in East Peckham, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

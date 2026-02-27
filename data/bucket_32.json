@@ -637,5 +637,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "18032",
+    "name": "Fred•Holmes",
+    "born": "9 August 1886 in Cosford, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
