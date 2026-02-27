@@ -325,5 +325,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "13237",
+    "name": "Alison•Sydor",
+    "born": "9 September 1966 in Edmonton, Alberta (CAN)",
+    "measurements": "168 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Cycling Mountain Bike (Cycling)",
+        "event": "Cross-Country, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

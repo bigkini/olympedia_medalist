@@ -559,7 +559,7 @@
     "id": "12018",
     "name": "Friedrich•Gerhard",
     "born": "24 July 1884 in Yasnaya Polyana, Kaliningrad (RUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -573,6 +573,50 @@
         "noc": "GER",
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13318",
+    "name": "Brett•Aitken",
+    "born": "25 January 1971 in Adelaide, South Australia (AUS)",
+    "measurements": "173 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Madison, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13518",
+    "name": "Marcello•Bartalini",
+    "born": "12 March 1962 in Empoli, Firenze (ITA)",
+    "measurements": "193 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

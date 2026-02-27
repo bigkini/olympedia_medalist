@@ -490,7 +490,7 @@
     "id": "12879",
     "name": "Hiram•Tuttle",
     "born": "22 December 1882 in Dexter, Maine (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -504,6 +504,21 @@
         "noc": "USA",
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13579",
+    "name": "Arne•Berg",
+    "born": "3 December 1909 in Ösmo, Nynäshamn, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

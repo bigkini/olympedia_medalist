@@ -309,7 +309,7 @@
     "id": "12798",
     "name": "Ludwig•Stubbendorff",
     "born": "24 February 1906 in Turloff, Mecklenburg-Vorpommern (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -324,6 +324,87 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12998",
+    "name": "Wilf•White",
+    "born": "30 March 1904 in Bickerton, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13198",
+    "name": "Paola•Pezzo",
+    "born": "8 January 1969 in Bosco Chiesanuova, Verona (ITA)",
+    "measurements": "178 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Mountain Bike (Cycling)",
+        "event": "Cross-Country, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Mountain Bike (Cycling)",
+        "event": "Cross-Country, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13498",
+    "name": "Alan•Bannister",
+    "born": "3 November 1922 in Manchester, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13598",
+    "name": "José•Beyaert",
+    "born": "1 October 1925 in Lens, Pas-de-Calais (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

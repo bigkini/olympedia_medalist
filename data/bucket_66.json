@@ -434,7 +434,7 @@
     "id": "12866",
     "name": "Gottfried•Trachsel",
     "born": "5 October 1907 in Thun, Bern (SUI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -449,6 +449,28 @@
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Open\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12966",
+    "name": "Harry•von Rochow",
+    "born": "12 August 1881 in Schloß Reckahn, Kloster Lehnin, Brandenburg (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -450,7 +450,7 @@
     "id": "12717",
     "name": "Karel•Schummelketel",
     "born": "24 September 1897 in Breda, Noord-Brabant (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -458,6 +458,28 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13217",
+    "name": "Erika•Salumäe",
+    "born": "11 June 1962 in Pärnu, Pärnumaa (EST)",
+    "measurements": "165 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EST",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

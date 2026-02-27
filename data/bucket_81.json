@@ -713,5 +713,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "13281",
+    "name": "Diana•Žiliūtė",
+    "born": "28 May 1976 in Rietavas, Telšiai (LTU)",
+    "measurements": "162 cm / 61 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "LTU",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

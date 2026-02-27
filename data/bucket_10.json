@@ -478,8 +478,8 @@
   {
     "id": "12910",
     "name": "Maurice•Van Ranst",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -487,6 +487,100 @@
         "discipline": "Equestrian Vaulting (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13010",
+    "name": "Hans Günter•Winkler",
+    "born": "24 July 1926 in Barmen, Wuppertal, Nordrhein-Westfalen (GER)",
+    "measurements": "174 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13410",
+    "name": "Arthur•Andrews",
+    "born": "1 September 1876 in Muncie, Indiana (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "5 miles, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "25 miles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13510",
+    "name": "Bernd•Barleben",
+    "born": "1 January 1940 in Berlin, Berlin (GER)",
+    "measurements": "183 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

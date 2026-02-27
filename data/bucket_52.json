@@ -564,5 +564,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "13552",
+    "name": "Andrzej•Bek",
+    "born": "26 June 1951 in Łódź, Łódzkie (POL)",
+    "measurements": "180 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

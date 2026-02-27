@@ -562,5 +562,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "13433",
+    "name": "Luigi•Arienti",
+    "born": "6 January 1937 in Desio, Monza e Brianza (ITA)",
+    "measurements": "168 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

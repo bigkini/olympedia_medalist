@@ -354,5 +354,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "13531",
+    "name": "Steve•Bauer",
+    "born": "12 June 1959 in St. Catharines, Ontario (CAN)",
+    "measurements": "170 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

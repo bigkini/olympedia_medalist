@@ -465,5 +465,71 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12957",
+    "name": "Eduard•von Lütcken",
+    "born": "26 October 1882 in Syke, Niedersachsen (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13057",
+    "name": "Judith•Arndt",
+    "born": "23 July 1976 in Königs Wusterhausen, Brandenburg (GER)",
+    "measurements": "173 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2012 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Individual Time Trial, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13157",
+    "name": "Monique•Knol",
+    "born": "31 March 1964 in Wolvega, Friesland (NED)",
+    "measurements": "168 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

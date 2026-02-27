@@ -451,7 +451,7 @@
     "id": "12196",
     "name": "André•Jousseaumé",
     "born": "27 July 1894 in Yvré-l'Évêque, Sarthe (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -486,6 +486,36 @@
         "noc": "FRA",
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Individual, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12996",
+    "name": "John•Whitaker",
+    "born": "5 August 1955 in Huddersfield, England (GBR)",
+    "measurements": "171 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13396",
+    "name": "Gary•Anderson",
+    "born": "18 September 1967 in London, England (GBR)",
+    "measurements": "181 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "NZL",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

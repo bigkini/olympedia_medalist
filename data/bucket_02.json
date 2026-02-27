@@ -507,7 +507,7 @@
     "id": "12902",
     "name": "Georges•Van De Poele",
     "born": "23 March 1868 in Gent (Ghent), Oost-Vlaanderen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -522,6 +522,21 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "High Jump, Open\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13402",
+    "name": "Severino•Andreoli",
+    "born": "8 January 1941 in Caprino Veronese, Verona (ITA)",
+    "measurements": "173 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -559,5 +559,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "13336",
+    "name": "Reinhard•Alber",
+    "born": "6 February 1964 in Singen, Baden-Württemberg (GER)",
+    "measurements": "184 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

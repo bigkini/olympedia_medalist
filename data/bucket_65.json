@@ -487,7 +487,7 @@
     "id": "12765",
     "name": "Joaquín•Solano",
     "born": "2 June 1913 in Chicontepec, Veracruz (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -495,6 +495,28 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13065",
+    "name": "Antonella•Bellutti",
+    "born": "7 November 1968 in Bolzano, Bolzano-Bozen (ITA)",
+    "measurements": "180 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

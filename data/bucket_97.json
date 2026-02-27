@@ -374,7 +374,7 @@
     "id": "12497",
     "name": "Oskar•Nilsson",
     "born": "25 January 1897 in Ringarum, Valdemarsvik, Östergötland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -382,6 +382,51 @@
         "discipline": "Equestrian Vaulting (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12997",
+    "name": "Michael•Whitaker",
+    "born": "17 March 1960 in Huddersfield, England (GBR)",
+    "measurements": "172 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13097",
+    "name": "Susan•DeMattei",
+    "born": "15 October 1962 in San Francisco, California (USA)",
+    "measurements": "165 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Mountain Bike (Cycling)",
+        "event": "Cross-Country, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13297",
+    "name": "Alfred•Achermann",
+    "born": "17 September 1959 in Hitzkirch, Luzern (SUI)",
+    "measurements": "176 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

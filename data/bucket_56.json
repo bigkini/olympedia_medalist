@@ -400,5 +400,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12956",
+    "name": "Eugen•Freiherr von Lotzbeck",
+    "born": "24 February 1882 in München (Munich), Bayern (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13556",
+    "name": "Arnold•Belgardt",
+    "born": "29 January 1937 in St. Petersburg, St. Petersburg (RUS)",
+    "measurements": "185 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

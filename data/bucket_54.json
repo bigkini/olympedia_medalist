@@ -489,5 +489,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12954",
+    "name": "Rabod Wilhelm•von Kröcher",
+    "born": "30 June 1880 in Kingsbridge, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

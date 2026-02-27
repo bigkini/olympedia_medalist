@@ -489,5 +489,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12974",
+    "name": "Konrad•Freiherr von Wangenheim",
+    "born": "20 August 1909 in Hannover, Niedersachsen (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13274",
+    "name": "Zulfiya•Zabirova",
+    "born": "19 December 1973 in Toshkent, Toshkent Shahri (UZB)",
+    "measurements": "178 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Individual Time Trial, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

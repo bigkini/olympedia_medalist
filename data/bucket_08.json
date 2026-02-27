@@ -565,7 +565,7 @@
     "id": "12808",
     "name": "Sigurd•Svensson",
     "born": "27 September 1912 in Vadsbro, Flen, Södermanland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -573,6 +573,51 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13008",
+    "name": "Gerd•Wiltfang",
+    "born": "27 April 1946 in Stuhr, Niedersachsen (GER)",
+    "measurements": "182 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13408",
+    "name": "Walt•Andrews",
+    "born": "8 February 1881 in ?, Michigan (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13508",
+    "name": "Yury•Barinov",
+    "born": "31 May 1955 in Doschatoye, Nizhny Novgorod (RUS)",
+    "measurements": "173 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

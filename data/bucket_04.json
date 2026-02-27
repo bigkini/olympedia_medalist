@@ -465,7 +465,7 @@
     "id": "12904",
     "name": "Adolf•van der Voort van Zijp",
     "born": "1 September 1892 in Klambir Lima, Sumatera Utara (INA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -487,6 +487,36 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13504",
+    "name": "Edward•Barcik",
+    "born": "31 May 1950 in Prusice, Dolnośląskie (POL)",
+    "measurements": "178 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13604",
+    "name": "René•Bianchi",
+    "born": "20 May 1934 in Conflans-sur-Seine, Marne (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

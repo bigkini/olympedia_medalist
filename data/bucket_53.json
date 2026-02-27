@@ -547,5 +547,55 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "13253",
+    "name": "Leontien•Zijlaard-van Moorsel",
+    "born": "22 March 1970 in Boekel, Noord-Brabant (NED)",
+    "measurements": "168 cm / 69 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Individual Time Trial, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Individual Pursuit, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Points Race, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Individual Time Trial, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Individual Pursuit, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

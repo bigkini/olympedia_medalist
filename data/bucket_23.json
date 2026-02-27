@@ -445,5 +445,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "13123",
+    "name": "Belem•Guerrero",
+    "born": "8 March 1974 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
+    "measurements": "160 cm / 58 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Points Race, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13523",
+    "name": "Charles•Bartlett",
+    "born": "6 February 1885 in Southwark, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "100 kilometres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

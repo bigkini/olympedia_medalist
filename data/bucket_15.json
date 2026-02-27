@@ -568,5 +568,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "13415",
+    "name": "Jacques•Anquetil",
+    "born": "8 January 1934 in Mont-Saint-Aignan, Seine-Maritime (FRA)",
+    "measurements": "172 cm",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

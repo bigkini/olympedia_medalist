@@ -623,7 +623,7 @@
     "id": "12913",
     "name": "Henri•van Schaik",
     "born": "24 July 1899 in Delft, Zuid-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -631,6 +631,72 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13013",
+    "name": "John E. B.•Wofford",
+    "born": "11 April 1931 in Washington, District of Columbia (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13213",
+    "name": "Petra•Roßner",
+    "born": "14 November 1966 in Leipzig, Sachsen (GER)",
+    "measurements": "174 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Individual Pursuit, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13613",
+    "name": "Teddy•Billington",
+    "born": "14 July 1882 in Southampton, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "¼ mile, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "⅓ mile, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "½ mile, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1 mile, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

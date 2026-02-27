@@ -356,5 +356,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "13220",
+    "name": "Sandra•Schumacher",
+    "born": "25 December 1966 in Stuttgart, Baden-Württemberg (GER)",
+    "measurements": "176 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

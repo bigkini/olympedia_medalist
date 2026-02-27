@@ -576,5 +576,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12960",
+    "name": "Carl•von Moers",
+    "born": "9 December 1871 in Neuwied, Rheinland-Pfalz (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13160",
+    "name": "Nathalie•Even-Lancien",
+    "born": "7 March 1970 in Paimpol, Côtes-d'Armor (FRA)",
+    "measurements": "170 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

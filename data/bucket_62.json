@@ -500,5 +500,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12962",
+    "name": "Hermann•von Oppeln-Bronikowski",
+    "born": "2 January 1899 in Berlin, Berlin (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

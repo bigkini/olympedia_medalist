@@ -434,7 +434,7 @@
     "id": "12468",
     "name": "Napoléon•Murat",
     "born": "25 August 1872 in Brunoy, Essonne (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -442,6 +442,28 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Hacks and Hunter Combined, Open\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12968",
+    "name": "Clarence, Greve•von Rosen, Jr.",
+    "born": "10 November 1903 in Äsköping, Katrineholm, Södermanland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

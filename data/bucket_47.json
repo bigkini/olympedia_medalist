@@ -373,5 +373,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12947",
+    "name": "Henri•von der Weid",
+    "born": "12 December 1893 in Fribourg, Fribourg (SUI)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13247",
+    "name": "Rebecca•Twigg",
+    "born": "26 March 1963 in Honolulu, Hawaiʻi (USA)",
+    "measurements": "170 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

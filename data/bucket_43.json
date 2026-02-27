@@ -648,7 +648,7 @@
     "id": "12943",
     "name": "Marten•von Barnekow",
     "born": "16 March 1900 in Bydgoszcz, Kujawsko-Pomorskie (POL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -656,6 +656,50 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13343",
+    "name": "Albert•Alden",
+    "born": "6 November 1887 in Bermondsey, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "50 kilometres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "50 kilometres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13543",
+    "name": "John•Becht",
+    "born": "13 October 1886 in Brooklyn, New York, New York (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

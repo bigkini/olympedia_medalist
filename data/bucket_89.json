@@ -686,13 +686,35 @@
     "id": "12189",
     "name": "Eugen•Johansen",
     "born": "1 February 1892 in Oslo, Oslo (NOR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
         "noc": "NOR",
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13089",
+    "name": "Marion•Clignet",
+    "born": "21 February 1964 in Hyde Park, Illinois (USA)",
+    "measurements": "170 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Individual Pursuit, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

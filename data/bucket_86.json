@@ -424,7 +424,7 @@
     "id": "12886",
     "name": "Rubén•Uriza",
     "born": "27 May 1920 in Huitzuco, Guerrero (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -439,6 +439,36 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13086",
+    "name": "Imelda•Chiappa",
+    "born": "10 May 1966 in Bergamo, Bergamo (ITA)",
+    "measurements": "168 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13186",
+    "name": "Jutta•Niehaus",
+    "born": "1 October 1964 in Bocholt, Nordrhein-Westfalen (GER)",
+    "measurements": "168 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

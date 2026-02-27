@@ -405,7 +405,7 @@
     "id": "12777",
     "name": "Garibaldi•Spighi",
     "born": "11 June 1891 in Bagno di Romagna, Forlì-Cesena (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -413,6 +413,43 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12977",
+    "name": "Klaus•Wagner",
+    "born": "16 January 1922 in Knauthain, Leipzig, Sachsen (GER)",
+    "measurements": "182 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13177",
+    "name": "Yvonne•McGregor",
+    "born": "9 April 1961 in Bradford, England (GBR)",
+    "measurements": "165 cm / 56 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Individual Pursuit, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

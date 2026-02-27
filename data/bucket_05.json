@@ -535,7 +535,7 @@
     "id": "12905",
     "name": "Constant•Van Langhendonck",
     "born": "3 February 1870 in Muizen, Mechelen, Antwerpen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -543,6 +543,36 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Long Jump, Open\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13305",
+    "name": "Egon•Adler",
+    "born": "18 February 1937 in Großpösna, Sachsen (GER)",
+    "measurements": "172 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13605",
+    "name": "Bianco•Bianchi",
+    "born": "6 April 1917 in Quarrata, Pistoia (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

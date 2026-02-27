@@ -486,5 +486,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "13121",
+    "name": "Oksana•Grishina",
+    "born": "27 November 1968 in Belokolodezskoye, Tula (RUS)",
+    "measurements": "160 cm / 58 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -420,7 +420,7 @@
     "id": "12575",
     "name": "Alois•Podhajsky",
     "born": "24 February 1898 in Mostar, Hercegovačko-neretvanski kanton (BIH)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -428,6 +428,21 @@
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Individual, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13475",
+    "name": "Antonio•Bailetti",
+    "born": "29 September 1937 in Nanto, Vicenza (ITA)",
+    "measurements": "179 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

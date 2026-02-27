@@ -316,7 +316,7 @@
     "id": "12450",
     "name": "Alvin•Moore",
     "born": "11 November 1891 in Griffin, Indiana (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -324,6 +324,21 @@
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13550",
+    "name": "Giuseppe•Beghetto",
+    "born": "8 October 1939 in Tombolo, Padova (ITA)",
+    "measurements": "173 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

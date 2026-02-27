@@ -629,5 +629,34 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "13061",
+    "name": "Félicia•Ballanger",
+    "born": "12 June 1971 in La Roche-sur-Yon, Vendée (FRA)",
+    "measurements": "168 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "500 metres Time Trial, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

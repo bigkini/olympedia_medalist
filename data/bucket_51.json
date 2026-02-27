@@ -450,5 +450,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12951",
+    "name": "Wilhelm, Graf•von Hohenau",
+    "born": "27 November 1884 in Berlin, Berlin (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

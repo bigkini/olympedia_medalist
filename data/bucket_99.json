@@ -532,7 +532,7 @@
     "id": "12799",
     "name": "Werner•Stuber",
     "born": "27 January 1900",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -540,6 +540,21 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13599",
+    "name": "Roland•Bezamat",
+    "born": "26 May 1924 in Paris XIXe, Paris (FRA)",
+    "measurements": "173 cm",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

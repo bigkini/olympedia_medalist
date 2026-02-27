@@ -510,5 +510,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "13107",
+    "name": "Michelle•Ferris",
+    "born": "24 September 1976 in Warrnambool, Victoria (AUS)",
+    "measurements": "171 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "500 metres Time Trial, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

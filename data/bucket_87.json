@@ -684,5 +684,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "13387",
+    "name": "Flavio•Anastasia",
+    "born": "30 January 1969 in Mariano Comense, Como (ITA)",
+    "measurements": "188 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13487",
+    "name": "Ercole•Baldini",
+    "born": "26 January 1933 in Forlì, Forlì-Cesena (ITA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13587",
+    "name": "Hans•Bernhardt",
+    "born": "28 January 1906 in Hannover, Niedersachsen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

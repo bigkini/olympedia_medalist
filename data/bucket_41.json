@@ -539,5 +539,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "13541",
+    "name": "Roger•Beaufrand",
+    "born": "25 September 1908 in La Garenne-Colombes, Hauts-de-Seine (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -540,13 +540,43 @@
     "id": "11683",
     "name": "Hans•Bühler",
     "born": "12 April 1893 in Winterthur, Zürich (SUI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "SUI",
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13383",
+    "name": "Uwe•Ampler",
+    "born": "11 August 1964 in Zerbst/Anhalt, Sachsen-Anhalt (GER)",
+    "measurements": "182 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13583",
+    "name": "Guido•Bernardi",
+    "born": "21 September 1921 in Pontenure, Piacenza (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

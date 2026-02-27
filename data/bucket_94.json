@@ -635,5 +635,72 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12994",
+    "name": "Frank•Weldon",
+    "born": "2 August 1913 in Mumbai, Maharashtra (IND)",
+    "measurements": "175 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13094",
+    "name": "Gunn Rita•Dahle-Flesjå",
+    "born": "10 February 1973 in Stavanger, Rogaland (NOR)",
+    "measurements": "173 cm / 64 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Cycling Mountain Bike (Cycling)",
+        "event": "Cross-Country, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13394",
+    "name": "Will•Anderson",
+    "born": "6 September 1888 in Toronto, Ontario (CAN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13494",
+    "name": "Ian•Banbury",
+    "born": "27 November 1957 in Hemel Hempstead, England (GBR)",
+    "measurements": "183 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

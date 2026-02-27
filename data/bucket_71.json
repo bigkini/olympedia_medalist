@@ -404,7 +404,7 @@
     "id": "12871",
     "name": "Giangiorgio, Conte•Trissino",
     "born": "22 July 1877 in Vicenza, Vicenza (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -419,6 +419,28 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "High Jump, Open\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13571",
+    "name": "Mick•Bennett",
+    "born": "8 June 1949 in Birmingham, England (GBR)",
+    "measurements": "183 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

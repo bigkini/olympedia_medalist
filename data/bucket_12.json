@@ -405,5 +405,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "13012",
+    "name": "Jimmy•Wofford",
+    "born": "3 November 1944 in Junction City, Kansas (USA)",
+    "measurements": "173 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

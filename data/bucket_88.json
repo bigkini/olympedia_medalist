@@ -417,13 +417,28 @@
     "id": "12888",
     "name": "Francisco•Valadas Júnior",
     "born": "2 January 1906 in Reguengos de Monsaraz, Distrito de Évora (POR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "POR",
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12988",
+    "name": "Eric•Wauters",
+    "born": "12 May 1951 in Mechelen (Mechlin), Antwerpen (BEL)",
+    "measurements": "184 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
         "medal": "Bronze"
       }
     ]

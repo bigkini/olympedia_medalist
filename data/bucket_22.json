@@ -568,5 +568,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "13522",
+    "name": "Robert•Bartko",
+    "born": "23 December 1975 in Potsdam, Brandenburg (GER)",
+    "measurements": "186 cm / 80 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

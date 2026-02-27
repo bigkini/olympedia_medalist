@@ -489,5 +489,70 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12967",
+    "name": "Hans•von Rosen",
+    "born": "8 August 1888 in Stockholm, Stockholm (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13167",
+    "name": "Jeannie•Longo-Ciprelli",
+    "born": "31 October 1958 in Annecy, Haute-Savoie (FRA)",
+    "measurements": "164 cm / 48 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Individual Time Trial, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Individual Time Trial, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

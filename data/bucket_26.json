@@ -549,5 +549,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "13526",
+    "name": "Edward•Battel",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
