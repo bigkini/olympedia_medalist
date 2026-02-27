@@ -560,5 +560,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17686",
+    "name": "Raymond•Keppens",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

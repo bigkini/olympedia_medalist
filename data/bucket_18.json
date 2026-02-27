@@ -814,5 +814,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17818",
+    "name": "William•Wright",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

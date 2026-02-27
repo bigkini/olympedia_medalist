@@ -468,5 +468,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17820",
+    "name": "Willie•Attrill",
+    "born": "14 February 1868 in Cowes, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -581,7 +581,7 @@
     "id": "17028",
     "name": "Jean-François•Van Der Motte",
     "born": "8 December 1913 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -589,6 +589,43 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17528",
+    "name": "Lachlan•Elmer",
+    "born": "7 June 1969 in Melbourne, Victoria (AUS)",
+    "measurements": "191 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17828",
+    "name": "Hippolyte•Roques",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

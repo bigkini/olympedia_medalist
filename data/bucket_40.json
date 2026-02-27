@@ -780,5 +780,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17840",
+    "name": "Chrétien•Waydelich",
+    "born": "28 November 1841 in Strasbourg, Bas-Rhin (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Croquet",
+        "event": "Singles, One Ball, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Croquet",
+        "event": "Singles, Two Balls, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

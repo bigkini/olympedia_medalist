@@ -857,5 +857,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17808",
+    "name": "José•de Figueroa",
+    "born": "24 December 1897 in Madrid, Madrid (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -762,5 +762,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17543",
+    "name": "Jim•Irvine",
+    "born": "2 December 1948 in Sydney, New South Wales (AUS)",
+    "measurements": "185 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

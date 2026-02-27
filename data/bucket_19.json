@@ -729,7 +729,7 @@
     "id": "17319",
     "name": "•Man Afraid of the Soap",
     "born": "2 October 1869 in Ohsweken, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -737,6 +737,21 @@
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17819",
+    "name": "William•Anderson",
+    "born": "27 June 1859 in Edinburgh, Scotland (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

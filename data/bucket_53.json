@@ -664,5 +664,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17553",
+    "name": "John•McBryde",
+    "born": "9 March 1939 in Maryborough, Queensland (AUS)",
+    "measurements": "177 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

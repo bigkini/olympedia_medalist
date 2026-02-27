@@ -574,5 +574,34 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17588",
+    "name": "Michael•York",
+    "born": "16 October 1967 in Tamworth, New South Wales (AUS)",
+    "measurements": "183 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

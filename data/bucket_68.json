@@ -552,13 +552,28 @@
     "id": "17168",
     "name": "Albert•White",
     "born": "30 October 1889 in Brigg, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "GBR",
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17568",
+    "name": "Fred•Quine",
+    "born": "3 January 1941 in Brisbane, Queensland (AUS)",
+    "measurements": "177 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

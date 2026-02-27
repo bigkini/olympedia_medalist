@@ -586,5 +586,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17677",
+    "name": "Charles•Guiette",
+    "born": "28 March 1885 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -736,5 +736,57 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17536",
+    "name": "Mark•Hager",
+    "born": "28 April 1964 in Maryborough, Queensland (AUS)",
+    "measurements": "180 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17736",
+    "name": "Jean•Van Nérom",
+    "born": "9 July 1896 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17836",
+    "name": "Georges•Johin",
+    "born": "31 July 1877 in Paris VIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Croquet",
+        "event": "Singles, One Ball, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Croquet",
+        "event": "Doubles, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

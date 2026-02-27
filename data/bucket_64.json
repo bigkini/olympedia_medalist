@@ -615,5 +615,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17564",
+    "name": "Desmond•Piper",
+    "born": "11 October 1941 in Melbourne, Victoria (AUS)",
+    "measurements": "173 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17864",
+    "name": "Vladimir•Aïtoff",
+    "born": "5 August 1879 in Paris VIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

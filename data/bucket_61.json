@@ -814,5 +814,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17561",
+    "name": "Gordon•Pearce",
+    "born": "10 January 1934 in Jabalpur, Madhya Pradesh (IND)",
+    "measurements": "175 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17861",
+    "name": "Maurice•Raoul-Duval",
+    "born": "27 April 1866 in Le Pecq, Yvelines (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

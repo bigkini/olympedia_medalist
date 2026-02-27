@@ -642,5 +642,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17572",
+    "name": "Don•Smart",
+    "born": "7 January 1942 in Taungoo, Bago (MYA)",
+    "measurements": "173 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -514,7 +514,7 @@
     "id": "16924",
     "name": "Horst•Tüller",
     "born": "5 February 1931 in Wuppertal, Nordrhein-Westfalen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -522,6 +522,43 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17524",
+    "name": "Paul•Dearing",
+    "born": "2 March 1942 in Carrington, New South Wales (AUS)",
+    "measurements": "175 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17824",
+    "name": "Thomas•Jordan",
+    "born": "8 May 1854 in London, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

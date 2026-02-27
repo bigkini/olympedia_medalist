@@ -482,5 +482,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17570",
+    "name": "Graham•Reid",
+    "born": "9 April 1964 in Redcliffe, Queensland (AUS)",
+    "measurements": "180 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

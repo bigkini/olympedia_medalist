@@ -541,5 +541,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17573",
+    "name": "Grant•Smith",
+    "born": "20 April 1971 in Canberra, Australian Capital Territory (AUS)",
+    "measurements": "174 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

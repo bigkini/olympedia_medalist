@@ -729,7 +729,7 @@
     "id": "17284",
     "name": "Francesco•Zucchetti",
     "born": "14 April 1902 in Cernusco sul Naviglio, Milano (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -737,6 +737,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17584",
+    "name": "Tony•Waters",
+    "born": "10 April 1928 in ? (IND)",
+    "measurements": "175 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

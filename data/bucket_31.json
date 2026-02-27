@@ -458,5 +458,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17731",
+    "name": "Maurice•Van Den Bemden",
+    "born": "22 November 1891 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17831",
+    "name": "Gaston•Aumoitte",
+    "born": "19 December 1884 in Hà Nội (Hanoi), Hà Nội (VIE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Croquet",
+        "event": "Singles, One Ball, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Croquet",
+        "event": "Doubles, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

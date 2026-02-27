@@ -634,13 +634,28 @@
     "id": "17516",
     "name": "Greg•Corbitt",
     "born": "2 September 1971 in Perth, Western Australia (AUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
         "noc": "AUS",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17816",
+    "name": "Leopoldo, Conde•Sainz de la Maza",
+    "born": "23 December 1879 in Utrera, Sevilla (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

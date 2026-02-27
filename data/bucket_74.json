@@ -689,5 +689,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17574",
+    "name": "Matthew•Smith",
+    "born": "20 November 1973 in Tamworth, New South Wales (AUS)",
+    "measurements": "174 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17674",
+    "name": "Robert•Gevers",
+    "born": "6 October 1882 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

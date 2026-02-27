@@ -651,5 +651,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17567",
+    "name": "Bob•Proctor",
+    "born": "16 July 1949",
+    "measurements": "181 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

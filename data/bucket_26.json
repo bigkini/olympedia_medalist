@@ -741,5 +741,49 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17526",
+    "name": "Damon•Diletti",
+    "born": "1 May 1971 in Perth, Western Australia (AUS)",
+    "measurements": "178 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17826",
+    "name": "Douglas•Robinson",
+    "born": "12 August 1864 in Plymouth, Montserrat (MTS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

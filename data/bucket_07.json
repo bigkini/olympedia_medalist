@@ -634,7 +634,7 @@
     "id": "17307",
     "name": "Frank•Dixon",
     "born": "1 April 1878 in Port Dalhousie, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -642,6 +642,21 @@
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17807",
+    "name": "Álvaro, Marqués•de Figueroa",
+    "born": "24 December 1893 in Madrid, Madrid (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

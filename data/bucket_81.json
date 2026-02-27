@@ -810,5 +810,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17581",
+    "name": "Terry•Walsh",
+    "born": "20 November 1953 in Kalgoorlie, Western Australia (AUS)",
+    "measurements": "177 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

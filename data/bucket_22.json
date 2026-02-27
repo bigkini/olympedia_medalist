@@ -768,5 +768,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17822",
+    "name": "William•Browning",
+    "born": "1 June 1874 in Westminster, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

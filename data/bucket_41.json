@@ -621,5 +621,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17641",
+    "name": "André•Becquet",
+    "born": "19 February 1893 in Ixelles, Région de Bruxelles-Capitale (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

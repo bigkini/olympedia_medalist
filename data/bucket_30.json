@@ -574,5 +574,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17530",
+    "name": "Ray•Evans",
+    "born": "28 September 1939 in Northam, Western Australia (AUS)",
+    "measurements": "176 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17830",
+    "name": "Philip•Tomalin",
+    "born": "10 April 1856 in Kensington, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

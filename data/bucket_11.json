@@ -606,7 +606,7 @@
     "id": "17311",
     "name": "Tom•Gorman",
     "born": "9 June 1886 in Ottawa, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -614,6 +614,21 @@
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17811",
+    "name": "Eustaquio•Escandón",
+    "born": "25 January 1862 in Paris VIIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

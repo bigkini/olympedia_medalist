@@ -426,7 +426,7 @@
     "id": "14948",
     "name": "Ben•Jones",
     "born": "2 January 1882 in Leigh, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -448,6 +448,28 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "20 kilometres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17548",
+    "name": "Paul•Lewis",
+    "born": "1 November 1966 in Adelaide, South Australia (AUS)",
+    "measurements": "180 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -695,5 +695,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17805",
+    "name": "Alexander•Turnbull",
+    "born": "6 December 1872 in Paris, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

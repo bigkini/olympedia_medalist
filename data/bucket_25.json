@@ -675,5 +675,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17825",
+    "name": "Arthur•MacEvoy",
+    "born": "8 November 1868 in Chantilly, Oise (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

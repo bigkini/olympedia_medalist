@@ -868,5 +868,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17803",
+    "name": "•Snake Eater",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

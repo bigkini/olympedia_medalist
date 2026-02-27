@@ -706,5 +706,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17583",
+    "name": "Ken•Wark",
+    "born": "3 August 1961 in Sydney, New South Wales (AUS)",
+    "measurements": "185 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -616,7 +616,7 @@
     "id": "17506",
     "name": "Lee•Bodimeade",
     "born": "12 February 1970 in Warwick, Western Australia (AUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -624,6 +624,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17806",
+    "name": "Edgar•Aabye",
+    "born": "1 September 1865 in Helsingør, Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Tug-Of-War",
+        "event": "Tug-Of-War, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

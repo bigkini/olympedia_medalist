@@ -668,5 +668,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17565",
+    "name": "Malcolm•Poole",
+    "born": "6 November 1949",
+    "measurements": "180 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17865",
+    "name": "René•Araou",
+    "born": "18 October 1902 in Narbonne, Aude (FRA)",
+    "measurements": "178 cm / 98 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

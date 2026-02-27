@@ -717,5 +717,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17815",
+    "name": "Jacobo, Duque•de Alba",
+    "born": "17 October 1878 in Madrid, Madrid (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

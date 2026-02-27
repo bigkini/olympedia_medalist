@@ -561,5 +561,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17801",
+    "name": "•Red Jacket",
+    "born": "15 April 1879 in Six Nations Reserve, Brantford, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

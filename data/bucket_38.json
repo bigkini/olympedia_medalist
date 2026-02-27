@@ -684,5 +684,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17838",
+    "name": "Jacques•Sautereau",
+    "born": "7 September 1860 in Louveciennes, Yvelines (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Croquet",
+        "event": "Singles, Two Balls, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -884,5 +884,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17587",
+    "name": "Graham•Wood",
+    "born": "24 June 1936 in Melbourne, Victoria (AUS)",
+    "measurements": "175 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

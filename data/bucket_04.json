@@ -643,7 +643,7 @@
     "id": "17304",
     "name": "George•Cloutier",
     "born": "16 July 1876 in Pembroke, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -651,6 +651,21 @@
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17804",
+    "name": "•Spotted Tail",
+    "born": "1883 in Ohsweken, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

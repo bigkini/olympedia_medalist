@@ -754,7 +754,7 @@
     "id": "17314",
     "name": "Henny•Hoobin",
     "born": "15 February 1879 in Montréal, Québec (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -762,6 +762,21 @@
         "discipline": "Lacrosse",
         "event": "Lacrosse, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "17814",
+    "name": "Hernando, Duque•de Peñaranda de Duero",
+    "born": "3 November 1882 in Madrid, Madrid (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

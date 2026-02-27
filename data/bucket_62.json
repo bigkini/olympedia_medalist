@@ -626,5 +626,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17562",
+    "name": "Julian•Pearce",
+    "born": "15 April 1937 in Jabalpur, Madhya Pradesh (IND)",
+    "measurements": "183 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17862",
+    "name": "Édouard•de Rothschild",
+    "born": "24 February 1868 in Paris Ie, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

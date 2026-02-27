@@ -581,7 +581,7 @@
     "id": "16976",
     "name": "Jean•Van Den Bosch",
     "born": "5 August 1898 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -596,6 +596,21 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17576",
+    "name": "Trevor•Smith",
+    "born": "15 April 1949",
+    "measurements": "183 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

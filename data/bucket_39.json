@@ -582,5 +582,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17539",
+    "name": "Wayne•Hammond",
+    "born": "5 September 1948 in Brisbane, Queensland (AUS)",
+    "measurements": "184 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17839",
+    "name": "Maurice•Vignerot",
+    "born": "25 November 1879 in Paris XVIIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Croquet",
+        "event": "Singles, Two Balls, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

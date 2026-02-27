@@ -654,5 +654,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17799",
+    "name": "Lawrence•Pentland",
+    "born": "6 April 1879 in Marquette, Manitoba (CAN)",
+    "measurements": "64 kg",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Lacrosse",
+        "event": "Lacrosse, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

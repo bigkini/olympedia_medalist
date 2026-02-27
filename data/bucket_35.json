@@ -721,5 +721,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17535",
+    "name": "Doug•Golder",
+    "born": "1 February 1948",
+    "measurements": "167 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

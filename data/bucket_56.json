@@ -505,5 +505,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17556",
+    "name": "Patrick•Nilan",
+    "born": "30 June 1941 in Sydney, New South Wales (AUS)",
+    "measurements": "172 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

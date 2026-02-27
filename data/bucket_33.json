@@ -722,13 +722,35 @@
     "id": "17133",
     "name": "Wilf•Waters",
     "born": "4 January 1923 in Wandsworth, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "GBR",
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17533",
+    "name": "Paul•Gaudoin",
+    "born": "12 August 1975 in Perth, Western Australia (AUS)",
+    "measurements": "172 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

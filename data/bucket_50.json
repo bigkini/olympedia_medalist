@@ -376,7 +376,7 @@
     "id": "15750",
     "name": "William•Morton",
     "born": "20 June 1880 in Hunslet, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -384,6 +384,36 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17550",
+    "name": "Don•Martin",
+    "born": "8 February 1940 in Kuala Lumpur, Kuala Lumpur (MAS)",
+    "measurements": "179 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17850",
+    "name": "Émile•Thubron",
+    "born": "15 July 1861 in Boldon, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Motorboating",
+        "event": "A-Class (Open), Open\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

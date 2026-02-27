@@ -518,5 +518,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17569",
+    "name": "Graeme•Reid",
+    "born": "15 June 1948",
+    "measurements": "183 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

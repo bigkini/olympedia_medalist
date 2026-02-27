@@ -619,7 +619,7 @@
     "id": "16651",
     "name": "Frank•Southall",
     "born": "2 July 1904 in Wandsworth, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -641,6 +641,36 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17551",
+    "name": "James•Mason",
+    "born": "19 June 1947 in Moredon, England (GBR)",
+    "measurements": "176 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17851",
+    "name": "John•Beresford",
+    "born": "5 December 1866 in Newcastle upon Tyne, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

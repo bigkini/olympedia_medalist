@@ -791,5 +791,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17810",
+    "name": "Manuel, Marqués•Escandón",
+    "born": "13 August 1857 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Polo",
+        "event": "Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

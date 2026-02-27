@@ -748,5 +748,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17582",
+    "name": "David•Wansbrough",
+    "born": "29 April 1965",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -609,5 +609,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "17723",
+    "name": "René•Strauwen",
+    "born": "14 May 1901 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17823",
+    "name": "Robert•Horne",
+    "born": "12 October 1877 in Bexley, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -555,5 +555,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "17666",
+    "name": "Louis•Diercxsens",
+    "born": "28 September 1898 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "17866",
+    "name": "Édouard•Bader",
+    "born": "26 July 1899 in Ferrières-en-Brie, Seine-et-Marne (FRA)",
+    "measurements": "172 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Rugby (Rugby)",
+        "event": "Rugby, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

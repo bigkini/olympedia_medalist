@@ -548,5 +548,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "17529",
+    "name": "Dean•Evans",
+    "born": "14 April 1967",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "17829",
+    "name": "Henry•Terry",
+    "born": "27 May 1869 in Huddersfield, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cricket",
+        "event": "Cricket, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]
