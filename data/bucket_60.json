@@ -844,5 +844,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19060",
+    "name": "Heinz•Raack",
+    "born": "18 May 1917 in Berlin, Berlin (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19160",
+    "name": "Ernie•Goodsir-Cullen",
+    "born": "15 July 1912 in Kasauli, Himachal Pradesh (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

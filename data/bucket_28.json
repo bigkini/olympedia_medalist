@@ -733,5 +733,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19028",
+    "name": "Werner•Kubitzki",
+    "born": "10 April 1915 in Wilmersdorf, Berlin (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -621,7 +621,7 @@
     "id": "18773",
     "name": "William•Graham",
     "born": "29 January 1886 in Dublin, Dublin City (IRL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -629,6 +629,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19173",
+    "name": "Lionel•Emmett",
+    "born": "8 January 1913 in Achalpur, Maharashtra (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

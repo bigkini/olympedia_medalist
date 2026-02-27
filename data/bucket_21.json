@@ -771,7 +771,7 @@
     "id": "18721",
     "name": "Norman•Borrett",
     "born": "1 October 1917 in Wanstead, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -779,6 +779,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19021",
+    "name": "Ulrich•Klaes",
+    "born": "1 February 1946 in Essen, Nordrhein-Westfalen (GER)",
+    "measurements": "181 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

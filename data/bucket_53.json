@@ -759,7 +759,7 @@
     "id": "18953",
     "name": "Hermann•auf der Heide",
     "born": "1 June 1911 in Frankfurt am Main, Hessen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -767,6 +767,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19053",
+    "name": "Werner•Proft",
+    "born": "12 August 1901 in Schöneberg, Berlin (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19153",
+    "name": "Lal Shah•Bokhari",
+    "born": "22 July 1909 in Faisalabad, Punjab (PAK)",
+    "measurements": "173 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

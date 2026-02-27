@@ -948,5 +948,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19061",
+    "name": "Stefan•Saliger",
+    "born": "23 December 1967 in Limburg an der Lahn, Hessen (GER)",
+    "measurements": "178 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19161",
+    "name": "Willie•Goodsir-Cullen",
+    "born": "29 March 1907 in Firozpur, Punjab (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

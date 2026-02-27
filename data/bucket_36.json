@@ -893,5 +893,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19036",
+    "name": "Sven•Meinhardt",
+    "born": "28 September 1971 in Mülheim an der Ruhr, Nordrhein-Westfalen (GER)",
+    "measurements": "187 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

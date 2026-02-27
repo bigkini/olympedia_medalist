@@ -727,5 +727,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19032",
+    "name": "Alfred•Lücker",
+    "born": "29 March 1931 in Euskirchen, Nordrhein-Westfalen (GER)",
+    "measurements": "180 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

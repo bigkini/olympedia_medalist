@@ -926,5 +926,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19018",
+    "name": "Erwin•Keller",
+    "born": "8 April 1905 in Concepción, Biobío (CHI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -836,5 +836,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19019",
+    "name": "Herbert•Kemmer",
+    "born": "13 May 1905 in Darmstadt, Hessen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

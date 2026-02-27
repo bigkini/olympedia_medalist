@@ -562,7 +562,7 @@
     "id": "18998",
     "name": "Fredy•Gerdes",
     "born": "24 October 1916 in München (Munich), Bayern (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -570,6 +570,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19198",
+    "name": "Feroze•Khan",
+    "born": "9 September 1904 in Basti Daneshmandan, Jalandhar, Punjab (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

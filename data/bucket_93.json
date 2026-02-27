@@ -651,7 +651,7 @@
     "id": "18993",
     "name": "Werner•Freyberg",
     "born": "29 July 1902 in Leipzig, Sachsen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -659,6 +659,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19093",
+    "name": "Heinz•Wöltje",
+    "born": "4 January 1902 in Hannover, Niedersachsen (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19193",
+    "name": "Maharaj Krishon•Kaushik",
+    "born": "2 May 1955 in New Delhi, National Capital Territory of Delhi (IND)",
+    "measurements": "163 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

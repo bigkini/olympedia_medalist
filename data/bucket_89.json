@@ -924,5 +924,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19089",
+    "name": "Kutti•Weiß",
+    "born": "30 March 1906 in Charlottenburg, Berlin (GER)",
+    "measurements": "177 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19189",
+    "name": "Sayed•Jaffar",
+    "born": "1911 in Shergarh, Punjab (PAK)",
+    "measurements": "173 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

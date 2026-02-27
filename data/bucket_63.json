@@ -665,7 +665,7 @@
     "id": "18163",
     "name": "Harry•Fraser",
     "born": "26 October 1872 in Woodstock, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -673,6 +673,36 @@
         "discipline": "Golf",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19063",
+    "name": "Christian•Schliemann",
+    "born": "4 July 1962 in Leverkusen, Nordrhein-Westfalen (GER)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19163",
+    "name": "Ali•Dara",
+    "born": "1 April 1915 in Faisalabad, Punjab (PAK)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

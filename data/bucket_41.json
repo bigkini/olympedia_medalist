@@ -740,5 +740,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19041",
+    "name": "Klaus•Michler",
+    "born": "15 May 1970 in Stuttgart, Baden-Württemberg (GER)",
+    "measurements": "185 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

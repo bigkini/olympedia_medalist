@@ -653,5 +653,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19075",
+    "name": "Wolfgang•Strödter",
+    "born": "5 April 1948 in Bad Homburg vor der Höhe, Hessen (GER)",
+    "measurements": "174 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19175",
+    "name": "Peter Paul•Fernandes",
+    "born": "15 September 1916 in Karachi, Sindh (PAK)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

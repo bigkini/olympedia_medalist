@@ -547,5 +547,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19048",
+    "name": "Wolfgang•Nonn",
+    "born": "24 November 1935 in Mülheim an der Ruhr, Nordrhein-Westfalen (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19148",
+    "name": "Dhyan•Chand",
+    "born": "28 August 1905 in Allahabad, Uttar Pradesh (IND)",
+    "measurements": "169 cm",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

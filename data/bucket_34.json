@@ -620,5 +620,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19034",
+    "name": "Christian•Mayerhöfer",
+    "born": "16 June 1971 in Mainz, Rheinland-Pfalz (GER)",
+    "measurements": "188 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

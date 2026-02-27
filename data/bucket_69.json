@@ -598,11 +598,26 @@
     "id": "18769",
     "name": "Harry•Freeman",
     "born": "7 February 1876 in Staines, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19169",
+    "name": "Walter•de Sousa",
+    "born": "16 December 1920 in Mbale, Eastern (UGA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "IND",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"

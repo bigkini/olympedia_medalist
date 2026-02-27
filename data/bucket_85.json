@@ -740,11 +740,26 @@
     "id": "18885",
     "name": "Ralph•Williams",
     "born": "28 July 1878 in Penarth, Wales (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19085",
+    "name": "Günther•Ullerich",
+    "born": "30 April 1928 in Berlin, Berlin (GER)",
+    "measurements": "170 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"

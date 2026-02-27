@@ -548,7 +548,7 @@
     "id": "18820",
     "name": "Roger•Midgley",
     "born": "23 November 1924 in Plympton, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -556,6 +556,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19020",
+    "name": "Detlev•Kittstein",
+    "born": "24 February 1944 in Szprotawa, Lubuskie (POL)",
+    "measurements": "172 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

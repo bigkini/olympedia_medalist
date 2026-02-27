@@ -550,5 +550,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19050",
+    "name": "Heinrich•Peter",
+    "born": "13 June 1910",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -764,5 +764,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19054",
+    "name": "Heinz•Radzikowski",
+    "born": "7 September 1925 in Stolpe, Parchim, Mecklenburg-Vorpommern (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19154",
+    "name": "Dickie•Carr",
+    "born": "21 January 1911 in Jha Jha, Bihar (IND)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Athletics",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

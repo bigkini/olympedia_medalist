@@ -653,5 +653,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19029",
+    "name": "Oliver•Kurtz",
+    "born": "23 October 1971 in Köln (Cologne), Nordrhein-Westfalen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

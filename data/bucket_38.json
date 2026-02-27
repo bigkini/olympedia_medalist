@@ -819,5 +819,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19038",
+    "name": "Fritz•Meßner",
+    "born": "18 January 1912 in Wilmersdorf, Berlin (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

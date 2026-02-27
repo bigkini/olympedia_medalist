@@ -871,5 +871,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19035",
+    "name": "Paul•Mehlitz",
+    "born": "25 December 1906 in Wilmersdorf, Berlin (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

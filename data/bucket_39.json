@@ -732,5 +732,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19039",
+    "name": "Michael•Metz",
+    "born": "16 June 1964 in Mannheim, Baden-Württemberg (GER)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

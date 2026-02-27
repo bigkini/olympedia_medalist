@@ -850,7 +850,7 @@
     "id": "18882",
     "name": "Neil•White",
     "born": "2 May 1920 in Troon, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -858,6 +858,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19182",
+    "name": "Gerry•Glackan",
+    "born": "8 August 1923 in Jabalpur, Madhya Pradesh (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

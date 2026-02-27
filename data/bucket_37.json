@@ -548,5 +548,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19037",
+    "name": "Carl•Menke",
+    "born": "3 July 1906",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

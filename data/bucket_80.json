@@ -602,5 +602,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19080",
+    "name": "Stefan•Tewes",
+    "born": "24 November 1967 in Mülheim an der Ruhr, Nordrhein-Westfalen (GER)",
+    "measurements": "186 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19180",
+    "name": "Joe•Galibardy",
+    "born": "10 January 1915 in Chennai (Madras), Tamil Nadu (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

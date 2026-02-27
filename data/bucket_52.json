@@ -780,5 +780,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19152",
+    "name": "Vasudevan•Bhaskaran",
+    "born": "17 August 1950 in Aarani, Tamil Nadu (IND)",
+    "measurements": "174 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

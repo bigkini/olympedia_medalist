@@ -571,5 +571,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19042",
+    "name": "Andreas•Mollandin",
+    "born": "4 August 1964 in Malmeneich, Elz, Hessen (GER)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

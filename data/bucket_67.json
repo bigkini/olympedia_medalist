@@ -771,5 +771,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19067",
+    "name": "Ekkhard•Schmidt-Opper",
+    "born": "29 January 1961 in Frickhofen, Dornburg, Hessen (GER)",
+    "measurements": "185 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

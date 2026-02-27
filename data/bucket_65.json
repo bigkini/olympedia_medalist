@@ -763,7 +763,7 @@
     "id": "18965",
     "name": "Günther•Brennecke",
     "born": "13 January 1927 in Goslar, Niedersachsen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -771,6 +771,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19065",
+    "name": "Fritz•Schmidt",
+    "born": "19 March 1943 in Mainz, Rheinland-Pfalz (GER)",
+    "measurements": "176 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

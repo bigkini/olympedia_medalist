@@ -723,5 +723,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19188",
+    "name": "Sayed Muhammad•Hussain",
+    "born": "1 October 1911",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

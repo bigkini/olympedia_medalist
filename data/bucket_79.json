@@ -768,5 +768,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19079",
+    "name": "Jan Peter•Tewes",
+    "born": "26 November 1968 in Mülheim an der Ruhr, Nordrhein-Westfalen (GER)",
+    "measurements": "187 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19179",
+    "name": "Manuel•Frederick",
+    "born": "20 October 1947 in Kannur, Kerala (IND)",
+    "measurements": "172 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

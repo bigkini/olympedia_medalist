@@ -743,5 +743,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19049",
+    "name": "Detlef•Okrent",
+    "born": "26 October 1909 in Rostock, Mecklenburg-Vorpommern (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19149",
+    "name": "Roop•Singh",
+    "born": "8 September 1910 in Jabalpur, Madhya Pradesh (IND)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

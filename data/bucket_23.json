@@ -744,5 +744,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19023",
+    "name": "Peter•Kraus",
+    "born": "27 June 1941 in Rüsselsheim, Hessen (GER)",
+    "measurements": "178 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

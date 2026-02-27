@@ -702,11 +702,41 @@
     "id": "18864",
     "name": "William•Smith",
     "born": "14 November 1886 in Carlisle, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "GBR",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19064",
+    "name": "Heinz•Schmalix",
+    "born": "24 July 1910 in Dresden, Sachsen (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19164",
+    "name": "Chinnadorai•Desamuthu",
+    "born": "26 October 1932 in Bengaluru (Bangalore), Karnataka (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "IND",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"

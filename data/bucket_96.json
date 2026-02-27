@@ -676,5 +676,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19196",
+    "name": "Ahsan Muhammad•Khan",
+    "born": "7 April 1916",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

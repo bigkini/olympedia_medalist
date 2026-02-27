@@ -818,5 +818,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "19083",
+    "name": "Peter•Trump",
+    "born": "3 December 1950 in Frankenthal, Rheinland-Pfalz (GER)",
+    "measurements": "182 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

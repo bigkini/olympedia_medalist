@@ -722,5 +722,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19044",
+    "name": "Herbert•Müller",
+    "born": "2 August 1904 in Strzelce Krajeńskie, Lubuskie (POL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

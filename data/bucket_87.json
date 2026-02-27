@@ -986,7 +986,7 @@
     "id": "18787",
     "name": "Porter•Holmes",
     "born": "25 April 1880 in Carrickfergus, Northern Ireland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -994,6 +994,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19087",
+    "name": "Tito•Warnholtz",
+    "born": "17 February 1906 in Hamburg, Hamburg (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19187",
+    "name": "Arthur•Hind",
+    "born": "20 October 1904 in Delhi, National Capital Territory of Delhi (IND)",
+    "measurements": "173 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

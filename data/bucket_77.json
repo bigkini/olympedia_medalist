@@ -726,7 +726,7 @@
     "id": "18977",
     "name": "Hugo•Dollheiser",
     "born": "18 September 1927 in Duisburg, Nordrhein-Westfalen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -734,6 +734,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19077",
+    "name": "Eckardt•Suhl",
+    "born": "20 April 1943 in Hamburg, Hamburg (GER)",
+    "measurements": "180 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

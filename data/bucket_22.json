@@ -888,5 +888,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19022",
+    "name": "Michael•Knauth",
+    "born": "24 June 1965 in Wolfsburg, Niedersachsen (GER)",
+    "measurements": "180 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

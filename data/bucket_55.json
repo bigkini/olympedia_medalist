@@ -775,5 +775,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "19055",
+    "name": "Thomas•Reck",
+    "born": "16 January 1964 in Ulm, Baden-Württemberg (GER)",
+    "measurements": "184 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

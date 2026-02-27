@@ -560,5 +560,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19047",
+    "name": "Helmut•Nonn",
+    "born": "18 October 1933 in Mülheim an der Ruhr, Nordrhein-Westfalen (GER)",
+    "measurements": "180 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19147",
+    "name": "Joe•Antic",
+    "born": "13 March 1931 in Secunderabad, Andhra Pradesh (IND)",
+    "measurements": "168 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

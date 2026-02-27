@@ -762,7 +762,7 @@
     "id": "18725",
     "name": "John•Burt",
     "born": "15 April 1877 in Glasgow, Scotland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -770,6 +770,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "19025",
+    "name": "Michael•Krause",
+    "born": "24 July 1946 in Magdeburg, Sachsen-Anhalt (GER)",
+    "measurements": "188 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

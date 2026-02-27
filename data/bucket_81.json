@@ -920,7 +920,7 @@
     "id": "18981",
     "name": "Karl•Dröse",
     "born": "27 December 1913 in Frankfurt am Main, Hessen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -928,6 +928,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19081",
+    "name": "Eduard•Thelen",
+    "born": "7 September 1946 in Köln (Cologne), Nordrhein-Westfalen (GER)",
+    "measurements": "183 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19181",
+    "name": "Michael•Gateley",
+    "born": "13 June 1904 in Delhi, National Capital Territory of Delhi (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

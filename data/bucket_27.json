@@ -835,5 +835,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "19027",
+    "name": "Felix•Krull",
+    "born": "2 October 1954 in Hannover, Niedersachsen (GER)",
+    "measurements": "180 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

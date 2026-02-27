@@ -834,7 +834,7 @@
     "id": "18958",
     "name": "Ludwig•Beisiegel",
     "born": "21 March 1912",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -842,6 +842,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19058",
+    "name": "Wolfgang•Rott",
+    "born": "28 November 1946 in Mettmann, Nordrhein-Westfalen (GER)",
+    "measurements": "176 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "19158",
+    "name": "Rajendra•Christy",
+    "born": "1 July 1938 in Bengaluru (Bangalore), Karnataka (IND)",
+    "measurements": "165 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -789,7 +789,7 @@
     "id": "18284",
     "name": "William•Seiling",
     "born": "28 May 1864 in St. Louis, Missouri (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -797,6 +797,21 @@
         "discipline": "Tug-Of-War",
         "event": "Tug-Of-War, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "19184",
+    "name": "B. P.•Govinda",
+    "born": "4 September 1951 in Somwarpeta, Kodagu, Karnataka (IND)",
+    "measurements": "171 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }
