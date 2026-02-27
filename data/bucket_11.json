@@ -427,13 +427,35 @@
     "id": "12911",
     "name": "Jan•van Reede",
     "born": "12 January 1878 in Zwolle, Overijssel (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
         "noc": "NED",
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13711",
+    "name": "Bart•Brentjens",
+    "born": "10 October 1968 in Haelen, Limburg (NED)",
+    "measurements": "188 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Mountain Bike (Cycling)",
+        "event": "Cross-Country, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Mountain Bike (Cycling)",
+        "event": "Cross-Country, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

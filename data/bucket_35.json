@@ -569,7 +569,7 @@
     "id": "12335",
     "name": "Alberto•Lombardi",
     "born": "29 August 1893 in Dronero, Cuneo (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -577,6 +577,21 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13735",
+    "name": "Joey•Browne",
+    "born": "22 June 1931 in Melbourne, Victoria (AUS)",
+    "measurements": "185 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

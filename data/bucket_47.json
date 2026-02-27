@@ -410,5 +410,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "13647",
+    "name": "Imants•Bodnieks",
+    "born": "20 May 1941 in Rīga, Rīga (LAT)",
+    "measurements": "173 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

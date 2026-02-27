@@ -531,5 +531,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14257",
+    "name": "Philippe•Ermenault",
+    "born": "29 April 1969 in Flixecourt, Somme (FRA)",
+    "measurements": "180 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

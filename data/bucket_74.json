@@ -519,5 +519,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "13974",
+    "name": "Jürgen•Colombo",
+    "born": "2 September 1949 in Zielona Góra, Lubuskie (POL)",
+    "measurements": "175 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

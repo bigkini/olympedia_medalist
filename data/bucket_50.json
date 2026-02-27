@@ -341,5 +341,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "13650",
+    "name": "Erik•Bohlin",
+    "born": "1 June 1897 in Orsa, Dalarna (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

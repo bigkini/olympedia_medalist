@@ -519,5 +519,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "13896",
+    "name": "Cipriano•Chemello",
+    "born": "19 July 1945 in Crespano del Grappa, Pieve del Grappa, Treviso (ITA)",
+    "measurements": "174 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

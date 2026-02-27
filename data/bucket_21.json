@@ -501,5 +501,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "13721",
+    "name": "Stan•Brittain",
+    "born": "4 October 1931 in Liverpool, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "14121",
+    "name": "Gaston•Delaplane",
+    "born": "6 March 1882 in Le Havre, Seine-Maritime (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "FRA",
+        "discipline": "Rowing",
+        "event": "Single Sculls, Men\n(Intercalated)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "FRA",
+        "discipline": "Rowing",
+        "event": "Coxed Pairs (1 kilometre), Men\n(Intercalated)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "FRA",
+        "discipline": "Rowing",
+        "event": "Coxed Fours, Men\n(Intercalated)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

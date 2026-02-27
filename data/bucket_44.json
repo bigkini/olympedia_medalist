@@ -511,7 +511,7 @@
     "id": "12944",
     "name": "Hans, Baron•von Blixen-Finecke, Jr.",
     "born": "20 July 1916 in Linköping, Östergötland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -525,6 +525,21 @@
         "noc": "SWE",
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13744",
+    "name": "Enrico•Brusoni",
+    "born": "10 December 1878 in Arezzo, Arezzo (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

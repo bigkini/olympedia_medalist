@@ -354,5 +354,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "13948",
+    "name": "Lothar•Claesges",
+    "born": "3 July 1942 in Krefeld, Nordrhein-Westfalen (GER)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

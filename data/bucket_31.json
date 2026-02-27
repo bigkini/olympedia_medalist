@@ -369,5 +369,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "13831",
+    "name": "Gösta•Carlsson",
+    "born": "2 February 1906 in Uppsala, Uppsala (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

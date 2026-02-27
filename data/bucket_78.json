@@ -537,7 +537,7 @@
     "id": "12678",
     "name": "Henri•Saint Cyr",
     "born": "15 March 1902 in Stockholm, Stockholm (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -565,6 +565,36 @@
         "noc": "SWE",
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13878",
+    "name": "Stan•Chambers",
+    "born": "13 September 1910 in Stamford Hill, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "14178",
+    "name": "Antonio•Domenicali",
+    "born": "17 February 1936 in Berra, Riva del Po, Ferrara (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

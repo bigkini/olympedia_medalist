@@ -371,5 +371,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14020",
+    "name": "Herbert•Crowther",
+    "born": "28 October 1882 in Dewsbury, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "333⅓ metres Time Trial, Men\n(Intercalated)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "5,000 metres, Men\n(Intercalated)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

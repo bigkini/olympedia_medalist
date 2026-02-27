@@ -451,5 +451,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "13632",
+    "name": "Verner•Blaudzun",
+    "born": "23 March 1946 in Sønderborg, Syddanmark (DEN)",
+    "measurements": "173 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

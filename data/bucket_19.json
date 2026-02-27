@@ -553,5 +553,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "13819",
+    "name": "Christophe•Capelle",
+    "born": "15 August 1967 in Compiègne, Oise (FRA)",
+    "measurements": "184 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13919",
+    "name": "Lucien•Choury",
+    "born": "26 March 1898 in Courbevoie, Hauts-de-Seine (FRA)",
+    "measurements": "176 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

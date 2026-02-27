@@ -429,5 +429,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "13697",
+    "name": "Hervé•Boussard",
+    "born": "8 March 1966 in Pithiviers, Loiret (FRA)",
+    "measurements": "185 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

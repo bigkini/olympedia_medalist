@@ -432,7 +432,7 @@
     "id": "12372",
     "name": "Charles, Baron•Marion",
     "born": "14 January 1887 in Saint-Germain-en-Laye, Yvelines (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -454,6 +454,36 @@
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13972",
+    "name": "Andrea•Collinelli",
+    "born": "2 July 1969 in Ravenna, Ravenna (ITA)",
+    "measurements": "185 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14272",
+    "name": "George•Estman",
+    "born": "8 September 1922",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -455,7 +455,7 @@
     "id": "12951",
     "name": "Wilhelm, Graf•von Hohenau",
     "born": "27 November 1884 in Berlin, Berlin (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -463,6 +463,36 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13951",
+    "name": "Danny•Clark",
+    "born": "30 August 1951 in Launceston, Tasmania (AUS)",
+    "measurements": "176 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "14251",
+    "name": "Brent•Emery",
+    "born": "15 September 1957 in Milwaukee, Wisconsin (USA)",
+    "measurements": "170 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

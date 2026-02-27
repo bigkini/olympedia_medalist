@@ -494,7 +494,7 @@
     "id": "12954",
     "name": "Rabod Wilhelm•von Kröcher",
     "born": "30 June 1880 in Kingsbridge, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -502,6 +502,21 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Individual, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "14054",
+    "name": "Jiří•Daler",
+    "born": "8 March 1940 in Brno, Jihomoravský kraj (CZE)",
+    "measurements": "183 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

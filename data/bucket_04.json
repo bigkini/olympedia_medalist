@@ -509,7 +509,7 @@
     "id": "13604",
     "name": "René•Bianchi",
     "born": "20 May 1934 in Conflans-sur-Seine, Marne (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -517,6 +517,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "14004",
+    "name": "Charles•Coste",
+    "born": "8 February 1924 in Ollioules, Var (FRA)",
+    "measurements": "180 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

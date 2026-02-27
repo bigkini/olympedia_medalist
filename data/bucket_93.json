@@ -435,7 +435,7 @@
     "id": "12893",
     "name": "Alessandro•Valerio",
     "born": "18 May 1881 in Milano, Milano (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -443,6 +443,36 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Individual, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13793",
+    "name": "Yavé•Cahard",
+    "born": "26 December 1957 in Sainte-Adresse, Seine-Maritime (FRA)",
+    "measurements": "180 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "14093",
+    "name": "Angelo•De Martini",
+    "born": "24 January 1897 in Villafranca di Verona, Verona (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -658,5 +658,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14161",
+    "name": "Robert•Dill-Bundi",
+    "born": "18 November 1958 in Chippis, Valais (SUI)",
+    "measurements": "179 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

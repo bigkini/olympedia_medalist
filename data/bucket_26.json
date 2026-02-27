@@ -553,8 +553,8 @@
   {
     "id": "13526",
     "name": "Edward•Battel",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1896 Summer Olympics",
@@ -562,6 +562,36 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Individual, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13826",
+    "name": "Arnaldo•Carli",
+    "born": "30 July 1901 in Milano, Milano (ITA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14126",
+    "name": "Émile•Demangel",
+    "born": "20 June 1882 in La Chapelle-aux-Bois, Vosges (FRA)",
+    "measurements": "173 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

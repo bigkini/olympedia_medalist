@@ -402,7 +402,7 @@
     "id": "12395",
     "name": "Arthur•McCashin",
     "born": "5 May 1909 in Larne, Northern Ireland (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -410,6 +410,36 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13995",
+    "name": "Henk•Cornelisse",
+    "born": "16 October 1940 in Amsterdam, Noord-Holland (NED)",
+    "measurements": "178 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14195",
+    "name": "Bernd•Drogan",
+    "born": "26 October 1955 in Döbern, Brandenburg (GER)",
+    "measurements": "181 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

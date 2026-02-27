@@ -620,5 +620,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "13708",
+    "name": "Gregor•Braun",
+    "born": "31 December 1955 in Neustadt an der Weinstraße, Rheinland-Pfalz (GER)",
+    "measurements": "186 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14108",
+    "name": "Étienne•De Wilde",
+    "born": "23 August 1958 in Wetteren, Oost-Vlaanderen (BEL)",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Madison, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

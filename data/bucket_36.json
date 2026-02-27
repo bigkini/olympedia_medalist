@@ -574,5 +574,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "13636",
+    "name": "Steffen•Blochwitz",
+    "born": "8 September 1967 in Herzberg, Brandenburg (GER)",
+    "measurements": "184 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

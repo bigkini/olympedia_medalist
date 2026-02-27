@@ -524,5 +524,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "14016",
+    "name": "Robin•Croker",
+    "born": "10 May 1954 in Melbourne, Victoria (AUS)",
+    "measurements": "174 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14216",
+    "name": "Brett•Dutton",
+    "born": "18 November 1966 in Hurstville, New South Wales (AUS)",
+    "measurements": "180 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

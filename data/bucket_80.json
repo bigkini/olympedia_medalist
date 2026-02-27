@@ -369,7 +369,7 @@
     "id": "12780",
     "name": "Olof•Stahre",
     "born": "19 April 1909 in Lerum, Västra Götaland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -384,6 +384,21 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13680",
+    "name": "Lorenzo•Bosisio",
+    "born": "24 September 1944 in Marmirolo, Mantova (ITA)",
+    "measurements": "176 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -645,5 +645,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "13640",
+    "name": "Serge•Blusson",
+    "born": "7 May 1928 in Paris XIIe, Paris (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14040",
+    "name": "Juan Esteban•Curuchet",
+    "born": "4 February 1965 in Mar del Plata, Provincia de Buenos Aires (ARG)",
+    "measurements": "175 cm / 65 kg",
+    "medals": [
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Madison, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14240",
+    "name": "Alex•Ekström",
+    "born": "4 October 1883 in Enköping, Uppsala (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

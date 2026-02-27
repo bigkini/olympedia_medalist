@@ -639,7 +639,7 @@
     "id": "12727",
     "name": "Gaston•Seigner",
     "born": "22 April 1878 in Moulins, Allier (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -647,6 +647,21 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13927",
+    "name": "Harald•Christensen",
+    "born": "9 April 1907 in Kolding, Syddanmark (DEN)",
+    "measurements": "173 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

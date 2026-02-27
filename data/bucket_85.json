@@ -512,5 +512,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "13985",
+    "name": "Gianfranco•Contri",
+    "born": "27 April 1970 in Bologna, Bologna (ITA)",
+    "measurements": "184 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

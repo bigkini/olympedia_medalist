@@ -488,7 +488,7 @@
     "id": "12849",
     "name": "Earl•Thomson",
     "born": "14 August 1900 in Cleveland, Ohio (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -524,6 +524,21 @@
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14049",
+    "name": "Léonard•Daghelinckx",
+    "born": "10 April 1900 in Borgerhout, Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

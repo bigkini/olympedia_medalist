@@ -449,7 +449,7 @@
     "id": "12968",
     "name": "Clarence, Greve•von Rosen, Jr.",
     "born": "10 November 1903 in Äsköping, Katrineholm, Södermanland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -464,6 +464,28 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Individual, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14168",
+    "name": "Bernd•Dittert",
+    "born": "6 February 1961 in Genthin, Sachsen-Anhalt (GER)",
+    "measurements": "186 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

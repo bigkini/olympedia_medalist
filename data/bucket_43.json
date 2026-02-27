@@ -692,7 +692,7 @@
     "id": "13543",
     "name": "John•Becht",
     "born": "13 October 1886 in Brooklyn, New York, New York (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -700,6 +700,21 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14143",
+    "name": "Georges•Détreille",
+    "born": "9 September 1893 in Paris XIXe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -489,5 +489,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "13963",
+    "name": "Ottavio•Cogliati",
+    "born": "4 June 1939 in Nerviano, Milano (ITA)",
+    "measurements": "173 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14063",
+    "name": "Auguste•Daumain",
+    "born": "31 July 1877 in Selles-sur-Cher, Loir-et-Cher (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "25 kilometres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

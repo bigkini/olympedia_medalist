@@ -493,7 +493,7 @@
     "id": "12728",
     "name": "Robert•Selfelt",
     "born": "22 May 1903 in Fägre, Töreboda, Västra Götaland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -508,6 +508,21 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "13628",
+    "name": "Gunnar•Björk",
+    "born": "21 January 1891 in Lunda, Sigtuna, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

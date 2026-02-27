@@ -503,7 +503,7 @@
     "id": "11838",
     "name": "Joseph, Marquis•de Montesquiou-Fézensac",
     "born": "11 January 1875 in Paris VIIIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -511,6 +511,36 @@
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Hacks and Hunter Combined, Open\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "13838",
+    "name": "Fabio•Casartelli",
+    "born": "16 August 1970 in Como, Como (ITA)",
+    "measurements": "185 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14138",
+    "name": "Charlie•Denny",
+    "born": "17 March 1886 in Battersea, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "100 kilometres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

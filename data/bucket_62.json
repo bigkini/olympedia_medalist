@@ -505,7 +505,7 @@
     "id": "12962",
     "name": "Hermann•von Oppeln-Bronikowski",
     "born": "2 January 1899 in Berlin, Berlin (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -513,6 +513,21 @@
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14262",
+    "name": "José Antonio•Escuredo",
+    "born": "19 January 1970 in Gerona, Gerona (ESP)",
+    "measurements": "179 cm / 90 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Keirin, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

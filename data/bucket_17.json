@@ -482,5 +482,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "13817",
+    "name": "Fernand•Canteloube",
+    "born": "3 August 1900 in Aubervilliers, Seine-Saint-Denis (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13917",
+    "name": "Paul•Chocque",
+    "born": "14 July 1910 in Meudon, Hauts-de-Seine (FRA)",
+    "measurements": "174 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

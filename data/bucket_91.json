@@ -524,7 +524,7 @@
     "id": "12891",
     "name": "Alberto•Valdés Ramos",
     "born": "25 June 1919 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -532,6 +532,21 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "13691",
+    "name": "Bert•Bouffler",
+    "born": "16 February 1881 in Hackney, England (GBR)",
+    "measurements": "183 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Intercalated)",
+        "medal": "Silver"
       }
     ]
   }

@@ -532,5 +532,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "13707",
+    "name": "Janus•Braspennincx",
+    "born": "5 March 1903 in Zundert, Noord-Brabant (NED)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "14207",
+    "name": "Karl•Duill",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

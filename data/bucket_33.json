@@ -577,5 +577,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14133",
+    "name": "Fedor•den Hertog",
+    "born": "20 April 1946 in Utrecht, Utrecht (NED)",
+    "measurements": "183 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

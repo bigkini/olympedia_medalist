@@ -519,5 +519,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14065",
+    "name": "Charlie•Davey",
+    "born": "27 August 1886 in Croydon, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

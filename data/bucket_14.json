@@ -644,5 +644,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14114",
+    "name": "Fernand•Decanali",
+    "born": "7 July 1925 in Marseille (Marseilles), Bouches-du-Rhône (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
