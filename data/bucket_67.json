@@ -554,5 +554,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14467",
+    "name": "Willy•Gervin",
+    "born": "28 November 1903 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14667",
+    "name": "Günter•Haritz",
+    "born": "16 October 1948 in Heidelberg, Baden-Württemberg (GER)",
+    "measurements": "180 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

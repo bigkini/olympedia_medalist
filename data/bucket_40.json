@@ -680,13 +680,28 @@
     "id": "14240",
     "name": "Alex•Ekström",
     "born": "4 October 1883 in Enköping, Uppsala (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
         "noc": "SWE",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14340",
+    "name": "Giacomo•Fornoni",
+    "born": "26 December 1939 in Gromo, Bergamo (ITA)",
+    "measurements": "172 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

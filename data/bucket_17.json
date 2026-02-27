@@ -519,5 +519,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "14517",
+    "name": "Tommy•Godwin",
+    "born": "5 November 1920 in Bridgeport, Connecticut (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14617",
+    "name": "Bruno•Goetze",
+    "born": "23 June 1882 in Toruń, Kujawsko-Pomorskie (POL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Intercalated)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

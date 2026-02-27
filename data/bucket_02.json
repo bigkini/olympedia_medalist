@@ -539,5 +539,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "14502",
+    "name": "Marco•Giovannetti",
+    "born": "4 April 1962 in Milano, Milano (ITA)",
+    "measurements": "189 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

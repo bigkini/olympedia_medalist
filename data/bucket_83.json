@@ -600,7 +600,7 @@
     "id": "14283",
     "name": "Leandro•Faggin",
     "born": "18 July 1933 in Padova, Padova (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -615,6 +615,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14583",
+    "name": "Dave•Grylls",
+    "born": "29 September 1957 in Detroit, Michigan (USA)",
+    "measurements": "183 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

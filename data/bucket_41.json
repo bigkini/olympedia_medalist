@@ -576,5 +576,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14441",
+    "name": "Bert•Gayler",
+    "born": "3 December 1881 in Chislehurst, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "14541",
+    "name": "Sammy•Goosen",
+    "born": "1892 in Tarkastad, Eastern Cape (RSA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

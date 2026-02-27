@@ -488,5 +488,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14468",
+    "name": "Hans-Jürgen•Geschke",
+    "born": "7 July 1943 in Berlin, Berlin (GER)",
+    "measurements": "168 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

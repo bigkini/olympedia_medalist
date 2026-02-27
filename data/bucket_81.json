@@ -728,5 +728,57 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14381",
+    "name": "Dan•Frost",
+    "born": "22 May 1961 in Frederiksberg, Hovedstaden (DEN)",
+    "measurements": "184 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14481",
+    "name": "Alberto•Ghilardi",
+    "born": "25 August 1909 in Roma, Roma (ITA)",
+    "measurements": "167 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14581",
+    "name": "Freddie•Grubb",
+    "born": "27 May 1887 in Wimbledon, England (GBR)",
+    "measurements": "76 kg",
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -534,5 +534,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14304",
+    "name": "René•Faye",
+    "born": "20 December 1923 in Champagnac-la-Rivière, Haute-Vienne (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

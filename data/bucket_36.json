@@ -589,5 +589,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "14736",
+    "name": "Lutz•Heßlich",
+    "born": "17 January 1959 in Ortrand, Brandenburg (GER)",
+    "measurements": "185 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

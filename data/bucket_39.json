@@ -471,5 +471,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14439",
+    "name": "Philippe•Gaumont",
+    "born": "22 February 1973 in Amiens, Somme (FRA)",
+    "measurements": "186 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -530,13 +530,28 @@
     "id": "14164",
     "name": "Alfredo•Dinale",
     "born": "11 March 1900 in Vallonara, Marostica, Vicenza (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "ITA",
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14564",
+    "name": "Alexi•Grewal",
+    "born": "8 September 1960 in Denver, Colorado (USA)",
+    "measurements": "188 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

@@ -465,7 +465,7 @@
     "id": "13523",
     "name": "Charles•Bartlett",
     "born": "6 February 1885 in Southwark, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -473,6 +473,28 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "100 kilometres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14623",
+    "name": "Erich•Hagen",
+    "born": "11 December 1936 in Röglitz, Schkopau, Sachsen-Anhalt (GER)",
+    "measurements": "174 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

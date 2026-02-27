@@ -521,7 +521,7 @@
     "id": "14121",
     "name": "Gaston•Delaplane",
     "born": "6 March 1882 in Le Havre, Seine-Maritime (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1906  Intercalated Games",
@@ -543,6 +543,49 @@
         "discipline": "Rowing",
         "event": "Coxed Fours, Men\n(Intercalated)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "14321",
+    "name": "Jens•Fiedler",
+    "born": "15 February 1970 in Dohna, Sachsen (GER)",
+    "measurements": "185 cm / 94 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Keirin, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Sprint, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

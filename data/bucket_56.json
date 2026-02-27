@@ -430,5 +430,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14556",
+    "name": "Jean•Graczyk",
+    "born": "26 May 1933 in Neuvy-sur-Barangeon, Cher (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

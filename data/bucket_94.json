@@ -702,5 +702,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14594",
+    "name": "Pietro•Guerra",
+    "born": "28 June 1943 in San Pietro di Morubio, Verona (ITA)",
+    "measurements": "171 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

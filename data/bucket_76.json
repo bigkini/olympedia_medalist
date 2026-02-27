@@ -440,7 +440,7 @@
     "id": "12476",
     "name": "Helmer, Greve•Mörner",
     "born": "8 May 1895 in Göteborg (Gothenburg), Västra Götaland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -455,6 +455,36 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14376",
+    "name": "Thomas•Frischknecht",
+    "born": "17 February 1970 in Uster, Zürich (SUI)",
+    "measurements": "176 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Cross-Country, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "14676",
+    "name": "Hans-Joachim•Hartnick",
+    "born": "12 January 1955 in Wormlage, Brandenburg (GER)",
+    "measurements": "180 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

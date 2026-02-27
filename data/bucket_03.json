@@ -653,5 +653,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14403",
+    "name": "Giacomo•Gaioni",
+    "born": "26 April 1905 in Roverbella, Mantova (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

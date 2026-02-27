@@ -529,5 +529,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14630",
+    "name": "Joachim•Halupczok",
+    "born": "3 June 1968 in Niwki, Opolskie (POL)",
+    "measurements": "180 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

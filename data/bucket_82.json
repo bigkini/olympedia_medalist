@@ -629,5 +629,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14382",
+    "name": "Ken•Frost",
+    "born": "15 February 1967 in Rødovre, Hovedstaden (DEN)",
+    "measurements": "181 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -635,5 +635,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "14518",
+    "name": "Daniel•Goens",
+    "born": "15 September 1948 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
+    "measurements": "185 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14618",
+    "name": "Max•Goetze",
+    "born": "13 October 1880 in Toruń, Kujawsko-Pomorskie (POL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Intercalated)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

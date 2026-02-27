@@ -401,5 +401,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14480",
+    "name": "Gianni•Ghidini",
+    "born": "21 May 1930 in Golese, Parma, Parma (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -534,5 +534,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14574",
+    "name": "Eduard•Gritsun",
+    "born": "4 February 1976 in Rostov-na-Donu, Rostov (RUS)",
+    "measurements": "179 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -583,5 +583,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14519",
+    "name": "Oscar•Goerke",
+    "born": "10 January 1883 in Brooklyn, New York, New York (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "2 miles, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

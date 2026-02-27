@@ -595,7 +595,7 @@
     "id": "14105",
     "name": "Frans•de Vreng",
     "born": "11 April 1898 in Amsterdam, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -603,6 +603,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14305",
+    "name": "Oleksandr•Fedenko",
+    "born": "20 December 1970 in Kyiv, Kyiv (UKR)",
+    "measurements": "180 cm / 69 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "UKR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

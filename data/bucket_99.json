@@ -557,5 +557,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14699",
+    "name": "Steve•Hegg",
+    "born": "3 December 1963 in Dana Point, California (USA)",
+    "measurements": "178 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

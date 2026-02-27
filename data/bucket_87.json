@@ -734,7 +734,7 @@
     "id": "13887",
     "name": "Robert•Charpentier",
     "born": "4 April 1916 in Maule, Yvelines (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -756,6 +756,21 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14287",
+    "name": "Tomas•Pettersson",
+    "born": "15 May 1947 in Vårgårda, Västra Götaland (SWE)",
+    "measurements": "186 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -489,5 +489,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14677",
+    "name": "Erin•Hartwell",
+    "born": "1 June 1969 in Philadelphia, Pennsylvania (USA)",
+    "measurements": "182 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

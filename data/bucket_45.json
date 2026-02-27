@@ -494,7 +494,7 @@
     "id": "12945",
     "name": "Hans, Baron•von Blixen-Finecke, Sr.",
     "born": "25 July 1886 in Näsbyholms Castle, Trelleborg, Skåne (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -502,6 +502,36 @@
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Individual, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14445",
+    "name": "Alan•Geldard",
+    "born": "16 April 1927 in Rochdale, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14545",
+    "name": "Mark•Gorski",
+    "born": "6 January 1960 in Evanston, Illinois (USA)",
+    "measurements": "183 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

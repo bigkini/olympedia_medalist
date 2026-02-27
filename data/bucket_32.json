@@ -466,5 +466,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14432",
+    "name": "Auguste•Garrebeek",
+    "born": "10 January 1912 in Dworp, Vlaams Brabant (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

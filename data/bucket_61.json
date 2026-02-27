@@ -673,5 +673,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14561",
+    "name": "Michael•Grenda",
+    "born": "24 April 1962",
+    "measurements": "177 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

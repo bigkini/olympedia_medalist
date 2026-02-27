@@ -549,5 +549,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "14291",
+    "name": "Didier•Faivre-Pierret",
+    "born": "20 April 1965 in Pontarlier, Doubs (FRA)",
+    "measurements": "182 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

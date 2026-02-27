@@ -465,7 +465,7 @@
     "id": "14093",
     "name": "Angelo•De Martini",
     "born": "24 January 1897 in Villafranca di Verona, Verona (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -473,6 +473,28 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14693",
+    "name": "Rob•Hayles",
+    "born": "21 January 1973 in Portsmouth, England (GBR)",
+    "measurements": "188 cm / 80 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Madison, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

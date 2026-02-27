@@ -519,5 +519,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14454",
+    "name": "Pierre•Georget",
+    "born": "9 August 1917 in Châtellerault, Vienne (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14654",
+    "name": "Jørgen Emil•Hansen",
+    "born": "7 December 1942 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": "178 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

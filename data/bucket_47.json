@@ -425,5 +425,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "14747",
+    "name": "Darryn•Hill",
+    "born": "11 August 1974 in Perth, Western Australia (AUS)",
+    "measurements": "174 cm / 88 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Sprint, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

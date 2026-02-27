@@ -594,5 +594,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14635",
+    "name": "Bill•Hammond",
+    "born": "2 July 1886 in Eastbourne, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

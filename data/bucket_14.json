@@ -649,7 +649,7 @@
     "id": "14114",
     "name": "Fernand•Decanali",
     "born": "7 July 1925 in Marseille (Marseilles), Bouches-du-Rhône (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -657,6 +657,51 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14414",
+    "name": "Marat•Ganeyev",
+    "born": "6 December 1964 in Naberezhnye Chelny, Respublika Tatarstan (RUS)",
+    "measurements": "178 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14514",
+    "name": "Walter•Godefroot",
+    "born": "2 July 1943 in Gent (Ghent), Oost-Vlaanderen (BEL)",
+    "measurements": "171 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14614",
+    "name": "Anton•Gödrich",
+    "born": "25 September 1859 in Jerlochovice, Fulnek, Moravskoslezský kraj (CZE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

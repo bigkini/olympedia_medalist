@@ -553,5 +553,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "14357",
+    "name": "Gert•Frank",
+    "born": "15 March 1956 in Hobro, Mariagerfjord, Nordjylland (DEN)",
+    "measurements": "176 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

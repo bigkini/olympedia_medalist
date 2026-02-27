@@ -459,5 +459,65 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "14411",
+    "name": "Mike•Gambrill",
+    "born": "23 August 1935 in Brighton, England (GBR)",
+    "measurements": "185 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14511",
+    "name": "Michael•Glöckner",
+    "born": "27 May 1969 in Ehingen (Donau), Baden-Württemberg (GER)",
+    "measurements": "181 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "14611",
+    "name": "Roland•Günther",
+    "born": "11 December 1962 in Zwingenberg, Hessen (GER)",
+    "measurements": "179 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "14711",
+    "name": "Christian•Henn",
+    "born": "11 March 1964 in Heidelberg, Baden-Württemberg (GER)",
+    "measurements": "182 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
