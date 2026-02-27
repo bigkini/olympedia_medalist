@@ -442,7 +442,7 @@
     "id": "15498",
     "name": "Hermann•Martens",
     "born": "16 April 1877 in Elsterberg, Sachsen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -450,6 +450,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16398",
+    "name": "Arthur•Rushen",
+    "born": "10 June 1884 in London, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Intercalated)",
+        "medal": "Gold"
       }
     ]
   }

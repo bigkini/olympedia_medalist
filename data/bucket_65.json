@@ -586,5 +586,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "16165",
+    "name": "Jiří•Pokorný",
+    "born": "14 October 1956 in Brno, Jihomoravský kraj (CZE)",
+    "measurements": "182 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

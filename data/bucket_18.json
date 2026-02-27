@@ -692,7 +692,7 @@
     "id": "15418",
     "name": "Václav•Machek",
     "born": "27 December 1925 in Starý Mateřov, Pardubický kraj (CZE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -700,6 +700,58 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15918",
+    "name": "Shaun•O'Brien",
+    "born": "31 May 1969",
+    "measurements": "179 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16118",
+    "name": "Arvid•Pettersson",
+    "born": "31 March 1893 in Fägre, Töreboda, Västra Götaland (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16418",
+    "name": "Fernand•Saivé",
+    "born": "24 May 1900 in Dison, Liège (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

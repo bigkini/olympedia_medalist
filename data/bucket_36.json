@@ -684,5 +684,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "16336",
+    "name": "Ray•Robinson",
+    "born": "3 September 1929 in Johannesburg, Gauteng (RSA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -617,5 +617,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "16100",
+    "name": "Uwe•Peschel",
+    "born": "4 November 1968 in Ost-Berlin (East Berlin), Berlin (GER)",
+    "measurements": "179 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

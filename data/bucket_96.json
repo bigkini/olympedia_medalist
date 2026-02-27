@@ -534,5 +534,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "16496",
+    "name": "Fredy•Schmidtke",
+    "born": "1 July 1961 in Köln (Cologne), Nordrhein-Westfalen (GER)",
+    "measurements": "192 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

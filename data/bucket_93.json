@@ -497,5 +497,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "16093",
+    "name": "Maurice•Perrin",
+    "born": "26 October 1911 in Paris XIIe, Paris (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16193",
+    "name": "Werner•Potzernheim",
+    "born": "8 March 1927 in Hamburg, Hamburg (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

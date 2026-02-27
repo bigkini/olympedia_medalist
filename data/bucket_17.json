@@ -606,13 +606,35 @@
     "id": "15717",
     "name": "Bruno•Monti",
     "born": "12 June 1930 in Albano Laziale, Roma (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "ITA",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16117",
+    "name": "Giovanni•Pettenella",
+    "born": "28 March 1943 in Caprino Veronese, Verona (ITA)",
+    "measurements": "178 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

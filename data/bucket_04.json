@@ -593,5 +593,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "16004",
+    "name": "Aleksandr•Panfilov",
+    "born": "11 October 1960 in Bishkek, Bishkek (KGZ)",
+    "measurements": "175 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16304",
+    "name": "Herbert•Richter",
+    "born": "26 April 1947 in Chemnitz, Sachsen (GER)",
+    "measurements": "175 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

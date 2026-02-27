@@ -507,11 +507,33 @@
     "id": "15495",
     "name": "Charles•Marshall",
     "born": "18 January 1901 in Gainsborough, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
         "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16095",
+    "name": "Axel Wilhelm•Persson",
+    "born": "23 January 1888 in Eskilstuna, Södermanland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "SWE",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Silver"

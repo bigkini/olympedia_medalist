@@ -628,5 +628,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "15978",
+    "name": "Jaap•Oudkerk",
+    "born": "2 August 1937 in Landsmeer, Noord-Holland (NED)",
+    "measurements": "180 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

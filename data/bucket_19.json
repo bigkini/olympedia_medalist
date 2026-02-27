@@ -613,5 +613,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "16119",
+    "name": "Hjalmar•Pettersson",
+    "born": "7 December 1906 in Uppsala, Uppsala (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16519",
+    "name": "Jürgen•Schütze",
+    "born": "3 March 1951 in Arnsdorf, Sachsen (GER)",
+    "measurements": "187 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

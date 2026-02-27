@@ -376,7 +376,7 @@
     "id": "14020",
     "name": "Herbert•Crowther",
     "born": "28 October 1882 in Dewsbury, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1906  Intercalated Games",
@@ -391,6 +391,36 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "5,000 metres, Men\n(Intercalated)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16220",
+    "name": "Armand•Putzeys",
+    "born": "30 November 1916 in Engis, Liège (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16420",
+    "name": "Tsutomu•Sakamoto",
+    "born": "3 August 1962 in Nanbu, Aomori (JPN)",
+    "measurements": "168 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

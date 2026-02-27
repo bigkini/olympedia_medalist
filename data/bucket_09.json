@@ -552,5 +552,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "16509",
+    "name": "Günther•Schumacher",
+    "born": "27 June 1949 in Rostock, Mecklenburg-Vorpommern (GER)",
+    "measurements": "183 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

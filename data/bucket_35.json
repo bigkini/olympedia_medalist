@@ -659,7 +659,7 @@
     "id": "15635",
     "name": "Ernie•Merlin",
     "born": "5 September 1886 in Clerkenwell, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -667,6 +667,43 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16035",
+    "name": "Attilio•Pavesi",
+    "born": "1 October 1910 in Caorso, Piacenza (ITA)",
+    "measurements": "167 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16135",
+    "name": "Aavo•Pikkuus",
+    "born": "23 November 1954 in Karepa, Tartumaa (EST)",
+    "measurements": "178 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

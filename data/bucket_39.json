@@ -513,7 +513,7 @@
     "id": "15739",
     "name": "Marino•Morettini",
     "born": "2 January 1931 in Vertova, Bergamo (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -528,6 +528,36 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16039",
+    "name": "Ernie•Payne",
+    "born": "23 December 1884 in Worcester, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16439",
+    "name": "Michael•Sandstød",
+    "born": "23 June 1968 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": "180 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

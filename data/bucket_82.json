@@ -681,5 +681,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "15882",
+    "name": "Stamatios•Nikolopoulos",
+    "born": {},
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "GRE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "GRE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "333⅓ metres Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16382",
+    "name": "René•Rouffeteau",
+    "born": "30 March 1926 in Saint-Denis, Seine-Saint-Denis (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

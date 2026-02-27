@@ -742,5 +742,64 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "15903",
+    "name": "Marty•Nothstein",
+    "born": "10 February 1971 in Allentown, Pennsylvania (USA)",
+    "measurements": "187 cm / 96 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16303",
+    "name": "Heinz•Richter",
+    "born": "24 July 1947 in Schlegel, Zittau, Sachsen (GER)",
+    "measurements": "184 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16403",
+    "name": "Harry•Ryan",
+    "born": "21 November 1893 in St. Pancras, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

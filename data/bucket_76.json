@@ -544,7 +544,7 @@
     "id": "15876",
     "name": "Ernst•Nievergelt",
     "born": "23 March 1910 in Zürich, Zürich (SUI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -558,6 +558,21 @@
         "noc": "SUI",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15976",
+    "name": "Werner•Otto",
+    "born": "15 April 1948 in Dresden, Sachsen (GER)",
+    "measurements": "179 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

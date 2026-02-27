@@ -484,7 +484,7 @@
     "id": "14992",
     "name": "Henry•Kaltenbrunn",
     "born": "15 May 1897 in Vryburg, North West (RSA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -499,6 +499,21 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16292",
+    "name": "Pascal•Richard",
+    "born": "16 March 1964 in Vevey, Vaud (SUI)",
+    "measurements": "177 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -640,7 +640,7 @@
     "id": "15415",
     "name": "Algot•Lönn",
     "born": "18 December 1887 in Eskilstuna, Södermanland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -648,6 +648,28 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16515",
+    "name": "Carl•Schutte",
+    "born": "5 October 1887 in Kansas City, Missouri (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

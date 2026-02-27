@@ -500,7 +500,7 @@
     "id": "15271",
     "name": "Jean-Claude•Lecante",
     "born": "12 November 1934 in Saint-Ouen-sur-Seine, Seine-Saint-Denis (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -508,6 +508,36 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15971",
+    "name": "Timothy•O'Shannessey",
+    "born": "14 June 1972 in Burnie, Tasmania (AUS)",
+    "measurements": "182 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16471",
+    "name": "Axel•Schandorff",
+    "born": "3 March 1925 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

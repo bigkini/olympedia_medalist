@@ -494,5 +494,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "16124",
+    "name": "Davis•Phinney",
+    "born": "10 July 1959 in Boulder, Colorado (USA)",
+    "measurements": "172 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

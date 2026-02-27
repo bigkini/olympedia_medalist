@@ -531,7 +531,7 @@
     "id": "15675",
     "name": "Ernie•Mills",
     "born": "10 April 1913 in Islington, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -539,6 +539,36 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15975",
+    "name": "Kurt•Ott",
+    "born": "9 December 1912 in Zürich, Zürich (SUI)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16075",
+    "name": "Walter•Pérez",
+    "born": "31 January 1975 in San Justo, La Matanza, Provincia de Buenos Aires (ARG)",
+    "measurements": "178 cm / 78 kg",
+    "medals": [
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Madison, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

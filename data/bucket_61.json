@@ -747,5 +747,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "16261",
+    "name": "Daniel•Rébillard",
+    "born": "20 December 1948 in Tournan-en-Brie, Seine-et-Marne (FRA)",
+    "measurements": "184 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

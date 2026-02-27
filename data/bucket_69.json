@@ -471,7 +471,7 @@
     "id": "15269",
     "name": "Roger•Le Nizerhy",
     "born": "3 December 1916 in Paris Xe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -479,6 +479,43 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16069",
+    "name": "Bruno•Pellizzari",
+    "born": "5 November 1907 in Milano, Milano (ITA)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16369",
+    "name": "Luigi•Roncaglia",
+    "born": "10 June 1943 in Roverbella, Mantova (ITA)",
+    "measurements": "178 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

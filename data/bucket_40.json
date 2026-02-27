@@ -735,5 +735,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "15940",
+    "name": "Giuseppe•Olmo",
+    "born": "22 November 1911 in Celle Ligure, Savona (ITA)",
+    "measurements": "167 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16240",
+    "name": "Carlo•Rancati",
+    "born": "28 April 1940 in Milano, Milano (ITA)",
+    "measurements": "175 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

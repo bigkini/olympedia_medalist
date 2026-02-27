@@ -654,5 +654,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "15983",
+    "name": "Dainis•Ozols",
+    "born": "11 September 1966 in Smiltene, Smiltenes novads (LAT)",
+    "measurements": "178 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "LAT",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

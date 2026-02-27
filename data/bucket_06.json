@@ -549,7 +549,7 @@
     "id": "12906",
     "name": "Aernout, Jonkheer•van Lennep",
     "born": "23 February 1898 in Den Helder, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -557,6 +557,43 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15906",
+    "name": "Mieczysław•Nowicki",
+    "born": "26 January 1951 in Piątek, Łódzkie (POL)",
+    "measurements": "176 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16306",
+    "name": "Dave•Ricketts",
+    "born": "7 October 1920 in St. Pancras, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

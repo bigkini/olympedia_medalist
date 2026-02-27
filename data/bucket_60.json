@@ -641,7 +641,7 @@
     "id": "14560",
     "name": "Dunc•Gray",
     "born": "17 July 1906 in Goulburn, New South Wales (AUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -656,6 +656,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "1,000 metres Time Trial, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16060",
+    "name": "Leo•Peelen",
+    "born": "16 July 1968 in Arnhem, Gelderland (NED)",
+    "measurements": "195 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

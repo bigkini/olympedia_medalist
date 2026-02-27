@@ -719,5 +719,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "16114",
+    "name": "Aleksey•Petrov",
+    "born": "22 March 1937 in St. Petersburg, St. Petersburg (RUS)",
+    "measurements": "177 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16514",
+    "name": "Jan•Schur",
+    "born": "27 November 1962 in Leipzig, Sachsen (GER)",
+    "measurements": "180 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

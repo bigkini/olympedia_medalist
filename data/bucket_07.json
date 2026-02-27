@@ -582,7 +582,7 @@
     "id": "15507",
     "name": "Walden•Martin",
     "born": "28 September 1891 in Grayville, Illinois (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -590,6 +590,28 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15907",
+    "name": "André•Noyelle",
+    "born": "29 November 1931 in Ieper (Ypres), West-Vlaanderen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

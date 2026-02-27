@@ -673,5 +673,41 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "16384",
+    "name": "Florian•Rousseau",
+    "born": "3 February 1974 in Orléans, Loiret (FRA)",
+    "measurements": "182 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Keirin, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Sprint, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

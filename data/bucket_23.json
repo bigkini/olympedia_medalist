@@ -564,5 +564,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "16523",
+    "name": "Max•Sciandri",
+    "born": "15 February 1967 in Derby, England (GBR)",
+    "measurements": "188 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

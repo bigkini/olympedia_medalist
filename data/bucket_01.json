@@ -501,5 +501,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "16101",
+    "name": "Guglielmo•Pesenti",
+    "born": "18 December 1933 in Sedrina, Bergamo (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

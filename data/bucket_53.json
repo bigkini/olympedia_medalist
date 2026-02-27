@@ -602,7 +602,7 @@
     "id": "15353",
     "name": "Al•Loftes",
     "born": "1 January 1890 in Providence, Rhode Island (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -610,6 +610,21 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16053",
+    "name": "Peder•Pedersen",
+    "born": "3 November 1945 in Nørre Nærå, Nordfyn, Syddanmark (DEN)",
+    "measurements": "190 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

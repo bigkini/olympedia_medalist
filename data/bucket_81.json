@@ -785,11 +785,26 @@
     "id": "15381",
     "name": "Jef•Lowagie",
     "born": "1 November 1903 in Bredene, West-Vlaanderen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16381",
+    "name": "Claude•Rouer",
+    "born": "25 October 1929 in Paris XVIIe, Paris (FRA)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FRA",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Bronze"

@@ -596,7 +596,7 @@
     "id": "14541",
     "name": "Sammy•Goosen",
     "born": "1892 in Tarkastad, Eastern Cape (RSA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -604,6 +604,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16341",
+    "name": "Kjell•Rodian",
+    "born": "30 June 1942 in Frederiksberg, Hovedstaden (DEN)",
+    "measurements": "179 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

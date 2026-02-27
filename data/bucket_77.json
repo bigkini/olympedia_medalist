@@ -546,7 +546,7 @@
     "id": "15477",
     "name": "Tony•Marchant",
     "born": "28 August 1937 in Chelsea, Victoria (AUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -554,6 +554,36 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15877",
+    "name": "Pierre•Nihant",
+    "born": "5 April 1925 in Trembleur, Liège (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16177",
+    "name": "Herman•Ponsteen",
+    "born": "27 March 1953 in Hellendoorn, Overijssel (NED)",
+    "measurements": "181 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -554,7 +554,7 @@
     "id": "15845",
     "name": "Karl•Neumer",
     "born": "23 February 1887 in Vrchoslav, Krupka, Ústecký kraj (CZE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -569,6 +569,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16145",
+    "name": "Virginio•Pizzali",
+    "born": "28 December 1934 in Mortegliano, Udine (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

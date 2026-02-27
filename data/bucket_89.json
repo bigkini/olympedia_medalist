@@ -723,7 +723,7 @@
     "id": "14189",
     "name": "Burton•Downing",
     "born": "5 February 1885 in San José, California (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -765,6 +765,21 @@
         "noc": "USA",
         "discipline": "Cycling Track (Cycling)",
         "event": "25 miles, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16489",
+    "name": "Charles•Schlee",
+    "born": "21 July 1873 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "5 miles, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

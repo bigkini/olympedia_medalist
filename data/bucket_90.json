@@ -626,5 +626,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15890",
+    "name": "Leonard Harvey•Nitz",
+    "born": "20 September 1956 in Hamilton, Ohio (USA)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Individual Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16090",
+    "name": "Andrea•Peron",
+    "born": "14 August 1971 in Varese, Varese (ITA)",
+    "measurements": "183 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

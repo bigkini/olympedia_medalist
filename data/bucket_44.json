@@ -593,13 +593,28 @@
     "id": "15744",
     "name": "Henrik•Morén",
     "born": "5 January 1877 in Tävelsås, Växjö, Kronoberg (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
         "noc": "SWE",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15944",
+    "name": "Reno•Olsen",
+    "born": "19 February 1947 in Roskilde, Sjælland (DEN)",
+    "measurements": "173 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

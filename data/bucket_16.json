@@ -584,5 +584,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "16116",
+    "name": "Billy•Pett",
+    "born": "25 August 1873 in Derby, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "20 kilometres, Men\n(Intercalated)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16516",
+    "name": "Cor•Schuuring",
+    "born": "30 March 1942 in Amsterdam, Noord-Holland (NED)",
+    "measurements": "186 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

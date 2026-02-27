@@ -607,5 +607,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "16174",
+    "name": "Reinhold•Pommer",
+    "born": "6 January 1935 in Zigartice, Olomoucký kraj (CZE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

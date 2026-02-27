@@ -731,5 +731,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "16108",
+    "name": "Jan Bo•Petersen",
+    "born": "28 July 1970 in Næstved, Sjælland (DEN)",
+    "measurements": "187 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "16408",
+    "name": "Enzo•Sacchi",
+    "born": "6 January 1926 in Firenze, Firenze (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

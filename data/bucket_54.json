@@ -556,5 +556,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15954",
+    "name": "Henk•Ooms",
+    "born": "18 March 1916 in Halfweg, Haarlemmerliede en Spaarnwoude, Noord-Holland (NED)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16154",
+    "name": "Dick•Ploog",
+    "born": "27 November 1936 in Melbourne, Victoria (AUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

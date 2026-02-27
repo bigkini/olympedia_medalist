@@ -642,5 +642,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "16058",
+    "name": "Paolo•Pedretti",
+    "born": "22 January 1906 in Orsenigo, Como (ITA)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16158",
+    "name": "Rainer•Podlesch",
+    "born": "4 October 1944 in Dobbertin, Mecklenburg-Vorpommern (GER)",
+    "measurements": "183 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -614,7 +614,7 @@
     "id": "15526",
     "name": "Paul•Masson",
     "born": "11 October 1876 in Mostaganem, Mostaganem (ALG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1896 Summer Olympics",
@@ -636,6 +636,57 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "10,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15926",
+    "name": "Stuart•O'Grady",
+    "born": "6 August 1973 in Adelaide, South Australia (AUS)",
+    "measurements": "177 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Madison, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16526",
+    "name": "Ian•Scott",
+    "born": "9 January 1915",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

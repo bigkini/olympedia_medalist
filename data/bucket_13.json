@@ -741,7 +741,7 @@
     "id": "15313",
     "name": "Hjalmar•Levin",
     "born": "14 June 1884 in Eskilstuna, Södermanland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -749,6 +749,58 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16013",
+    "name": "Auguste•Parfondry",
+    "born": "12 February 1896 in Havelange, Namur (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16113",
+    "name": "Aleksandr•Perov",
+    "born": "2 June 1955 in Kaliningrad, Kaliningrad (RUS)",
+    "measurements": "183 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16513",
+    "name": "Gustav-Adolf•Schur",
+    "born": "23 February 1931 in Heyrothsberge, Biederitz, Sachsen-Anhalt (GER)",
+    "measurements": "175 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

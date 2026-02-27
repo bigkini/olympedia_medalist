@@ -645,5 +645,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15925",
+    "name": "Giuseppe•Ogna",
+    "born": "5 November 1933 in Brescia, Brescia (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

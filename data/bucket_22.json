@@ -662,7 +662,7 @@
     "id": "15622",
     "name": "Aleardo•Menegazzi",
     "born": "15 November 1900 in Buttapietra, Verona (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -670,6 +670,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "16322",
+    "name": "Bruno•Risi",
+    "born": "6 September 1968 in Altdorf, Uri (SUI)",
+    "measurements": "172 cm / 69 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Madison, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

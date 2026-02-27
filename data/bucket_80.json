@@ -406,11 +406,26 @@
     "id": "14480",
     "name": "Gianni•Ghidini",
     "born": "21 May 1930 in Golese, Parma, Parma (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "16280",
+    "name": "Harry•Reynolds",
+    "born": "12 October 1935 in Birmingham, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GBR",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Silver"

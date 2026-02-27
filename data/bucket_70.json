@@ -437,5 +437,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "16170",
+    "name": "Eros•Poli",
+    "born": "6 August 1963 in Isola della Scala, Verona (ITA)",
+    "measurements": "180 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
