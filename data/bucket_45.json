@@ -474,5 +474,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12645",
+    "name": "Laurence•Rook",
+    "born": "26 May 1921 in Bingham, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12945",
+    "name": "Hans, Baron•von Blixen-Finecke, Sr.",
+    "born": "25 July 1886 in Näsbyholms Castle, Trelleborg, Skåne (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

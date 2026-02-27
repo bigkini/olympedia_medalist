@@ -484,11 +484,41 @@
     "id": "11916",
     "name": "Ricardo•Echeverría",
     "born": "31 May 1918 in Antofagasta, Antofagasta (CHI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "CHI",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12716",
+    "name": "Gerhard•Schulz",
+    "born": "1 June 1931 in Hartensdorf, Rietz-Neuendorf, Brandenburg (GER)",
+    "measurements": "173 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12816",
+    "name": "Kazimierz•Szosland",
+    "born": "21 February 1891 in Grzymaczew, Łódzkie (POL)",
+    "measurements": "172 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "POL",
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"

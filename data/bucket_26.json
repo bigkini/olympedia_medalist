@@ -520,5 +520,34 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12726",
+    "name": "Guenter•Seidel",
+    "born": "23 September 1960 in Fischen im Allgäu, Bayern (GER)",
+    "measurements": "187 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

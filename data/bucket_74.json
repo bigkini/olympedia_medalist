@@ -474,5 +474,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12774",
+    "name": "Rafael•Soto",
+    "born": "14 October 1957 in Jerez de la Frontera, Cádiz (ESP)",
+    "measurements": "172 cm / 74 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -375,7 +375,7 @@
     "id": "12371",
     "name": "Humberto•Mariles",
     "born": "13 June 1913 in Parral, Chihuahua (MEX)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -397,6 +397,28 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12871",
+    "name": "Giangiorgio, Conte•Trissino",
+    "born": "22 July 1877 in Vicenza, Vicenza (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Long Jump, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "High Jump, Open\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

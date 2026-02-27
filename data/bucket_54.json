@@ -467,5 +467,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12654",
+    "name": "Sven•Rothenberger",
+    "born": "1 June 1966 in Frankfurt am Main, Hessen (GER)",
+    "measurements": "190 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

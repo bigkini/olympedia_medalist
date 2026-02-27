@@ -568,13 +568,49 @@
     "id": "12082",
     "name": "Gustaf•Hagelin",
     "born": "5 October 1897 in Lidköping, Västra Götaland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "SWE",
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12782",
+    "name": "Ian•Stark",
+    "born": "22 February 1954 in Galashiels, Scotland (GBR)",
+    "measurements": "177 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
         "medal": "Silver"
       }
     ]

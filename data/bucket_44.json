@@ -476,5 +476,57 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12644",
+    "name": "Bert•Romp",
+    "born": "4 November 1958 in Veendam, Groningen (NED)",
+    "measurements": "173 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12744",
+    "name": "Hugo•Simon",
+    "born": "3 August 1942 in Křivá Voda, Olomoucký kraj (CZE)",
+    "measurements": "162 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12944",
+    "name": "Hans, Baron•von Blixen-Finecke, Jr.",
+    "born": "20 July 1916 in Linköping, Östergötland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

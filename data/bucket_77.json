@@ -400,5 +400,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12777",
+    "name": "Garibaldi•Spighi",
+    "born": "11 June 1891 in Bagno di Romagna, Forlì-Cesena (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

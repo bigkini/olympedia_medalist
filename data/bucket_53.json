@@ -503,5 +503,49 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12653",
+    "name": "Otto•Rothe",
+    "born": "6 November 1924 in Samoniny, Warmińsko-Mazurskie (POL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12753",
+    "name": "Nick•Skelton",
+    "born": "30 December 1957 in Bedworth, England (GBR)",
+    "measurements": "175 cm / 76 kg",
+    "medals": [
+      {
+        "game": "2012 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2016 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

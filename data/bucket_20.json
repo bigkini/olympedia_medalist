@@ -331,7 +331,7 @@
     "id": "12520",
     "name": "Salvatore•Oppes",
     "born": "2 November 1909 in Pozzomaggiore, Sassari (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Equestrian Olympics",
@@ -339,6 +339,21 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Open\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12920",
+    "name": "Fabián•Vázquez",
+    "born": "20 January 1943 in Zimapán, Hidalgo (MEX)",
+    "measurements": "165 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -430,5 +430,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12893",
+    "name": "Alessandro•Valerio",
+    "born": "18 May 1881 in Milano, Milano (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

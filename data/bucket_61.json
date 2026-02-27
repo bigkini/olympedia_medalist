@@ -582,7 +582,7 @@
     "id": "12461",
     "name": "José•Mouzinho de Albuquerque",
     "born": "27 January 1886 in Porto, Distrito do Porto (POR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -590,6 +590,43 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12661",
+    "name": "Wayne•Roycroft",
+    "born": "21 May 1946 in Mansfield, Victoria (AUS)",
+    "measurements": "182 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12861",
+    "name": "Jan•Tops",
+    "born": "5 April 1961 in Valkenswaard, Noord-Brabant (NED)",
+    "measurements": "175 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

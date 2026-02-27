@@ -371,5 +371,34 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12756",
+    "name": "Franke•Sloothaak",
+    "born": "2 February 1958 in Heerenveen, Friesland (NED)",
+    "measurements": "186 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

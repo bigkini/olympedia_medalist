@@ -611,5 +611,78 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12687",
+    "name": "Yury•Salnikov",
+    "born": "6 June 1950 in Tovuz, Tovuz (AZE)",
+    "measurements": "176 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12787",
+    "name": "Bill•Steinkraus",
+    "born": "12 October 1925 in Cleveland, Ohio (USA)",
+    "measurements": "183 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12887",
+    "name": "Michel•Vaillancourt",
+    "born": "26 July 1954 in Saint-Félix-de-Valois, Québec (CAN)",
+    "measurements": "178 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

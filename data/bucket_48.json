@@ -300,7 +300,7 @@
     "id": "12448",
     "name": "Jack•Montgomery",
     "born": "22 November 1881 in Elizabethtown, Kentucky (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -315,6 +315,28 @@
         "discipline": "Polo",
         "event": "Polo, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12848",
+    "name": "Peter•Thomsen",
+    "born": "4 April 1961 in Flensburg, Schleswig-Holstein (GER)",
+    "measurements": "183 cm / 72 kg",
+    "medals": [
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2012 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

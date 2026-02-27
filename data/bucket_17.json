@@ -428,7 +428,7 @@
     "id": "12517",
     "name": "Ragnar•Olson",
     "born": "10 August 1880 in Kristianstad, Skåne (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -441,6 +441,21 @@
         "game": "1928 Summer Olympics",
         "noc": "SWE",
         "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12717",
+    "name": "Karel•Schummelketel",
+    "born": "24 September 1897 in Breda, Noord-Brabant (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
       }

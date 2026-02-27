@@ -488,5 +488,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12707",
+    "name": "Martin•Schaudt",
+    "born": "7 December 1958 in Balingen, Baden-Württemberg (GER)",
+    "measurements": "185 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

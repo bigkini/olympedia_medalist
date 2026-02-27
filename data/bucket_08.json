@@ -560,5 +560,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12808",
+    "name": "Sigurd•Svensson",
+    "born": "27 September 1912 in Vadsbro, Flen, Södermanland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

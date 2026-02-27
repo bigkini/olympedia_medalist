@@ -467,5 +467,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12665",
+    "name": "Rolf•Ruff",
+    "born": "7 March 1919 in Zürich, Zürich (SUI)",
+    "measurements": "170 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12765",
+    "name": "Joaquín•Solano",
+    "born": "2 June 1913 in Chicontepec, Veracruz (MEX)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

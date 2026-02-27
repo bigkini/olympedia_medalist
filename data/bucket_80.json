@@ -354,13 +354,35 @@
     "id": "12080",
     "name": "Aimé•Haegeman",
     "born": "19 October 1861 in Stabroek, Antwerpen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "BEL",
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Individual, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12780",
+    "name": "Olof•Stahre",
+    "born": "19 April 1909 in Lerum, Västra Götaland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

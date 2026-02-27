@@ -396,7 +396,7 @@
     "id": "12342",
     "name": "Hans•Lunding",
     "born": "25 February 1899 in Stepping, Kolding, Syddanmark (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -404,6 +404,21 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Individual, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12842",
+    "name": "Åke•Thelning",
+    "born": "24 October 1892 in Södra Härene, Vårgårda, Västra Götaland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

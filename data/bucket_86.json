@@ -409,7 +409,7 @@
     "id": "11986",
     "name": "Sigismund•Freyer",
     "born": "22 January 1881 in Nysa, Opolskie (POL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -417,6 +417,28 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12886",
+    "name": "Rubén•Uriza",
+    "born": "27 May 1920 in Huitzuco, Guerrero (MEX)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

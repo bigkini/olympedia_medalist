@@ -478,7 +478,7 @@
     "id": "12328",
     "name": "Oswald•Lints",
     "born": "18 April 1895 in Leuven, Vlaams Brabant (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -486,6 +486,28 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12728",
+    "name": "Robert•Selfelt",
+    "born": "22 May 1903 in Fägre, Töreboda, Västra Götaland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

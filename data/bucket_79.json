@@ -485,5 +485,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12879",
+    "name": "Hiram•Tuttle",
+    "born": "22 December 1882 in Dexter, Maine (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

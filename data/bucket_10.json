@@ -435,7 +435,7 @@
     "id": "12310",
     "name": "Xavier•Lesage",
     "born": "25 October 1885 in Moret-sur-Loing, Seine-et-Marne (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -455,6 +455,36 @@
         "game": "1932 Summer Olympics",
         "noc": "FRA",
         "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12810",
+    "name": "Torsten•Sylvan",
+    "born": "28 January 1895 in Visby, Gotland (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12910",
+    "name": "Maurice•Van Ranst",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Vaulting (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
       }

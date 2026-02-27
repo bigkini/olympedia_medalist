@@ -624,7 +624,7 @@
     "id": "12327",
     "name": "Hermann•Linkenbach",
     "born": "8 April 1889 in Barmen, Wuppertal, Nordrhein-Westfalen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -632,6 +632,21 @@
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12727",
+    "name": "Gaston•Seigner",
+    "born": "22 April 1878 in Moulins, Allier (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

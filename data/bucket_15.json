@@ -529,7 +529,7 @@
     "id": "11815",
     "name": "Emmanuel•de Blommaert de Soye",
     "born": "15 October 1875 in Blicquy, Leuze-en-Hainaut, Hainaut (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -537,6 +537,35 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Individual, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12715",
+    "name": "Karl•Schultz",
+    "born": "6 November 1937 in Bad Schwartau, Schleswig-Holstein (GER)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

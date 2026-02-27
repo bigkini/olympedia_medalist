@@ -583,7 +583,7 @@
     "id": "12440",
     "name": "Roger•Moeremans d'Emaüs",
     "born": "12 June 1890 in Dilbeek, Vlaams Brabant (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -591,6 +591,58 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12640",
+    "name": "Federico•Roman",
+    "born": "29 July 1952 in Trieste, Trieste (ITA)",
+    "measurements": "174 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12840",
+    "name": "Burkhard•Tesdorpf",
+    "born": "6 October 1962 in Bad Oldesloe, Schleswig-Holstein (GER)",
+    "measurements": "187 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12940",
+    "name": "Valery•Volkov",
+    "born": "26 July 1947 in Yaroslavl, Yaroslavl (RUS)",
+    "measurements": "169 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

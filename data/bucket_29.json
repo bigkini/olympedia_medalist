@@ -481,5 +481,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12929",
+    "name": "Pierre•Versteegh",
+    "born": "6 June 1888 in Kedung Banteng, Jawa Timur (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -492,7 +492,7 @@
     "id": "12341",
     "name": "Janne•Lundblad",
     "born": "11 April 1877 in Linköping, Östergötland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -507,6 +507,36 @@
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12641",
+    "name": "Mauro•Roman",
+    "born": "27 March 1954 in Trieste, Trieste (ITA)",
+    "measurements": "178 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12841",
+    "name": "Jean•Teulère",
+    "born": "27 February 1954 in Caudéran, Gironde (FRA)",
+    "measurements": "169 cm / 65 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

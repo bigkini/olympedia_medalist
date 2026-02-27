@@ -513,7 +513,7 @@
     "id": "12519",
     "name": "Antonio•Oppes",
     "born": "26 August 1916 in Pozzomaggiore, Sassari (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1960 Summer Olympics",
@@ -521,6 +521,36 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Open\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12719",
+    "name": "Hans•Schwarzenbach-Veillon",
+    "born": "24 May 1913 in Langnau im Emmental, Bern (SUI)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12819",
+    "name": "Sönke•Sönksen",
+    "born": "2 March 1938 in Meldorf, Schleswig-Holstein (GER)",
+    "measurements": "191 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

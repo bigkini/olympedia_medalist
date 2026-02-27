@@ -539,12 +539,27 @@
     "id": "12325",
     "name": "Ernst•Linder",
     "born": "25 April 1868 in Pohja, Raasepori, Uusimaa (FIN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "SWE",
         "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12925",
+    "name": "František•Ventura",
+    "born": "27 October 1895 in Cerekvice nad Loučnou, Pardubický kraj (CZE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Individual, Men\n(Olympic)",
         "medal": "Gold"
       }

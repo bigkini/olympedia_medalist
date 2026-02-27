@@ -304,5 +304,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12798",
+    "name": "Ludwig•Stubbendorff",
+    "born": "24 February 1906 in Turloff, Mecklenburg-Vorpommern (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

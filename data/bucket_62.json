@@ -478,5 +478,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12662",
+    "name": "Marcel•Rozier",
+    "born": "22 March 1936 in Saint-Étienne-sur-Chalaronne, Ain (FRA)",
+    "measurements": "172 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -510,7 +510,7 @@
     "id": "12100",
     "name": "Kurt•Hasse",
     "born": "7 February 1907 in Mainz, Rheinland-Pfalz (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -522,6 +522,36 @@
       {
         "game": "1936 Summer Olympics",
         "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12700",
+    "name": "Uwe•Sauer",
+    "born": "30 August 1943 in Hamburg, Hamburg (GER)",
+    "measurements": "185 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12800",
+    "name": "Axel•Ståhle",
+    "born": "1 February 1891 in Helsingborg, Skåne (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"

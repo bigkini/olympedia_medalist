@@ -414,5 +414,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12666",
+    "name": "John•Rumble",
+    "born": "27 August 1933 in Toronto, Ontario (CAN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "CAN",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12866",
+    "name": "Gottfried•Trachsel",
+    "born": "5 October 1907 in Thun, Bern (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

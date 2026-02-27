@@ -402,13 +402,28 @@
     "id": "12488",
     "name": "Bruno•Neumann",
     "born": "26 April 1883 in Kaliningrad, Kaliningrad (RUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
         "noc": "GER",
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12888",
+    "name": "Francisco•Valadas Júnior",
+    "born": "2 January 1906 in Reguengos de Monsaraz, Distrito de Évora (POR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "POR",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

@@ -530,5 +530,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12905",
+    "name": "Constant•Van Langhendonck",
+    "born": "3 February 1870 in Muizen, Mechelen, Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Long Jump, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

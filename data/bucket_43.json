@@ -568,7 +568,7 @@
     "id": "12343",
     "name": "Åge•Lundström",
     "born": "8 June 1890 in Stockholm, Stockholm (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -587,6 +587,72 @@
       {
         "game": "1924 Summer Olympics",
         "noc": "SWE",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12743",
+    "name": "Fernando•Paes",
+    "born": "24 May 1907 in Lisboa, Distrito de Lisboa (POR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "POR",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12843",
+    "name": "Fritz•Thiedemann",
+    "born": "3 March 1918 in Weddinghusen, Schleswig-Holstein (GER)",
+    "measurements": "166 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1956 Equestrian Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12943",
+    "name": "Marten•von Barnekow",
+    "born": "16 March 1900 in Bydgoszcz, Kujawsko-Pomorskie (POL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"

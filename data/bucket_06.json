@@ -529,5 +529,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12706",
+    "name": "Samuel•Schatzmann",
+    "born": "12 October 1955",
+    "measurements": "177 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12906",
+    "name": "Aernout, Jonkheer•van Lennep",
+    "born": "23 February 1898 in Den Helder, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

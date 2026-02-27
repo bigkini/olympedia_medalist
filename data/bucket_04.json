@@ -435,7 +435,7 @@
     "id": "12604",
     "name": "Henri•Rang",
     "born": "8 June 1902 in Lugoj, Timiș (ROU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -443,6 +443,50 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Individual, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12704",
+    "name": "James•Scanlon",
+    "born": "26 January 1948 in Pakenham, Victoria (AUS)",
+    "measurements": "181 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12904",
+    "name": "Adolf•van der Voort van Zijp",
+    "born": "1 September 1892 in Klambir Lima, Sumatera Utara (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

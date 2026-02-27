@@ -454,7 +454,7 @@
     "id": "12592",
     "name": "Arthur•Qvist",
     "born": "17 February 1896 in Oslo, Oslo (NOR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -462,6 +462,21 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12692",
+    "name": "Folke•Sandström",
+    "born": "27 September 1892 in Edshult, Alingsås, Västra Götaland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

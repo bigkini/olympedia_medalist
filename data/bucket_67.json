@@ -459,5 +459,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12667",
+    "name": "John•Russell",
+    "born": "2 February 1920 in Dauphin, Pennsylvania (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "12867",
+    "name": "Józef•Trenkwald",
+    "born": "14 August 1897 in Wien (Vienna), Wien (AUT)",
+    "measurements": "168 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

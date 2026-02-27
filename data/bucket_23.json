@@ -430,5 +430,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12923",
+    "name": "Dumitru•Velicu",
+    "born": "26 October 1930 in Râmnicu Vâlcea, Vâlcea (ROU)",
+    "measurements": "175 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

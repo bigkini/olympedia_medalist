@@ -492,5 +492,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12909",
+    "name": "Stanny•Van Paesschen",
+    "born": "24 April 1957 in Ekeren, Antwerpen (BEL)",
+    "measurements": "183 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -514,5 +514,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12830",
+    "name": "Gerardo•Tazzer",
+    "born": "12 December 1951 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
+    "measurements": "174 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

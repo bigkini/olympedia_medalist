@@ -399,5 +399,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "12739",
+    "name": "Neal•Shapiro",
+    "born": "22 July 1945 in Brooklyn, New York, New York (USA)",
+    "measurements": "175 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

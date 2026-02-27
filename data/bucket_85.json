@@ -482,5 +482,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12685",
+    "name": "Pierre•de Salins",
+    "born": "8 October 1889 in Saint-Avé, Morbihan (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Vaulting (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12785",
+    "name": "Hartwig•Steenken",
+    "born": "23 July 1941 in Twistringen, Niedersachsen (GER)",
+    "measurements": "175 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

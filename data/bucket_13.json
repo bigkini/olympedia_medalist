@@ -618,5 +618,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12913",
+    "name": "Henri•van Schaik",
+    "born": "24 July 1899 in Delft, Zuid-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

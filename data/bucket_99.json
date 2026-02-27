@@ -527,5 +527,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "12799",
+    "name": "Werner•Stuber",
+    "born": "27 January 1900",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

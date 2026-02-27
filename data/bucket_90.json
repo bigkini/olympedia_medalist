@@ -552,5 +552,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12890",
+    "name": "Alberto•Valdés Lacarra",
+    "born": "30 November 1950",
+    "measurements": "178 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

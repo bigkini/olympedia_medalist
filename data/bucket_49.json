@@ -458,7 +458,7 @@
     "id": "12349",
     "name": "Henri•Laame",
     "born": "31 August 1891 in Mons, Hainaut (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -466,6 +466,64 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12649",
+    "name": "Fredrik•Rosencrantz",
+    "born": "26 October 1879 in Benestad, Tomelilla, Skåne (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12849",
+    "name": "Earl•Thomson",
+    "born": "14 August 1900 in Cleveland, Ohio (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Eventing (Equestrian)",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

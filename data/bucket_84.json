@@ -478,7 +478,7 @@
     "id": "12484",
     "name": "José•Navarro Morenés",
     "born": "8 December 1897 in Madrid, Madrid (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -493,6 +493,28 @@
         "discipline": "Equestrian Jumping (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "12884",
+    "name": "Viktor•Ugryumov",
+    "born": "19 August 1939 in Khabarovsk, Khabarovsk Kray (RUS)",
+    "measurements": "173 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Equestrian Dressage (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

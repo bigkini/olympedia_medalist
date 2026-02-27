@@ -383,5 +383,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12712",
+    "name": "Paul•Schockemöhle",
+    "born": "22 March 1945 in Steinfeld (Oldenburg), Niedersachsen (GER)",
+    "measurements": "182 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

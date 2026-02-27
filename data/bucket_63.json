@@ -474,5 +474,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "12663",
+    "name": "Philippe•Rozier",
+    "born": "5 February 1963 in Melun, Seine-et-Marne (FRA)",
+    "measurements": "173 cm / 63 kg",
+    "medals": [
+      {
+        "game": "2016 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Team, Open\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

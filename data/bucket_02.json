@@ -485,7 +485,7 @@
     "id": "12502",
     "name": "Axel•Nordlander",
     "born": "21 September 1879 in Hagge, Smedjebacken, Dalarna (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -500,6 +500,28 @@
         "discipline": "Equestrian Eventing (Equestrian)",
         "event": "Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "12902",
+    "name": "Georges•Van De Poele",
+    "born": "23 March 1868 in Gent (Ghent), Oost-Vlaanderen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "Individual, Open\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Equestrian Jumping (Equestrian)",
+        "event": "High Jump, Open\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }
