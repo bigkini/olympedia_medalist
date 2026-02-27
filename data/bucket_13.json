@@ -736,5 +736,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "15313",
+    "name": "Hjalmar•Levin",
+    "born": "14 June 1884 in Eskilstuna, Södermanland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -462,7 +462,7 @@
     "id": "15012",
     "name": "Rudolf•Karsch",
     "born": "26 December 1913 in Leipzig, Sachsen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -470,6 +470,28 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "1,000 metres Time Trial, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15512",
+    "name": "Miguel•Martinez",
+    "born": "17 January 1976 in Fourchambault, Nièvre (FRA)",
+    "measurements": "164 cm / 50 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Mountain Bike (Cycling)",
+        "event": "Cross-Country, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Mountain Bike (Cycling)",
+        "event": "Cross-Country, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

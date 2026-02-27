@@ -469,11 +469,26 @@
     "id": "14934",
     "name": "Victor•Johnson",
     "born": "10 May 1883 in Aston, Birmingham, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15634",
+    "name": "Toni•Merkens",
+    "born": "21 June 1912 in Köln (Cologne), Nordrhein-Westfalen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
         "discipline": "Cycling Track (Cycling)",
         "event": "Sprint, Men\n(Olympic)",
         "medal": "Gold"

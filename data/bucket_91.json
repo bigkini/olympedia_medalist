@@ -569,7 +569,7 @@
     "id": "14891",
     "name": "Erik•Jansson",
     "born": "14 May 1907 in Sundborn, Falun, Dalarna (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -577,6 +577,21 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15391",
+    "name": "Sigge•Lundberg",
+    "born": "15 February 1895 in Funbo, Uppsala, Uppsala (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -427,7 +427,7 @@
     "id": "14898",
     "name": "Anders•Jarl",
     "born": "10 March 1965 in Tyresö, Stockholm (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1988 Summer Olympics",
@@ -435,6 +435,21 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15498",
+    "name": "Hermann•Martens",
+    "born": "16 April 1877 in Elsterberg, Sachsen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

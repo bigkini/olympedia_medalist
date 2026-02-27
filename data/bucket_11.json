@@ -534,5 +534,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15811",
+    "name": "Jan•Maas",
+    "born": "17 June 1900 in Steenbergen, Noord-Brabant (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

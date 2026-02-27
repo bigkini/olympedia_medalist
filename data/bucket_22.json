@@ -657,5 +657,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "15622",
+    "name": "Aleardo•Menegazzi",
+    "born": "15 November 1900 in Buttapietra, Verona (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

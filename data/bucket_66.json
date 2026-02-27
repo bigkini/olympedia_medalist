@@ -508,7 +508,7 @@
     "id": "15166",
     "name": "Albert•Krushel",
     "born": "21 October 1889 in Buffalo, New York (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -516,6 +516,21 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15466",
+    "name": "Viktor•Manakov",
+    "born": "28 July 1960 in Budogoshch, Leningrad (RUS)",
+    "measurements": "186 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

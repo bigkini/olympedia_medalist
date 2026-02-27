@@ -455,5 +455,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "15747",
+    "name": "Gerald•Mortag",
+    "born": "8 November 1958 in Gera, Thüringen (GER)",
+    "measurements": "175 cm / 50 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

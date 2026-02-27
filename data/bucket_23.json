@@ -549,5 +549,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15523",
+    "name": "Michael•Marx",
+    "born": "7 February 1960 in Hamburg, Hamburg (GER)",
+    "measurements": "187 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

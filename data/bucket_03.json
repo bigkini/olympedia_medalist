@@ -712,5 +712,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15303",
+    "name": "Liévin•Lerno",
+    "born": "3 October 1927 in Lokeren, Oost-Vlaanderen (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15803",
+    "name": "Tadeusz•Mytnik",
+    "born": "13 August 1949 in Nowice, Dolnośląskie (POL)",
+    "measurements": "177 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

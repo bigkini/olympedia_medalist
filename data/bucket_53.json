@@ -597,5 +597,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15353",
+    "name": "Al•Loftes",
+    "born": "1 January 1890 in Providence, Rhode Island (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

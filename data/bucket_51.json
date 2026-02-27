@@ -569,5 +569,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15451",
+    "name": "Bob•Maitland",
+    "born": "31 March 1924 in Birmingham, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15851",
+    "name": "Alan•Newton",
+    "born": "19 March 1931 in Stockport, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

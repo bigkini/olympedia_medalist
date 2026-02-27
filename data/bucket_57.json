@@ -583,5 +583,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15757",
+    "name": "Maurice•Moucheraud",
+    "born": "28 July 1933 in Potangis, Marne (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

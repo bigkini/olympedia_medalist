@@ -523,5 +523,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15472",
+    "name": "Cencio•Mantovani",
+    "born": "17 October 1941 in Castel d'Ario, Mantova (ITA)",
+    "measurements": "171 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15572",
+    "name": "Pat•McDonough",
+    "born": "22 July 1961 in Long Beach, California (USA)",
+    "measurements": "167 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

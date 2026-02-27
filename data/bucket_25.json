@@ -568,8 +568,8 @@
   {
     "id": "15125",
     "name": "Aristidis•Konstantinidis",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1896 Summer Olympics",
@@ -577,6 +577,72 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Individual, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15425",
+    "name": "Jimmi•Madsen",
+    "born": "4 January 1969 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": "183 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15525",
+    "name": "Antonio•Maspes",
+    "born": "14 January 1932 in Milano, Milano (ITA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15825",
+    "name": "Gary•Neiwand",
+    "born": "4 September 1966 in Melbourne, Victoria (AUS)",
+    "measurements": "176 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Keirin, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Sprint, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

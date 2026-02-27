@@ -655,7 +655,7 @@
     "id": "14618",
     "name": "Max•Goetze",
     "born": "13 October 1880 in Toruń, Kujawsko-Pomorskie (POL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1906  Intercalated Games",
@@ -669,6 +669,36 @@
         "noc": "GER",
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15318",
+    "name": "Rudolph•Lewis",
+    "born": "12 July 1887 in Waterberg, Pretoria, Gauteng (RSA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "RSA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15418",
+    "name": "Václav•Machek",
+    "born": "27 December 1925 in Starý Mateřov, Pardubický kraj (CZE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

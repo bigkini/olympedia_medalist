@@ -435,13 +435,43 @@
     "id": "14556",
     "name": "Jean•Graczyk",
     "born": "26 May 1933 in Neuvy-sur-Barangeon, Cher (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "FRA",
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15356",
+    "name": "Oleg•Logvin",
+    "born": "23 May 1959 in Minsk, Minsk (BLR)",
+    "measurements": "183 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15756",
+    "name": "Charlie•Moss",
+    "born": "6 March 1882 in Ascott-under-Wychwood, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

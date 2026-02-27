@@ -664,5 +664,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15827",
+    "name": "Dmitry•Nelyubin",
+    "born": "8 February 1971 in St. Petersburg, St. Petersburg (RUS)",
+    "measurements": "177 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

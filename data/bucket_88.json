@@ -472,5 +472,56 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "15388",
+    "name": "Olaf•Ludwig",
+    "born": "13 April 1960 in Gera, Thüringen (GER)",
+    "measurements": "182 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15488",
+    "name": "Aleksey•Markov",
+    "born": "26 May 1979 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "181 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Madison, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

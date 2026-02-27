@@ -601,13 +601,28 @@
     "id": "14890",
     "name": "Bernard•Janssens",
     "born": "18 August 1895 in Hoboken, Antwerpen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "BEL",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15390",
+    "name": "Jørn•Lund",
+    "born": "26 August 1944 in Astrup, Mariagerfjord, Nordjylland (DEN)",
+    "measurements": "177 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

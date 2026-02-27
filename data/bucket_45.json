@@ -539,13 +539,35 @@
     "id": "15245",
     "name": "Armando•Latini",
     "born": "20 May 1913 in Roma, Roma (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "ITA",
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15845",
+    "name": "Karl•Neumer",
+    "born": "23 February 1887 in Vrchoslav, Krupka, Ústecký kraj (CZE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

@@ -560,7 +560,7 @@
     "id": "15064",
     "name": "Charles•King",
     "born": "12 June 1911 in Putney, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -568,6 +568,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15764",
+    "name": "Valery•Movchan",
+    "born": "14 June 1959 in Sordorovo, Sughd (TJK)",
+    "measurements": "178 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

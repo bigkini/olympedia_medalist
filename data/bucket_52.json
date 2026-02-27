@@ -609,5 +609,64 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "15352",
+    "name": "Leijn•Loevesijn",
+    "born": "2 January 1949 in Amsterdam, Noord-Holland (NED)",
+    "measurements": "176 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15652",
+    "name": "Christian•Meyer",
+    "born": "12 December 1969 in Freiburg im Breisgau, Baden-Württemberg (GER)",
+    "measurements": "185 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15852",
+    "name": "Chris•Newton",
+    "born": "29 September 1973 in Middlesbrough, England (GBR)",
+    "measurements": "181 cm / 69 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -491,7 +491,7 @@
     "id": "14839",
     "name": "Piet•Ikelaar",
     "born": "2 January 1896 in Nieuwer-Amstel, Amstelveen, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -506,6 +506,28 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "50 kilometres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15739",
+    "name": "Marino•Morettini",
+    "born": "2 January 1931 in Vertova, Bergamo (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

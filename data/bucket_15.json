@@ -635,5 +635,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "15415",
+    "name": "Algot•Lönn",
+    "born": "18 December 1887 in Eskilstuna, Södermanland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

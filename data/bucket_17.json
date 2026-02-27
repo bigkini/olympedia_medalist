@@ -576,7 +576,7 @@
     "id": "15217",
     "name": "Thomas•Lance",
     "born": "14 June 1891 in Paddington, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -584,6 +584,36 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15617",
+    "name": "Yury•Melikhov",
+    "born": "1 April 1937 in St. Petersburg, St. Petersburg (RUS)",
+    "measurements": "175 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15717",
+    "name": "Bruno•Monti",
+    "born": "12 June 1930 in Albano Laziale, Roma (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

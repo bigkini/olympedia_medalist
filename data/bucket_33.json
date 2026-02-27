@@ -641,7 +641,7 @@
     "id": "15233",
     "name": "Guy•Lapébie",
     "born": "28 November 1916 in Saint-Geours-de-Maremne, Landes (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -663,6 +663,43 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15533",
+    "name": "Georges•Maton",
+    "born": "26 October 1913 in Lille, Nord (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15633",
+    "name": "Leon•Meredith",
+    "born": "2 February 1882 in St. Pancras, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

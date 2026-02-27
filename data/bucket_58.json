@@ -557,7 +557,7 @@
     "id": "15258",
     "name": "Jack•Lauterwasser",
     "born": "4 June 1904 in City of London, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -565,6 +565,81 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15358",
+    "name": "Giovanni•Lombardi",
+    "born": "20 June 1969 in Pavia, Pavia (ITA)",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15558",
+    "name": "Wayne•McCarney",
+    "born": "30 June 1966 in Colac, Victoria (AUS)",
+    "measurements": "181 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15658",
+    "name": "Lucien•Michard",
+    "born": "17 November 1903 in Epinay-sur-Seine, Seine-Saint-Denis (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15758",
+    "name": "Henri•Mouillefarine",
+    "born": "1 August 1910 in Montrouge, Hauts-de-Seine (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15858",
+    "name": "Kevin•Nichols",
+    "born": "4 July 1955 in Grafton, New South Wales (AUS)",
+    "measurements": "175 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

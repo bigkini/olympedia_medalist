@@ -531,13 +531,28 @@
     "id": "15277",
     "name": "André•Leducq",
     "born": "27 February 1904 in Saint-Ouen-sur-Seine, Seine-Saint-Denis (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "FRA",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15477",
+    "name": "Tony•Marchant",
+    "born": "28 August 1937 in Chelsea, Victoria (AUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

@@ -780,5 +780,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "15381",
+    "name": "Jef•Lowagie",
+    "born": "1 November 1903 in Bredene, West-Vlaanderen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

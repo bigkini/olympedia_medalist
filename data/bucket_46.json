@@ -623,5 +623,56 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "15346",
+    "name": "Joan•Llaneras",
+    "born": "17 May 1969 in Porreres, Mallorca, Islas Baleares (ESP)",
+    "measurements": "180 cm / 65 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Madison, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15646",
+    "name": "Guido•Messina",
+    "born": "4 January 1931 in Monreale, Palermo (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

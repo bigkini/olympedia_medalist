@@ -524,7 +524,7 @@
     "id": "14763",
     "name": "Rik•Hoevenaers",
     "born": "1 August 1901 in Antwerpen (Antwerp), Antwerpen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -546,6 +546,21 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15663",
+    "name": "Jack•Middleton",
+    "born": "21 June 1906 in Coventry, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

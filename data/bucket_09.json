@@ -522,5 +522,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15609",
+    "name": "Jaap•Meijer",
+    "born": "20 April 1905 in Amsterdam, Noord-Holland (NED)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15709",
+    "name": "Jean-Michel•Monin",
+    "born": "7 September 1967 in Argenteuil, Val-d'Oise (FRA)",
+    "measurements": "189 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

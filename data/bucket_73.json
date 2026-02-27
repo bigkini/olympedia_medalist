@@ -467,5 +467,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "15373",
+    "name": "Carl•Lorenz",
+    "born": "27 November 1913 in Chemnitz, Sachsen (GER)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15473",
+    "name": "Ferruccio•Manza",
+    "born": "26 April 1943 in Nave, Brescia (ITA)",
+    "measurements": "178 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "100 kilometres Team Time Trial, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

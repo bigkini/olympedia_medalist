@@ -720,5 +720,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "15540",
+    "name": "Serhiy•Matvieiev",
+    "born": "29 January 1975 in Myronivka, Kyiv (UKR)",
+    "measurements": "183 cm / 78 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "UKR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

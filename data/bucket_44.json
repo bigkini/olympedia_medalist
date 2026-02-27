@@ -573,5 +573,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "15644",
+    "name": "Uwe•Messerschmidt",
+    "born": "22 January 1962 in Schwäbisch Gmünd, Baden-Württemberg (GER)",
+    "measurements": "173 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15744",
+    "name": "Henrik•Morén",
+    "born": "5 January 1877 in Tävelsås, Växjö, Kronoberg (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

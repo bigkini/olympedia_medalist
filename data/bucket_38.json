@@ -602,5 +602,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15538",
+    "name": "Johnnie•Matthews",
+    "born": "16 August 1884 in Kensington, England (GBR)",
+    "measurements": "177 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GBR",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Tandem Sprint, 2,000 metres, Men\n(Intercalated)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

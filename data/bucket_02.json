@@ -554,5 +554,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "15702",
+    "name": "Alain•Moineau",
+    "born": "15 May 1928 in Clichy, Hauts-de-Seine (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

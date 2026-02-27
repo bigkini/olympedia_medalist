@@ -507,7 +507,7 @@
     "id": "15176",
     "name": "Hennie•Kuiper",
     "born": "3 February 1949 in Denekamp, Overijssel (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1972 Summer Olympics",
@@ -515,6 +515,50 @@
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Individual, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15576",
+    "name": "Scott•McGrory",
+    "born": "22 December 1969 in Walwa, Victoria (AUS)",
+    "measurements": "185 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Madison, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15876",
+    "name": "Ernst•Nievergelt",
+    "born": "23 March 1910 in Zürich, Zürich (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

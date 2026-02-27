@@ -554,13 +554,35 @@
     "id": "15265",
     "name": "Jan•Łazarski",
     "born": "26 October 1892 in Kraków (Cracow), Małopolskie (POL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "POL",
         "discipline": "Cycling Track (Cycling)",
         "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15865",
+    "name": "Leo•Nielsen",
+    "born": "5 March 1909 in Randers, Midtjylland (DEN)",
+    "measurements": "168 cm",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

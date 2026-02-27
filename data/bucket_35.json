@@ -629,7 +629,7 @@
     "id": "15235",
     "name": "Octave•Lapize",
     "born": "24 October 1887 in Paris XIVe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -637,6 +637,36 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "100 kilometres, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15435",
+    "name": "Primo•Magnani",
+    "born": "31 March 1892 in Pavia, Pavia (ITA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15635",
+    "name": "Ernie•Merlin",
+    "born": "5 September 1886 in Clerkenwell, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

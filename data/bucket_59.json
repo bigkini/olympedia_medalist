@@ -579,7 +579,7 @@
     "id": "12459",
     "name": "Hans•Moser",
     "born": "19 January 1901 in Oberdiessbach, Bern (SUI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -587,6 +587,36 @@
         "discipline": "Equestrian Dressage (Equestrian)",
         "event": "Individual, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15559",
+    "name": "Fred•McCarthy",
+    "born": "15 October 1881 in Stratford, Ontario (CAN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15859",
+    "name": "John•Nicholson",
+    "born": "22 June 1949 in Melbourne, Victoria (AUS)",
+    "measurements": "180 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "AUS",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

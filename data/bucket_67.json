@@ -589,7 +589,7 @@
     "id": "15067",
     "name": "Clarrie•Kingsbury",
     "born": "3 November 1882 in Portsmouth, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -604,6 +604,21 @@
         "discipline": "Cycling Track (Cycling)",
         "event": "20 kilometres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "15867",
+    "name": "Klaus Kynde•Nielsen",
+    "born": "13 April 1966 in Århus (Aarhus), Midtjylland (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 4,000 metres, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -346,13 +346,43 @@
     "id": "13650",
     "name": "Erik•Bohlin",
     "born": "1 June 1897 in Orsa, Dalarna (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "SWE",
         "discipline": "Cycling Road (Cycling)",
         "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15550",
+    "name": "Antoine•Mazairac",
+    "born": "24 May 1901 in Roosendaal, Noord-Brabant (NED)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Sprint, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "15750",
+    "name": "William•Morton",
+    "born": "20 June 1880 in Hunslet, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Team Pursuit, 1,980 yards, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

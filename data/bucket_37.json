@@ -362,5 +362,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15737",
+    "name": "José•Moreno",
+    "born": "7 May 1969 in Amsterdam, Noord-Holland (NED)",
+    "measurements": "180 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "1,000 metres Time Trial, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -672,5 +672,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "15510",
+    "name": "Silvio•Martinello",
+    "born": "19 January 1963 in Padova, Padova (ITA)",
+    "measurements": "177 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Points Race, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Cycling Track (Cycling)",
+        "event": "Madison, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "15610",
+    "name": "Frank•Meissner",
+    "born": "19 July 1894 in Grand Rapids, Michigan (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Cycling Road (Cycling)",
+        "event": "Road Race, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
