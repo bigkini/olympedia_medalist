@@ -954,5 +954,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24875",
+    "name": "Ramón•Eguiazábal",
+    "born": "14 April 1896 in Irún, Guipúzcoa (ESP)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25175",
+    "name": "Jean-Christophe•Thouvenel",
+    "born": "8 October 1958 in Saint-Genis-Pouilly, Ain (FRA)",
+    "measurements": "173 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

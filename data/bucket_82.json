@@ -1106,5 +1106,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24682",
+    "name": "Poul•Pedersen",
+    "born": "31 October 1932 in Århus (Aarhus), Midtjylland (DEN)",
+    "measurements": "175 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

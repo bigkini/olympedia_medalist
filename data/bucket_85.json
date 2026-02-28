@@ -1046,5 +1046,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25085",
+    "name": "René•Duparc",
+    "born": "28 September 1880 in Suresnes, Hauts-de-Seine (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

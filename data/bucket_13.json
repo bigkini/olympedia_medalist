@@ -1271,5 +1271,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24913",
+    "name": "Juanma•López",
+    "born": "3 September 1969 in Madrid, Madrid (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

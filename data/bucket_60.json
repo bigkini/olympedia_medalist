@@ -1097,5 +1097,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24860",
+    "name": "Rafa•Berges",
+    "born": "21 January 1971 in Córdoba, Córdoba (ESP)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24960",
+    "name": "Joaquín•Vázquez",
+    "born": "9 November 1897 in Badajoz, Badajoz (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -1069,5 +1069,34 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24706",
+    "name": "Charles•Buchwald",
+    "born": "22 October 1880 in Sahl, Viborg, Midtjylland (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Intercalated)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

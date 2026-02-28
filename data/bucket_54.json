@@ -1007,11 +1007,41 @@
     "id": "24354",
     "name": "Ernest•Linton",
     "born": "17 February 1880 in Galt, Cambridge, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
         "noc": "CAN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24854",
+    "name": "Mariano•Arrate",
+    "born": "12 August 1892 in San Sebastián, Guipúzcoa (ESP)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24954",
+    "name": "Paco•Soler",
+    "born": "5 March 1970 in Palma de Mallorca, Islas Baleares (ESP)",
+    "measurements": "170 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"

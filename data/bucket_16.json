@@ -1022,5 +1022,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24916",
+    "name": "•Luis Enrique",
+    "born": "8 May 1970 in Gijón, Asturias (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

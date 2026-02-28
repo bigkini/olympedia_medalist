@@ -968,7 +968,7 @@
     "id": "24369",
     "name": "William•Twaits",
     "born": "20 August 1878 in Galt, Cambridge, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -976,6 +976,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24669",
+    "name": "Flemming•Nielsen",
+    "born": "24 February 1934 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": "184 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

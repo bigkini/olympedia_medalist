@@ -1036,11 +1036,41 @@
     "id": "24367",
     "name": "Tom•Taylor",
     "born": "4 December 1880 in Galt, Cambridge, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
         "noc": "CAN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25067",
+    "name": "Patrick•Cubaynes",
+    "born": "6 May 1960 in Nîmes, Gard (FRA)",
+    "measurements": "175 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25167",
+    "name": "Didier•Sénac",
+    "born": "2 October 1958 in Saint-Denis, Seine-Saint-Denis (FRA)",
+    "measurements": "185 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"

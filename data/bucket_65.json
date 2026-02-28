@@ -1037,7 +1037,7 @@
     "id": "24365",
     "name": "Fred•Steep",
     "born": "20 December 1874 in St. Catharines, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -1045,6 +1045,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24665",
+    "name": "Kristian•Middelboe",
+    "born": "24 March 1881 in Brunnby, Höganäs, Skåne (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24965",
+    "name": "Ricardo•Zamora",
+    "born": "21 January 1901 in Barcelona, Barcelona (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -1152,5 +1152,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24674",
+    "name": "Poul•Nielsen",
+    "born": "25 December 1891 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -872,7 +872,7 @@
     "id": "24342",
     "name": "Jack•Fraser",
     "born": "15 December 1881 in Hamilton, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -880,6 +880,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25042",
+    "name": "Michel•Bibard",
+    "born": "30 November 1958 in Amboise, Indre-et-Loire (FRA)",
+    "measurements": "185 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25142",
+    "name": "Gaston•Peltier",
+    "born": "2 August 1877 in Rouen, Seine-Maritime (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

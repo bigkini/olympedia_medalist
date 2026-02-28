@@ -1103,5 +1103,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24902",
+    "name": "•Silverio",
+    "born": "31 August 1897 in San Sebastián, Guipúzcoa (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

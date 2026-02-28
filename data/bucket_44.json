@@ -940,7 +940,7 @@
     "id": "24644",
     "name": "John•Hansen",
     "born": "24 June 1924 in Frederiksberg, Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -948,6 +948,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25044",
+    "name": "Dominique•Bijotat",
+    "born": "3 January 1961 in Chassignolles, Indre (FRA)",
+    "measurements": "180 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

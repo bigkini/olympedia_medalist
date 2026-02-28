@@ -882,5 +882,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25092",
+    "name": "Virgile•Gaillard",
+    "born": "28 July 1877 in Paris IIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

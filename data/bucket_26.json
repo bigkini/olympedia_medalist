@@ -1031,5 +1031,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24926",
+    "name": "•Kiko",
+    "born": "26 April 1972 in Jerez de la Frontera, Cádiz (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

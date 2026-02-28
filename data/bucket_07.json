@@ -1036,11 +1036,33 @@
     "id": "24207",
     "name": "•Tonho",
     "born": "18 August 1957 in Criciúma, Santa Catarina (BRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1984 Summer Olympics",
         "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24707",
+    "name": "Vilhelm•Wolfhagen",
+    "born": "11 November 1889 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "DEN",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"

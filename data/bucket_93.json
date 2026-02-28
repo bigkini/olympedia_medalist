@@ -995,5 +995,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25093",
+    "name": "Patrice•Garande",
+    "born": "27 November 1960 in Oullins, Rhône (FRA)",
+    "measurements": "173 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -957,5 +957,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24696",
+    "name": "Ivar•Lykke",
+    "born": "7 March 1889 in Frederiksberg, Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -1108,5 +1108,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24653",
+    "name": "Ivan•Jensen",
+    "born": "10 November 1922 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24953",
+    "name": "•Sesúmaga",
+    "born": "12 October 1898 in Lejona, Vizcaya (ESP)",
+    "measurements": "170 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25053",
+    "name": "François•Brisson",
+    "born": "9 April 1958 in Saintes, Charente-Maritime (FRA)",
+    "measurements": "174 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

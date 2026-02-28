@@ -1050,11 +1050,26 @@
     "id": "24349",
     "name": "Albert•Johnson",
     "born": "17 April 1880 in Galt, Cambridge, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
         "noc": "CAN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24849",
+    "name": "José Emilio•Amavisca",
+    "born": "19 June 1971 in Laredo, Cantabria (ESP)",
+    "measurements": "182 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"

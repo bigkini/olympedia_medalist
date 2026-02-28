@@ -1205,5 +1205,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25094",
+    "name": "Georges•Garnier",
+    "born": "14 May 1878 in Paris VIe, Paris (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25194",
+    "name": "Horace•Bailey",
+    "born": "3 July 1881 in Derby, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -969,5 +969,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24695",
+    "name": "Holger•Seebach",
+    "born": "17 March 1922 in Århus (Aarhus), Midtjylland (DEN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24895",
+    "name": "Pep•Guardiola",
+    "born": "18 January 1971 in Santpedor, Barcelona (ESP)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25195",
+    "name": "Tom•Burridge",
+    "born": "30 April 1881 in Pimlico, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

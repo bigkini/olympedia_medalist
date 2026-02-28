@@ -882,5 +882,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24666",
+    "name": "Nils•Middelboe",
+    "born": "5 October 1887 in Brunnby, Höganäs, Skåne (SWE)",
+    "measurements": "188 cm",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

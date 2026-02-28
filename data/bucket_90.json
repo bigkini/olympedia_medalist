@@ -1091,5 +1091,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24690",
+    "name": "Bjørn•Rasmussen",
+    "born": "19 May 1885 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -970,5 +970,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24671",
+    "name": "Harald•Nielsen",
+    "born": "26 October 1941 in Frederikshavn, Nordjylland (DEN)",
+    "measurements": "178 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -989,7 +989,7 @@
     "id": "23338",
     "name": "Willy•Fitting",
     "born": "25 January 1925 in Lausanne, Vaud (SUI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -997,6 +997,21 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24938",
+    "name": "•Pinilla",
+    "born": "25 February 1971 in Badalona, Barcelona (ESP)",
+    "measurements": "176 cm",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -1059,5 +1059,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24933",
+    "name": "•Otero",
+    "born": "22 October 1893 in Pontevedra, Pontevedra (ESP)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25033",
+    "name": "Louis•Bach",
+    "born": "4 April 1883 in Paris Xe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

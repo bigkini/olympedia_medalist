@@ -1057,5 +1057,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24709",
+    "name": "Dion•Ørnvold",
+    "born": "17 October 1921 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

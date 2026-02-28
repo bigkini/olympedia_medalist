@@ -791,7 +791,7 @@
     "id": "24350",
     "name": "Bobby•Lane",
     "born": "15 January 1882 in Galt, Cambridge, Ontario (CAN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -799,6 +799,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24650",
+    "name": "Viggo•Jensen",
+    "born": "29 March 1921 in Skagen, Frederikshavn, Nordjylland (DEN)",
+    "measurements": "178 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24850",
+    "name": "Patricio•Arabolaza",
+    "born": "17 March 1893 in Irún, Guipúzcoa (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

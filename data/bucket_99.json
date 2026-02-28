@@ -1082,7 +1082,7 @@
     "id": "24299",
     "name": "Krum•Yanev",
     "born": "9 January 1929 in Plovdiv, Plovdiv (BUL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -1090,6 +1090,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24699",
+    "name": "Jørn•Sørensen",
+    "born": "17 October 1936 in Tårs, Hjørring, Nordjylland (DEN)",
+    "measurements": "171 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25199",
+    "name": "Ronald•Brebner",
+    "born": "23 September 1881 in Darlington, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

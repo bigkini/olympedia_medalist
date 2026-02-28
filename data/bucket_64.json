@@ -928,5 +928,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "24864",
+    "name": "•Sabino",
+    "born": "11 December 1897 in Lejona, Vizcaya (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

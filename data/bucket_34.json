@@ -827,5 +827,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24934",
+    "name": "•Pagaza",
+    "born": "22 October 1894 in Santurce, Vizcaya (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

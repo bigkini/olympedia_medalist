@@ -1107,5 +1107,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25091",
+    "name": "Eugène•Fraysse",
+    "born": "4 May 1870 in Paris XVIIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

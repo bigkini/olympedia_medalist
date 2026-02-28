@@ -1128,5 +1128,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24951",
+    "name": "•Sancho",
+    "born": "18 July 1896 in Benlloch, Castellón (ESP)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

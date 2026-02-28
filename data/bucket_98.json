@@ -789,5 +789,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24698",
+    "name": "Jørgen Leschly•Sørensen",
+    "born": "24 September 1922 in Lumby, Odense, Syddanmark (DEN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25098",
+    "name": "Alexandre•Grandjean",
+    "born": "(1881 or 1882)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

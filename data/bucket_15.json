@@ -1029,5 +1029,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25115",
+    "name": "Marcel•Lambert",
+    "born": "1876",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

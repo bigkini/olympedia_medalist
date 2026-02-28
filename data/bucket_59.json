@@ -1056,5 +1056,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24959",
+    "name": "•Vallana",
+    "born": "29 November 1897 in Algorta, Vizcaya (ESP)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -967,7 +967,7 @@
     "id": "24632",
     "name": "Ludwig•Drescher",
     "born": "21 July 1881 in Sønderborg, Syddanmark (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -975,6 +975,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25032",
+    "name": "William•Ayache",
+    "born": "10 January 1961 in Al-Jaza'ir (Algiers), Al-Jaza'ir (ALG)",
+    "measurements": "176 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

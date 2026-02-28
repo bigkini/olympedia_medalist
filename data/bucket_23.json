@@ -1008,5 +1008,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24923",
+    "name": "•Pichichi",
+    "born": "23 May 1892 in Bilbao, Vizcaya (ESP)",
+    "measurements": "154 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

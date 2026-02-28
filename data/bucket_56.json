@@ -937,5 +937,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24656",
+    "name": "Emil•Jørgensen",
+    "born": "7 February 1882 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25056",
+    "name": "Fernand•Canelle",
+    "born": "2 January 1882 in Paris XVIIe, Paris (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25156",
+    "name": "Jean-Philippe•Rohr",
+    "born": "23 December 1961 in Metz, Moselle (FRA)",
+    "measurements": "174 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -999,5 +999,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25124",
+    "name": "Jean-Claude•Lemoult",
+    "born": "28 August 1960 in Neufchâteau, Vosges (FRA)",
+    "measurements": "168 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -1154,5 +1154,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24889",
+    "name": "•Acedo",
+    "born": "6 June 1898 in Bilbao, Vizcaya (ESP)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25189",
+    "name": "Jean-Louis•Zanon",
+    "born": "30 November 1960 in Montauban, Tarn-et-Garonne (FRA)",
+    "measurements": "180 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

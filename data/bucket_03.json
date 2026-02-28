@@ -1244,5 +1244,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24703",
+    "name": "Axel•Tufvesson",
+    "born": "11 November 1889 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25203",
+    "name": "Claude•Buckenham",
+    "born": "16 January 1876 in Herne Hill, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

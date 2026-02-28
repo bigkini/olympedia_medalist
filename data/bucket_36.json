@@ -1137,5 +1137,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24936",
+    "name": "•Alfonso",
+    "born": "26 September 1972 in Getafe, Madrid (ESP)",
+    "measurements": "178 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

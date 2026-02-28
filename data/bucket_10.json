@@ -1251,5 +1251,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24910",
+    "name": "•Lasa",
+    "born": "9 September 1971 in Legorreta, Guipúzcoa (ESP)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25110",
+    "name": "Lucien•Huteau",
+    "born": "26 May 1878 in Paris VIIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

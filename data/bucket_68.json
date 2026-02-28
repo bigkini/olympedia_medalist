@@ -973,5 +973,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "24668",
+    "name": "Eigil•Nielsen",
+    "born": "15 September 1918 in Esbjerg, Syddanmark (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
