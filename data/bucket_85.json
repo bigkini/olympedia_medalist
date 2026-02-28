@@ -907,5 +907,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22185",
+    "name": "John•Pelling",
+    "born": "27 May 1936 in London, England (GBR)",
+    "measurements": "178 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -865,13 +865,58 @@
     "id": "21767",
     "name": "Henri•Callot",
     "born": "20 December 1875 in La Rochelle, Charente-Maritime (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1896 Summer Olympics",
         "noc": "FRA",
         "discipline": "Fencing",
         "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22167",
+    "name": "Sydney•Martineau",
+    "born": "6 January 1863 in Clapham, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22267",
+    "name": "Thomas•Gerull",
+    "born": "2 January 1962 in Itzehoe, Schleswig-Holstein (GER)",
+    "measurements": "176 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22367",
+    "name": "Tilemachos•Karakalos",
+    "born": "1866 in Dimitsana, Peloponnesos (GRE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "GRE",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

@@ -1087,5 +1087,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22308",
+    "name": "Wladimir•Reznitschenko",
+    "born": "27 July 1965 in Almaty, Almaty (KAZ)",
+    "measurements": "187 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

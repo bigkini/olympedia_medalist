@@ -916,5 +916,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22241",
+    "name": "Frank•Beck",
+    "born": "26 June 1961 in Tauberbischofsheim, Baden-Württemberg (GER)",
+    "measurements": "179 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22341",
+    "name": "Ingo•Weißenborn",
+    "born": "29 November 1963 in Bernburg (Saale), Sachsen-Anhalt (GER)",
+    "measurements": "168 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

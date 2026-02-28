@@ -783,7 +783,7 @@
     "id": "21895",
     "name": "Maurice•Huet",
     "born": "1 December 1918 in Paris XVIIIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -791,6 +791,36 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "21995",
+    "name": "Louis•Perrée",
+    "born": "25 March 1871 in Paris IIIe, Paris (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22295",
+    "name": "Eberhard•Mehl",
+    "born": "20 April 1935 in Köln (Cologne), Nordrhein-Westfalen (GER)",
+    "measurements": "182 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -919,7 +919,7 @@
     "id": "21965",
     "name": "Jean-Baptiste•Mimiague",
     "born": "3 February 1871 in Villefranche-sur-Mer, Alpes-Maritimes (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -927,6 +927,35 @@
         "discipline": "Fencing",
         "event": "Foil, Masters, Individual, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22065",
+    "name": "Damien•Touya",
+    "born": "23 April 1975 in La Rochelle, Charente-Maritime (FRA)",
+    "measurements": "185 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

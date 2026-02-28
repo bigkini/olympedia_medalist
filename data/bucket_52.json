@@ -891,5 +891,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22052",
+    "name": "Jean•Stern",
+    "born": "19 February 1875 in Paris VIIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

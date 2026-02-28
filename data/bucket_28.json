@@ -860,5 +860,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22028",
+    "name": "Pierre•Rodocanachi",
+    "born": "2 October 1938 in Paris, Paris (FRA)",
+    "measurements": "170 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

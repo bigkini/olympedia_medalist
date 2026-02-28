@@ -964,5 +964,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22260",
+    "name": "Robert•Felisiak",
+    "born": "11 October 1962 in Wrocław, Dolnośląskie (POL)",
+    "measurements": "185 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -759,7 +759,7 @@
     "id": "20901",
     "name": "Roxana•Dumitrescu",
     "born": "27 June 1967 in Urziceni, Ialomița (ROU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -767,6 +767,21 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Women\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22301",
+    "name": "Rafael•Nickel",
+    "born": "30 July 1958 in Hamburg, Hamburg (GER)",
+    "measurements": "186 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -851,5 +851,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22009",
+    "name": "Lionel•Plumenail",
+    "born": "22 January 1967 in Bordeaux, Gironde (FRA)",
+    "measurements": "172 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

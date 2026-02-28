@@ -976,7 +976,7 @@
     "id": "21874",
     "name": "Lucien•Gaudin",
     "born": "27 September 1886 in Arras, Pas-de-Calais (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1019,6 +1019,28 @@
         "discipline": "Fencing",
         "event": "Épée, Individual, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22274",
+    "name": "Hans-Jürgen•Hehn",
+    "born": "1 October 1944 in Lauda, Lauda-Königshofen, Baden-Württemberg (GER)",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

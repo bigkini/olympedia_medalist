@@ -917,5 +917,34 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22363",
+    "name": "Ioannis•Georgiadis",
+    "born": "29 March 1876 in Tripoli, Peloponnesos (GRE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "GRE",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GRE",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Intercalated)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GRE",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Intercalated)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

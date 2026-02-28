@@ -991,5 +991,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "21994",
+    "name": "Joseph•Perotaux",
+    "born": "8 January 1883 in Nantes, Loire-Atlantique (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

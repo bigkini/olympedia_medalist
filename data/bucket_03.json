@@ -1138,13 +1138,28 @@
     "id": "21903",
     "name": "Henri•Jobier",
     "born": "6 July 1879 in Courson-les-Carrières, Yonne (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "FRA",
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22303",
+    "name": "August•Petri",
+    "born": "1878",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Intercalated)",
         "medal": "Gold"
       }
     ]

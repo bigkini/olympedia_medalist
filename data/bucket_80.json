@@ -832,5 +832,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22280",
+    "name": "Hanns•Jana",
+    "born": "18 July 1952 in Tauberbischofsheim, Baden-Württemberg (GER)",
+    "measurements": "188 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

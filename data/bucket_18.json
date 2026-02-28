@@ -1108,7 +1108,7 @@
     "id": "21818",
     "name": "Henri•de Saint Germain",
     "born": "30 June 1878 in Saint-Malo, Ille-et-Vilaine (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1116,6 +1116,28 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22418",
+    "name": "Péter•Bakonyi",
+    "born": "17 February 1938 in Budapest, Budapest (HUN)",
+    "measurements": "183 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -952,13 +952,43 @@
     "id": "21979",
     "name": "Claude•Nigon",
     "born": "28 December 1928 in Basel, Basel-Stadt (SUI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "FRA",
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22079",
+    "name": "Michael•Alexander",
+    "born": "19 June 1936 in Winchester, England (GBR)",
+    "measurements": "188 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22379",
+    "name": "Periklis•Pierrakos-Mavromichalis",
+    "born": "1863",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "GRE",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

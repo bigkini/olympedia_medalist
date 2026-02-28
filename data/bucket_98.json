@@ -699,5 +699,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21998",
+    "name": "Joanni•Perronet",
+    "born": "19 October 1877 in Paris IXe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Masters, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

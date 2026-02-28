@@ -918,7 +918,7 @@
     "id": "21925",
     "name": "Henri•Laurent",
     "born": "1 April 1881 in Beaulieu-sur-Loire, Loiret (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -926,6 +926,21 @@
         "discipline": "Fencing",
         "event": "Épée, Masters, Individual, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22125",
+    "name": "Arthur•Everitt",
+    "born": "27 August 1872 in Paddington, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

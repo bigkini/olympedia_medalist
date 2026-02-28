@@ -904,5 +904,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21984",
+    "name": "Philippe•Omnès",
+    "born": "6 August 1960 in Paris, Paris (FRA)",
+    "measurements": "182 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22284",
+    "name": "Alexander•Koch",
+    "born": "22 February 1969 in Bonn, Nordrhein-Westfalen (GER)",
+    "measurements": "186 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

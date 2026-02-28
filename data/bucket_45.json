@@ -806,7 +806,7 @@
     "id": "21745",
     "name": "Lionel, Marquis•de Castellane-Majastres",
     "born": "28 September 1891 in Gardegan-et-Tourtirac, Gironde (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -814,6 +814,28 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22045",
+    "name": "Léon•Sée",
+    "born": "23 September 1877 in Lille, Nord (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Masters and Amateurs, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

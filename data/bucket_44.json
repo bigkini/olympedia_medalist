@@ -816,7 +816,7 @@
     "id": "21944",
     "name": "Alexandre•Lippmann",
     "born": "11 June 1881 in Paris XVIIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -852,6 +852,21 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22244",
+    "name": "Reinhold•Behr",
+    "born": "17 October 1948 in Tauberbischofsheim, Baden-Württemberg (GER)",
+    "measurements": "186 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -872,7 +872,7 @@
     "id": "21802",
     "name": "Gabriel, Comte•de la Falaise",
     "born": "24 March 1866 in Luçon, Vendée (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -894,6 +894,35 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Intercalated)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22002",
+    "name": "Frédéric•Pietruszka",
+    "born": "13 May 1954 in Villecresnes, Val-de-Marne (FRA)",
+    "measurements": "176 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

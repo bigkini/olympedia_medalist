@@ -978,5 +978,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22000",
+    "name": "Patrick•Picot",
+    "born": "22 September 1951 in Saint-Mandé, Val-de-Marne (FRA)",
+    "measurements": "177 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

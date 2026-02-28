@@ -909,5 +909,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22339",
+    "name": "Richard•Wahl",
+    "born": "4 December 1906 in Frankfurt am Main, Hessen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

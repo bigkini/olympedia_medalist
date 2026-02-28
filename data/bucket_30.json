@@ -795,13 +795,28 @@
     "id": "21330",
     "name": "Vlastimil•Lada-Sázavský",
     "born": "31 March 1886 in Praha (Prague), Hlavní město Praha (CZE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "BOH",
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22330",
+    "name": "Jürgen•Theuerkauff",
+    "born": "8 September 1934 in Berlin, Berlin (GER)",
+    "measurements": "180 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

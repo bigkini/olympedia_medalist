@@ -671,5 +671,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22147",
+    "name": "Bill•Hoskyns",
+    "born": "19 March 1931 in Kensington, England (GBR)",
+    "measurements": "183 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

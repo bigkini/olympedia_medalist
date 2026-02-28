@@ -985,5 +985,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22258",
+    "name": "Hans•Esser",
+    "born": "15 January 1909 in Essen, Nordrhein-Westfalen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

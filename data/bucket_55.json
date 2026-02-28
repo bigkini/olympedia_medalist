@@ -924,5 +924,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22255",
+    "name": "Jakob•Erckrath de Bary",
+    "born": "10 March 1864 in Offenbach am Main, Hessen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Intercalated)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

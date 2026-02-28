@@ -952,5 +952,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22153",
+    "name": "Allan•Jay",
+    "born": "30 June 1931 in London, England (GBR)",
+    "measurements": "175 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

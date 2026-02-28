@@ -818,5 +818,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21993",
+    "name": "Michel•Pécheux",
+    "born": "24 May 1911 in Saint-Brieuc, Côtes-d'Armor (FRA)",
+    "measurements": "178 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22393",
+    "name": "Vasilios•Zarkadis",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GRE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Intercalated)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

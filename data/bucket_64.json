@@ -829,7 +829,7 @@
     "id": "21764",
     "name": "Gustave•Buchard",
     "born": "17 February 1890 in Le Havre, Seine-Maritime (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -843,6 +843,21 @@
         "noc": "FRA",
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22064",
+    "name": "Jean-François•Tournon",
+    "born": "6 August 1905 in Bois-Colombes, Hauts-de-Seine (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

@@ -897,7 +897,7 @@
     "id": "21849",
     "name": "Henri•Dulieux",
     "born": "10 May 1897 in Lille, Nord (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -905,6 +905,42 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22249",
+    "name": "Gustav•Casmir",
+    "born": "5 November 1872 in Mikołajki, Warmińsko-Mazurskie (POL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Intercalated)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Intercalated)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Three Hits, Men\n(Intercalated)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Intercalated)",
+        "medal": "Gold"
       }
     ]
   }

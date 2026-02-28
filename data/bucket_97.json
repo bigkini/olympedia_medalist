@@ -690,5 +690,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21997",
+    "name": "Marc•Perrodon",
+    "born": "31 August 1878 in Vendôme, Loir-et-Cher (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

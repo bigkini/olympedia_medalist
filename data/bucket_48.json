@@ -665,5 +665,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22148",
+    "name": "Michael•Howard",
+    "born": "24 December 1928 in Richmond, England (GBR)",
+    "measurements": "174 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22248",
+    "name": "Jürgen•Brecht",
+    "born": "1 March 1940 in Speyer, Rheinland-Pfalz (GER)",
+    "measurements": "175 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

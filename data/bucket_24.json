@@ -818,7 +818,7 @@
     "id": "21724",
     "name": "Louis•Bastien",
     "born": "26 October 1881 in Paris IIIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -826,6 +826,21 @@
         "discipline": "Fencing",
         "event": "25 kilometres, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22424",
+    "name": "Barnabás•Berzsenyi",
+    "born": "12 February 1918 in Šahy, Nitra (SVK)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

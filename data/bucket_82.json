@@ -972,5 +972,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22082",
+    "name": "Edgar•Amphlett",
+    "born": "1 September 1867 in Dorchester, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22282",
+    "name": "Hans-Georg•Jörger",
+    "born": "26 November 1903",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22382",
+    "name": "Leon•Pyrgos",
+    "born": "1874 in Mantinea, Peloponnesos (GRE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "GRE",
+        "discipline": "Fencing",
+        "event": "Foil, Masters, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
