@@ -887,7 +887,7 @@
     "id": "25092",
     "name": "Virgile•Gaillard",
     "born": "28 July 1877 in Paris IIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -895,6 +895,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25692",
+    "name": "László•Fazekas",
+    "born": "15 October 1947 in Budapest, Budapest (HUN)",
+    "measurements": "175 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

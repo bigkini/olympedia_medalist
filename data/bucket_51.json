@@ -1158,5 +1158,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25751",
+    "name": "Ádám•Rothermel",
+    "born": "14 June 1948 in Budapest, Budapest (HUN)",
+    "measurements": "190 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -1119,5 +1119,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25533",
+    "name": "Mohammed•Gargo",
+    "born": "19 June 1975 in Accra, Greater Accra (GHA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25733",
+    "name": "Ernő•Noskó",
+    "born": "26 May 1945 in Cserhátszentiván, Nógrád (HUN)",
+    "measurements": "178 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

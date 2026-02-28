@@ -894,11 +894,41 @@
     "id": "25297",
     "name": "Harold•Walden",
     "born": "10 October 1887 in Ambala, Haryana (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
         "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25497",
+    "name": "Wolfram•Wuttke",
+    "born": "17 November 1961 in Castrop-Rauxel, Nordrhein-Westfalen (GER)",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25697",
+    "name": "József•Gelei",
+    "born": "29 June 1938 in Kunmadaras, Jász-Nagykun-Szolnok (HUN)",
+    "measurements": "179 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "HUN",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"

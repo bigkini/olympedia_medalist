@@ -1013,5 +1013,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25675",
+    "name": "Lajos•Csordás",
+    "born": "26 October 1932 in Budafok, Budapest (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -1096,7 +1096,7 @@
     "id": "24690",
     "name": "Bjørn•Rasmussen",
     "born": "19 May 1885 in København (Copenhagen), Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -1104,6 +1104,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25690",
+    "name": "János•Farkas",
+    "born": "27 March 1942 in Budapest, Budapest (HUN)",
+    "measurements": "172 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

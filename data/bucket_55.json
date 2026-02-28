@@ -1088,5 +1088,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25755",
+    "name": "Imre•Sátori",
+    "born": "7 March 1937 in Budapest, Budapest (HUN)",
+    "measurements": "170 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

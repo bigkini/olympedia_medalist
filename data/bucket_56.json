@@ -997,5 +997,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25756",
+    "name": "István•Sárközi",
+    "born": "21 October 1947 in Jászberény, Jász-Nagykun-Szolnok (HUN)",
+    "measurements": "176 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -1091,5 +1091,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25767",
+    "name": "Gusztáv•Szepesi",
+    "born": "17 July 1939 in Miskolc, Borsod-Abaúj-Zemplén (HUN)",
+    "measurements": "178 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

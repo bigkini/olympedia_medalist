@@ -1166,5 +1166,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25741",
+    "name": "Károly•Palotai",
+    "born": "11 September 1935 in Békéscsaba, Békes (HUN)",
+    "measurements": "175 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

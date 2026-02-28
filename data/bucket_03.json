@@ -1289,5 +1289,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25703",
+    "name": "Kálmán•Ihász",
+    "born": "6 March 1941 in Budapest, Budapest (HUN)",
+    "measurements": "170 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

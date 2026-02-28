@@ -1121,5 +1121,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25682",
+    "name": "Lajos•Dunai",
+    "born": "29 November 1942 in Budapest, Budapest (HUN)",
+    "measurements": "182 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

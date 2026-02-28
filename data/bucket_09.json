@@ -1087,5 +1087,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25509",
+    "name": "Sammi•Adjei",
+    "born": "18 November 1973",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25709",
+    "name": "László•Keglovich",
+    "born": "4 February 1940 in Sopron, Győr-Moson-Sopron (HUN)",
+    "measurements": "176 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

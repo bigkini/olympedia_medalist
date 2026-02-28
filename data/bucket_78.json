@@ -1043,5 +1043,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25678",
+    "name": "Jenő•Dalnoki",
+    "born": "12 December 1932 in Budapest, Budapest (HUN)",
+    "measurements": "178 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

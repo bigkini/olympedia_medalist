@@ -1216,5 +1216,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25540",
+    "name": "Samuel•Kuffour",
+    "born": "3 September 1976 in Kumasi, Western (GHA)",
+    "measurements": "175 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25740",
+    "name": "Tibor•Pál",
+    "born": "15 September 1935 in Budapest, Budapest (HUN)",
+    "measurements": "168 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

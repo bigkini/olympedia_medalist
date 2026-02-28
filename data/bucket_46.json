@@ -1101,5 +1101,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25446",
+    "name": "Jürgen•Klinsmann",
+    "born": "30 July 1964 in Göppingen, Baden-Württemberg (GER)",
+    "measurements": "182 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

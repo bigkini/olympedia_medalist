@@ -1182,5 +1182,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25536",
+    "name": "Mohammed Dramani•Kalilu",
+    "born": "21 October 1972",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25736",
+    "name": "Árpád•Orbán",
+    "born": "14 March 1938 in Győr, Győr-Moson-Sopron (HUN)",
+    "measurements": "190 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -857,5 +857,34 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25734",
+    "name": "Dezső•Novák",
+    "born": "3 February 1939 in Ják, Vas (HUN)",
+    "measurements": "174 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

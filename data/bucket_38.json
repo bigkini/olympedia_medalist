@@ -1029,5 +1029,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25738",
+    "name": "Pál•Orosz",
+    "born": "25 January 1934 in Szentes, Csongrád (HUN)",
+    "measurements": "177 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

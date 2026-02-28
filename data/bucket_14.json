@@ -1136,5 +1136,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25714",
+    "name": "Sándor•Kocsis",
+    "born": "21 September 1929 in Budapest, Budapest (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

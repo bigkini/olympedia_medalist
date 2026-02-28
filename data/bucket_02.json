@@ -1133,5 +1133,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25502",
+    "name": "Joachim Yaw•Acheampong",
+    "born": "2 November 1973 in Accra, Greater Accra (GHA)",
+    "measurements": "181 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

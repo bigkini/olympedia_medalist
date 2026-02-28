@@ -1147,5 +1147,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25658",
+    "name": "Flórián•Albert",
+    "born": "15 September 1941 in Hercegszántó, Bács-Kiskun (HUN)",
+    "measurements": "182 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -1059,5 +1059,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25717",
+    "name": "Imre•Kovács",
+    "born": "26 November 1921 in Budapest, Budapest (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -907,5 +907,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25547",
+    "name": "Anthony•Mensah",
+    "born": "31 October 1972 in Kumasi, Western (GHA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

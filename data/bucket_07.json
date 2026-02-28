@@ -1098,5 +1098,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25507",
+    "name": "Simon•Addo",
+    "born": "11 December 1974",
+    "measurements": "180 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

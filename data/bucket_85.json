@@ -1066,7 +1066,7 @@
     "id": "25285",
     "name": "Herbert•Smith",
     "born": "22 November 1877 in Witney, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -1074,6 +1074,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25685",
+    "name": "Ede•Dunai",
+    "born": "14 July 1949 in Budapest, Budapest (HUN)",
+    "measurements": "180 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

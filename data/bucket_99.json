@@ -1127,7 +1127,7 @@
     "id": "25299",
     "name": "Edward•Wright",
     "born": "3 October 1884 in Englefield Green, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -1135,6 +1135,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25699",
+    "name": "János•Göröcs",
+    "born": "8 May 1939 in Gánt, Fejér (HUN)",
+    "measurements": "174 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

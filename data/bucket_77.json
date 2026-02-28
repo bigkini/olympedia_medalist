@@ -1079,5 +1079,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25477",
+    "name": "Ralf•Sievers",
+    "born": "30 October 1961 in Lüneburg, Niedersachsen (GER)",
+    "measurements": "175 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25677",
+    "name": "Zoltán•Czibor",
+    "born": "23 August 1929 in Kaposvár, Somogy (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

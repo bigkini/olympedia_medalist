@@ -961,5 +961,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25401",
+    "name": "Holger•Fach",
+    "born": "6 September 1962 in Wuppertal, Nordrhein-Westfalen (GER)",
+    "measurements": "185 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25701",
+    "name": "Nándor•Hidegkuti",
+    "born": "3 March 1922 in Budapest, Budapest (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

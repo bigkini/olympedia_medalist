@@ -958,5 +958,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25764",
+    "name": "Zoltán•Szarka",
+    "born": "12 August 1942 in Csorna, Győr-Moson-Sopron (HUN)",
+    "measurements": "176 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

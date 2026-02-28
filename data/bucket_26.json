@@ -1068,5 +1068,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25726",
+    "name": "Gyula•Lóránt",
+    "born": "6 February 1923 in Kőszeg, Vas (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -1034,5 +1034,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25562",
+    "name": "Shamo•Quaye",
+    "born": "22 October 1971 in Tema, Greater Accra (GHA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25662",
+    "name": "Ferenc•Bene",
+    "born": "17 December 1944 in Balatonújlak, Somogy (HUN)",
+    "measurements": "170 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25762",
+    "name": "Miklós•Szalay",
+    "born": "6 December 1946 in Salgótarján, Nógrád (HUN)",
+    "measurements": "176 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -843,5 +843,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25748",
+    "name": "Ferenc•Puskás",
+    "born": "1 April 1927 in Kispest, Budapest (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

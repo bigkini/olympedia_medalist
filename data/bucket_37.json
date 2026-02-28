@@ -866,5 +866,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25437",
+    "name": "Olaf•Janßen",
+    "born": "8 October 1966 in Krefeld, Nordrhein-Westfalen (GER)",
+    "measurements": "177 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25537",
+    "name": "Maxwell•Konadu",
+    "born": "4 December 1972 in Kumasi, Western (GHA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

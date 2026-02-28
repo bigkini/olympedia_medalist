@@ -962,11 +962,26 @@
     "id": "24696",
     "name": "Ivar•Lykke",
     "born": "7 March 1889 in Frederiksberg, Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
         "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25696",
+    "name": "István•Géczi",
+    "born": "16 March 1944 in Sajóörös, Borsod-Abaúj-Zemplén (HUN)",
+    "measurements": "183 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"

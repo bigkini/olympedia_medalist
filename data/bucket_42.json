@@ -942,5 +942,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25542",
+    "name": "Samuel Ablade•Kumah",
+    "born": "26 June 1970",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25742",
+    "name": "Péter•Palotás",
+    "born": "27 June 1929 in Budapest, Budapest (HUN)",
+    "measurements": "176 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

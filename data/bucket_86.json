@@ -899,7 +899,7 @@
     "id": "25286",
     "name": "Fred•Spackman",
     "born": "16 September 1878 in Sandgate, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -907,6 +907,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25686",
+    "name": "János•Dunai",
+    "born": "26 June 1937 in Gara, Bács-Kiskun (HUN)",
+    "measurements": "175 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

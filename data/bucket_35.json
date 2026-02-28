@@ -1094,5 +1094,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25435",
+    "name": "Thomas•Hörster",
+    "born": "27 November 1956 in Essen, Nordrhein-Westfalen (GER)",
+    "measurements": "183 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

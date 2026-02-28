@@ -1016,5 +1016,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25528",
+    "name": "Ibrahim•Dossey",
+    "born": "24 November 1972 in Accra, Greater Accra (GHA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

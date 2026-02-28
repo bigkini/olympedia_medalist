@@ -1331,5 +1331,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25522",
+    "name": "Kwame•Ayew",
+    "born": "28 December 1973 in Tamale, Northern (GHA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

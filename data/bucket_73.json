@@ -902,11 +902,26 @@
     "id": "25273",
     "name": "Bill•Quash",
     "born": "27 December 1868 in Barking, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25673",
+    "name": "Jenő•Buzánszky",
+    "born": "4 May 1925 in Újdombóvár, Tolna (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "HUN",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"

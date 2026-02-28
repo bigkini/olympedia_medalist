@@ -1157,7 +1157,7 @@
     "id": "24674",
     "name": "Poul•Nielsen",
     "born": "25 December 1891 in København (Copenhagen), Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -1165,6 +1165,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25674",
+    "name": "Tibor•Csernai",
+    "born": "3 December 1938 in Pilis, Pest (HUN)",
+    "measurements": "175 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

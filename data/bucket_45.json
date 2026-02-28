@@ -999,5 +999,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25445",
+    "name": "Gerhard•Kleppinger",
+    "born": "1 March 1958 in Ober-Ramstadt, Hessen (GER)",
+    "measurements": "186 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

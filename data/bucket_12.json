@@ -1019,5 +1019,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25412",
+    "name": "Roland•Grahammer",
+    "born": "3 November 1963 in Augsburg, Bayern (GER)",
+    "measurements": "178 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

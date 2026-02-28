@@ -1398,7 +1398,7 @@
     "id": "25287",
     "name": "Harry•Stamper",
     "born": "6 October 1889 in Stockton-on-Tees, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -1406,6 +1406,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25487",
+    "name": "Fritz•Walter",
+    "born": "21 July 1960 in Heidelberg, Baden-Württemberg (GER)",
+    "measurements": "172 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

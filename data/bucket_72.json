@@ -1009,11 +1009,26 @@
     "id": "25272",
     "name": "Clyde•Purnell",
     "born": "14 May 1877 in Ryde, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25672",
+    "name": "László•Budai",
+    "born": "19 July 1928 in Budapest, Budapest (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "HUN",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"

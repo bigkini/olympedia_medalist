@@ -1317,5 +1317,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25708",
+    "name": "Sándor•Katona",
+    "born": "21 February 1943 in Budapest, Budapest (HUN)",
+    "measurements": "166 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

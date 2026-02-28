@@ -1086,5 +1086,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25659",
+    "name": "László•Bálint",
+    "born": "1 February 1948 in Budapest, Budapest (HUN)",
+    "measurements": "180 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

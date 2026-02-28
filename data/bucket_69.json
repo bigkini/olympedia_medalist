@@ -1022,5 +1022,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25469",
+    "name": "Christian•Schreier",
+    "born": "4 February 1959 in Castrop-Rauxel, Nordrhein-Westfalen (GER)",
+    "measurements": "180 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

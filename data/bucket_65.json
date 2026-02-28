@@ -1082,7 +1082,7 @@
     "id": "25265",
     "name": "John•Nicholas",
     "born": "24 July 1879 in Allahabad, Uttar Pradesh (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -1090,6 +1090,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25465",
+    "name": "Karl-Heinz•Riedle",
+    "born": "16 September 1965 in Weiler im Allgäu, Bayern (GER)",
+    "measurements": "179 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

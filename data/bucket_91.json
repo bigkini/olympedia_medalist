@@ -1112,7 +1112,7 @@
     "id": "25091",
     "name": "Eugène•Fraysse",
     "born": "4 May 1870 in Paris XVIIIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -1120,6 +1120,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25691",
+    "name": "Károly•Fatér",
+    "born": "9 April 1940 in Nyírlak, Veszprém (HUN)",
+    "measurements": "178 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

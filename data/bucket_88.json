@@ -930,7 +930,7 @@
     "id": "25288",
     "name": "Harry•Stapley",
     "born": "29 April 1883 in Southborough, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -938,6 +938,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25388",
+    "name": "Rudi•Bommer",
+    "born": "19 August 1957 in Aschaffenburg, Bayern (GER)",
+    "measurements": "186 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

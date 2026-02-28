@@ -1059,5 +1059,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25515",
+    "name": "Mamood•Amadu",
+    "born": "17 November 1972",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25715",
+    "name": "Imre•Komora",
+    "born": "5 June 1940 in Budapest, Budapest (HUN)",
+    "measurements": "172 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

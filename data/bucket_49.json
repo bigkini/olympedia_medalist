@@ -1090,5 +1090,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25749",
+    "name": "Gyula•Rákosi",
+    "born": "9 October 1938 in Budapest, Budapest (HUN)",
+    "measurements": "170 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

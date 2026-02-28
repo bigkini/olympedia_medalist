@@ -1013,5 +1013,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25563",
+    "name": "Oli•Rahman",
+    "born": "7 July 1975",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

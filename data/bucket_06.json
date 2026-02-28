@@ -1120,5 +1120,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25706",
+    "name": "Péter•Juhász",
+    "born": "3 August 1948 in Lučenec, Banská Bystrica (SVK)",
+    "measurements": "177 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -1164,5 +1164,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25519",
+    "name": "Bernard•Aryee",
+    "born": "23 April 1973 in Accra, Greater Accra (GHA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

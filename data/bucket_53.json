@@ -1183,5 +1183,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25553",
+    "name": "Alex•Nyarko",
+    "born": "15 October 1973 in Accra, Greater Accra (GHA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

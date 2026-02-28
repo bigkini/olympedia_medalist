@@ -1052,5 +1052,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25416",
+    "name": "Armin•Görtz",
+    "born": "30 August 1959 in Dortmund, Nordrhein-Westfalen (GER)",
+    "measurements": "179 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25516",
+    "name": "Frank•Amankwah",
+    "born": "29 December 1971 in Obuasi, Ashanti (GHA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25716",
+    "name": "Ferenc•Kovács",
+    "born": "7 January 1934 in Budapest, Budapest (HUN)",
+    "measurements": "176 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

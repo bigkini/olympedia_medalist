@@ -838,5 +838,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25731",
+    "name": "László•Nagy",
+    "born": "21 October 1949 in Buzsák, Somogy (HUN)",
+    "measurements": "173 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -1088,5 +1088,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25443",
+    "name": "Uwe•Kamps",
+    "born": "12 June 1964 in Düsseldorf, Nordrhein-Westfalen (GER)",
+    "measurements": "180 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25743",
+    "name": "Miklós•Páncsics",
+    "born": "4 February 1944 in Gara, Bács-Kiskun (HUN)",
+    "measurements": "185 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

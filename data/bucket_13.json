@@ -1316,5 +1316,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25713",
+    "name": "Lajos•Kocsis",
+    "born": "18 June 1947 in Szeged, Csongrád (HUN)",
+    "measurements": "167 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

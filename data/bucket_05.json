@@ -1178,5 +1178,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25705",
+    "name": "István•Juhász",
+    "born": "17 July 1945 in Budapest, Budapest (HUN)",
+    "measurements": "177 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
