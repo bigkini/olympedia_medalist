@@ -1034,11 +1034,26 @@
     "id": "27245",
     "name": "Per•Kaufeldt",
     "born": "1 August 1902 in Södermalm, Stockholm, Stockholm (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27645",
+    "name": "Vladimir•Troshkin",
+    "born": "28 September 1947 in Yenakiieve, Donetsk (UKR)",
+    "measurements": "171 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

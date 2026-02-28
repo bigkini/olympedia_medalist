@@ -1458,7 +1458,7 @@
     "id": "27287",
     "name": "Ingvar•Rydell",
     "born": "7 May 1922 in Bäcke, Bengtsfors, Västra Götaland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -1466,6 +1466,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27587",
+    "name": "Dmitry•Kharin",
+    "born": "16 August 1968 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "187 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

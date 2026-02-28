@@ -1214,11 +1214,26 @@
     "id": "26819",
     "name": "Rolf•Holmberg",
     "born": "24 August 1914 in Gjerpen, Skien, Telemark (NOR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27619",
+    "name": "Aleksandr•Prokopenko",
+    "born": "16 November 1953 in Babruysk, Mahilyow (BLR)",
+    "measurements": "173 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

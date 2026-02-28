@@ -1222,11 +1222,26 @@
     "id": "27560",
     "name": "Yozhef•Betsa",
     "born": "6 November 1929 in Mukachevo, Zakarpattia (UKR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27660",
+    "name": "Alfredo•Ghierra",
+    "born": "31 August 1891 in Montevideo, Montevideo (URU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "URU",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"

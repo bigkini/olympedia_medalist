@@ -1159,13 +1159,28 @@
     "id": "27577",
     "name": "Anatoly•Ilyin",
     "born": "27 June 1931 in Moskva (Moscow), Moskva (RUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "URS",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27677",
+    "name": "Carin•Gabarra",
+    "born": "9 January 1965 in East Orange, New Jersey (USA)",
+    "measurements": "173 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
         "medal": "Gold"
       }
     ]

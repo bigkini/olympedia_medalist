@@ -1288,5 +1288,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27589",
+    "name": "Viktor•Kolotov",
+    "born": "3 July 1949 in Yudino, Respublika Tatarstan (RUS)",
+    "measurements": "180 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

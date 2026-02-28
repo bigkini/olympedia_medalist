@@ -1103,5 +1103,34 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27675",
+    "name": "Joy•Fawcett",
+    "born": "8 February 1968 in Inglewood, California (USA)",
+    "measurements": "165 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

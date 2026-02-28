@@ -1135,5 +1135,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27606",
+    "name": "Igor•Netto",
+    "born": "9 January 1930 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

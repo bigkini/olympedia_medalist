@@ -1058,7 +1058,7 @@
     "id": "27304",
     "name": "Olle•Åhlund",
     "born": "22 August 1920 in Degerfors, Örebro (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -1066,6 +1066,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27604",
+    "name": "Arminas•Narbekovas",
+    "born": "28 January 1965 in Gargždai, Klaipėda (LTU)",
+    "measurements": "173 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -949,5 +949,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27666",
+    "name": "Ángel•Romano",
+    "born": "2 August 1894 in Montevideo, Montevideo (URU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -1141,13 +1141,50 @@
     "id": "27285",
     "name": "Kjell•Rosén",
     "born": "24 April 1921 in Malmö, Skåne (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "SWE",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27585",
+    "name": "Lev•Yashin",
+    "born": "22 October 1929 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "189 cm",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27685",
+    "name": "Briana•Scurry",
+    "born": "7 September 1971 in Minneapolis, Minnesota (USA)",
+    "measurements": "175 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
         "medal": "Gold"
       }
     ]

@@ -1151,5 +1151,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "27582",
+    "name": "Andrey•Yakubik",
+    "born": "24 August 1950 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27682",
+    "name": "Carla•Overbeck",
+    "born": "9 May 1968 in Pasadena, California (USA)",
+    "measurements": "170 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

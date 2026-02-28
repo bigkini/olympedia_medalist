@@ -1073,5 +1073,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27663",
+    "name": "José•Naya",
+    "born": "25 July 1896 in Montevideo, Montevideo (URU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

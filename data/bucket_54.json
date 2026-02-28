@@ -1137,5 +1137,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "27654",
+    "name": "Adhemar•Canavessi",
+    "born": "18 August 1903 in Montevideo, Montevideo (URU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

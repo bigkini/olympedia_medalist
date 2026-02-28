@@ -1044,11 +1044,26 @@
     "id": "27557",
     "name": "Anatoly•Bashashkin",
     "born": "23 February 1924 in Reutov, Moskva Oblast (RUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27657",
+    "name": "Lorenzo•Fernández",
+    "born": "20 March 1901 in Montevideo, Montevideo (URU)",
+    "measurements": "173 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "URU",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"

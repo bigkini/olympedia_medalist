@@ -1165,5 +1165,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27649",
+    "name": "José Leandro•Andrade",
+    "born": "22 November 1901 in Salto, Salto (URU)",
+    "measurements": "179 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

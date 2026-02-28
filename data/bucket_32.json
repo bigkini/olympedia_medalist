@@ -1052,5 +1052,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27632",
+    "name": "Eduard•Streltsov",
+    "born": "21 July 1937 in Perovo, Moskva (RUS)",
+    "measurements": "182 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

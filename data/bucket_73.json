@@ -972,5 +972,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "27673",
+    "name": "Michelle•Akers",
+    "born": "1 February 1966 in Santa Clara, California (USA)",
+    "measurements": "178 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

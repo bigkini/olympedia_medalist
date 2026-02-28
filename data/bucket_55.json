@@ -1178,5 +1178,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "27655",
+    "name": "Héctor•Castro",
+    "born": "29 November 1904 in Montevideo, Montevideo (URU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

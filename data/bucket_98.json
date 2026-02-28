@@ -916,5 +916,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27598",
+    "name": "Yevgeny•Lovchev",
+    "born": "29 January 1949 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "170 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

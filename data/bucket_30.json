@@ -1021,5 +1021,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27630",
+    "name": "Nikita•Simonyan",
+    "born": "12 October 1926 in Armavir, Krasnodar Kray (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

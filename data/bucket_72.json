@@ -1049,5 +1049,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "27672",
+    "name": "Alfredo•Zibechi",
+    "born": "30 October 1894 in Montevideo, Montevideo (URU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

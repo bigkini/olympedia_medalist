@@ -1163,5 +1163,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27602",
+    "name": "Aleksey•Mikhaylichenko",
+    "born": "30 March 1963 in Kyiv, Kyiv (UKR)",
+    "measurements": "186 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

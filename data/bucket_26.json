@@ -1103,7 +1103,7 @@
     "id": "27226",
     "name": "Sven•Friberg",
     "born": "7 February 1895 in Lysekil, Västra Götaland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -1111,6 +1111,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27626",
+    "name": "Sergey•Salnikov",
+    "born": "13 September 1925 in Krasnodar, Krasnodar Kray (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

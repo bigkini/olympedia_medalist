@@ -1377,5 +1377,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27608",
+    "name": "Sergey•Nikulin",
+    "born": "1 January 1951 in Dushanbe, Nohijahoi Tobei Çumhuri (TJK)",
+    "measurements": "173 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

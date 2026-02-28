@@ -1183,5 +1183,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27584",
+    "name": "Yevgeny•Yarovenko",
+    "born": "17 August 1962 in Karatau, Zhambyl (KAZ)",
+    "measurements": "184 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27684",
+    "name": "Tiffany•Roberts",
+    "born": "5 May 1977 in Petaluma, California (USA)",
+    "measurements": "163 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

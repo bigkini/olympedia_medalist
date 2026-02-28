@@ -1082,5 +1082,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27671",
+    "name": "José•Vidal",
+    "born": "15 December 1896 in Montevideo, Montevideo (URU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

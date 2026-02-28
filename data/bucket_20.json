@@ -964,7 +964,7 @@
     "id": "26820",
     "name": "Øivind•Holmsen",
     "born": "28 April 1912 in Oslo, Oslo (NOR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -972,6 +972,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27620",
+    "name": "Boris•Razinsky",
+    "born": "12 July 1933 in Lyubertsy, Moskva Oblast (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

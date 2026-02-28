@@ -1324,7 +1324,7 @@
     "id": "26803",
     "name": "Arne•Brustad",
     "born": "14 April 1912 in Oslo, Oslo (NOR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -1332,6 +1332,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27603",
+    "name": "Aleksandr•Minayev",
+    "born": "11 August 1954 in Zheleznodorozhny, Moskva (RUS)",
+    "measurements": "174 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27703",
+    "name": "Warren•Brittingham",
+    "born": "2 September 1886 in St. Louis, Missouri (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

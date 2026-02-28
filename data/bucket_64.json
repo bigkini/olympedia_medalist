@@ -1048,5 +1048,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "27664",
+    "name": "Pedro•Petrone",
+    "born": "11 May 1905 in Montevideo, Montevideo (URU)",
+    "measurements": "173 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

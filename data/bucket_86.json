@@ -959,13 +959,43 @@
     "id": "27286",
     "name": "Birger•Rosengren",
     "born": "29 October 1917 in Norrköping, Östergötland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "SWE",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27586",
+    "name": "Vladimir•Kaplichny",
+    "born": "26 February 1944 in Kamianets-Podilskyi, Khmelnytskyi (UKR)",
+    "measurements": "181 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27686",
+    "name": "Tisha•Venturini",
+    "born": "3 March 1973 in Modesto, California (USA)",
+    "measurements": "168 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
         "medal": "Gold"
       }
     ]

@@ -961,7 +961,7 @@
     "id": "27237",
     "name": "Fritte•Hillén",
     "born": "19 May 1893 in Göteborg (Gothenburg), Västra Götaland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -969,6 +969,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27637",
+    "name": "Aleksey•Cherednik",
+    "born": "15 September 1960 in Dushanbe, Nohijahoi Tobei Çumhuri (TJK)",
+    "measurements": "176 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

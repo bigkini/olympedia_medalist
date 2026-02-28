@@ -1002,5 +1002,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27592",
+    "name": "Anatoly•Kuksov",
+    "born": "21 November 1949 in Luhansk, Luhansk (UKR)",
+    "measurements": "174 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

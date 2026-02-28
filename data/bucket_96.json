@@ -992,7 +992,7 @@
     "id": "27296",
     "name": "Karl•Svensson",
     "born": "11 November 1925 in Västerlöv, Östra Gönige, Skåne (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -1000,6 +1000,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27596",
+    "name": "Vladimir•Lyuty",
+    "born": "20 April 1962 in Dnipro, Dnipropetrovsk (UKR)",
+    "measurements": "191 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -1361,5 +1361,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27622",
+    "name": "Vladimir•Ryzhkin",
+    "born": "29 December 1930 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

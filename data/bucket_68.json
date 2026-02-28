@@ -1053,7 +1053,7 @@
     "id": "27568",
     "name": "Yury•Yeliseyev",
     "born": "26 September 1949 in Sverdlovsk, Luhansk (UKR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1972 Summer Olympics",
@@ -1061,6 +1061,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27668",
+    "name": "Humberto•Tomassina",
+    "born": "12 September 1898 in Montevideo, Montevideo (URU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

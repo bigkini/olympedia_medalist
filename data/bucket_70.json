@@ -974,5 +974,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "27670",
+    "name": "Santos•Urdinarán",
+    "born": "30 March 1900 in Montevideo, Montevideo (URU)",
+    "measurements": "170 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

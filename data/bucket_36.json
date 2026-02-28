@@ -1232,11 +1232,26 @@
     "id": "26836",
     "name": "Reidar•Kvammen",
     "born": "23 July 1914 in Stavanger, Rogaland (NOR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27636",
+    "name": "Revaz•Chelebadze",
+    "born": "2 October 1955 in Kobuleti, Adjara (GEO)",
+    "measurements": "180 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

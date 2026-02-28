@@ -1158,11 +1158,26 @@
     "id": "27246",
     "name": "Tore•Keller",
     "born": "4 January 1905 in Norrköping, Östergötland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27646",
+    "name": "Vladimir•Veremeyev",
+    "born": "8 November 1948 in Spassk-Dalny, Primorsky Kray (RUS)",
+    "measurements": "180 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

@@ -925,5 +925,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27648",
+    "name": "Viktor•Zvyagintsev",
+    "born": "22 October 1950 in Donetsk, Donetsk (UKR)",
+    "measurements": "178 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -1134,5 +1134,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27615",
+    "name": "Aleksey•Paramonov",
+    "born": "21 February 1925 in Borovsk, Kaluga (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

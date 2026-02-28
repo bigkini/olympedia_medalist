@@ -1089,5 +1089,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27595",
+    "name": "Yevgeny•Kuznetsov",
+    "born": "30 August 1961 in Yaroslavl, Yaroslavl (RUS)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27695",
+    "name": "Charles•Bartliff",
+    "born": "18 August 1886 in Memphis, Tennessee (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

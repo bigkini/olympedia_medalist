@@ -1291,5 +1291,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27640",
+    "name": "Aleksandre•Chivadze",
+    "born": "8 April 1955 in Klukhori, Karachayevo-Cherkesskaya Respublika (RUS)",
+    "measurements": "178 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

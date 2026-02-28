@@ -1064,11 +1064,26 @@
     "id": "27238",
     "name": "Konrad•Hirsch",
     "born": "27 May 1900 in Eidskog, Innlandet (NOR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27638",
+    "name": "Fyodor•Cherenkov",
+    "born": "25 July 1959 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "176 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

@@ -1151,5 +1151,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "27667",
+    "name": "Héctor•Scarone",
+    "born": "26 November 1898 in Montevideo, Montevideo (URU)",
+    "measurements": "173 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "URU",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
