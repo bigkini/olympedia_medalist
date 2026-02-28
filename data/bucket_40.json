@@ -1251,7 +1251,7 @@
     "id": "26640",
     "name": "Nico•Bouvy",
     "born": "11 July 1892 in Banda Neira, Maluku (INA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -1259,6 +1259,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26740",
+    "name": "Nwankwo•Kanu",
+    "born": "1 August 1976 in Owerri, Imo (NGR)",
+    "measurements": "197 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26940",
+    "name": "Andrzej•Juskowiak",
+    "born": "3 November 1970 in Gostyń, Wielkopolskie (POL)",
+    "measurements": "184 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

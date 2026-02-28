@@ -1126,7 +1126,7 @@
     "id": "25990",
     "name": "Elvio•Banchero",
     "born": "28 April 1904 in Alessandria, Alessandria (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -1134,6 +1134,28 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26790",
+    "name": "Hege•Riise",
+    "born": "18 July 1969 in Lørenskog, Viken (NOR)",
+    "measurements": "165 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

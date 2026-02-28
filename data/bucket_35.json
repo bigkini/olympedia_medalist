@@ -1109,5 +1109,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26935",
+    "name": "Jerzy•Gorgoń",
+    "born": "18 July 1949 in Zabrze-Mikulczyce, Śląskie (POL)",
+    "measurements": "187 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

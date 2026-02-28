@@ -1210,5 +1210,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26821",
+    "name": "Fredrik•Horn",
+    "born": "8 June 1916 in Oslo, Oslo (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

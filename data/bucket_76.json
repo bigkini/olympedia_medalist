@@ -1058,5 +1058,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26776",
+    "name": "Uche•Okechukwu",
+    "born": "27 September 1967 in Lagos, Lagos (NGR)",
+    "measurements": "189 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -1112,7 +1112,7 @@
     "id": "26065",
     "name": "Antonio•Janni",
     "born": "19 September 1904 in Santena, Torino (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -1120,6 +1120,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26965",
+    "name": "Piotr•Mowlik",
+    "born": "21 April 1951 in Orzepowice, Rybnik, Śląskie (POL)",
+    "measurements": "178 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "27165",
+    "name": "Adolphe•Reymond",
+    "born": "4 September 1896 in Meyrin, Genève (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

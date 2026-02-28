@@ -1158,7 +1158,7 @@
     "id": "24081",
     "name": "Karl•Wallmüller",
     "born": "22 October 1913 in Linz, Oberösterreich (AUT)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -1166,6 +1166,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "26781",
+    "name": "Anne Nymark•Andersen",
+    "born": "28 September 1972 in Bergen, Vestland (NOR)",
+    "measurements": "168 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

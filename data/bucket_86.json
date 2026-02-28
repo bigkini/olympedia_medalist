@@ -929,13 +929,28 @@
     "id": "26686",
     "name": "Eetje•Sol",
     "born": "10 June 1881 in Tjomas, Bogor, Jawa Barat (INA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "NED",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26786",
+    "name": "Linda•Medalen",
+    "born": "17 June 1965 in Sandnes, Rogaland (NOR)",
+    "measurements": "167 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

@@ -993,7 +993,7 @@
     "id": "26068",
     "name": "Virgilio•Levratto",
     "born": "26 October 1904 in Carcare, Savona (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -1001,6 +1001,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26968",
+    "name": "Marian•Ostafiński",
+    "born": "8 December 1946 in Przemyśl, Podkarpackie (POL)",
+    "measurements": "181 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

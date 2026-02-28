@@ -863,7 +863,7 @@
     "id": "26648",
     "name": "Bok•de Korver",
     "born": "27 January 1883 in Rotterdam, Zuid-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -878,6 +878,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26748",
+    "name": "Abiodun•Obafemi",
+    "born": "25 December 1973 in Lagos, Lagos (NGR)",
+    "measurements": "182 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26948",
+    "name": "Hubert•Kostka",
+    "born": "27 May 1940 in Markowice, Racibórz, Śląskie (POL)",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

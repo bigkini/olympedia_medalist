@@ -1181,5 +1181,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26741",
+    "name": "Garba•Lawal",
+    "born": "22 May 1974 in Kaduna, Kaduna (NGR)",
+    "measurements": "183 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26841",
+    "name": "Magdalon•Monsen",
+    "born": "19 April 1910 in Bergen, Vestland (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

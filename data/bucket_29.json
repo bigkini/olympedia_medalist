@@ -935,5 +935,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26729",
+    "name": "Joseph•Dosu",
+    "born": "19 June 1973 in Abuja, Abuja (NGR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26929",
+    "name": "Robert•Gadocha",
+    "born": "10 January 1946 in Kraków (Cracow), Małopolskie (POL)",
+    "measurements": "170 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

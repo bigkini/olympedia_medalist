@@ -1188,7 +1188,7 @@
     "id": "25553",
     "name": "Alex•Nyarko",
     "born": "15 October 1973 in Accra, Greater Accra (GHA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -1196,6 +1196,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27153",
+    "name": "Walter•Dietrich",
+    "born": "24 December 1902",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -1033,7 +1033,7 @@
     "id": "26663",
     "name": "Jan•Kok",
     "born": "9 July 1889 in Surabaya, Jawa Timur (INA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -1041,6 +1041,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27163",
+    "name": "Hans•Pulver",
+    "born": "28 December 1902",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

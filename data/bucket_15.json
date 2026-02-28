@@ -1119,5 +1119,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26915",
+    "name": "Jan•Benigier",
+    "born": "18 February 1950 in Radom, Mazowieckie (POL)",
+    "measurements": "174 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

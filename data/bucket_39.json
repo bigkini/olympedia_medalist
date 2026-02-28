@@ -1048,7 +1048,7 @@
     "id": "26639",
     "name": "Piet•Bouman",
     "born": "14 October 1892 in Dordrecht, Zuid-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -1056,6 +1056,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26839",
+    "name": "Alf•Martinsen",
+    "born": "29 December 1911 in Lillestrøm, Viken (NOR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26939",
+    "name": "Marcin•Jałocha",
+    "born": "17 March 1971 in Kraków (Cracow), Małopolskie (POL)",
+    "measurements": "178 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

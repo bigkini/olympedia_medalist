@@ -1102,7 +1102,7 @@
     "id": "26679",
     "name": "Jops•Reeman",
     "born": "9 August 1886 in Amerongen, Utrecht (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -1110,6 +1110,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26979",
+    "name": "Ryszard•Staniek",
+    "born": "13 March 1971 in Zabrze, Śląskie (POL)",
+    "measurements": "180 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -959,5 +959,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26820",
+    "name": "Øivind•Holmsen",
+    "born": "28 April 1912 in Oslo, Oslo (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

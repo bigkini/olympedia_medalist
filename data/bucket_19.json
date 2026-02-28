@@ -1209,5 +1209,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26819",
+    "name": "Rolf•Holmberg",
+    "born": "24 August 1914 in Gjerpen, Skien, Telemark (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

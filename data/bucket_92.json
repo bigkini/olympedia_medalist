@@ -932,7 +932,7 @@
     "id": "26692",
     "name": "Jan•Thomée",
     "born": "4 December 1886 in Delft, Zuid-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -940,6 +940,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26792",
+    "name": "Heidi•Støre",
+    "born": "4 July 1963 in Sarpsborg, Viken (NOR)",
+    "measurements": "176 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26992",
+    "name": "Jan•Tomaszewski",
+    "born": "9 January 1948 in Wrocław, Dolnośląskie (POL)",
+    "measurements": "192 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

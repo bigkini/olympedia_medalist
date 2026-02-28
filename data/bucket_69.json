@@ -1074,5 +1074,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26769",
+    "name": "Wilson•Oruma",
+    "born": "30 December 1976 in Warri, Delta (NGR)",
+    "measurements": "176 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26869",
+    "name": "Carlos•Gamarra",
+    "born": "17 February 1971 in Ypacarai, Central (PAR)",
+    "measurements": "179 cm / 85 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "PAR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

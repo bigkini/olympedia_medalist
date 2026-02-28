@@ -949,5 +949,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26997",
+    "name": "Henryk•Wawrowski",
+    "born": "25 September 1949 in Szczecin, Zachodniopomorskie (POL)",
+    "measurements": "171 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

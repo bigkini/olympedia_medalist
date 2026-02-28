@@ -1080,5 +1080,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26778",
+    "name": "Taribo•West",
+    "born": "26 March 1974 in Ajegunle, Lagos (NGR)",
+    "measurements": "186 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

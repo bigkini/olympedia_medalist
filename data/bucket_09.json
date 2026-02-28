@@ -1122,11 +1122,26 @@
     "id": "26709",
     "name": "Jan•Vos",
     "born": "17 April 1888 in Utrecht, Utrecht (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
         "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26809",
+    "name": "Odd•Frantzen",
+    "born": "20 January 1913 in Bergen, Vestland (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NOR",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

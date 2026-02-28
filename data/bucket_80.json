@@ -1011,5 +1011,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26780",
+    "name": "Ann Kristin•Aarønes",
+    "born": "19 January 1973 in Ålesund, Møre og Romsdal (NOR)",
+    "measurements": "182 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

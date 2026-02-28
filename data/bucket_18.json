@@ -1377,5 +1377,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26918",
+    "name": "Jerzy•Brzęczek",
+    "born": "18 March 1971 in Truskolasy, Śląskie (POL)",
+    "measurements": "174 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

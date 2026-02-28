@@ -1343,11 +1343,26 @@
     "id": "26713",
     "name": "David•Wijnveldt",
     "born": "15 December 1891 in Jember, Jawa Timur (INA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
         "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26813",
+    "name": "Sverre•Hansen",
+    "born": "23 June 1913 in Larvik, Vestfold (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NOR",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

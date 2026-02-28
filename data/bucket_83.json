@@ -1194,5 +1194,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26783",
+    "name": "Agnete•Carlsen",
+    "born": "15 January 1971 in Moss, Viken (NOR)",
+    "measurements": "167 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

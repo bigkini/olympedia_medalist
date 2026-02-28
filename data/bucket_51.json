@@ -1178,7 +1178,7 @@
     "id": "26651",
     "name": "Nico•de Wolf",
     "born": "27 October 1887 in Apeldoorn, Gelderland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -1186,6 +1186,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26951",
+    "name": "Marek•Koźmiński",
+    "born": "7 February 1971 in Kraków (Cracow), Małopolskie (POL)",
+    "measurements": "177 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "27151",
+    "name": "Félix•Bédouret",
+    "born": "12 January 1898 in Genève (Geneva), Genève (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

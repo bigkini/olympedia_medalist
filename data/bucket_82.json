@@ -1136,5 +1136,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26782",
+    "name": "Nina Nymark•Andersen",
+    "born": "28 September 1972 in Bergen, Vestland (NOR)",
+    "measurements": "173 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

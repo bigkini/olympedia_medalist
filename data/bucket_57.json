@@ -994,5 +994,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "27157",
+    "name": "Edmond•Kramer",
+    "born": "8 December 1906 in Colombier, Milvignes, Neuchâtel (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

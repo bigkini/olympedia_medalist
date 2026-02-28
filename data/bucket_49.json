@@ -1110,7 +1110,7 @@
     "id": "26649",
     "name": "Jan•de Natris",
     "born": "13 November 1895 in Amsterdam, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1118,6 +1118,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26749",
+    "name": "Mobi•Oparaku",
+    "born": "1 December 1976 in Owerri, Imo (NGR)",
+    "measurements": "168 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27149",
+    "name": "Xam•Abegglen",
+    "born": "11 April 1902 in Neuchâtel, Neuchâtel (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

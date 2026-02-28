@@ -1149,5 +1149,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26725",
+    "name": "Celestine•Babayaro",
+    "born": "29 August 1978 in Kaduna, Kaduna (NGR)",
+    "measurements": "173 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26925",
+    "name": "Kazimierz•Deyna",
+    "born": "23 October 1947 in Starogard Gdański, Pomorskie (POL)",
+    "measurements": "179 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

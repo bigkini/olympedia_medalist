@@ -976,5 +976,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26830",
+    "name": "Jørgen•Juve",
+    "born": "22 November 1906 in Porsgrunn, Telemark (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -1106,5 +1106,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26785",
+    "name": "Tone•Haugen",
+    "born": "6 February 1964 in Namsos, Trøndelag (NOR)",
+    "measurements": "170 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26985",
+    "name": "Andrzej•Szarmach",
+    "born": "3 October 1950 in Gdańsk, Pomorskie (POL)",
+    "measurements": "177 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

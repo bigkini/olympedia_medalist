@@ -1053,7 +1053,7 @@
     "id": "26652",
     "name": "Harry•Dénis",
     "born": "28 August 1896 in Den Haag (The Hague), Zuid-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1061,6 +1061,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26952",
+    "name": "Jerzy•Kraska",
+    "born": "24 December 1951 in Płock, Mazowieckie (POL)",
+    "measurements": "176 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

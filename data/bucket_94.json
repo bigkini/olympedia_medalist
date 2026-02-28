@@ -1255,7 +1255,7 @@
     "id": "26694",
     "name": "Jan•van Breda Kolff",
     "born": "8 January 1894 in Medan, Sumatera Utara (INA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -1263,6 +1263,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26794",
+    "name": "Trine•Tangeraas",
+    "born": "26 February 1971 in Kristiansand, Agder (NOR)",
+    "measurements": "169 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26994",
+    "name": "Tomasz•Wałdoch",
+    "born": "10 May 1971 in Gdańsk, Pomorskie (POL)",
+    "measurements": "187 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

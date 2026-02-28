@@ -973,5 +973,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26764",
+    "name": "Sunday•Oliseh",
+    "born": "14 September 1974 in Abavo, Delta (NGR)",
+    "measurements": "183 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26964",
+    "name": "Grzegorz•Mielcarski",
+    "born": "19 March 1971 in Chełm, Lubelskie (POL)",
+    "measurements": "188 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "27164",
+    "name": "Rudolf•Ramseyer",
+    "born": "17 September 1897 in Bern, Bern (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

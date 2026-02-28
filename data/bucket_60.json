@@ -1177,7 +1177,7 @@
     "id": "26660",
     "name": "Just•Göbel",
     "born": "21 November 1891 in Surabaya, Jawa Timur (INA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -1185,6 +1185,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27160",
+    "name": "Robert•Pache",
+    "born": "26 September 1897 in Morges, Vaud (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

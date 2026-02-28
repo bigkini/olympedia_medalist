@@ -1082,7 +1082,7 @@
     "id": "26654",
     "name": "Constant, Jonkheer•Feith",
     "born": "3 August 1884 in Den Haag (The Hague), Zuid-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -1090,6 +1090,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27154",
+    "name": "Karl•Ehrenbolger",
+    "born": "13 November 1899 in Luzern (Lucerne), Luzern (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

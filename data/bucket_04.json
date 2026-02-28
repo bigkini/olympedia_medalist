@@ -1038,5 +1038,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "27004",
+    "name": "Władysław•Żmuda",
+    "born": "6 June 1954 in Lublin, Lubelskie (POL)",
+    "measurements": "187 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

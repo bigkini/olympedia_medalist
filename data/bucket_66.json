@@ -919,5 +919,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27166",
+    "name": "Paul•Schmiedlin",
+    "born": "2 June 1897 in Basel, Basel-Stadt (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

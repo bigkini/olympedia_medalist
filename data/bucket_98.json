@@ -876,7 +876,7 @@
     "id": "26698",
     "name": "Jan•van der Sluis",
     "born": "29 April 1889 in Rotterdam, Zuid-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -884,6 +884,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26998",
+    "name": "Henryk•Wieczorek",
+    "born": "14 December 1949 in Chorzów, Śląskie (POL)",
+    "measurements": "173 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

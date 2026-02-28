@@ -1108,7 +1108,7 @@
     "id": "26055",
     "name": "Francesco•Gabriotti",
     "born": "12 August 1914 in Roma, Roma (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -1116,6 +1116,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26955",
+    "name": "Tomasz•Łapiński",
+    "born": "1 August 1969 in Łapy, Podlaskie (POL)",
+    "measurements": "184 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "27155",
+    "name": "Paul•Fässler",
+    "born": "13 June 1901 in Bronschhofen, Sankt Gallen (SUI)",
+    "measurements": "159 cm",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }
