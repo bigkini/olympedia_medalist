@@ -735,5 +735,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20629",
+    "name": "Claudie•Herbster-Josland",
+    "born": "28 March 1946 in Dijon, Côte-d'Or (FRA)",
+    "measurements": "162 cm / 52 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

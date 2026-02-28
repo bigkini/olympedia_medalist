@@ -660,5 +660,49 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20637",
+    "name": "Anne•Meygret",
+    "born": "15 February 1965 in Nice, Alpes-Maritimes (FRA)",
+    "measurements": "166 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20737",
+    "name": "Ilona•Elek-Schacherer",
+    "born": "17 May 1907 in Budapest, Budapest (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

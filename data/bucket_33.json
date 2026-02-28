@@ -866,5 +866,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20733",
+    "name": "Erna•Bogen",
+    "born": "31 December 1906 in Jarosław, Podkarpackie (POL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

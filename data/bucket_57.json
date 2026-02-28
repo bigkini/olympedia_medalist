@@ -808,5 +808,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20457",
+    "name": "Pat•McKillop",
+    "born": "15 July 1956",
+    "measurements": "160 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ZIM",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20757",
+    "name": "Zsuzsa•Szőcs",
+    "born": "10 April 1962 in Budapest, Budapest (HUN)",
+    "measurements": "169 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

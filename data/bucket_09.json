@@ -799,5 +799,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20709",
+    "name": "Annette•Klug",
+    "born": "24 January 1969 in Singen, Baden-Württemberg (GER)",
+    "measurements": "170 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

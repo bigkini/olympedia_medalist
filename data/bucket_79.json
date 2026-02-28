@@ -873,5 +873,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20779",
+    "name": "Irene•Camber-Corno",
+    "born": "12 February 1926 in Trieste, Trieste (ITA)",
+    "measurements": "169 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

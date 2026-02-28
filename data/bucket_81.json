@@ -1042,5 +1042,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20781",
+    "name": "Laura•Chiesa",
+    "born": "5 August 1971 in Torino, Torino (ITA)",
+    "measurements": "182 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

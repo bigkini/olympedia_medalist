@@ -778,7 +778,7 @@
     "id": "20396",
     "name": "Jimmy•Gentle",
     "born": "21 July 1904 in Dorchester, Massachusetts (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -786,6 +786,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20696",
+    "name": "Sabine•Bischoff",
+    "born": "21 May 1958 in Koblenz, Rheinland-Pfalz (GER)",
+    "measurements": "169 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -757,5 +757,49 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20745",
+    "name": "Magda•Maros",
+    "born": "4 October 1951 in Budapest, Budapest (HUN)",
+    "measurements": "170 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20845",
+    "name": "Pilar•Roldán",
+    "born": "18 November 1939 in Ciudad de México (Mexico City), Ciudad de México (MEX)",
+    "measurements": "176 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "MEX",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

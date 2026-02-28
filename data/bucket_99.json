@@ -870,5 +870,50 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20599",
+    "name": "Ellen•Osiier",
+    "born": "13 August 1890 in Hjørring, Nordjylland (DEN)",
+    "measurements": "168 cm",
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20699",
+    "name": "Annette•Dobmeier",
+    "born": "10 February 1968 in Tauberbischofsheim, Baden-Württemberg (GER)",
+    "measurements": "172 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20799",
+    "name": "Lucia•Traversa",
+    "born": "31 May 1965 in Roma, Roma (ITA)",
+    "measurements": "168 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

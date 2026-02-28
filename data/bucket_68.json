@@ -749,5 +749,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20668",
+    "name": "Gladys•Davis",
+    "born": "29 July 1893 in Chiswick, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

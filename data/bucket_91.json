@@ -941,13 +941,28 @@
     "id": "20391",
     "name": "Horace•Disston",
     "born": "7 January 1906 in Philadelphia, Pennsylvania (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
         "noc": "USA",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20891",
+    "name": "Barbara•Wysoczańska",
+    "born": "12 August 1949 in Świętochłowice, Śląskie (POL)",
+    "measurements": "169 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

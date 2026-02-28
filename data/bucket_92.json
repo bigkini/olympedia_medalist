@@ -748,5 +748,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20592",
+    "name": "Grete•Heckscher",
+    "born": "8 November 1901 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20792",
+    "name": "Claudia•Pasini",
+    "born": "2 March 1939 in Trieste, Trieste (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

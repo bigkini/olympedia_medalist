@@ -835,5 +835,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20639",
+    "name": "Laurence•Modaine-Cessac",
+    "born": "28 December 1964 in Douai, Nord (FRA)",
+    "measurements": "170 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20739",
+    "name": "Gyöngyi•Szalay-Horváth",
+    "born": "24 March 1968 in Tapolca, Veszprém (HUN)",
+    "measurements": "176 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

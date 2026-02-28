@@ -947,7 +947,7 @@
     "id": "20382",
     "name": "Bill•Boddington",
     "born": "22 November 1910 in Jersey City, New Jersey (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -955,6 +955,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20682",
+    "name": "Gillian•Sheen",
+    "born": "21 August 1928 in Willesden, England (GBR)",
+    "measurements": "168 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

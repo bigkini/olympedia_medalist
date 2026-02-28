@@ -800,13 +800,43 @@
     "id": "19749",
     "name": "Emile•Duson",
     "born": "1 December 1904 in Semarang, Jawa Tengah (INA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
         "noc": "NED",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20449",
+    "name": "Liz•Chase",
+    "born": "26 April 1950 in Mutare, Manicaland (ZIM)",
+    "measurements": "168 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ZIM",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20649",
+    "name": "Véronique•Trinquet",
+    "born": "15 June 1956 in Marseille (Marseilles), Bouches-du-Rhône (FRA)",
+    "measurements": "172 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

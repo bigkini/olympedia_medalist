@@ -987,5 +987,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20640",
+    "name": "Sophie•Moressée-Pichot",
+    "born": "3 April 1962 in Sissonne, Aisne (FRA)",
+    "measurements": "174 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20740",
+    "name": "Zsuzsa•Jánosi-Németh",
+    "born": "19 November 1963 in Budapest, Budapest (HUN)",
+    "measurements": "172 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -792,5 +792,49 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20641",
+    "name": "Christine•Muzio",
+    "born": "10 May 1951 in Creil, Oise (FRA)",
+    "measurements": "168 cm / 50 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20741",
+    "name": "Katalin•Juhász",
+    "born": "24 November 1932 in Hódmezővásárhely, Csongrád (HUN)",
+    "measurements": "164 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

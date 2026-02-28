@@ -805,5 +805,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20606",
+    "name": "Oksana•Yermakova",
+    "born": "16 April 1973 in Tallinn, Harjumaa (EST)",
+    "measurements": "170 cm / 58 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

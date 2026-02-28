@@ -1016,5 +1016,49 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20618",
+    "name": "Véronique•Brouquier",
+    "born": "28 May 1957 in Paris, Paris (FRA)",
+    "measurements": "170 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20718",
+    "name": "Heidi•Schmid",
+    "born": "5 December 1938 in Klagenfurt, Kärnten (AUT)",
+    "measurements": "166 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

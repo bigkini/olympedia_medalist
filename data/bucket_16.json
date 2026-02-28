@@ -859,5 +859,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20616",
+    "name": "Isabelle•Boéri-Bégard",
+    "born": "7 July 1960 in Paris, Paris (FRA)",
+    "measurements": "180 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

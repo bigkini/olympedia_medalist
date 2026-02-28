@@ -934,5 +934,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20426",
+    "name": "Charles•Sheaffer",
+    "born": "6 December 1904 in St. Davids, Pennsylvania (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20626",
+    "name": "Renée•Garilhe",
+    "born": "15 June 1923 in Paris XIVe, Paris (FRA)",
+    "measurements": "156 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

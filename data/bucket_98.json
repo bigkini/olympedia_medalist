@@ -684,5 +684,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20698",
+    "name": "Claudia•Bokel",
+    "born": "30 August 1973 in Ter Apel, Groningen (NED)",
+    "measurements": "183 cm / 65 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

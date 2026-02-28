@@ -974,7 +974,7 @@
     "id": "19308",
     "name": "Randhir•Singh Gentle",
     "born": "22 September 1922 in Delhi, National Capital Territory of Delhi (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -995,6 +995,21 @@
         "noc": "IND",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20708",
+    "name": "Ute•Kircheis-Wessel",
+    "born": "18 March 1953 in Niederaußem, Bergheim, Nordrhein-Westfalen (GER)",
+    "measurements": "170 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRG",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
         "medal": "Gold"
       }
     ]

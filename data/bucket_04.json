@@ -795,5 +795,34 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20804",
+    "name": "Margherita•Zalaffi",
+    "born": "7 April 1966 in Siena, Siena (ITA)",
+    "measurements": "171 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

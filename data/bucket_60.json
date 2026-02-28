@@ -934,5 +934,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20460",
+    "name": "Sonia•Robertson",
+    "born": "2 June 1947 in Burnham Market, England (GBR)",
+    "measurements": "168 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ZIM",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

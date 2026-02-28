@@ -844,5 +844,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20671",
+    "name": "Muriel•Freeman",
+    "born": "9 September 1897 in Worcester, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

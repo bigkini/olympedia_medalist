@@ -943,5 +943,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20714",
+    "name": "Olga•Oelkers",
+    "born": "21 May 1887 in Al-Iskanderiya (Alexandria), Al-Iskanderiya (EGY)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

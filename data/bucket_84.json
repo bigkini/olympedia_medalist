@@ -889,5 +889,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20784",
+    "name": "Maria Consolata•Collino",
+    "born": "9 December 1947 in Torino, Torino (ITA)",
+    "measurements": "173 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

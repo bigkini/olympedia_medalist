@@ -870,5 +870,64 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20421",
+    "name": "Leonard•O'Brien",
+    "born": "20 January 1904 in North Adams, Massachusetts (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20521",
+    "name": "Ellen•Müller-Preis",
+    "born": "6 May 1912 in Charlottenburg, Berlin (GER)",
+    "measurements": "173 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20721",
+    "name": "Gundi•Theuerkauff",
+    "born": "8 April 1937 in Szczecin, Zachodniopomorskie (POL)",
+    "measurements": "159 cm / 53 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

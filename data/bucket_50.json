@@ -595,5 +595,71 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20450",
+    "name": "Sandy•Chick",
+    "born": "2 June 1947 in Burnham Market, England (GBR)",
+    "measurements": "168 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ZIM",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20650",
+    "name": "Pascale•Trinquet-Hachin",
+    "born": "11 August 1958 in Marseille (Marseilles), Bouches-du-Rhône (FRA)",
+    "measurements": "170 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20750",
+    "name": "Tímea•Nagy",
+    "born": "22 August 1970 in Budapest, Budapest (HUN)",
+    "measurements": "180 cm / 69 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

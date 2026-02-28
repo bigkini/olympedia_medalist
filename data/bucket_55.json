@@ -857,5 +857,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20455",
+    "name": "Ann•Grant",
+    "born": "6 May 1955 in Harare, Harare (ZIM)",
+    "measurements": "170 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ZIM",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20755",
+    "name": "Gertrúd•Stefanek",
+    "born": "5 July 1959 in Ózd, Borsod-Abaúj-Zemplén (HUN)",
+    "measurements": "178 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

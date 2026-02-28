@@ -839,5 +839,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20625",
+    "name": "Brigitte•Dumont-Gapais",
+    "born": "25 April 1944 in Saint-Fargeau-Ponthierry, Seine-et-Marne (FRA)",
+    "measurements": "164 cm / 50 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -780,5 +780,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20711",
+    "name": "Helene•Mayer",
+    "born": "20 December 1910 in Offenbach am Main, Hessen (GER)",
+    "measurements": "183 cm",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -911,5 +911,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20458",
+    "name": "Brenda•Phillips",
+    "born": "18 January 1958",
+    "measurements": "155 cm / 49 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ZIM",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

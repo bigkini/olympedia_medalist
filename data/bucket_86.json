@@ -761,5 +761,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20786",
+    "name": "Annapia•Gandolfi",
+    "born": "29 June 1964 in Pisa, Pisa (ITA)",
+    "measurements": "166 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]
