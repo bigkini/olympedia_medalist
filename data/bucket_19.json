@@ -1169,7 +1169,7 @@
     "id": "25519",
     "name": "Bernard•Aryee",
     "born": "23 April 1973 in Accra, Greater Accra (GHA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -1177,6 +1177,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26219",
+    "name": "Yoshitada•Yamaguchi",
+    "born": "28 September 1944 in Fujieda, Shizuoka (JPN)",
+    "measurements": "167 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26719",
+    "name": "Daniel•Amokachi",
+    "born": "30 December 1972 in Kaduna, Kaduna (NGR)",
+    "measurements": "182 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

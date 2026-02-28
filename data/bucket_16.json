@@ -1097,5 +1097,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26116",
+    "name": "Gino•Rossetti",
+    "born": "7 November 1904 in La Spezia, La Spezia (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

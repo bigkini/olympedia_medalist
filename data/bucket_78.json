@@ -1065,5 +1065,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25778",
+    "name": "Oszkár•Vilezsál",
+    "born": "17 September 1930 in Salgótarján, Nógrád (HUN)",
+    "measurements": "170 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

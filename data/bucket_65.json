@@ -1107,5 +1107,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26065",
+    "name": "Antonio•Janni",
+    "born": "19 September 1904 in Santena, Torino (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

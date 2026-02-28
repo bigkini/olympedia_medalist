@@ -924,5 +924,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26686",
+    "name": "Eetje•Sol",
+    "born": "10 June 1881 in Tjomas, Bogor, Jawa Barat (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

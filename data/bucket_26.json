@@ -1073,7 +1073,7 @@
     "id": "25726",
     "name": "Gyula•Lóránt",
     "born": "6 February 1923 in Kőszeg, Vas (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -1081,6 +1081,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26126",
+    "name": "Angelo•Schiavio",
+    "born": "15 October 1905 in Bologna, Bologna (ITA)",
+    "measurements": "178 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

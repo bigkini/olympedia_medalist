@@ -846,5 +846,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26050",
+    "name": "Alfredo•Foni",
+    "born": "20 January 1911 in Udine, Udine (ITA)",
+    "measurements": "172 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

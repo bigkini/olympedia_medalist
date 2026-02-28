@@ -1199,5 +1199,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25989",
+    "name": "Adolfo•Baloncieri",
+    "born": "27 July 1897 in Alessandria, Alessandria (ITA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26189",
+    "name": "Ikuo•Matsumoto",
+    "born": "3 November 1941 in Utsunomiya, Tochigi (JPN)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -1193,5 +1193,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26105",
+    "name": "Alfredo•Pitto",
+    "born": "26 May 1906 in Livorno, Livorno (ITA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26705",
+    "name": "Ben•Verweij",
+    "born": "31 August 1895 in Medan, Sumatera Utara (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

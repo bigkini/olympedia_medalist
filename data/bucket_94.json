@@ -1225,7 +1225,7 @@
     "id": "25194",
     "name": "Horace•Bailey",
     "born": "3 July 1881 in Derby, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -1233,6 +1233,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26194",
+    "name": "Takaji•Mori",
+    "born": "24 November 1943 in Fukuyama, Hiroshima (JPN)",
+    "measurements": "172 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26694",
+    "name": "Jan•van Breda Kolff",
+    "born": "8 January 1894 in Medan, Sumatera Utara (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

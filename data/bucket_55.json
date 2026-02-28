@@ -1103,5 +1103,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26055",
+    "name": "Francesco•Gabriotti",
+    "born": "12 August 1914 in Roma, Roma (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -1037,5 +1037,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25769",
+    "name": "Lajos•Szűcs",
+    "born": "10 December 1943 in Apatin, Zapadna Bačka (SRB)",
+    "measurements": "179 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "26069",
+    "name": "Ugo•Locatelli",
+    "born": "5 February 1916 in Toscolano, Toscolano Maderno, Brescia (ITA)",
+    "measurements": "172 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

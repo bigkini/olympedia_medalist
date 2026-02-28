@@ -1347,5 +1347,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "26018",
+    "name": "Giulio•Cappelli",
+    "born": "4 March 1911 in La Spezia, La Spezia (ITA)",
+    "measurements": "174 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26218",
+    "name": "Shigeo•Yaegashi",
+    "born": "24 March 1933 in Daejeon, Daejeon (KOR)",
+    "measurements": "171 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

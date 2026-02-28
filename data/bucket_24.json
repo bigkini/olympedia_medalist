@@ -1029,5 +1029,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26724",
+    "name": "Tijani•Babangida",
+    "born": "25 September 1973 in Kaduna, Kaduna (NGR)",
+    "measurements": "169 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

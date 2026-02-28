@@ -846,7 +846,7 @@
     "id": "25698",
     "name": "Gyula•Grosics",
     "born": "4 February 1926 in Dorog, Komárom-Esztergom (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -854,6 +854,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25998",
+    "name": "Fulvio•Bernardini",
+    "born": "28 December 1905 in Roma, Roma (ITA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26698",
+    "name": "Jan•van der Sluis",
+    "born": "29 April 1889 in Rotterdam, Zuid-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

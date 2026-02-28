@@ -1212,5 +1212,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26636",
+    "name": "Arie•Bieshaar",
+    "born": "15 March 1899 in Amsterdam, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

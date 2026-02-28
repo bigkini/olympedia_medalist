@@ -1089,5 +1089,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26015",
+    "name": "Umberto•Caligaris",
+    "born": "26 July 1901 in Casale Monferrato, Alessandria (ITA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26115",
+    "name": "Virginio•Rosetta",
+    "born": "25 February 1902 in Vercelli, Vercelli (ITA)",
+    "measurements": "170 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

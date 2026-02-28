@@ -912,5 +912,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26192",
+    "name": "Masakatsu•Miyamoto",
+    "born": "4 July 1938 in Hitachi, Ibaraki (JPN)",
+    "measurements": "170 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26692",
+    "name": "Jan•Thomée",
+    "born": "4 December 1886 in Delft, Zuid-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

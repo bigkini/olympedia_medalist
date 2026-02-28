@@ -1261,5 +1261,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26661",
+    "name": "Karel•Heijting",
+    "born": "1 May 1883 in Kutoarjo, Jawa Tengah (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

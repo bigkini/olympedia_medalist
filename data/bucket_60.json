@@ -1157,5 +1157,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26160",
+    "name": "Homare•Sawa",
+    "born": "6 September 1978 in Tokyo, Tokyo (JPN)",
+    "measurements": "164 cm / 55 kg",
+    "medals": [
+      {
+        "game": "2012 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "26660",
+    "name": "Just•Göbel",
+    "born": "21 November 1891 in Surabaya, Jawa Timur (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

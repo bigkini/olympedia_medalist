@@ -1099,7 +1099,7 @@
     "id": "25677",
     "name": "Zoltán•Czibor",
     "born": "23 August 1929 in Kaposvár, Somogy (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -1107,6 +1107,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25777",
+    "name": "Csaba•Vidáts",
+    "born": "22 November 1947 in Szőny, Komárom-Esztergom (HUN)",
+    "measurements": "179 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "26677",
+    "name": "Lou•Otten",
+    "born": "5 November 1883 in Rijswijk, Zuid-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

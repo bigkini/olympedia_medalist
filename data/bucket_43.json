@@ -1125,5 +1125,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "26643",
+    "name": "Evert Jan•Bulder",
+    "born": "24 December 1894 in Groningen, Groningen (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

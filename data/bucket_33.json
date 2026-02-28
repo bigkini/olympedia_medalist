@@ -1149,5 +1149,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26633",
+    "name": "Reinier•Beeuwkes",
+    "born": "17 February 1884 in Den Haag (The Hague), Zuid-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -1101,5 +1101,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "26059",
+    "name": "Pietro•Genovesi",
+    "born": "27 June 1902 in Bologna, Bologna (ITA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26659",
+    "name": "Ber•Groosjohan",
+    "born": "16 June 1897 in Rotterdam, Zuid-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

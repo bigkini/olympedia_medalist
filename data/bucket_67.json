@@ -1106,5 +1106,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26667",
+    "name": "Frits•Kuipers",
+    "born": "11 July 1899 in Elst, Gelderland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

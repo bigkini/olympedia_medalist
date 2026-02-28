@@ -988,5 +988,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26111",
+    "name": "Enrico•Rivolta",
+    "born": "29 June 1905 in Milano, Milano (ITA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26711",
+    "name": "Caius•Welcker",
+    "born": "9 July 1885 in Alkmaar, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

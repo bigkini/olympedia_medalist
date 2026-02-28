@@ -1012,5 +1012,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26656",
+    "name": "Gé•Fortgens",
+    "born": "10 July 1887 in Amsterdam, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

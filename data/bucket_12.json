@@ -1034,5 +1034,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26212",
+    "name": "Kiyoshi•Tomizawa",
+    "born": "3 December 1943 in Fujieda, Shizuoka (JPN)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

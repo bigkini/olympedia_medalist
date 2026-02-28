@@ -1338,5 +1338,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "26713",
+    "name": "David•Wijnveldt",
+    "born": "15 December 1891 in Jember, Jawa Timur (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

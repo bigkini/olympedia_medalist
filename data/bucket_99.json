@@ -1152,5 +1152,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25999",
+    "name": "Sergio•Bertoni",
+    "born": "23 September 1915 in Pisa, Pisa (ITA)",
+    "measurements": "180 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

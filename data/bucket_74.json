@@ -1182,5 +1182,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25774",
+    "name": "Zoltán•Varga",
+    "born": "1 January 1945 in Vál, Fejér (HUN)",
+    "measurements": "176 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26674",
+    "name": "Miel•Mundt",
+    "born": "30 May 1880 in Sukabumi, Jawa Barat (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

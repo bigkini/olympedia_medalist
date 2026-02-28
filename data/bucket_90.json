@@ -1121,5 +1121,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25990",
+    "name": "Elvio•Banchero",
+    "born": "28 April 1904 in Alessandria, Alessandria (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

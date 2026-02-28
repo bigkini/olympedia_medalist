@@ -917,7 +917,7 @@
     "id": "25673",
     "name": "Jenő•Buzánszky",
     "born": "4 May 1925 in Újdombóvár, Tolna (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -925,6 +925,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25773",
+    "name": "Béla•Várady",
+    "born": "12 April 1953 in Gömörszőlős, Borsod-Abaúj-Zemplén (HUN)",
+    "measurements": "183 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

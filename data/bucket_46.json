@@ -1116,5 +1116,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26646",
+    "name": "Frans•de Bruijn Kops",
+    "born": "28 October 1886 in Bengkulu, Bengkulu (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

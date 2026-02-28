@@ -919,7 +919,7 @@
     "id": "25670",
     "name": "József•Bozsik",
     "born": "28 November 1925 in Kispest, Budapest (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -927,6 +927,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25770",
+    "name": "Kálmán•Tóth",
+    "born": "13 August 1944 in Szombathely, Vas (HUN)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "26670",
+    "name": "Dirk•Lotsij",
+    "born": "3 July 1882 in Dordrecht, Zuid-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

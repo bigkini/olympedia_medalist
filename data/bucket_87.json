@@ -1423,5 +1423,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26687",
+    "name": "Henk•Steeman",
+    "born": "15 January 1894 in Kralingen, Zuid-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

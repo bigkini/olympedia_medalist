@@ -1173,5 +1173,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "26651",
+    "name": "Nico•de Wolf",
+    "born": "27 October 1887 in Apeldoorn, Gelderland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

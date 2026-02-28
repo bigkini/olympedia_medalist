@@ -972,5 +972,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26142",
+    "name": "Bruno•Venturini",
+    "born": "26 September 1911 in Carrara, Massa-Carrara (ITA)",
+    "measurements": "174 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

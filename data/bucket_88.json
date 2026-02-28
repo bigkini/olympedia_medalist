@@ -955,5 +955,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25988",
+    "name": "Giuseppe•Baldo",
+    "born": "27 July 1914 in Piombino Dese, Padova (ITA)",
+    "measurements": "169 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26688",
+    "name": "Cees•ten Cate",
+    "born": "20 August 1890 in Ngawi, Jawa Timur (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

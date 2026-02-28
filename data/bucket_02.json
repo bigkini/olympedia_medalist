@@ -1148,5 +1148,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26102",
+    "name": "Achille•Piccini",
+    "born": "24 October 1911 in Carrara, Massa-Carrara (ITA)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -1019,7 +1019,7 @@
     "id": "25295",
     "name": "Richard•Turner",
     "born": "24 April 1882 in Hornsey, Haringey, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -1027,6 +1027,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25995",
+    "name": "Delfo•Bellini",
+    "born": "13 January 1900 in Rivarolo Ligure, Genova, Genova (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

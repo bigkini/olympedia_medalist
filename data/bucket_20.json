@@ -929,5 +929,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "26220",
+    "name": "Kenzo•Yokoyama",
+    "born": "21 January 1943 in Kanda, Tokyo (JPN)",
+    "measurements": "175 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26720",
+    "name": "Emmanuel•Amunike",
+    "born": "25 December 1970 in Ezo Obodo (NGR)",
+    "measurements": "176 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "NGR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

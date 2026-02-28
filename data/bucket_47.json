@@ -912,11 +912,26 @@
     "id": "25547",
     "name": "Anthony•Mensah",
     "born": "31 October 1972 in Kumasi, Western (GHA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
         "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26647",
+    "name": "Huug•de Groot",
+    "born": "7 May 1890 in Rotterdam, Zuid-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

@@ -1064,7 +1064,7 @@
     "id": "25717",
     "name": "Imre•Kovács",
     "born": "26 November 1921 in Budapest, Budapest (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -1072,6 +1072,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26217",
+    "name": "Masashi•Watanabe",
+    "born": "11 January 1936 in Hiroshima, Hiroshima (JPN)",
+    "measurements": "175 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -1304,5 +1304,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26103",
+    "name": "Silvio•Pietroboni",
+    "born": "9 March 1904 in Milano, Milano (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

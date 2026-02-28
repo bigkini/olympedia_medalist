@@ -1015,5 +1015,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25771",
+    "name": "Gábor•Török",
+    "born": "30 May 1936 in Alsónémedi, Pest (HUN)",
+    "measurements": "181 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26671",
+    "name": "Dick•MacNeill",
+    "born": "7 January 1898 in Pasuruan, Jawa Timur (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

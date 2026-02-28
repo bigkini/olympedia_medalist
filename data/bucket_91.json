@@ -1137,5 +1137,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26091",
+    "name": "Alfonso•Negro",
+    "born": "27 June 1915 in Brooklyn, New York, New York (USA)",
+    "measurements": "175 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

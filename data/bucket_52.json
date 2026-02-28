@@ -1048,5 +1048,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "26652",
+    "name": "Harry•Dénis",
+    "born": "28 August 1896 in Den Haag (The Hague), Zuid-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

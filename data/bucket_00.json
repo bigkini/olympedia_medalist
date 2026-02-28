@@ -1160,7 +1160,7 @@
     "id": "25300",
     "name": "Jack•Zealley",
     "born": "2 November 1874 in Bothenhampton, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -1168,6 +1168,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26000",
+    "name": "Carlo•Biagi",
+    "born": "20 April 1914 in Viareggio, Lucca (ITA)",
+    "measurements": "169 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26700",
+    "name": "Joop•van Dort",
+    "born": "25 May 1889 in Heemstede, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

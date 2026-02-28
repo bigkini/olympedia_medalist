@@ -1123,5 +1123,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26027",
+    "name": "Gianpiero•Combi",
+    "born": "20 December 1902 in Torino, Torino (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

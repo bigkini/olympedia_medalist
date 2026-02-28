@@ -1013,5 +1013,50 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25776",
+    "name": "Péter•Vépi",
+    "born": "20 October 1949 in Kőröshegy, Somogy (HUN)",
+    "measurements": "178 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "26076",
+    "name": "Libero•Marchini",
+    "born": "31 October 1913 in Castelnuovo Magra, La Spezia (ITA)",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26176",
+    "name": "Mitsuo•Kamata",
+    "born": "16 December 1937 in Hitachi, Ibaraki (JPN)",
+    "measurements": "177 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

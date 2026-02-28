@@ -1195,5 +1195,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "26221",
+    "name": "Eizo•Yuguchi",
+    "born": "4 July 1945 in Osaka, Osaka (JPN)",
+    "measurements": "168 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -1116,5 +1116,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "26684",
+    "name": "Edu•Snethlage",
+    "born": "9 May 1886 in Ngawi, Jawa Timur (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

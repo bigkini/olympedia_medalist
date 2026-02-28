@@ -1134,5 +1134,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "26125",
+    "name": "Luigi•Scarabello",
+    "born": "17 June 1916 in Albiano Magra, Massa-Carrara (ITA)",
+    "measurements": "172 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

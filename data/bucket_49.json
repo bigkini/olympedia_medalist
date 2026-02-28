@@ -1105,5 +1105,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26649",
+    "name": "Jan•de Natris",
+    "born": "13 November 1895 in Amsterdam, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

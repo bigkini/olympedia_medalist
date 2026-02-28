@@ -1018,11 +1018,26 @@
     "id": "25563",
     "name": "Oli•Rahman",
     "born": "7 July 1975",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
         "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26663",
+    "name": "Jan•Kok",
+    "born": "9 July 1889 in Surabaya, Jawa Timur (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "NED",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

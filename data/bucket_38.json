@@ -1044,5 +1044,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26638",
+    "name": "Leo•Bosschart",
+    "born": "24 August 1888 in Banda Aceh, Aceh (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

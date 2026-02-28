@@ -1062,5 +1062,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "26054",
+    "name": "Annibale•Frossi",
+    "born": "6 July 1911 in Muzzana del Turgnano, Udine (ITA)",
+    "measurements": "170 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26654",
+    "name": "Constant, Jonkheer•Feith",
+    "born": "3 August 1884 in Den Haag (The Hague), Zuid-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

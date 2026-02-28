@@ -985,11 +985,26 @@
     "id": "25544",
     "name": "Nii•Lamptey",
     "born": "10 December 1974 in Tema, Greater Accra (GHA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
         "noc": "GHA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "26644",
+    "name": "Jaap•Bulder",
+    "born": "27 September 1896 in Groningen, Groningen (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

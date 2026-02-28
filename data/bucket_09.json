@@ -1117,5 +1117,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26709",
+    "name": "Jan•Vos",
+    "born": "17 April 1888 in Utrecht, Utrecht (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

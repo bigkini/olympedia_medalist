@@ -1332,5 +1332,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "26108",
+    "name": "Pietro•Rava",
+    "born": "21 January 1916 in Cassine, Alessandria (ITA)",
+    "measurements": "175 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26708",
+    "name": "Felix, Jonkheer•von Heijden",
+    "born": "11 April 1890 in Weerselo, Overijssel (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

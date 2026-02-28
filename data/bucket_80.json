@@ -971,7 +971,7 @@
     "id": "24880",
     "name": "Albert•Ferrer",
     "born": "6 June 1970 in Barcelona, Barcelona (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -979,6 +979,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25780",
+    "name": "József•Zakariás",
+    "born": "5 March 1924 in Budapest, Budapest (HUN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "26180",
+    "name": "Hiroshi•Katayama",
+    "born": "28 May 1940 in Tokyo, Tokyo (JPN)",
+    "measurements": "170 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "JPN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

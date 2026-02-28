@@ -1246,5 +1246,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "26640",
+    "name": "Nico•Bouvy",
+    "born": "11 July 1892 in Banda Neira, Maluku (INA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
