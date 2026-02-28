@@ -1102,5 +1102,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22689",
+    "name": "Renzo•Minoli",
+    "born": "6 May 1904 in Milano, Milano (ITA)",
+    "measurements": "167 cm",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

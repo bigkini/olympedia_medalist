@@ -733,5 +733,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22631",
+    "name": "Raffaello•Caserta",
+    "born": "15 August 1972 in Napoli, Napoli (ITA)",
+    "measurements": "181 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22731",
+    "name": "Marco•Romano",
+    "born": "6 May 1953 in Napoli, Napoli (ITA)",
+    "measurements": "182 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -785,7 +785,7 @@
     "id": "22256",
     "name": "Julius•Eisenecker",
     "born": "21 March 1903 in Frankfurt am Main, Hessen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -800,6 +800,36 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22656",
+    "name": "Arturo•De Vecchi",
+    "born": "30 April 1898 in Messina, Messina (ITA)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22756",
+    "name": "Ciro•Verratti",
+    "born": "17 August 1907 in Archi, Chieti (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -1209,13 +1209,28 @@
     "id": "22622",
     "name": "Giancarlo•Brusati",
     "born": "6 March 1910 in Milano, Milano (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "ITA",
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22722",
+    "name": "Alessandro•Puccini",
+    "born": "28 August 1968 in Cascina, Pisa (ITA)",
+    "measurements": "172 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

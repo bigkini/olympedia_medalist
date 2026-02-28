@@ -698,7 +698,7 @@
     "id": "22447",
     "name": "János•Garay",
     "born": "23 February 1889 in Budapest, Budapest (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -719,6 +719,21 @@
         "noc": "HUN",
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22647",
+    "name": "Antonio•Conte",
+    "born": "11 December 1867 in Minturno, Latina (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Masters, Individual, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

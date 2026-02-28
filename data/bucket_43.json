@@ -999,5 +999,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22743",
+    "name": "Stefano•Simoncelli",
+    "born": "12 November 1946 in Grottaferrata, Roma (ITA)",
+    "measurements": "178 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

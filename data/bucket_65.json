@@ -958,5 +958,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22665",
+    "name": "Cosimo•Ferro",
+    "born": "8 June 1962 in Milano, Milano (ITA)",
+    "measurements": "173 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

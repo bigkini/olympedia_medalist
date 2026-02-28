@@ -982,13 +982,28 @@
     "id": "22379",
     "name": "Periklis•Pierrakos-Mavromichalis",
     "born": "1863",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1896 Summer Olympics",
         "noc": "GRE",
         "discipline": "Fencing",
         "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22679",
+    "name": "Virgilio•Mantegazza",
+    "born": "30 January 1889 in Milano, Milano (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

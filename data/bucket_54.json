@@ -895,7 +895,7 @@
     "id": "22454",
     "name": "Sándor•Gombos",
     "born": "4 December 1895 in Sombor, Zapadna Bačka (SRB)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -903,6 +903,43 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22654",
+    "name": "Gianfranco•Dalla Barba",
+    "born": "11 June 1957 in Padova, Padova (ITA)",
+    "measurements": "182 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22754",
+    "name": "Carlo•Turcato",
+    "born": "22 September 1921 in Cervignano del Friuli, Udine (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

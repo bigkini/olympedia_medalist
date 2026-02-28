@@ -866,5 +866,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22675",
+    "name": "Marco Antonio•Mandruzzato",
+    "born": "16 May 1923 in Treviso, Treviso (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -823,5 +823,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22695",
+    "name": "Oreste•Moricca",
+    "born": "5 August 1891 in Filandari, Vibo Valentia (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

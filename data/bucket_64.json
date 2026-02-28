@@ -851,11 +851,33 @@
     "id": "22064",
     "name": "Jean-François•Tournon",
     "born": "6 August 1905 in Bois-Colombes, Hauts-de-Seine (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22664",
+    "name": "Roberto•Ferrari",
+    "born": "2 August 1923 in Roma, Roma (ITA)",
+    "measurements": "178 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Bronze"

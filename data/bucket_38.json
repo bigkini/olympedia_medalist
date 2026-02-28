@@ -954,5 +954,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22638",
+    "name": "Federico•Cesarano",
+    "born": "5 July 1886 in Padova, Padova (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Intercalated)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

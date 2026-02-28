@@ -925,7 +925,7 @@
     "id": "22607",
     "name": "Roberto•Battaglia",
     "born": "23 June 1909 in Milano, Milano (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -933,6 +933,21 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22707",
+    "name": "Gianfranco•Paolucci",
+    "born": "18 February 1934 in Pesaro, Pesaro e Urbino (ITA)",
+    "measurements": "190 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

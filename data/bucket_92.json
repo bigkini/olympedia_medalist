@@ -798,7 +798,7 @@
     "id": "21792",
     "name": "Daniel•Dagallier",
     "born": "11 June 1926 in Trévoux, Ain (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -806,6 +806,35 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22692",
+    "name": "Mario Aldo•Montano",
+    "born": "1 May 1948 in Livorno, Livorno (ITA)",
+    "measurements": "181 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

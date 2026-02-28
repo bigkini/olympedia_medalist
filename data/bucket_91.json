@@ -1025,5 +1025,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22691",
+    "name": "Carlo•Montano",
+    "born": "25 September 1952 in Livorno, Livorno (ITA)",
+    "measurements": "176 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

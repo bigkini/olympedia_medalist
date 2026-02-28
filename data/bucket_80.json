@@ -847,5 +847,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22680",
+    "name": "Roberto•Manzi",
+    "born": "21 March 1959 in Rimini, Rimini (ITA)",
+    "measurements": "183 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

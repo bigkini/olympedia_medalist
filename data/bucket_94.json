@@ -1011,7 +1011,7 @@
     "id": "22494",
     "name": "Lajos•Maszlay",
     "born": "2 October 1903 in Budapest, Budapest (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -1026,6 +1026,21 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22694",
+    "name": "Tommaso•Montano",
+    "born": "14 March 1953 in Livorno, Livorno (ITA)",
+    "measurements": "182 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

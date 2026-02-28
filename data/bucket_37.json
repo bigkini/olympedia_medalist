@@ -836,5 +836,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22737",
+    "name": "Italo•Santelli",
+    "born": "15 August 1866 in Fosdinovo, Massa-Carrara (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Masters, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

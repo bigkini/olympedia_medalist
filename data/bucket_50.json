@@ -666,7 +666,7 @@
     "id": "22450",
     "name": "Oszkár•Gerde",
     "born": "8 July 1883 in Budapest, Budapest (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -681,6 +681,21 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22750",
+    "name": "Tonhi•Terenzi",
+    "born": "16 March 1969 in Genova (Genoa), Genova (ITA)",
+    "measurements": "183 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

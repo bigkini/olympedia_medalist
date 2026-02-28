@@ -972,5 +972,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22685",
+    "name": "Aldo•Masciotta",
+    "born": "14 August 1909 in Casacalenda, Campobasso (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

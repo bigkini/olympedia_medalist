@@ -1077,7 +1077,7 @@
     "id": "22613",
     "name": "Franco•Bertinetti",
     "born": "14 July 1923 in Vercelli, Vercelli (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -1088,6 +1088,21 @@
       },
       {
         "game": "1956 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22713",
+    "name": "Alfredo•Pezzana",
+    "born": "31 March 1893 in Chivasso, Torino (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
         "noc": "ITA",
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",

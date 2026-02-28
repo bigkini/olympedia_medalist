@@ -942,5 +942,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22667",
+    "name": "Francesco•Gargano",
+    "born": "5 May 1889 in Grammichele, Catania (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

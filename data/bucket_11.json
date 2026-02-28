@@ -837,7 +837,7 @@
     "id": "22611",
     "name": "Giancarlo•Bergamini",
     "born": "2 August 1926 in Milano, Milano (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -858,6 +858,43 @@
         "noc": "ITA",
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22711",
+    "name": "Giorgio•Pessina",
+    "born": "16 June 1902 in Roma, Roma (ITA)",
+    "measurements": "167 cm",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22811",
+    "name": "Kim•Yeong-Ho",
+    "born": "9 April 1971",
+    "measurements": "180 cm / 70 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

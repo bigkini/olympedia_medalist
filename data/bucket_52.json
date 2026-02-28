@@ -928,5 +928,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22652",
+    "name": "Mario•Curletto",
+    "born": "13 September 1935 in Livorno, Livorno (ITA)",
+    "measurements": "175 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

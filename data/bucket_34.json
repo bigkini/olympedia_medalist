@@ -753,5 +753,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22734",
+    "name": "Emilio•Salafia",
+    "born": "10 October 1910 in Palermo, Palermo (ITA)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -979,7 +979,7 @@
     "id": "22453",
     "name": "Gyula•Glykais",
     "born": "9 April 1893 in Pomáz, Pest (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -993,6 +993,43 @@
         "noc": "HUN",
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22653",
+    "name": "Fabio•Dal Zotto",
+    "born": "17 July 1957 in Venezia, Venezia (ITA)",
+    "measurements": "186 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22753",
+    "name": "Paolo, Conte•Thaon Di Revel",
+    "born": "2 May 1888 in Toulon, Var (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

@@ -1044,5 +1044,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22719",
+    "name": "Alessandro•Pirzio Biroli",
+    "born": "23 July 1877 in Campobasso, Campobasso (ITA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22819",
+    "name": "Lee•Sang-Gi",
+    "born": "5 June 1966",
+    "measurements": "186 cm / 85 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "KOR",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

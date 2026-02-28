@@ -1075,5 +1075,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22683",
+    "name": "Andrea•Marrazzi",
+    "born": "2 October 1887 in Livorno, Livorno (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
