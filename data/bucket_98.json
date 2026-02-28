@@ -704,7 +704,7 @@
     "id": "21998",
     "name": "Joanni•Perronet",
     "born": "19 October 1877 in Paris IXe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1896 Summer Olympics",
@@ -712,6 +712,36 @@
         "discipline": "Fencing",
         "event": "Foil, Masters, Individual, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22498",
+    "name": "Miklós•Meszéna",
+    "born": "14 December 1940 in Budapest, Budapest (HUN)",
+    "measurements": "181 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22598",
+    "name": "Giorgio•Anglesio",
+    "born": "13 April 1922 in Torino, Torino (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

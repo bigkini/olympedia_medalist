@@ -896,5 +896,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22476",
+    "name": "István•Kausz",
+    "born": "18 August 1932 in Budapest, Budapest (HUN)",
+    "measurements": "181 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

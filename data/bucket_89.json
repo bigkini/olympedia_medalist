@@ -1077,7 +1077,7 @@
     "id": "22289",
     "name": "Siegfried•Lerdon",
     "born": "8 August 1905 in Berlin, Berlin (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -1085,6 +1085,21 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22489",
+    "name": "Dániel•Magay",
+    "born": "6 April 1932 in Szeged, Csongrád (HUN)",
+    "measurements": "183 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -916,13 +916,28 @@
     "id": "21933",
     "name": "Henri•Lepage",
     "born": "30 April 1908 in Épinal, Vosges (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "FRA",
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22433",
+    "name": "Gábor•Delneky",
+    "born": "29 May 1932 in Budapest, Budapest (HUN)",
+    "measurements": "183 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

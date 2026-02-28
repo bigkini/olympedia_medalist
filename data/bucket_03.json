@@ -1153,7 +1153,7 @@
     "id": "22303",
     "name": "August•Petri",
     "born": "1878",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1906  Intercalated Games",
@@ -1161,6 +1161,36 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Intercalated)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22503",
+    "name": "József•Navarrete",
+    "born": "26 December 1965 in Santa Clara, Villa Clara (CUB)",
+    "measurements": "178 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22603",
+    "name": "Aldo•Aureggi",
+    "born": "6 October 1931 in Roma, Roma (ITA)",
+    "measurements": "164 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

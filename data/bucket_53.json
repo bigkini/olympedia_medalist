@@ -974,5 +974,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22453",
+    "name": "Gyula•Glykais",
+    "born": "9 April 1893 in Pomáz, Pest (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

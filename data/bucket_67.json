@@ -910,7 +910,7 @@
     "id": "22367",
     "name": "Tilemachos•Karakalos",
     "born": "1866 in Dimitsana, Peloponnesos (GRE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1896 Summer Olympics",
@@ -918,6 +918,28 @@
         "discipline": "Fencing",
         "event": "Sabre, Individual, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22467",
+    "name": "Zoltán•Horváth",
+    "born": "12 March 1937 in Balatonfüred, Veszprém (HUN)",
+    "measurements": "183 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

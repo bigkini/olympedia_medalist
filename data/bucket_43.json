@@ -984,5 +984,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22543",
+    "name": "Gábor•Totola",
+    "born": "10 December 1973 in Budapest, Budapest (HUN)",
+    "measurements": "199 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

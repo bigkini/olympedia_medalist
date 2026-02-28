@@ -821,7 +821,7 @@
     "id": "22045",
     "name": "Léon•Sée",
     "born": "23 September 1877 in Lille, Nord (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -836,6 +836,64 @@
         "discipline": "Fencing",
         "event": "Épée, Masters and Amateurs, Individual, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22445",
+    "name": "Dezső•Földes",
+    "born": "30 December 1880 in Miskolc, Borsod-Abaúj-Zemplén (HUN)",
+    "measurements": "173 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22545",
+    "name": "Ödön•Tersztyánszky",
+    "born": "6 March 1890 in Csákvár, Fejér (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

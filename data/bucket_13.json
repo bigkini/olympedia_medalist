@@ -1040,7 +1040,7 @@
     "id": "22013",
     "name": "René•Queyroux",
     "born": "22 December 1927 in Halluin, Nord (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -1048,6 +1048,50 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22513",
+    "name": "Bertalan•Papp",
+    "born": "7 September 1913 in Tiszaföldvár, Jász-Nagykun-Szolnok (HUN)",
+    "measurements": "178 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22613",
+    "name": "Franco•Bertinetti",
+    "born": "14 July 1923 in Vercelli, Vercelli (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

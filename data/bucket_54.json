@@ -880,7 +880,7 @@
     "id": "21754",
     "name": "Marcel•Boulenger",
     "born": "9 September 1873 in Paris VIIIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -888,6 +888,21 @@
         "discipline": "Fencing",
         "event": "Foil, Individual, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22454",
+    "name": "Sándor•Gombos",
+    "born": "4 December 1895 in Sombor, Zapadna Bačka (SRB)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

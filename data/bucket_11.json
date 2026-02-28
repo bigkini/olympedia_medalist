@@ -822,7 +822,7 @@
     "id": "22311",
     "name": "Stefan•Rosenbauer",
     "born": "24 March 1896 in Biberach an der Riß, Baden-Württemberg (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -830,6 +830,35 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22611",
+    "name": "Giancarlo•Bergamini",
+    "born": "2 August 1926 in Milano, Milano (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -914,7 +914,7 @@
     "id": "22138",
     "name": "Cecil•Haig",
     "born": "16 March 1862 in Kensington, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -922,6 +922,36 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22438",
+    "name": "Sándor•Erdős",
+    "born": "21 August 1947 in Budapest, Budapest (HUN)",
+    "measurements": "180 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22538",
+    "name": "Pál•Szekeres",
+    "born": "22 September 1964 in Budapest, Budapest (HUN)",
+    "measurements": "176 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

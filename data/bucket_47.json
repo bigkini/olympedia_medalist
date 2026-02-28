@@ -693,5 +693,34 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22447",
+    "name": "János•Garay",
+    "born": "23 February 1889 in Budapest, Budapest (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

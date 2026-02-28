@@ -820,5 +820,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22430",
+    "name": "István•Busa",
+    "born": "31 May 1961 in Kecskemét, Bács-Kiskun (HUN)",
+    "measurements": "170 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22530",
+    "name": "Lajos•Somodi",
+    "born": "4 December 1928 in Abádszalók, Jász-Nagykun-Szolnok (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

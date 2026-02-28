@@ -919,5 +919,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22457",
+    "name": "József•Gyuricza",
+    "born": "16 January 1934 in Hódmezővásárhely, Csongrád (HUN)",
+    "measurements": "175 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

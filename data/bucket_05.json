@@ -999,5 +999,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22505",
+    "name": "Rudolf•Nébald",
+    "born": "7 September 1952 in Budapest, Budapest (HUN)",
+    "measurements": "175 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22605",
+    "name": "Guido•Balzarini",
+    "born": "21 October 1874 in Castel di Lago, Arrone, Terni (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

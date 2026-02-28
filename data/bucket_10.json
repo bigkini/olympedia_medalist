@@ -1057,7 +1057,7 @@
     "id": "21910",
     "name": "André•Labatut",
     "born": "18 July 1891 in Bordeaux, Gironde (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1086,6 +1086,21 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22510",
+    "name": "Endre•Palócz",
+    "born": "23 March 1911 in Budapest, Budapest (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

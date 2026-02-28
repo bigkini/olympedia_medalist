@@ -763,5 +763,49 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22442",
+    "name": "Mihály•Fülöp",
+    "born": "10 April 1936 in Budapest, Budapest (HUN)",
+    "measurements": "180 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22542",
+    "name": "Péter•Tóth",
+    "born": "12 July 1882 in Budapest, Budapest (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Three Hits, Men\n(Intercalated)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

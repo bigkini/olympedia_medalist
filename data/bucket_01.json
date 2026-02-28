@@ -784,5 +784,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22501",
+    "name": "Ernő•Nagy",
+    "born": "2 August 1898 in Făget, Timiș (ROU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

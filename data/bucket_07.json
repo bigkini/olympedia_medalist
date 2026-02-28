@@ -920,5 +920,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22607",
+    "name": "Roberto•Battaglia",
+    "born": "23 June 1909 in Milano, Milano (ITA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

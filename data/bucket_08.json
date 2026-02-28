@@ -1109,5 +1109,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22508",
+    "name": "István•Osztrics",
+    "born": "25 December 1949 in Budapest, Budapest (HUN)",
+    "measurements": "183 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22608",
+    "name": "Stefano•Bellone",
+    "born": "23 April 1955 in Milano, Milano (ITA)",
+    "measurements": "179 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

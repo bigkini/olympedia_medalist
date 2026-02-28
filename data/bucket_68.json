@@ -851,5 +851,41 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22468",
+    "name": "Géza•Imre",
+    "born": "23 December 1974 in Budapest, Budapest (HUN)",
+    "measurements": "184 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2016 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2016 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -1123,5 +1123,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22487",
+    "name": "Csaba•Köves",
+    "born": "27 October 1966 in Budapest, Budapest (HUN)",
+    "measurements": "183 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

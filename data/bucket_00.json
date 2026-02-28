@@ -993,5 +993,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22500",
+    "name": "Ambrus•Nagy",
+    "born": "20 August 1927 in Budapest, Budapest (HUN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "22600",
+    "name": "Angelo•Arcidiacono",
+    "born": "25 September 1955 in Catania, Catania (ITA)",
+    "measurements": "174 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

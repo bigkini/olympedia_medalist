@@ -1024,5 +1024,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22521",
+    "name": "József•Rády",
+    "born": "22 September 1884 in Szekszárd, Tolna (HUN)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22621",
+    "name": "Giovanni Battista•Breda",
+    "born": "21 July 1931 in San Colombano al Lambro, Milano (ITA)",
+    "measurements": "177 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

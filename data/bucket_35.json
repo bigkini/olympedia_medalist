@@ -990,5 +990,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "22535",
+    "name": "László•Széchy",
+    "born": "18 November 1891 in Arad, Arad (ROU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

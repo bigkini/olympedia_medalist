@@ -973,5 +973,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22490",
+    "name": "József•Marosi",
+    "born": "16 October 1934 in Budapest, Budapest (HUN)",
+    "measurements": "180 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

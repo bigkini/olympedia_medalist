@@ -844,8 +844,8 @@
   {
     "id": "22393",
     "name": "Vasilios•Zarkadis",
-    "born": null,
-    "measurements": null,
+    "born": {},
+    "measurements": {},
     "medals": [
       {
         "game": "1906  Intercalated Games",
@@ -853,6 +853,42 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Intercalated)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22593",
+    "name": "Carlo•Agostoni",
+    "born": "23 March 1909 in Milano, Milano (ITA)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

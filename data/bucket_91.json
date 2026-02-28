@@ -993,13 +993,35 @@
     "id": "22391",
     "name": "Alexandros•Vouros",
     "born": "1871 in Athina (Athens), Attiki (GRE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1896 Summer Olympics",
         "noc": "GRE",
         "discipline": "Fencing",
         "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22491",
+    "name": "Péter•Marót",
+    "born": "27 May 1945 in Miskolc, Borsod-Abaúj-Zemplén (HUN)",
+    "measurements": "183 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

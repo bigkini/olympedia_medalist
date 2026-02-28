@@ -925,5 +925,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "22502",
+    "name": "Pál B.•Nagy",
+    "born": "2 May 1935 in Szolnok, Jász-Nagykun-Szolnok (HUN)",
+    "measurements": "177 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

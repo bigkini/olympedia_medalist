@@ -931,5 +931,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22478",
+    "name": "Ernő•Kolczonay",
+    "born": "15 May 1953 in Budapest, Budapest (HUN)",
+    "measurements": "175 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

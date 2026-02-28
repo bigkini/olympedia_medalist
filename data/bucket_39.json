@@ -914,13 +914,43 @@
     "id": "22339",
     "name": "Richard•Wahl",
     "born": "4 December 1906 in Frankfurt am Main, Hessen (GER)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "GER",
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22439",
+    "name": "Zsolt•Érsek",
+    "born": "13 June 1966 in Budapest, Budapest (HUN)",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22539",
+    "name": "István•Szelei",
+    "born": "7 December 1960 in Szentes, Csongrád (HUN)",
+    "measurements": "183 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

@@ -923,5 +923,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22462",
+    "name": "Ferenc•Hegedűs",
+    "born": "14 September 1959 in Tarján, Komárom-Esztergom (HUN)",
+    "measurements": "190 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

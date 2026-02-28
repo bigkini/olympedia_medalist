@@ -776,5 +776,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22486",
+    "name": "Krisztián•Kulcsár",
+    "born": "28 June 1971 in Budapest, Budapest (HUN)",
+    "measurements": "196 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

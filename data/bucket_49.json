@@ -912,7 +912,7 @@
     "id": "22249",
     "name": "Gustav•Casmir",
     "born": "5 November 1872 in Mikołajki, Warmińsko-Mazurskie (POL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1906  Intercalated Games",
@@ -940,6 +940,35 @@
         "noc": "GER",
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Intercalated)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22449",
+    "name": "Imre•Gedővári",
+    "born": "1 July 1951 in Budapest, Budapest (HUN)",
+    "measurements": "190 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

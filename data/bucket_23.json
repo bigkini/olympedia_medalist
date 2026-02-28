@@ -867,7 +867,7 @@
     "id": "22423",
     "name": "Tibor•Berczelly",
     "born": "3 January 1912 in Rákospalota, Budapest (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -899,6 +899,21 @@
       },
       {
         "game": "1952 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22523",
+    "name": "Imre•Rajczy",
+    "born": "8 November 1911 in Szombathely, Vas (HUN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
         "noc": "HUN",
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
