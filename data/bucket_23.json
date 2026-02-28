@@ -1023,5 +1023,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25323",
+    "name": "Gerd•Kische",
+    "born": "23 October 1951 in Teterow, Mecklenburg-Vorpommern (GER)",
+    "measurements": "177 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

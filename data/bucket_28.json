@@ -991,7 +991,7 @@
     "id": "25128",
     "name": "Maurice•Macaire",
     "born": "22 November 1881 in Paris VIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -999,6 +999,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25328",
+    "name": "Reinhard•Lauck",
+    "born": "16 September 1946 in Sielow, Brandenburg (GER)",
+    "measurements": "176 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

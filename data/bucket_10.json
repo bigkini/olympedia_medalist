@@ -1271,7 +1271,7 @@
     "id": "25110",
     "name": "Lucien•Huteau",
     "born": "26 May 1878 in Paris VIIIe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -1279,6 +1279,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25210",
+    "name": "Walter•Corbett",
+    "born": "26 November 1880 in Wellington, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25310",
+    "name": "Henning•Frenzel",
+    "born": "3 May 1942 in Geithain, Sachsen (GER)",
+    "measurements": "176 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

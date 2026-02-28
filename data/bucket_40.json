@@ -1201,5 +1201,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25340",
+    "name": "Peter•Rock",
+    "born": "16 December 1941 in Rudolstadt, Thüringen (GER)",
+    "measurements": "172 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

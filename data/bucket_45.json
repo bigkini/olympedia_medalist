@@ -984,5 +984,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25345",
+    "name": "Klaus-Dieter•Seehaus",
+    "born": "6 October 1942 in Hagen, Nordrhein-Westfalen (GER)",
+    "measurements": "178 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

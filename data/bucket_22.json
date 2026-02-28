@@ -1316,5 +1316,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25322",
+    "name": "Bernd•Jakubowski",
+    "born": "10 December 1952 in Rostock, Mecklenburg-Vorpommern (GER)",
+    "measurements": "188 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

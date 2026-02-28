@@ -1067,7 +1067,7 @@
     "id": "24965",
     "name": "Ricardo•Zamora",
     "born": "21 January 1901 in Barcelona, Barcelona (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1075,6 +1075,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25265",
+    "name": "John•Nicholas",
+    "born": "24 July 1879 in Allahabad, Uttar Pradesh (IND)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

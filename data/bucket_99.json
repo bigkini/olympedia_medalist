@@ -1112,6 +1112,21 @@
     "id": "25199",
     "name": "Ronald•Brebner",
     "born": "23 September 1881 in Darlington, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25299",
+    "name": "Edward•Wright",
+    "born": "3 October 1884 in Englefield Green, England (GBR)",
     "measurements": null,
     "medals": [
       {

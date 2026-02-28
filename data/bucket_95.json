@@ -1004,6 +1004,21 @@
     "id": "25195",
     "name": "Tom•Burridge",
     "born": "30 April 1881 in Pimlico, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25295",
+    "name": "Richard•Turner",
+    "born": "24 April 1882 in Hornsey, Haringey, England (GBR)",
     "measurements": null,
     "medals": [
       {

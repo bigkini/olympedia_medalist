@@ -925,5 +925,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25288",
+    "name": "Harry•Stapley",
+    "born": "29 April 1883 in Southborough, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

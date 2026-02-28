@@ -1051,7 +1051,7 @@
     "id": "24707",
     "name": "Vilhelm•Wolfhagen",
     "born": "11 November 1889 in København (Copenhagen), Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -1066,6 +1066,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25207",
+    "name": "Alfred•Chalk",
+    "born": "27 November 1874 in Plaistow, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25307",
+    "name": "Peter•Ducke",
+    "born": "14 October 1941 in Benešov nad Ploučnicí, Ústecký kraj (CZE)",
+    "measurements": "177 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

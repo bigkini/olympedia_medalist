@@ -1014,5 +1014,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25338",
+    "name": "Dieter•Riedel",
+    "born": "16 September 1947 in Gröditz, Sachsen (GER)",
+    "measurements": "170 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

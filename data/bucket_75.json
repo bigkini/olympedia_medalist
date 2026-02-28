@@ -984,5 +984,34 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25375",
+    "name": "Birgit•Prinz",
+    "born": "25 October 1977 in Frankfurt am Main, Hessen (GER)",
+    "measurements": "179 cm / 74 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

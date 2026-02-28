@@ -967,7 +967,7 @@
     "id": "24676",
     "name": "Sophus•Nielsen",
     "born": "15 March 1888 in København (Copenhagen), Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -982,6 +982,35 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25376",
+    "name": "Kerstin•Stegemann",
+    "born": "29 September 1977 in Rheine, Nordrhein-Westfalen (GER)",
+    "measurements": "170 cm / 68 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

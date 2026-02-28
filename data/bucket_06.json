@@ -1074,7 +1074,7 @@
     "id": "24706",
     "name": "Charles•Buchwald",
     "born": "22 October 1880 in Sahl, Viborg, Midtjylland (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1906  Intercalated Games",
@@ -1096,6 +1096,28 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25306",
+    "name": "Jürgen•Croy",
+    "born": "19 October 1946 in Zwickau, Sachsen (GER)",
+    "measurements": "186 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

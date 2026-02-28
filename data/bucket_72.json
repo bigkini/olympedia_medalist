@@ -1004,5 +1004,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25272",
+    "name": "Clyde•Purnell",
+    "born": "14 May 1877 in Ryde, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

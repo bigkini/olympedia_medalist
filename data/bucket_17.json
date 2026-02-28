@@ -1044,5 +1044,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25317",
+    "name": "Gert•Heidler",
+    "born": "30 January 1948 in Drauschkowitz, Doberschau-Gaußig, Sachsen (GER)",
+    "measurements": "166 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

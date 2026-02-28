@@ -1079,5 +1079,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25335",
+    "name": "Herbert•Pankau",
+    "born": "4 October 1941 in Blękwit, Złotów, Wielkopolskie (POL)",
+    "measurements": "176 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

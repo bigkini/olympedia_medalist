@@ -828,5 +828,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25348",
+    "name": "Wolfgang•Steinbach",
+    "born": "21 September 1954 in Schönebeck (Elbe), Sachsen-Anhalt (GER)",
+    "measurements": "166 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

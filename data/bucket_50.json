@@ -821,7 +821,7 @@
     "id": "24850",
     "name": "Patricio•Arabolaza",
     "born": "17 March 1893 in Irún, Guipúzcoa (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -829,6 +829,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25350",
+    "name": "Hermann•Stöcker",
+    "born": "6 January 1938 in Borne, Sachsen-Anhalt (GER)",
+    "measurements": "172 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

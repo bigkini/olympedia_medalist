@@ -1125,5 +1125,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25358",
+    "name": "Eberhard•Vogel",
+    "born": "8 April 1943 in Altenhain, Frankenberg, Sachsen (GER)",
+    "measurements": "179 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -1071,5 +1071,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25359",
+    "name": "Manfred•Walter",
+    "born": "31 July 1937 in Wurzen, Sachsen (GER)",
+    "measurements": "178 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -1002,7 +1002,7 @@
     "id": "24662",
     "name": "Knud•Lundberg",
     "born": "14 May 1920 in København (Copenhagen), Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -1010,6 +1010,28 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25362",
+    "name": "Konrad•Weise",
+    "born": "17 August 1951 in Greiz, Thüringen (GER)",
+    "measurements": "174 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

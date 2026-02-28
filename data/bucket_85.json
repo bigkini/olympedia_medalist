@@ -1051,7 +1051,7 @@
     "id": "25085",
     "name": "René•Duparc",
     "born": "28 September 1880 in Suresnes, Hauts-de-Seine (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -1059,6 +1059,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25285",
+    "name": "Herbert•Smith",
+    "born": "22 November 1877 in Witney, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

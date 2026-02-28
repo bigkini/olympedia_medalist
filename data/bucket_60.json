@@ -1117,7 +1117,7 @@
     "id": "24960",
     "name": "Joaquín•Vázquez",
     "born": "9 November 1897 in Badajoz, Badajoz (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1125,6 +1125,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25260",
+    "name": "Douglas•McWhirter",
+    "born": "13 August 1886 in Erith, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25360",
+    "name": "Gerd•Weber",
+    "born": "31 May 1956 in Dresden, Sachsen (GER)",
+    "measurements": "180 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -1121,5 +1121,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25314",
+    "name": "Hans-Ullrich•Grapenthin",
+    "born": "2 September 1943 in Stralsund, Mecklenburg-Vorpommern (GER)",
+    "measurements": "180 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

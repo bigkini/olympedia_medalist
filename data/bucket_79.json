@@ -1072,7 +1072,7 @@
     "id": "24679",
     "name": "Anthon•Olsen",
     "born": "14 September 1889 in København (Copenhagen), Hovedstaden (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -1080,6 +1080,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25379",
+    "name": "Pia•Wunderlich",
+    "born": "26 January 1975 in Bad Berleburg, Nordrhein-Westfalen (GER)",
+    "measurements": "173 cm / 66 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

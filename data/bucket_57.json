@@ -964,5 +964,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "25357",
+    "name": "Klaus•Urbanczyk",
+    "born": "4 June 1940 in Halle (Saale), Sachsen-Anhalt (GER)",
+    "measurements": "174 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -841,7 +841,7 @@
     "id": "22737",
     "name": "Italo•Santelli",
     "born": "15 August 1866 in Fosdinovo, Massa-Carrara (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -849,6 +849,21 @@
         "discipline": "Fencing",
         "event": "Sabre, Masters, Individual, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25337",
+    "name": "Jürgen•Pommerenke",
+    "born": "22 January 1953 in Wegeleben, Sachsen-Anhalt (GER)",
+    "measurements": "174 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

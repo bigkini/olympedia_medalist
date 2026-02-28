@@ -1138,7 +1138,7 @@
     "id": "24905",
     "name": "•Toni",
     "born": "12 October 1970 in La Garriga, Barcelona (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -1146,6 +1146,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25205",
+    "name": "Tommy•Burn",
+    "born": "29 November 1888 in Spittal, Berwick-upon-Tweed, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25305",
+    "name": "Jürgen•Bähringer",
+    "born": "19 August 1950 in Greiz, Thüringen (GER)",
+    "measurements": "189 cm / 93 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

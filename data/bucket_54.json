@@ -1047,5 +1047,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25354",
+    "name": "Frank•Uhlig",
+    "born": "8 December 1955 in Zschopau, Sachsen (GER)",
+    "measurements": "181 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

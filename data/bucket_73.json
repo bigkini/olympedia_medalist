@@ -873,7 +873,7 @@
     "id": "24673",
     "name": "Oscar•Nielsen",
     "born": "4 October 1882 in Roskilde, Sjælland (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1906  Intercalated Games",
@@ -895,6 +895,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25273",
+    "name": "Bill•Quash",
+    "born": "27 December 1868 in Barking, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

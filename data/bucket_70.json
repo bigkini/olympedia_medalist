@@ -892,5 +892,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25370",
+    "name": "Sandra•Minnert",
+    "born": "7 April 1973 in Gedern, Hessen (GER)",
+    "measurements": "173 cm / 68 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

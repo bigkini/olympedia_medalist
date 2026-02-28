@@ -1133,11 +1133,26 @@
     "id": "24951",
     "name": "•Sancho",
     "born": "18 July 1896 in Benlloch, Castellón (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "ESP",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25351",
+    "name": "Frank•Terletzki",
+    "born": "5 August 1950 in Berlin, Berlin (GER)",
+    "measurements": "176 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"

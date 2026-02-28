@@ -998,5 +998,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25363",
+    "name": "Siegmar•Wätzlich",
+    "born": "16 November 1947 in Rammenau, Sachsen (GER)",
+    "measurements": "175 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

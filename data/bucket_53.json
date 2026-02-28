@@ -1153,5 +1153,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25253",
+    "name": "Harry•Littlewort",
+    "born": "7 July 1882 in Elmsett, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25353",
+    "name": "Norbert•Trieloff",
+    "born": "24 August 1957 in Rostock, Mecklenburg-Vorpommern (GER)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

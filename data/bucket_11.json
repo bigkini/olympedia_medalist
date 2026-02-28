@@ -973,5 +973,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25311",
+    "name": "Otto•Fräßdorf",
+    "born": "5 February 1942 in Magdeburg, Sachsen-Anhalt (GER)",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -1165,5 +1165,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25321",
+    "name": "Harald•Irmscher",
+    "born": "12 February 1946 in Oelsnitz, Sachsen (GER)",
+    "measurements": "181 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -1033,5 +1033,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25352",
+    "name": "Traudl•Trautmann",
+    "born": "21 May 1959 in Dresden, Sachsen (GER)",
+    "measurements": "184 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

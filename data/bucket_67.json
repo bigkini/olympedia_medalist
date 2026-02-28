@@ -1076,5 +1076,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25367",
+    "name": "Doris•Fitschen",
+    "born": "25 October 1968 in Zeven, Niedersachsen (GER)",
+    "measurements": "175 cm / 64 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

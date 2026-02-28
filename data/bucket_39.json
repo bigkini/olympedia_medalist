@@ -1028,5 +1028,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25339",
+    "name": "Hans-Jürgen•Riediger",
+    "born": "20 December 1955 in Finsterwalde, Brandenburg (GER)",
+    "measurements": "181 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

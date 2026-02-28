@@ -1383,7 +1383,7 @@
     "id": "24887",
     "name": "Moncho•Gil",
     "born": "16 August 1897 in Vigo, Pontevedra (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1391,6 +1391,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25287",
+    "name": "Harry•Stamper",
+    "born": "6 October 1889 in Stockton-on-Tees, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

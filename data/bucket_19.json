@@ -1149,5 +1149,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25319",
+    "name": "Martin•Hoffmann",
+    "born": "22 March 1955 in Gommern, Sachsen-Anhalt (GER)",
+    "measurements": "169 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

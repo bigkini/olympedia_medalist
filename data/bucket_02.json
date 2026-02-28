@@ -1108,7 +1108,7 @@
     "id": "24902",
     "name": "•Silverio",
     "born": "31 August 1897 in San Sebastián, Guipúzcoa (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1116,6 +1116,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25302",
+    "name": "Bernd•Bauchspieß",
+    "born": "10 October 1939 in Zeitz, Sachsen-Anhalt (GER)",
+    "measurements": "182 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

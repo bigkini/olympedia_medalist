@@ -902,7 +902,7 @@
     "id": "25142",
     "name": "Gaston•Peltier",
     "born": "2 August 1877 in Rouen, Seine-Maritime (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -910,6 +910,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25242",
+    "name": "James•Jones",
+    "born": "18 November 1873 in Camberwell, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25342",
+    "name": "Hartmut•Schade",
+    "born": "13 November 1954 in Radeberg, Sachsen (GER)",
+    "measurements": "180 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

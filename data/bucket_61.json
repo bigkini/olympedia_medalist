@@ -1201,5 +1201,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25361",
+    "name": "Horst•Weigang",
+    "born": "30 September 1940 in Bielawa, Dolnośląskie (POL)",
+    "measurements": "185 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

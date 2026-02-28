@@ -1079,11 +1079,41 @@
     "id": "25033",
     "name": "Louis•Bach",
     "born": "4 April 1883 in Paris Xe, Paris (FRA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "FRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25233",
+    "name": "Bob•Hawkes",
+    "born": "18 October 1880 in Breachwood Green, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25333",
+    "name": "Wolf-Rüdiger•Netz",
+    "born": "15 December 1950 in Schwerin, Mecklenburg-Vorpommern (GER)",
+    "measurements": "172 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"

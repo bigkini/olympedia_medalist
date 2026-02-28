@@ -1136,5 +1136,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25241",
+    "name": "Kenneth•Hunt",
+    "born": "24 February 1884 in Oxford, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25341",
+    "name": "Bodo•Rudwaleit",
+    "born": "3 August 1957 in Woltersdorf, Brandenburg (GER)",
+    "measurements": "197 cm / 95 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

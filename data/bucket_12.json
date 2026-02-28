@@ -1004,5 +1004,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25312",
+    "name": "Frank•Ganzera",
+    "born": "8 September 1947 in Dresden, Sachsen (GER)",
+    "measurements": "185 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

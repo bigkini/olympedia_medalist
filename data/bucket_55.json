@@ -1063,7 +1063,7 @@
     "id": "24955",
     "name": "Roberto•Solozábal",
     "born": "15 September 1969 in Madrid, Madrid (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -1071,6 +1071,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25355",
+    "name": "Artur•Ullrich",
+    "born": "10 October 1957 in Arkhangelsk, Arkhangelsk (RUS)",
+    "measurements": "178 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

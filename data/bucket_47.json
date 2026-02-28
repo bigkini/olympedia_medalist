@@ -882,7 +882,7 @@
     "id": "24947",
     "name": "•Samitier",
     "born": "2 February 1902 in Barcelona, Barcelona (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -890,6 +890,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25347",
+    "name": "Jürgen•Sparwasser",
+    "born": "4 June 1948 in Halberstadt, Sachsen-Anhalt (GER)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

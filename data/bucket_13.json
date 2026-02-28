@@ -1276,7 +1276,7 @@
     "id": "24913",
     "name": "Juanma•López",
     "born": "3 September 1969 in Madrid, Madrid (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -1284,6 +1284,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25213",
+    "name": "Joe•Dines",
+    "born": "12 April 1886 in King's Lynn, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25313",
+    "name": "Manfred•Geisler",
+    "born": "3 March 1941 in Prusy, Dolnośląskie (POL)",
+    "measurements": "175 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

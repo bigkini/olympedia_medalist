@@ -832,7 +832,7 @@
     "id": "24934",
     "name": "•Pagaza",
     "born": "22 October 1894 in Santurce, Vizcaya (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -840,6 +840,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "25334",
+    "name": "Jürgen•Nöldner",
+    "born": "22 February 1941 in Berlin, Berlin (GER)",
+    "measurements": "175 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

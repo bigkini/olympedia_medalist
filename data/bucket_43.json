@@ -1073,5 +1073,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25343",
+    "name": "Rüdiger•Schnuphase",
+    "born": "23 January 1954 in Erfurt, Thüringen (GER)",
+    "measurements": "182 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

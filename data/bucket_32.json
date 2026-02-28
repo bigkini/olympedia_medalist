@@ -992,5 +992,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "25332",
+    "name": "Matthias•Müller",
+    "born": "18 October 1954 in Dresden, Sachsen (GER)",
+    "measurements": "173 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -1003,7 +1003,7 @@
     "id": "24878",
     "name": "•Abelardo",
     "born": "19 April 1970 in Gijón, Asturias (ESP)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -1011,6 +1011,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25278",
+    "name": "Ivor•Sharpe",
+    "born": "15 June 1889 in St. Albans, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25378",
+    "name": "Bettina•Wiegmann",
+    "born": "7 October 1971 in Euskirchen, Nordrhein-Westfalen (GER)",
+    "measurements": "170 cm / 61 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

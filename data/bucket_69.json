@@ -993,5 +993,34 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25369",
+    "name": "Renate•Lingor",
+    "born": "11 October 1975 in Karlsruhe, Baden-Württemberg (GER)",
+    "measurements": "165 cm / 56 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

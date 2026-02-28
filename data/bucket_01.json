@@ -946,5 +946,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25301",
+    "name": "Wolfgang•Barthels",
+    "born": "23 November 1940 in Malbork, Pomorskie (POL)",
+    "measurements": "173 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "GER",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

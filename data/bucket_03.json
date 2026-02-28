@@ -1264,7 +1264,7 @@
     "id": "25203",
     "name": "Claude•Buckenham",
     "born": "16 January 1876 in Herne Hill, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -1272,6 +1272,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25303",
+    "name": "Frank•Baum",
+    "born": "30 January 1956 in Zwenkau, Sachsen (GER)",
+    "measurements": "180 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "GDR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

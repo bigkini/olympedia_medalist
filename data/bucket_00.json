@@ -1155,5 +1155,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "25300",
+    "name": "Jack•Zealley",
+    "born": "2 November 1874 in Bothenhampton, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

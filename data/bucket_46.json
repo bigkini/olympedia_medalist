@@ -1061,11 +1061,41 @@
     "id": "24646",
     "name": "Karl Aage•Hansen",
     "born": "4 July 1921 in Mesinge, Kerteminde, Syddanmark (DEN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "25246",
+    "name": "Arthur•Knight",
+    "born": "7 September 1887 in Godalming, England (GBR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "GBR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "25346",
+    "name": "Wolfgang•Seguin",
+    "born": "14 September 1945 in Burg bei Magdeburg, Sachsen-Anhalt (GER)",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "GDR",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
