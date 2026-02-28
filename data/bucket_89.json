@@ -1129,7 +1129,7 @@
     "id": "24089",
     "name": "Mathieu•Bragard",
     "born": "10 March 1895 in Hodimont, Verviers, Liège (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1137,6 +1137,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24289",
+    "name": "Asparuh•Donev",
+    "born": "21 August 1945 in Bogaovtsi, Sofia Oblast (BUL)",
+    "measurements": "178 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

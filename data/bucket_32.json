@@ -962,5 +962,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24632",
+    "name": "Ludwig•Drescher",
+    "born": "21 July 1881 in Sønderborg, Syddanmark (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

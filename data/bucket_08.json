@@ -1262,11 +1262,26 @@
     "id": "24108",
     "name": "Lucien•Londot",
     "born": "23 April 1874 in Liège, Liège (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
         "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24208",
+    "name": "•Juninho Paulista",
+    "born": "22 February 1973 in São Paulo, São Paulo (BRA)",
+    "measurements": "167 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

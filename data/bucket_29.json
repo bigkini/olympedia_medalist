@@ -875,5 +875,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "24329",
+    "name": "Gavril•Stoyanov",
+    "born": "9 July 1929 in Sofia, Sofia Grad (BUL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24629",
+    "name": "Hjalmar•Christoffersen",
+    "born": "1 December 1889 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

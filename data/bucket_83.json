@@ -1149,5 +1149,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24283",
+    "name": "Kiril•Hristov",
+    "born": "20 May 1949 in Sofia, Sofia Grad (BUL)",
+    "measurements": "173 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -977,7 +977,7 @@
     "id": "24054",
     "name": "Karl•Kainberger",
     "born": "1 December 1913 in Salzburg, Salzburg (AUT)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -985,6 +985,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24254",
+    "name": "•Batista",
+    "born": "20 July 1961 in Uberlândia, Minas Gerais (BRA)",
+    "measurements": "179 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24354",
+    "name": "Ernest•Linton",
+    "born": "17 February 1880 in Galt, Cambridge, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

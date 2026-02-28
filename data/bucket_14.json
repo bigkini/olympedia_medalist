@@ -1066,7 +1066,7 @@
     "id": "24114",
     "name": "Gustave•Pelgrims",
     "born": "14 June 1878 in Schaerbeek, Région de Bruxelles-Capitale (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -1074,6 +1074,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24214",
+    "name": "•Ronaldo",
+    "born": "22 September 1976 in Bento Ribeiro, Rio de Janeiro (BRA)",
+    "measurements": "183 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24414",
+    "name": "Shi•Guihong",
+    "born": "13 February 1968 in Tianjin, Tianjin (CHN)",
+    "measurements": "165 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

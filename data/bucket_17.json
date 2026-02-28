@@ -1029,5 +1029,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24417",
+    "name": "Sun•Wen",
+    "born": "6 April 1973 in Shanghai, Shanghai (CHN)",
+    "measurements": "162 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

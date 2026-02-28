@@ -1013,5 +1013,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24639",
+    "name": "Bent•Hansen",
+    "born": "13 September 1933 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": "175 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

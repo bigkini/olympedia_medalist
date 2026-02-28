@@ -1016,5 +1016,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "24226",
+    "name": "•Zé Elias",
+    "born": "25 September 1976 in São Paulo, São Paulo (BRA)",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

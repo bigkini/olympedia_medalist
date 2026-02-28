@@ -1021,7 +1021,7 @@
     "id": "24107",
     "name": "Marcel•Leboutte",
     "born": "11 May 1880 in Spa, Liège (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -1029,6 +1029,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24207",
+    "name": "•Tonho",
+    "born": "18 August 1957 in Criciúma, Santa Catarina (BRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

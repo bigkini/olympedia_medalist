@@ -852,11 +852,26 @@
     "id": "23970",
     "name": "Domingo•Tarasconi",
     "born": "20 December 1903 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
         "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24270",
+    "name": "•Chicão",
+    "born": "4 September 1962 in Rio Brilhante, Mato Grosso do Sul (BRA)",
+    "measurements": "185 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "BRA",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"

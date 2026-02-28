@@ -783,11 +783,26 @@
     "id": "23931",
     "name": "Enrique•Gainzarain",
     "born": "7 December 1904",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
         "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24331",
+    "name": "Georgi•Vasilev",
+    "born": "9 June 1945 in Sidirokastro, Kentriki Makedonia (GRE)",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BUL",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"

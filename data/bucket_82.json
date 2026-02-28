@@ -1091,5 +1091,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24282",
+    "name": "Atanas•Mihaylov",
+    "born": "5 July 1949 in Sofia, Sofia Grad (BUL)",
+    "measurements": "185 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

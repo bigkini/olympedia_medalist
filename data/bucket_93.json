@@ -980,5 +980,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24293",
+    "name": "Mihail•Gyonin",
+    "born": "25 November 1941 in Borovan, Vratsa (BUL)",
+    "measurements": "178 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

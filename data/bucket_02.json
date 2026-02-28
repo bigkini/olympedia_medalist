@@ -1078,7 +1078,7 @@
     "id": "24102",
     "name": "Georges•Hebdin",
     "born": "19 April 1889 in Schaerbeek, Région de Bruxelles-Capitale (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1086,6 +1086,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24302",
+    "name": "Petar•Zhekov",
+    "born": "10 October 1944 in Knizhovnik, Haskovo (BUL)",
+    "measurements": "181 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

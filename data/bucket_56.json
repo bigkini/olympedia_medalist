@@ -922,5 +922,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24256",
+    "name": "Geovani•Silva",
+    "born": "6 April 1964 in Vitória, Espírito Santo (BRA)",
+    "measurements": "169 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

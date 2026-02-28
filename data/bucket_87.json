@@ -1348,5 +1348,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "24287",
+    "name": "Yancho•Dimitrov",
+    "born": "11 March 1943 in Dimitrovgrad, Haskovo (BUL)",
+    "measurements": "177 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

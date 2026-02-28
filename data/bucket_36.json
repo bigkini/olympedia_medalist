@@ -1122,5 +1122,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24636",
+    "name": "Henry•From",
+    "born": "1 June 1926 in Århus (Aarhus), Midtjylland (DEN)",
+    "measurements": "183 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

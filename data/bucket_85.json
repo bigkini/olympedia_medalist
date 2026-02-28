@@ -1031,5 +1031,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24285",
+    "name": "Todor•Diev",
+    "born": "28 January 1934 in Plovdiv, Plovdiv (BUL)",
+    "measurements": "183 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

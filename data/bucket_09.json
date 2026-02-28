@@ -1012,5 +1012,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24209",
+    "name": "•Luizão",
+    "born": "14 November 1975 in Rubineia, São Paulo (BRA)",
+    "measurements": "178 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24309",
+    "name": "Ivan•Kolev",
+    "born": "1 November 1930 in Sofia, Sofia Grad (BUL)",
+    "measurements": "168 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24409",
+    "name": "Chen•Yufeng",
+    "born": "17 January 1970 in Yantai, Shandong (CHN)",
+    "measurements": "165 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

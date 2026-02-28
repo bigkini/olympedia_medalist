@@ -1231,7 +1231,7 @@
     "id": "24113",
     "name": "Fernand•Nisot",
     "born": "11 April 1895 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1239,6 +1239,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24213",
+    "name": "•Kita",
+    "born": "6 January 1958 in Passo Fundo, Rio Grande do Sul (BRA)",
+    "measurements": "180 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24413",
+    "name": "Liu•Ying",
+    "born": "11 June 1974",
+    "measurements": "165 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

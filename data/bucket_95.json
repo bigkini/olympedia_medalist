@@ -954,5 +954,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24295",
+    "name": "Georgi•Tsvetkov",
+    "born": "10 September 1947 in Sofia, Sofia Grad (BUL)",
+    "measurements": "179 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

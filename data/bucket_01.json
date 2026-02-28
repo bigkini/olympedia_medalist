@@ -921,7 +921,7 @@
     "id": "24101",
     "name": "Émile•Hanse",
     "born": "10 August 1892 in Namur, Namur (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -929,6 +929,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24301",
+    "name": "Evgeni•Yanchovski",
+    "born": "5 September 1939 in Tarnava, Vratsa (BUL)",
+    "measurements": "178 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -1125,7 +1125,7 @@
     "id": "24121",
     "name": "Eric•Thornton",
     "born": "5 July 1882 in Worthing, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -1133,6 +1133,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24321",
+    "name": "Todor•Nikolov",
+    "born": "1 June 1945 in Stara Zagora, Stara Zagora (BUL)",
+    "measurements": "182 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24421",
+    "name": "Xie•Huilin",
+    "born": "17 January 1975 in Shanghai, Shanghai (CHN)",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

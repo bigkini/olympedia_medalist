@@ -837,5 +837,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24297",
+    "name": "Kiril•Ivkov",
+    "born": "21 June 1946 in Krapets, Dobrich (BUL)",
+    "measurements": "179 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

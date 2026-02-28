@@ -1257,5 +1257,65 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24218",
+    "name": "•Amaral",
+    "born": "28 February 1973 in Capivari, São Paulo (BRA)",
+    "measurements": "170 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24318",
+    "name": "Georgi Spirov•Naydenov",
+    "born": "21 December 1931 in Sofia, Sofia Grad (BUL)",
+    "measurements": "178 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24418",
+    "name": "Wang•Liping",
+    "born": "12 November 1973 in Baoding, Hebei (CHN)",
+    "measurements": "162 cm / 52 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24618",
+    "name": "Poul•Andersen",
+    "born": "2 January 1930 in Gentofte, Hovedstaden (DEN)",
+    "measurements": "173 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

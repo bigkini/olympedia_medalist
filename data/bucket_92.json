@@ -867,5 +867,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24292",
+    "name": "Atanas•Gerov",
+    "born": "8 October 1945 in Rayantsi, Pernik (BUL)",
+    "measurements": "175 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

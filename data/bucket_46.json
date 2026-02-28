@@ -1056,5 +1056,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24646",
+    "name": "Karl Aage•Hansen",
+    "born": "4 July 1921 in Mesinge, Kerteminde, Syddanmark (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

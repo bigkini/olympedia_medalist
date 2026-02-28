@@ -1003,5 +1003,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24252",
+    "name": "•Narciso",
+    "born": "23 December 1973 in São Bernardo do Campo, São Paulo (BRA)",
+    "measurements": "184 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

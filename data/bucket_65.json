@@ -1032,5 +1032,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24365",
+    "name": "Fred•Steep",
+    "born": "20 December 1874 in St. Catharines, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

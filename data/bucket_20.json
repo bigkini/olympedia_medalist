@@ -832,5 +832,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "24320",
+    "name": "Milcho•Goranov",
+    "born": "6 November 1928 in Lom, Montana (BUL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24420",
+    "name": "Wen•Lirong",
+    "born": "2 October 1969",
+    "measurements": "168 cm / 52 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24620",
+    "name": "Marius•Andersen",
+    "born": "25 April 1885 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

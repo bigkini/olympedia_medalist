@@ -812,5 +812,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24634",
+    "name": "Henning•Enoksen",
+    "born": "26 September 1935 in Nykøbing Mors, Morsø, Nordjylland (DEN)",
+    "measurements": "178 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

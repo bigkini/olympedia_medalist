@@ -948,5 +948,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24269",
+    "name": "•Dunga",
+    "born": "31 October 1963 in Ijuí, Rio Grande do Sul (BRA)",
+    "measurements": "174 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24369",
+    "name": "William•Twaits",
+    "born": "20 August 1878 in Galt, Cambridge, Ontario (CAN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CAN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

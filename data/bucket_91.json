@@ -1092,5 +1092,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24291",
+    "name": "Ivaylo•Georgiev",
+    "born": "31 October 1942 in Montana, Montana (BUL)",
+    "measurements": "175 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

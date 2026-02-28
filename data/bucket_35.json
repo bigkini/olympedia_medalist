@@ -1064,5 +1064,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24235",
+    "name": "•Silvinho",
+    "born": "13 November 1958 in Franca, São Paulo (BRA)",
+    "measurements": "169 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

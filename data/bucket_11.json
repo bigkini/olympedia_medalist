@@ -933,7 +933,7 @@
     "id": "24111",
     "name": "Joseph•Musch",
     "born": "12 October 1893 in Sint-Gillis-Waas, Oost-Vlaanderen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -941,6 +941,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24411",
+    "name": "Gao•Hong",
+    "born": "27 November 1967 in Taixing, Jiangsu (CHN)",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

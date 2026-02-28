@@ -939,7 +939,7 @@
     "id": "24057",
     "name": "Josef•Kitzmüller",
     "born": "21 June 1912",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -947,6 +947,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24257",
+    "name": "•Roberto Carlos",
+    "born": "10 April 1973 in Garça, São Paulo (BRA)",
+    "measurements": "168 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

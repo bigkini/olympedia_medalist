@@ -1014,5 +1014,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24415",
+    "name": "Shui•Qingxia",
+    "born": "18 December 1966 in Funing, Jiangsu (CHN)",
+    "measurements": "167 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

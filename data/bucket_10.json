@@ -1196,7 +1196,7 @@
     "id": "24110",
     "name": "Ernest•Moreau de Melen",
     "born": "20 February 1879 in Herve, Liège (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -1204,6 +1204,51 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24210",
+    "name": "•Ronaldo",
+    "born": "18 February 1974 in Piracicaba, São Paulo (BRA)",
+    "measurements": "186 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24310",
+    "name": "Nikola•Kovachev",
+    "born": "4 June 1934 in Blagoevgrad, Blagoevgrad (BUL)",
+    "measurements": "175 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24410",
+    "name": "Fan•Yunjie",
+    "born": "29 April 1972 in Zhengzhou, Henan (CHN)",
+    "measurements": "168 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

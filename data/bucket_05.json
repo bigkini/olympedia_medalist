@@ -1103,5 +1103,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24305",
+    "name": "Yordan•Yosifov",
+    "born": "12 August 1932",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

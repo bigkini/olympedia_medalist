@@ -1095,5 +1095,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24258",
+    "name": "Ronaldo•Moraes",
+    "born": "2 March 1962 in Guarujá, São Paulo (BRA)",
+    "measurements": "174 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

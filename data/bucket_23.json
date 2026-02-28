@@ -993,5 +993,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "24423",
+    "name": "Yu•Hongqi",
+    "born": "2 February 1973 in Dalian, Liaoning (CHN)",
+    "measurements": "163 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

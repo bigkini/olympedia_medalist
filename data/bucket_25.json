@@ -1064,7 +1064,7 @@
     "id": "24125",
     "name": "Oscar•Verbeeck",
     "born": "6 June 1891 in Saint-Josse-ten-Noode, Région de Bruxelles-Capitale (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1072,6 +1072,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24325",
+    "name": "Kiril•Rakarov",
+    "born": "24 May 1932 in Pavlikeni, Veliko Tarnovo (BUL)",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "BUL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24625",
+    "name": "Paul•Berth",
+    "born": "7 April 1890 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

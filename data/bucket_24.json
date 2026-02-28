@@ -974,7 +974,7 @@
     "id": "24124",
     "name": "Henk•van Heuckelum",
     "born": "6 May 1879 in Den Haag (The Hague), Zuid-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -982,6 +982,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24224",
+    "name": "Cláudio•Taffarel",
+    "born": "8 May 1966 in Santa Rosa, Rio Grande do Sul (BRA)",
+    "measurements": "182 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }
