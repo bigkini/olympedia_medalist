@@ -913,5 +913,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23593",
+    "name": "Georgy•Pogosov",
+    "born": "14 July 1960 in Kyiv, Kyiv (UKR)",
+    "measurements": "177 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23793",
+    "name": "Robert•Sears",
+    "born": "30 November 1884 in Portland, Oregon (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

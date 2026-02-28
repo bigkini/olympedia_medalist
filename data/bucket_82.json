@@ -1044,7 +1044,7 @@
     "id": "22682",
     "name": "Fiorenzo•Marini",
     "born": "14 March 1914 in Wien (Vienna), Wien (AUT)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -1059,6 +1059,36 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23582",
+    "name": "Boris•Melnikov",
+    "born": "16 May 1938 in St. Petersburg, St. Petersburg (RUS)",
+    "measurements": "175 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23682",
+    "name": "Norman•Cohn-Armitage",
+    "born": "1 January 1907 in Albany, New York (USA)",
+    "measurements": "185 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

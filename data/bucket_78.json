@@ -958,11 +958,41 @@
     "id": "22978",
     "name": "Dirk•Scalongne",
     "born": "12 December 1879 in Amsterdam, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
         "noc": "NED",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23578",
+    "name": "Boris•Lukomsky",
+    "born": "6 June 1951 in Saratov, Saratov (RUS)",
+    "measurements": "181 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23678",
+    "name": "Dean•Cetrulo",
+    "born": "24 February 1919 in Newark, New Jersey (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Bronze"

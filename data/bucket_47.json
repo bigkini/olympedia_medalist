@@ -817,5 +817,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23547",
+    "name": "Vadym•Huttsait",
+    "born": "6 October 1971 in Kyiv, Kyiv (UKR)",
+    "measurements": "180 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23647",
+    "name": "Hugh•Alessandroni",
+    "born": "15 January 1908 in New York, New York (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

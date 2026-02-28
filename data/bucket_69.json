@@ -888,5 +888,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23569",
+    "name": "Sergey•Koryazhkin",
+    "born": "24 December 1959 in Bishkek, Bishkek (KGZ)",
+    "measurements": "183 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23669",
+    "name": "Henry•Breckinridge",
+    "born": "25 May 1886 in Chicago, Illinois (USA)",
+    "measurements": "185 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23769",
+    "name": "Tibor•Nyilas",
+    "born": "3 June 1914 in Budapest, Budapest (HUN)",
+    "measurements": "183 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

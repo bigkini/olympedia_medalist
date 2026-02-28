@@ -1108,7 +1108,7 @@
     "id": "23400",
     "name": "Hans•Drakenberg",
     "born": "4 February 1901 in Stockholm, Stockholm (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -1116,6 +1116,28 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23600",
+    "name": "Yakov•Rylsky",
+    "born": "25 October 1928 in Aleksandrovka, Verkhuba, Shyrgys Qazaqstan (KAZ)",
+    "measurements": "173 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -812,7 +812,7 @@
     "id": "23397",
     "name": "Frank•Cervell",
     "born": "22 February 1907 in Norrköping, Östergötland (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -820,6 +820,21 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23597",
+    "name": "Leonid•Romanov",
+    "born": "13 February 1947 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "175 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

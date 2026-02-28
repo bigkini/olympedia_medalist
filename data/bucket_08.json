@@ -1205,5 +1205,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23408",
+    "name": "Göran•Flodström",
+    "born": "27 January 1953 in Stockholm, Stockholm (SWE)",
+    "measurements": "185 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23608",
+    "name": "Vasily•Stankovich",
+    "born": "25 April 1946 in Irshava, Zakarpattia (UKR)",
+    "measurements": "184 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

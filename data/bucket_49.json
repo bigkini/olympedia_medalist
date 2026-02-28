@@ -1030,5 +1030,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23549",
+    "name": "Aleksandr•Abushakhmetov",
+    "born": "21 July 1954 in Bishkek, Bishkek (KGZ)",
+    "measurements": "189 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

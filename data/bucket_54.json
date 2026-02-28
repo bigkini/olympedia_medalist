@@ -932,11 +932,26 @@
     "id": "22754",
     "name": "Carlo•Turcato",
     "born": "22 September 1921 in Cervignano del Friuli, Udine (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23554",
+    "name": "Viktor•Bazhenov",
+    "born": "6 August 1946 in Omsk, Omsk (RUS)",
+    "measurements": "170 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Silver"

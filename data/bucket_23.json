@@ -925,7 +925,7 @@
     "id": "22723",
     "name": "Oreste•Puliti",
     "born": "18 February 1891 in Livorno, Livorno (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -960,6 +960,21 @@
         "noc": "ITA",
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23623",
+    "name": "Iosif•Vitebsky",
+    "born": "9 January 1938 in Kyiv, Kyiv (UKR)",
+    "measurements": "188 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

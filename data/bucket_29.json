@@ -860,5 +860,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23729",
+    "name": "Attila•Keresztes",
+    "born": "18 January 1928 in Budapest, Budapest (HUN)",
+    "measurements": "183 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

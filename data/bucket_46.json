@@ -1016,7 +1016,7 @@
     "id": "22946",
     "name": "Hendrik•de Iongh",
     "born": "4 August 1877 in Dordrecht, Zuid-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -1024,6 +1024,21 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23546",
+    "name": "Serhiy•Holubytskyi",
+    "born": "20 December 1969 in Kyiv, Kyiv (UKR)",
+    "measurements": "182 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

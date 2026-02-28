@@ -799,7 +799,7 @@
     "id": "22673",
     "name": "Vittorio•Lucarelli",
     "born": "31 October 1928 in Roma, Roma (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -807,6 +807,65 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23473",
+    "name": "Jiří•Adam",
+    "born": "12 October 1950 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": "187 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Modern Pentathlon",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23573",
+    "name": "Sergey•Kravchuk",
+    "born": "3 June 1964 in Kyiv, Kyiv (UKR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23673",
+    "name": "George•Calnan",
+    "born": "18 January 1900 in South Boston, Massachusetts (USA)",
+    "measurements": "183 cm",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

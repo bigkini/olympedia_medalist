@@ -1070,5 +1070,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23436",
+    "name": "Lennart•Magnusson",
+    "born": "1 January 1924 in Stockholm, Stockholm (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23736",
+    "name": "Joe•Levis",
+    "born": "20 July 1905 in Boston, Massachusetts (USA)",
+    "measurements": "183 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

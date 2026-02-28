@@ -954,5 +954,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23445",
+    "name": "Berndt-Otto•Rehbinder",
+    "born": "1 May 1918 in Karlskrona, Blekinge (SWE)",
+    "measurements": "184 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23745",
+    "name": "Arthur•Lyon",
+    "born": "1 August 1876 in New York, New York (USA)",
+    "measurements": "173 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

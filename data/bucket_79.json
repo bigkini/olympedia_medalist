@@ -1027,7 +1027,7 @@
     "id": "23179",
     "name": "Frederico•Paredes",
     "born": "31 January 1889 in Lisboa, Distrito de Lisboa (POR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -1035,6 +1035,21 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23779",
+    "name": "Paul•Pesthy",
+    "born": "25 March 1938 in Budapest, Budapest (HUN)",
+    "measurements": "180 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -946,7 +946,7 @@
     "id": "22616",
     "name": "Bino•Bini",
     "born": "23 January 1900 in Livorno, Livorno (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -975,6 +975,21 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23416",
+    "name": "Johan•Harmenberg",
+    "born": "8 September 1954 in Stockholm, Stockholm (SWE)",
+    "measurements": "179 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

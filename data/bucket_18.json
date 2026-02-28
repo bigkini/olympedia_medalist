@@ -1227,5 +1227,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23718",
+    "name": "Gustave•Heiss",
+    "born": "4 November 1904 in Meridian, Mississippi (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -1044,5 +1044,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23625",
+    "name": "Georgi•Zažitski",
+    "born": "5 February 1946 in Luga, Leningrad (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -984,5 +984,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23417",
+    "name": "Nils•Hellsten",
+    "born": "19 February 1886 in Stockholm, Stockholm (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23717",
+    "name": "Gene•Hámori",
+    "born": "27 August 1933 in Győr, Győr-Moson-Sopron (HUN)",
+    "measurements": "183 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "HUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

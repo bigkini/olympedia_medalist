@@ -755,7 +755,7 @@
     "id": "23120",
     "name": "Władysław•Segda",
     "born": "25 May 1895 in Przemyśl, Podkarpackie (POL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -769,6 +769,36 @@
         "noc": "POL",
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23420",
+    "name": "Leif•Högström",
+    "born": "4 July 1955 in Enskede, Stockholm, Stockholm (SWE)",
+    "measurements": "185 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23620",
+    "name": "Igor•Valetov",
+    "born": "1 February 1946 in Toshkent, Toshkent Shahri (UZB)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

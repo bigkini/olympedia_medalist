@@ -877,5 +877,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23556",
+    "name": "Leonid•Bogdanov",
+    "born": "23 June 1927 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

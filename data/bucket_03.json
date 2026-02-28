@@ -1198,7 +1198,7 @@
     "id": "22703",
     "name": "Abelardo•Olivier",
     "born": "9 November 1877 in Portogruaro, Venezia (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -1220,6 +1220,28 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23603",
+    "name": "Yury•Sharov",
+    "born": "22 April 1939 in Saratov, Saratov (RUS)",
+    "measurements": "172 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

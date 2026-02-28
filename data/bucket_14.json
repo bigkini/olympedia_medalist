@@ -978,7 +978,7 @@
     "id": "22614",
     "name": "Marcello•Bertinetti",
     "born": "27 April 1885 in Vercelli, Vercelli (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -1007,6 +1007,43 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23614",
+    "name": "David•Tyshler",
+    "born": "13 June 1927 in Kherson, Kherson (UKR)",
+    "measurements": "183 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23714",
+    "name": "William•Grebe",
+    "born": "9 March 1869 in Chicago, Illinois (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Single Sticks, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

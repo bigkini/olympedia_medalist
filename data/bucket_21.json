@@ -1076,5 +1076,49 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23621",
+    "name": "Eduard•Vinokurov",
+    "born": "30 October 1942 in Bayzhansay, Ongutsik Qazaqstan (KAZ)",
+    "measurements": "174 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23721",
+    "name": "Francis•Honeycutt",
+    "born": "26 May 1883 in Alcatraz Island, San Francisco, California (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

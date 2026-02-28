@@ -1121,7 +1121,7 @@
     "id": "23394",
     "name": "Per•Carleson",
     "born": "11 July 1917 in Stockholm, Stockholm (SWE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -1135,6 +1135,28 @@
         "noc": "SWE",
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23594",
+    "name": "Viktor•Putyatin",
+    "born": "12 September 1941 in Kharkiv, Kharkiv (UKR)",
+    "measurements": "187 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

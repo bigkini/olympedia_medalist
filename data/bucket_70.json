@@ -786,7 +786,7 @@
     "id": "22470",
     "name": "Endre•Kabos",
     "born": "5 November 1906 in Oradea, Bihor (ROU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -815,6 +815,36 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23570",
+    "name": "Sergey•Kostarev",
+    "born": "25 March 1966",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23770",
+    "name": "William Scott•O'Connor",
+    "born": "23 May 1864 in Pittsburgh, Pennsylvania (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Single Sticks, Individual, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

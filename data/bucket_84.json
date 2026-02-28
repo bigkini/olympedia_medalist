@@ -1025,7 +1025,7 @@
     "id": "23384",
     "name": "Oswald•Zappelli",
     "born": "27 October 1913 in Lausanne, Vaud (SUI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -1047,6 +1047,21 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23584",
+    "name": "Sergey•Mindirgasov",
+    "born": "14 November 1959 in Luhansk, Luhansk (UKR)",
+    "measurements": "180 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

@@ -1002,5 +1002,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23465",
+    "name": "Carl•von Essen",
+    "born": "18 October 1940 in Jönköping, Jönköping (SWE)",
+    "measurements": "189 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -943,5 +943,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23552",
+    "name": "Vladimer•Aptsiauri",
+    "born": "4 February 1962 in Manglisi, Kvemo Kartli (GEO)",
+    "measurements": "170 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23652",
+    "name": "Albie•Axelrod",
+    "born": "12 February 1921 in Bronx, New York (USA)",
+    "measurements": "183 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

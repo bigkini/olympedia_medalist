@@ -1062,5 +1062,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23591",
+    "name": "Sergey•Paramonov",
+    "born": "16 September 1945 in Beloretsk, Respublika Bashkortostan (RUS)",
+    "measurements": "191 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

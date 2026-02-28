@@ -939,5 +939,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23724",
+    "name": "Tracy•Jaeckel",
+    "born": "6 February 1905 in New York, New York (USA)",
+    "measurements": "179 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
