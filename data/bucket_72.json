@@ -806,5 +806,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20072",
+    "name": "Tahir•Zaman",
+    "born": "6 March 1969 in Gojra, Punjab (PAK)",
+    "measurements": "170 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20372",
+    "name": "Judy•Strong",
+    "born": "26 March 1960 in Northampton, Massachusetts (USA)",
+    "measurements": "172 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

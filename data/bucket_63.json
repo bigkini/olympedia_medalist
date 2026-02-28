@@ -764,5 +764,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20263",
+    "name": "Alena•Kyselicová",
+    "born": "14 November 1957 in Trenčianske Teplice, Trenčín (SVK)",
+    "measurements": "165 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

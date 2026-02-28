@@ -942,5 +942,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20382",
+    "name": "Bill•Boddington",
+    "born": "22 November 1910 in Jersey City, New Jersey (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

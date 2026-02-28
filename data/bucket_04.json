@@ -770,7 +770,7 @@
     "id": "19504",
     "name": "Im•Jeong-Suk",
     "born": "24 November 1972",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1996 Summer Olympics",
@@ -778,6 +778,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Women\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20304",
+    "name": "Sos•Hayrapetyan",
+    "born": "12 September 1959 in Yerevan, Yerevan (ARM)",
+    "measurements": "176 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

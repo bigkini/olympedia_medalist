@@ -779,5 +779,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20264",
+    "name": "Jana•Lahodová",
+    "born": "4 June 1957 in Hradec Králové, Královéhradecký kraj (CZE)",
+    "measurements": "157 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20364",
+    "name": "Diane•Moyer",
+    "born": "29 July 1958 in Reading, Pennsylvania (USA)",
+    "measurements": "172 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

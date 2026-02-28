@@ -776,13 +776,28 @@
     "id": "20002",
     "name": "Farhat Hassan•Khan",
     "born": "10 January 1965",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
         "noc": "PAK",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20302",
+    "name": "Galina•Vyuzhanina",
+    "born": "3 August 1952",
+    "measurements": "161 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

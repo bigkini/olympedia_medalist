@@ -819,5 +819,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20059",
+    "name": "Shahbaz•Ahmed",
+    "born": "1 September 1968 in Faisalabad, Punjab (PAK)",
+    "measurements": "175 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20259",
+    "name": "Ida•Hubáčková",
+    "born": "1 October 1954 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": "164 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20359",
+    "name": "Kathy•McGahey",
+    "born": "5 March 1960 in Philadelphia, Pennsylvania (USA)",
+    "measurements": "167 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

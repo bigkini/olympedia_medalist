@@ -849,7 +849,7 @@
     "id": "19815",
     "name": "Paul•van de Rovaart",
     "born": "24 January 1904 in Utrecht, Utrecht (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -857,6 +857,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20315",
+    "name": "Aleksandr•Gusev",
+    "born": "21 February 1955 in Sredneuralsk, Sverdlovsk (RUS)",
+    "measurements": "173 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

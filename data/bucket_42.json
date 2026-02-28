@@ -645,5 +645,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20042",
+    "name": "Ahmed Naseer•Bunda",
+    "born": "15 May 1932 in Rawalpindi, Punjab (PAK)",
+    "measurements": "165 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20342",
+    "name": "Gwen•Cheeseman",
+    "born": "13 August 1951 in Harrisburg, Pennsylvania (USA)",
+    "measurements": "157 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

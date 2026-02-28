@@ -889,5 +889,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20060",
+    "name": "Muhammad•Shahbaz",
+    "born": "1 December 1972",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20260",
+    "name": "Jiřina•Kadlecová",
+    "born": "1 June 1948 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": "161 cm / 56 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20360",
+    "name": "Anita•Miller",
+    "born": "14 May 1951 in Bryn Mawr, Pennsylvania (USA)",
+    "measurements": "172 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

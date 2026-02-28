@@ -799,11 +799,26 @@
     "id": "19254",
     "name": "Bakshish•Singh",
     "born": "14 June 1929 in Faisalabad, Punjab (PAK)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "IND",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20054",
+    "name": "Riaz•ud-Din",
+    "born": "24 February 1942 in Quetta, Balochistan (PAK)",
+    "measurements": "185 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "PAK",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"

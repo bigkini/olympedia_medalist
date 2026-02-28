@@ -814,5 +814,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20051",
+    "name": "Mujahid Ali•Rana",
+    "born": "6 September 1970",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

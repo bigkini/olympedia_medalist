@@ -603,5 +603,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20320",
+    "name": "Vyacheslav•Lampeyev",
+    "born": "3 January 1952 in Ulyanovsk, Ulyanovsk (RUS)",
+    "measurements": "185 cm / 89 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

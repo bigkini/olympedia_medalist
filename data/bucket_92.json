@@ -733,5 +733,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20292",
+    "name": "Nadya•Filippova",
+    "born": "17 September 1959 in Nizhny Novgorod, Nizhny Novgorod (RUS)",
+    "measurements": "160 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -833,5 +833,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20065",
+    "name": "Shahnaz•Sheikh",
+    "born": "21 March 1949 in Sialkot, Punjab (PAK)",
+    "measurements": "172 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20265",
+    "name": "Květa•Petříčková",
+    "born": "17 July 1952 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": "165 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

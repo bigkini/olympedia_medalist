@@ -814,11 +814,26 @@
     "id": "19725",
     "name": "Piet•Bromberg",
     "born": "4 March 1917 in Den Haag (The Hague), Zuid-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "NED",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20325",
+    "name": "Leonid•Pavlovsky",
+    "born": "29 May 1949 in Krasnoturyinsk, Sverdlovsk (RUS)",
+    "measurements": "175 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"

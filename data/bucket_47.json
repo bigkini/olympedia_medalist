@@ -595,7 +595,7 @@
     "id": "19247",
     "name": "Shabban•Shahab-ud-Din",
     "born": "8 November 1909",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -603,6 +603,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20047",
+    "name": "Qamar•Zia",
+    "born": "15 January 1954",
+    "measurements": "168 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

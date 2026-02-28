@@ -780,5 +780,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20417",
+    "name": "Dave•McMullin",
+    "born": "30 June 1908 in Gwynedd Valley, Pennsylvania (USA)",
+    "measurements": "178 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

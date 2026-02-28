@@ -1057,5 +1057,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20289",
+    "name": "Nataliya•Buzunova",
+    "born": "4 March 1958",
+    "measurements": "172 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

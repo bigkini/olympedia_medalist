@@ -768,7 +768,7 @@
     "id": "19757",
     "name": "Inge•Heijbroek",
     "born": "12 October 1915 in Hilversum, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -776,6 +776,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20057",
+    "name": "Saleem•Nazim",
+    "born": "1 January 1955 in Faisalabad, Punjab (PAK)",
+    "measurements": "170 cm / 66 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20257",
+    "name": "Jiřina•Hájková",
+    "born": "31 January 1954 in Děčín, Ústecký kraj (CZE)",
+    "measurements": "160 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

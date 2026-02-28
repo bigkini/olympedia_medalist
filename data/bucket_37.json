@@ -645,5 +645,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20337",
+    "name": "Beth•Anders",
+    "born": "13 November 1951 in Norristown, Pennsylvania (USA)",
+    "measurements": "174 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

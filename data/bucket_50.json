@@ -555,7 +555,7 @@
     "id": "19050",
     "name": "Heinrich•Peter",
     "born": "13 June 1910",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -563,6 +563,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20050",
+    "name": "Qasim•Zia",
+    "born": "7 August 1961 in Lahore, Punjab (PAK)",
+    "measurements": "174 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20350",
+    "name": "Sheryl•Johnson",
+    "born": "9 December 1957 in Palo Alto, California (USA)",
+    "measurements": "170 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

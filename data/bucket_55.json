@@ -817,13 +817,43 @@
     "id": "19355",
     "name": "Junzo•Inohara",
     "born": "31 January 1910 in ?, Hiroshima (JPN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
         "noc": "JPN",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20055",
+    "name": "Anjum•Saeed",
+    "born": "11 August 1968",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20255",
+    "name": "Milada•Blažková",
+    "born": "30 May 1958 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": "162 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

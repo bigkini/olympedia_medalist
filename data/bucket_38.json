@@ -854,7 +854,7 @@
     "id": "20038",
     "name": "Qazi Massarrat•Hussain",
     "born": "16 March 1935 in ? (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -862,6 +862,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20338",
+    "name": "Beth•Beglin",
+    "born": "2 April 1957 in Teaneck, New Jersey (USA)",
+    "measurements": "165 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

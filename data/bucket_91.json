@@ -921,5 +921,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20291",
+    "name": "Alina•Kham",
+    "born": "16 January 1959",
+    "measurements": "156 cm / 52 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20391",
+    "name": "Horace•Disston",
+    "born": "7 January 1906 in Philadelphia, Pennsylvania (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

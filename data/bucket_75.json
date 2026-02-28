@@ -742,5 +742,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20075",
+    "name": "Wasim•Feroz",
+    "born": "10 October 1966",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

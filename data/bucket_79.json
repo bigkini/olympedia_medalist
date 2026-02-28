@@ -858,5 +858,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20079",
+    "name": "Khawaja•Zaka-ud-Din",
+    "born": "27 October 1936 in Jalandhar, Punjab (IND)",
+    "measurements": "168 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

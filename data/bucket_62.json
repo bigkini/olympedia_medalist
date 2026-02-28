@@ -849,5 +849,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20262",
+    "name": "Jiřina•Křížová",
+    "born": "21 February 1948 in Jirkov, Ústecký kraj (CZE)",
+    "measurements": "157 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20362",
+    "name": "Char•Morett",
+    "born": "5 December 1957 in Darby, Pennsylvania (USA)",
+    "measurements": "165 cm / 52 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

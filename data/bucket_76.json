@@ -815,5 +815,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20076",
+    "name": "Zafar•Hayat",
+    "born": "31 March 1927",
+    "measurements": "181 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

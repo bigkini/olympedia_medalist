@@ -784,5 +784,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20309",
+    "name": "Valery•Belyakov",
+    "born": "13 April 1953",
+    "measurements": "172 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

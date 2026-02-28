@@ -740,5 +740,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20324",
+    "name": "Mikhail•Nichepurenko",
+    "born": "27 December 1955 in Novokuybyshevsk, Samara (RUS)",
+    "measurements": "176 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

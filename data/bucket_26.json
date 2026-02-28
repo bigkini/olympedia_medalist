@@ -902,7 +902,7 @@
     "id": "19826",
     "name": "Wim•van Heel",
     "born": "27 September 1922 in Den Haag (The Hague), Zuid-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -917,6 +917,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20326",
+    "name": "Sergey•Pleshakov",
+    "born": "2 November 1957 in Syzran, Samara (RUS)",
+    "measurements": "182 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

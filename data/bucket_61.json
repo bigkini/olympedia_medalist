@@ -1022,5 +1022,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20261",
+    "name": "Jarmila•Králíčková",
+    "born": "11 May 1944 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": "163 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20361",
+    "name": "Leslie•Milne",
+    "born": "17 October 1956 in Framingham, Massachusetts (USA)",
+    "measurements": "170 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

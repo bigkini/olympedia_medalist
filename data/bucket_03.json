@@ -1000,7 +1000,7 @@
     "id": "19303",
     "name": "Amit•Singh Bakshi",
     "born": "17 September 1925",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
@@ -1008,6 +1008,21 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20303",
+    "name": "Valentina•Zazdravnykh",
+    "born": "24 November 1954 in Andijon, Andijon (UZB)",
+    "measurements": "165 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

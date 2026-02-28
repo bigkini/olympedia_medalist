@@ -804,13 +804,50 @@
     "id": "19753",
     "name": "Patrick•Faber",
     "born": "7 May 1964 in 's-Hertogenbosch, Noord-Brabant (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1988 Summer Olympics",
         "noc": "NED",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20053",
+    "name": "Riaz•Ahmed",
+    "born": "11 September 1941 in Rawalpindi, Punjab (PAK)",
+    "measurements": "150 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20353",
+    "name": "Chris•Larson Mason",
+    "born": "21 May 1956 in Darby, Pennsylvania (USA)",
+    "measurements": "175 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
         "medal": "Bronze"
       }
     ]

@@ -855,5 +855,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20299",
+    "name": "Natella•Krasnikova",
+    "born": "14 October 1953 in Mogocha, Zabaykalsky Kray (RUS)",
+    "measurements": "160 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

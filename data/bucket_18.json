@@ -1001,5 +1001,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20318",
+    "name": "Sergey•Klevtsov",
+    "born": "30 January 1954",
+    "measurements": "174 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

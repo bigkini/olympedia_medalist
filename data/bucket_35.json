@@ -916,5 +916,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20335",
+    "name": "Oleg•Zagorodnev",
+    "born": "7 July 1959 in Korolyov, Moskva Oblast (RUS)",
+    "measurements": "175 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

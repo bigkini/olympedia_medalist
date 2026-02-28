@@ -694,7 +694,7 @@
     "id": "19966",
     "name": "Akhtar•Hussain",
     "born": "23 August 1926",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -709,6 +709,36 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20266",
+    "name": "Viera•Podhányiová",
+    "born": "19 September 1960 in Zlaté Moravce, Nitra (SVK)",
+    "measurements": "167 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20366",
+    "name": "Marcy•Place-von Schottenstein",
+    "born": "23 April 1959 in Long Beach, California (USA)",
+    "measurements": "170 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

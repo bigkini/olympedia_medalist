@@ -661,5 +661,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20073",
+    "name": "Tariq•Aziz",
+    "born": "5 February 1938 in Amritsar, Punjab (IND)",
+    "measurements": "178 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -922,5 +922,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20383",
+    "name": "Harold•Brewster",
+    "born": "2 May 1903 in Lakewood, New Jersey (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

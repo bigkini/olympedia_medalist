@@ -751,5 +751,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20293",
+    "name": "Lyudmila•Frolova",
+    "born": "29 July 1953",
+    "measurements": "160 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20393",
+    "name": "Sam•Ewing",
+    "born": "27 July 1906 in Bryn Mawr, Pennsylvania (USA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

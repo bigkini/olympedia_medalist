@@ -957,5 +957,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20040",
+    "name": "Naeem•Akhtar",
+    "born": "8 June 1961 in Abbottabad, Khyber-Pukhtunkhwa (PAK)",
+    "measurements": "173 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "20340",
+    "name": "Gina•Buggy",
+    "born": "12 November 1959 in Plymouth, Pennsylvania (USA)",
+    "measurements": "157 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

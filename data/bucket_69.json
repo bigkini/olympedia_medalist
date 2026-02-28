@@ -697,5 +697,57 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20069",
+    "name": "Iftikhar Ahmed•Syed",
+    "born": "23 August 1952",
+    "measurements": "174 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "PAK",
+        "discipline": "Hockey",
+        "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20269",
+    "name": "Marta•Urbanová",
+    "born": "14 October 1960 in České Budějovice, Jihočeský kraj (CZE)",
+    "measurements": "166 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20369",
+    "name": "Karen•Shelton",
+    "born": "14 November 1957 in Honolulu, Hawaiʻi (USA)",
+    "measurements": "165 cm / 53 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

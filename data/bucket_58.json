@@ -896,5 +896,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20258",
+    "name": "Berta•Hrubá",
+    "born": "8 April 1946 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": "164 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Hockey",
+        "event": "Hockey, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]
