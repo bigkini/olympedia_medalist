@@ -814,7 +814,7 @@
     "id": "21164",
     "name": "Friedrich•Golling",
     "born": "11 November 1883 in Olomouc, Olomoucký kraj (CZE)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -822,6 +822,28 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21764",
+    "name": "Gustave•Buchard",
+    "born": "17 February 1890 in Le Havre, Seine-Maritime (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -917,5 +917,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "21779",
+    "name": "Roger•Closset",
+    "born": "11 February 1933 in Paris Xe, Paris (FRA)",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21879",
+    "name": "Eugène Henry•Gravelotte",
+    "born": "6 February 1876 in Paris VIIe, Paris (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "21979",
+    "name": "Claude•Nigon",
+    "born": "28 December 1928 in Basel, Basel-Stadt (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

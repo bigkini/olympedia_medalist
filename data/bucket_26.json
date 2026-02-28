@@ -964,5 +964,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21926",
+    "name": "Léon•Lécuyer",
+    "born": "8 April 1855 in Paris, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Shooting",
+        "event": "Small-Bore Rifle, 50 and 100 yards, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

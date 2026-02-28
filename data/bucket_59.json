@@ -899,7 +899,7 @@
     "id": "21259",
     "name": "Félix, Comte•Goblet d'Alviella",
     "born": "26 May 1884 in Ixelles, Région de Bruxelles-Capitale (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -907,6 +907,28 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21859",
+    "name": "Didier•Flament",
+    "born": "4 January 1951 in Tourcoing, Nord (FRA)",
+    "measurements": "170 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

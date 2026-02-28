@@ -949,13 +949,28 @@
     "id": "21321",
     "name": "Édouard•Yves",
     "born": "26 October 1907 in Katako-Kombe, Sankuru (COD)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "BEL",
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21921",
+    "name": "Jean•Laroyenne",
+    "born": "6 March 1930 in Lyon, Rhône (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

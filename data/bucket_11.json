@@ -802,5 +802,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21811",
+    "name": "Guy•de Luget",
+    "born": "2 February 1884 in La Rochelle, Charente-Maritime (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

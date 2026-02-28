@@ -1062,7 +1062,7 @@
     "id": "20981",
     "name": "Irina•Ushakova",
     "born": "29 September 1954 in Homel, Homel (BLR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1980 Summer Olympics",
@@ -1070,6 +1070,51 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Women\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21781",
+    "name": "Charles•Collignon",
+    "born": "7 September 1877 in Paris Xe, Paris (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "21881",
+    "name": "Patrick•Groc",
+    "born": "6 September 1960 in Neuilly-sur-Seine, Hauts-de-Seine (FRA)",
+    "measurements": "183 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21981",
+    "name": "Jacques•Noël",
+    "born": "6 April 1920 in Paris Xe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

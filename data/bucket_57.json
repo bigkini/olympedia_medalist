@@ -845,5 +845,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21857",
+    "name": "Raymond•Flacher",
+    "born": "24 October 1903 in Paris XVIIe, Paris (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21957",
+    "name": "Lucien•Mérignac",
+    "born": "5 October 1873 in Paris XVIIe, Paris (FRA)",
+    "measurements": "177 cm",
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Masters, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -841,7 +841,7 @@
     "id": "21241",
     "name": "Fernand•de Montigny",
     "born": "5 January 1885 in Antwerpen (Antwerp), Antwerpen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1906  Intercalated Games",
@@ -877,6 +877,43 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21741",
+    "name": "René•Bondoux",
+    "born": "26 May 1905 in Bar-sur-Aube, Aube (FRA)",
+    "measurements": "168 cm",
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21941",
+    "name": "Patrice•Lhôtellier",
+    "born": "8 August 1966 in Romilly-sur-Seine, Aube (FRA)",
+    "measurements": "176 cm / 63 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

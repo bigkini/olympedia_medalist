@@ -1034,7 +1034,7 @@
     "id": "21222",
     "name": "Désiré•Beaurain",
     "born": "2 September 1881 in Berchem, Antwerpen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -1046,6 +1046,50 @@
       {
         "game": "1924 Summer Olympics",
         "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21722",
+    "name": "René•Barbier",
+    "born": "4 March 1891 in Lyon, Rhône (FRA)",
+    "measurements": "175 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21922",
+    "name": "Jacques•Lataste",
+    "born": "7 June 1922 in La Grand-Combe, Gard (FRA)",
+    "measurements": "183 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Silver"

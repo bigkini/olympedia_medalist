@@ -874,5 +874,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "21743",
+    "name": "Philippe•Bonnin",
+    "born": "30 April 1955 in Boulogne-Billancourt, Hauts-de-Seine (FRA)",
+    "measurements": "172 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "21943",
+    "name": "Robert•Liottel",
+    "born": "23 September 1885 in Paris XIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

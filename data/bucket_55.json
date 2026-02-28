@@ -899,11 +899,26 @@
     "id": "21255",
     "name": "Ferdinand•Feyerick",
     "born": "27 January 1865 in Gent (Ghent), Oost-Vlaanderen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21755",
+    "name": "Claude•Bourquard",
+    "born": "5 March 1937 in Belfort, Territoire de Belfort (FRA)",
+    "measurements": "173 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "FRA",
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"

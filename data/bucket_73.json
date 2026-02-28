@@ -712,5 +712,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21773",
+    "name": "Marc•Cerboni",
+    "born": "20 October 1955 in Nice, Alpes-Maritimes (FRA)",
+    "measurements": "176 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21873",
+    "name": "André•Gaboriaud",
+    "born": "1 May 1895 in Gémozac, Charente-Maritime (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21973",
+    "name": "Armand•Mouyal",
+    "born": "13 October 1925 in Oran, Oran (ALG)",
+    "measurements": "188 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

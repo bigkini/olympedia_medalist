@@ -1039,5 +1039,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21840",
+    "name": "Yves•Dreyfus",
+    "born": "17 May 1931 in Clermont-Ferrand, Puy-de-Dôme (FRA)",
+    "measurements": "179 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

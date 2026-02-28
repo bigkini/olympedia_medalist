@@ -836,5 +836,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "21909",
+    "name": "Jacques•Ladègaillerie",
+    "born": "10 January 1940 in Sartrouville, Yvelines (FRA)",
+    "measurements": "176 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

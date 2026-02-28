@@ -798,7 +798,7 @@
     "id": "21232",
     "name": "Raymond•Bru",
     "born": "30 March 1906 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -806,6 +806,72 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21732",
+    "name": "Gilles•Berolatti",
+    "born": "4 May 1944 in Paris, Paris (FRA)",
+    "measurements": "176 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21832",
+    "name": "Pierre•d'Hugues",
+    "born": "8 November 1873 in Orléans, Loiret (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Intercalated)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Intercalated)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "21932",
+    "name": "Olivier•Lenglet",
+    "born": "20 February 1960 in Saint-Quentin, Aisne (FRA)",
+    "measurements": "182 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

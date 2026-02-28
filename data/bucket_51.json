@@ -859,5 +859,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21751",
+    "name": "Gilbert•Bougnol",
+    "born": "31 August 1866 in Saint-Myon, Puy-de-Dôme (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Masters, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21951",
+    "name": "Jean•Margraff",
+    "born": "17 February 1876 in Graçay, Cher (FRA)",
+    "measurements": "172 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

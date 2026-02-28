@@ -870,5 +870,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21785",
+    "name": "Émile•Cornic",
+    "born": "23 December 1894 in Sucy-en-Brie, Val-de-Marne (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21885",
+    "name": "Pierre•Guichot",
+    "born": "16 February 1963 in Aureilhan, Hautes-Pyrénées (FRA)",
+    "measurements": "182 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

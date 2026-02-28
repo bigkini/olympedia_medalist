@@ -923,7 +923,7 @@
     "id": "21205",
     "name": "Reinhold•Trampler",
     "born": "26 July 1877 in Wien (Vienna), Wien (AUT)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -931,6 +931,35 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21905",
+    "name": "Pascal•Jolyot",
+    "born": "26 July 1958 in Fontainebleau, Seine-et-Marne (FRA)",
+    "measurements": "184 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

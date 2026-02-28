@@ -1093,5 +1093,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "21787",
+    "name": "Émile•Coste",
+    "born": "2 February 1862 in Toulon, Var (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "21887",
+    "name": "Jack•Guittet",
+    "born": "12 January 1930 in Casablanca, Casablanca-Settat (MAR)",
+    "measurements": "180 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

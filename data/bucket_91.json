@@ -966,5 +966,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21791",
+    "name": "Jacques•Coutrot",
+    "born": "10 April 1898 in Paris XVIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

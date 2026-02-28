@@ -801,5 +801,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21745",
+    "name": "Lionel, Marquis•de Castellane-Majastres",
+    "born": "28 September 1891 in Gardegan-et-Tourtirac, Gironde (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -885,5 +885,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21765",
+    "name": "Jéhan•de Buhan",
+    "born": "5 April 1912 in Bordeaux, Gironde (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "21965",
+    "name": "Jean-Baptiste•Mimiague",
+    "born": "3 February 1871 in Villefranche-sur-Mer, Alpes-Maritimes (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Masters, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

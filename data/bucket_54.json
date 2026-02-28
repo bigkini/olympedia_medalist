@@ -875,5 +875,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21754",
+    "name": "Marcel•Boulenger",
+    "born": "9 September 1873 in Paris VIIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

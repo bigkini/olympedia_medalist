@@ -870,7 +870,7 @@
     "id": "21239",
     "name": "Georges•de Bourguignon",
     "born": "25 February 1910 in Woluwe-Saint-Lambert, Région de Bruxelles-Capitale (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -878,6 +878,35 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21739",
+    "name": "Philippe•Boisse",
+    "born": "18 March 1955 in Neuilly-sur-Seine, Hauts-de-Seine (FRA)",
+    "measurements": "183 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

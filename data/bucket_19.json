@@ -923,7 +923,7 @@
     "id": "21519",
     "name": "Hermenegildo•García",
     "born": "11 September 1968 in Santiago de Cuba, Santiago de Cuba (CUB)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -931,6 +931,28 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21719",
+    "name": "Albert•Ayat",
+    "born": "7 March 1875 in Paris Ve, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Masters, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Masters and Amateurs, Individual, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

@@ -860,5 +860,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "21767",
+    "name": "Henri•Callot",
+    "born": "20 December 1875 in La Rochelle, Charente-Maritime (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

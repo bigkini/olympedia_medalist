@@ -883,5 +883,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21907",
+    "name": "Fernand•Jourdant",
+    "born": "3 February 1903 in Flers, Orne (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

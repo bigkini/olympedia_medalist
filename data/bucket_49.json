@@ -877,5 +877,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21749",
+    "name": "Bruno•Boscherie",
+    "born": "22 February 1951 in Carpentras, Vaucluse (FRA)",
+    "measurements": "180 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "21849",
+    "name": "Henri•Dulieux",
+    "born": "10 May 1897 in Lille, Nord (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

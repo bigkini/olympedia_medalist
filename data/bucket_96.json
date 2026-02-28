@@ -803,5 +803,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "21796",
+    "name": "Jean-Philippe•Daurelle",
+    "born": "28 December 1963 in Antony, Hauts-de-Seine (FRA)",
+    "measurements": "188 cm / 90 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

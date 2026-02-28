@@ -778,5 +778,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21895",
+    "name": "Maurice•Huet",
+    "born": "1 December 1918 in Paris XVIIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

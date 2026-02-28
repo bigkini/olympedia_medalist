@@ -820,13 +820,43 @@
     "id": "21228",
     "name": "Fernand•Bosmans",
     "born": "29 June 1883 in Antwerpen (Antwerp), Antwerpen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
         "noc": "BEL",
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21828",
+    "name": "Philippe•Delrieu",
+    "born": "10 August 1959 in Tarbes, Hautes-Pyrénées (FRA)",
+    "measurements": "180 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21928",
+    "name": "Jacques•Lefèvre",
+    "born": "1 February 1928 in Marseille (Marseilles), Bouches-du-Rhône (FRA)",
+    "measurements": "176 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

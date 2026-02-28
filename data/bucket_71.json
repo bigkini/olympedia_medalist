@@ -849,7 +849,7 @@
     "id": "20671",
     "name": "Muriel•Freeman",
     "born": "9 September 1897 in Worcester, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -857,6 +857,21 @@
         "discipline": "Fencing",
         "event": "Foil, Individual, Women\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21771",
+    "name": "Georges•Casanova",
+    "born": "26 July 1890 in Al-Jaza'ir (Algiers), Al-Jaza'ir (ALG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

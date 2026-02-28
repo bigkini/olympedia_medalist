@@ -1065,7 +1065,7 @@
     "id": "21218",
     "name": "Paul•Anspach",
     "born": "1 April 1882 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -1100,6 +1100,21 @@
         "noc": "BEL",
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21818",
+    "name": "Henri•de Saint Germain",
+    "born": "30 June 1878 in Saint-Malo, Ille-et-Vilaine (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

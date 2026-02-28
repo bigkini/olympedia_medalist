@@ -1123,7 +1123,7 @@
     "id": "20903",
     "name": "Claudia•Grigorescu",
     "born": "6 January 1968 in București (Bucharest), București (ROU)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -1131,6 +1131,21 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Women\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21903",
+    "name": "Henri•Jobier",
+    "born": "6 July 1879 in Courson-les-Carrières, Yonne (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

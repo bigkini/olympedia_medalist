@@ -709,5 +709,49 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21834",
+    "name": "Georges, Baron•Dillon-Kavanagh",
+    "born": "14 February 1873 in Nîmes, Gard (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Intercalated)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Intercalated)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Intercalated)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "21934",
+    "name": "Robert•Leroux",
+    "born": "22 August 1967 in Casablanca, Casablanca-Settat (MAR)",
+    "measurements": "182 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

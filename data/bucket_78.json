@@ -887,5 +887,49 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "21878",
+    "name": "Hervé•Granger-Veyron",
+    "born": "11 January 1958 in Talence, Gironde (FRA)",
+    "measurements": "175 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21978",
+    "name": "Claude•Netter",
+    "born": "23 October 1924 in Paris VIIe, Paris (FRA)",
+    "measurements": "177 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

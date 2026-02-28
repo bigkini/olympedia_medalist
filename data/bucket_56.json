@@ -733,13 +733,28 @@
     "id": "20756",
     "name": "Györgyi•Marvalics-Székely",
     "born": "1 December 1924 in Nagykanizsa, Zala (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1960 Summer Olympics",
         "noc": "HUN",
         "discipline": "Fencing",
         "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21956",
+    "name": "Henri•Masson",
+    "born": "28 April 1872 in Paris XVe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

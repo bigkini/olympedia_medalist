@@ -836,5 +836,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21868",
+    "name": "André•Gardère",
+    "born": "8 May 1913 in Gérardmer, Vosges (FRA)",
+    "measurements": "182 cm",
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

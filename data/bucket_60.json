@@ -949,5 +949,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "21760",
+    "name": "Claude•Brodin",
+    "born": "30 July 1934 in Les Andelys, Eure (FRA)",
+    "measurements": "169 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

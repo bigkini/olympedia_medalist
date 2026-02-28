@@ -898,5 +898,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21725",
+    "name": "Bernard•Baudoux",
+    "born": "31 May 1928 in Soissons, Aisne (FRA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21925",
+    "name": "Henri•Laurent",
+    "born": "1 April 1881 in Beaulieu-sur-Loire, Loiret (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Masters, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

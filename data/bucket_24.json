@@ -813,5 +813,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21724",
+    "name": "Louis•Bastien",
+    "born": "26 October 1881 in Paris IIIe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "25 kilometres, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

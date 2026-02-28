@@ -867,5 +867,34 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21802",
+    "name": "Gabriel, Comte•de la Falaise",
+    "born": "24 March 1866 in Luçon, Vendée (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Intercalated)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Intercalated)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

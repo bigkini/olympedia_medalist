@@ -965,7 +965,7 @@
     "id": "21235",
     "name": "Charles•Crahay",
     "born": "9 November 1889 in Antwerpen (Antwerp), Antwerpen (BEL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -973,6 +973,21 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21835",
+    "name": "Jacques•Dimont",
+    "born": "2 February 1945 in Carvin, Pas-de-Calais (FRA)",
+    "measurements": "184 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

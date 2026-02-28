@@ -756,7 +756,7 @@
     "id": "21070",
     "name": "Luis•Lucchetti",
     "born": "18 November 1902 in La Plata, Provincia de Buenos Aires (ARG)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -764,6 +764,21 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21870",
+    "name": "Hubert•Gardas",
+    "born": "17 April 1957 in Lyon, Rhône (FRA)",
+    "measurements": "191 cm / 88 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }
