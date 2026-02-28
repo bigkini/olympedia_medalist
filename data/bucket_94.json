@@ -1043,5 +1043,100 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22994",
+    "name": "George•van Rossem",
+    "born": "30 May 1882 in Den Haag (The Hague), Zuid-Holland (NED)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "NED",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Three Hits, Men\n(Intercalated)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "NED",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Intercalated)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23094",
+    "name": "Marek•Kuszewski",
+    "born": "31 October 1933 in Kielce, Świętokrzyskie (POL)",
+    "measurements": "171 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23294",
+    "name": "Vladislav•Pavlovich",
+    "born": "17 March 1971 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "182 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23394",
+    "name": "Per•Carleson",
+    "born": "11 July 1917 in Stockholm, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

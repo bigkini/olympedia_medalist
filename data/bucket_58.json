@@ -1050,5 +1050,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23058",
+    "name": "Kazimierz•Barburski",
+    "born": "7 August 1942 in Łódź, Łódzkie (POL)",
+    "measurements": "180 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23358",
+    "name": "Paul•Meister",
+    "born": "20 January 1926 in Basel, Basel-Stadt (SUI)",
+    "measurements": "186 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

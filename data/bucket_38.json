@@ -959,13 +959,43 @@
     "id": "22638",
     "name": "Federico•Cesarano",
     "born": "5 July 1886 in Padova, Padova (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1906  Intercalated Games",
         "noc": "ITA",
         "discipline": "Fencing",
         "event": "Sabre, Individual, Men\n(Intercalated)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23238",
+    "name": "Alexandru•Nilca",
+    "born": "6 November 1945 in Târgu Mureș, Mureș (ROU)",
+    "measurements": "180 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23338",
+    "name": "Willy•Fitting",
+    "born": "25 January 1925 in Lausanne, Vaud (SUI)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

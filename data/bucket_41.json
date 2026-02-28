@@ -1048,5 +1048,41 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23141",
+    "name": "Witold•Woyda",
+    "born": "10 May 1939 in Poznań, Wielkopolskie (POL)",
+    "measurements": "168 cm / 63 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

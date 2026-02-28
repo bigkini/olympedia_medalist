@@ -1038,7 +1038,7 @@
     "id": "22736",
     "name": "Giorgio•Santelli",
     "born": "25 November 1897 in Budapest, Budapest (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1046,6 +1046,28 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23236",
+    "name": "Marin•Mustață",
+    "born": "3 March 1954 in București (Bucharest), București (ROU)",
+    "measurements": "183 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

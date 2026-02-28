@@ -727,7 +727,7 @@
     "id": "22647",
     "name": "Antonio•Conte",
     "born": "11 December 1867 in Minturno, Latina (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1900 Summer Olympics",
@@ -735,6 +735,86 @@
         "discipline": "Fencing",
         "event": "Sabre, Masters, Individual, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "22947",
+    "name": "Arie•de Jong",
+    "born": "21 June 1882 in Pelantungan, Sulawesi Tengah (INA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23147",
+    "name": "Bogusław•Zych",
+    "born": "10 December 1951 in Warszawa (Warsaw), Mazowieckie (POL)",
+    "measurements": "182 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23247",
+    "name": "Ioan•Pop",
+    "born": "24 October 1954 in Cluj-Napoca, Cluj (ROU)",
+    "measurements": "176 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

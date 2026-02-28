@@ -883,5 +883,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23064",
+    "name": "Marek•Dąbrowski",
+    "born": "28 November 1949 in Gliwice, Śląskie (POL)",
+    "measurements": "175 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23364",
+    "name": "Michel•Poffet",
+    "born": "24 August 1957 in La Chaux-de-Fonds, Neuchâtel (SUI)",
+    "measurements": "188 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

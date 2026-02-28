@@ -1144,7 +1144,7 @@
     "id": "22708",
     "name": "Carlo•Pavesi",
     "born": "10 June 1923 in Voghera, Pavia (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -1173,6 +1173,36 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23108",
+    "name": "Janusz•Olech",
+    "born": "4 April 1965 in Warszawa (Warsaw), Mazowieckie (POL)",
+    "measurements": "179 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23208",
+    "name": "Alexandru•Chiculiță",
+    "born": "3 February 1961 in București (Bucharest), București (ROU)",
+    "measurements": "180 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

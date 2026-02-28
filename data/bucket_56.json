@@ -822,7 +822,7 @@
     "id": "22756",
     "name": "Ciro•Verratti",
     "born": "17 August 1907 in Archi, Chieti (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -830,6 +830,51 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23156",
+    "name": "Henrique•da Silveira",
+    "born": "26 January 1901 in São Bento, Angra do Heroísmo, Região Autónoma dos Açores (POR)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "POR",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23256",
+    "name": "Vilmoș•Szabo",
+    "born": "30 December 1964 in Brașov, Brașov (ROU)",
+    "measurements": "181 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23356",
+    "name": "Peter•Loetscher",
+    "born": "4 February 1941 in Basel, Basel-Stadt (SUI)",
+    "measurements": "184 cm / 85 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

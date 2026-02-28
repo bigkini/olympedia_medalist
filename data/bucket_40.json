@@ -1164,5 +1164,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23340",
+    "name": "Daniel•Giger",
+    "born": "13 October 1949 in Bern, Bern (SUI)",
+    "measurements": "186 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

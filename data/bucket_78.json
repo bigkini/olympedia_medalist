@@ -953,5 +953,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22978",
+    "name": "Dirk•Scalongne",
+    "born": "12 December 1879 in Amsterdam, Noord-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

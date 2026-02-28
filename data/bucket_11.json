@@ -898,5 +898,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "23111",
+    "name": "Zygmunt•Pawlas",
+    "born": "28 October 1930 in Jasienica, Śląskie (POL)",
+    "measurements": "179 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

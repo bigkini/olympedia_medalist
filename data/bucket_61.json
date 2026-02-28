@@ -1104,5 +1104,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23061",
+    "name": "Ludomir•Chronowski",
+    "born": "31 October 1959 in Kraków (Cracow), Małopolskie (POL)",
+    "measurements": "186 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23161",
+    "name": "Paulo•d'Eça Leal",
+    "born": "15 July 1901 in Lisboa, Distrito de Lisboa (POR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "POR",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -947,7 +947,7 @@
     "id": "22667",
     "name": "Francesco•Gargano",
     "born": "5 May 1889 in Grammichele, Catania (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -955,6 +955,28 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23067",
+    "name": "Tadeusz•Friedrich",
+    "born": "7 July 1903 in Nowy Sącz, Małopolskie (POL)",
+    "measurements": "179 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

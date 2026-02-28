@@ -845,5 +845,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "23129",
+    "name": "Marius•Strzalka",
+    "born": "27 March 1959 in Wrocław, Dolnośląskie (POL)",
+    "measurements": "186 cm / 84 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

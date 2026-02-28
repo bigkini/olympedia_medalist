@@ -1076,5 +1076,27 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23351",
+    "name": "Christian•Kauter",
+    "born": "6 May 1947 in Bern, Bern (SUI)",
+    "measurements": "186 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -871,11 +871,26 @@
     "id": "22675",
     "name": "Marco Antonio•Mandruzzato",
     "born": "16 May 1923 in Treviso, Treviso (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
         "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23075",
+    "name": "Piotr•Jabłkowski",
+    "born": "10 March 1958 in Opole, Opolskie (POL)",
+    "measurements": "192 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "POL",
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Silver"

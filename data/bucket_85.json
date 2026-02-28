@@ -977,7 +977,7 @@
     "id": "22685",
     "name": "Aldo•Masciotta",
     "born": "14 August 1909 in Casacalenda, Campobasso (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -985,6 +985,28 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23285",
+    "name": "Grigory•Kiriyenko",
+    "born": "29 September 1965 in Novosibirsk, Novosibirsk (RUS)",
+    "measurements": "181 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

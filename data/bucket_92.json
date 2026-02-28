@@ -837,5 +837,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "22992",
+    "name": "Maurits•van Löben Sels",
+    "born": "1 May 1876 in Meppen, Niedersachsen (GER)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "NED",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Intercalated)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -997,11 +997,41 @@
     "id": "22679",
     "name": "Virgilio•Mantegazza",
     "born": "30 January 1889 in Milano, Milano (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "ITA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23079",
+    "name": "Jerzy•Kaczmarek",
+    "born": "8 January 1948 in Lubsko, Lubuskie (POL)",
+    "measurements": "184 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23179",
+    "name": "Frederico•Paredes",
+    "born": "31 January 1889 in Lisboa, Distrito de Lisboa (POR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "POR",
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"

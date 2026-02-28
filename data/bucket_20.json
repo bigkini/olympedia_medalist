@@ -740,7 +740,7 @@
     "id": "22620",
     "name": "Tullio•Bozza",
     "born": "3 February 1891 in Napoli, Napoli (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -748,6 +748,28 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23120",
+    "name": "Władysław•Segda",
+    "born": "25 May 1895 in Przemyśl, Podkarpackie (POL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

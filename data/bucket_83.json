@@ -1080,7 +1080,7 @@
     "id": "22683",
     "name": "Andrea•Marrazzi",
     "born": "2 October 1887 in Livorno, Livorno (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1088,6 +1088,28 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23083",
+    "name": "Piotr•Kiełpikowski",
+    "born": "27 November 1962 in Grudziądz, Kujawsko-Pomorskie (POL)",
+    "measurements": "186 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

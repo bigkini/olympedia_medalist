@@ -942,7 +942,7 @@
     "id": "22172",
     "name": "Robert•Montgomerie",
     "born": "15 February 1880 in South Kensington, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -957,6 +957,21 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23072",
+    "name": "Bogdan•Gonsior",
+    "born": "16 February 1937 in Chorzów, Śląskie (POL)",
+    "measurements": "196 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

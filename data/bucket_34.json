@@ -775,5 +775,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23334",
+    "name": "Jean-Blaise•Evéquoz",
+    "born": "27 November 1953 in Sion, Valais (SUI)",
+    "measurements": "180 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

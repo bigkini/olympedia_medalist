@@ -952,7 +952,7 @@
     "id": "22617",
     "name": "Giorgio•Bocchino",
     "born": "14 July 1913 in Firenze, Firenze (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -967,6 +967,21 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23117",
+    "name": "Adam•Robak",
+    "born": "16 July 1957 in Warszawa (Warsaw), Mazowieckie (POL)",
+    "measurements": "183 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

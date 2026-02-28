@@ -1019,7 +1019,7 @@
     "id": "22605",
     "name": "Guido•Balzarini",
     "born": "21 October 1874 in Castel di Lago, Arrone, Terni (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -1027,6 +1027,21 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23105",
+    "name": "Henryk•Nielaba",
+    "born": "5 September 1933 in Piotrowicach Śląskich, Śląskie (POL)",
+    "measurements": "175 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -1035,7 +1035,7 @@
     "id": "22700",
     "name": "Renzo•Nostini",
     "born": "27 May 1914 in Roma, Roma (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -1063,6 +1063,58 @@
         "noc": "ITA",
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23100",
+    "name": "Aleksander•Małecki",
+    "born": "4 September 1901 in Zarubyntsi, Ternopil (UKR)",
+    "measurements": "175 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23300",
+    "name": "Dmitry•Shevchenko",
+    "born": "13 November 1967 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "194 cm / 96 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23400",
+    "name": "Hans•Drakenberg",
+    "born": "4 February 1901 in Stockholm, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

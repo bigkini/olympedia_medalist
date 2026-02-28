@@ -1061,5 +1061,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23121",
+    "name": "Cezary•Siess",
+    "born": "15 March 1968 in Gdańsk, Pomorskie (POL)",
+    "measurements": "182 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

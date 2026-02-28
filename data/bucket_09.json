@@ -909,5 +909,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23109",
+    "name": "Adam•Papée",
+    "born": "21 July 1895 in Lviv, Lviv (UKR)",
+    "measurements": "172 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23209",
+    "name": "Mihai•Covaliu",
+    "born": "5 November 1977 in Brașov, Brașov (ROU)",
+    "measurements": "181 cm / 73 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

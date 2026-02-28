@@ -1234,5 +1234,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "23122",
+    "name": "Zbigniew•Skrudlik",
+    "born": "12 May 1934 in Jasło, Podkarpackie (POL)",
+    "measurements": "178 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

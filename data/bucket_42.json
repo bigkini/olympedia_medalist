@@ -837,5 +837,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "23142",
+    "name": "Jerzy•Zabielski",
+    "born": "28 March 1897 in Warszawa (Warsaw), Mazowieckie (POL)",
+    "measurements": "170 cm / 62 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

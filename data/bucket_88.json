@@ -840,13 +840,28 @@
     "id": "22488",
     "name": "István•Lichteneckert",
     "born": "17 August 1892 in Subotica, Severna Bačka (SRB)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "HUN",
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "22988",
+    "name": "Maarten•van Dulm",
+    "born": "4 August 1879 in Arnhem, Gelderland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "NED",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

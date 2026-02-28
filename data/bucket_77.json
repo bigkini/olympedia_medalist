@@ -903,7 +903,7 @@
     "id": "22677",
     "name": "Edoardo•Mangiarotti",
     "born": "7 April 1919 in Renate, Monza e Brianza (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -995,6 +995,28 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23377",
+    "name": "François•Suchanecki",
+    "born": "23 December 1949 in Basel, Basel-Stadt (SUI)",
+    "measurements": "186 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

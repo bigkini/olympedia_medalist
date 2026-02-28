@@ -1074,5 +1074,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23319",
+    "name": "Paul•Barth",
+    "born": "9 May 1921",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

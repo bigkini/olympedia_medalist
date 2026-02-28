@@ -962,5 +962,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "23302",
+    "name": "Aleksandr•Shirshov",
+    "born": "25 August 1972 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23402",
+    "name": "Rolf•Edling",
+    "born": "30 November 1943 in Mumbai, Maharashtra (IND)",
+    "measurements": "196 cm / 91 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

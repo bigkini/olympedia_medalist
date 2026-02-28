@@ -1099,13 +1099,57 @@
     "id": "22713",
     "name": "Alfredo•Pezzana",
     "born": "31 March 1893 in Chivasso, Torino (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "ITA",
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23113",
+    "name": "Andrzej•Piątkowski",
+    "born": "22 October 1934 in Warszawa (Warsaw), Mazowieckie (POL)",
+    "measurements": "169 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23213",
+    "name": "Ion•Drîmbă",
+    "born": "18 March 1942 in Timișoara, Timiș (ROU)",
+    "measurements": "172 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
         "medal": "Gold"
       }
     ]

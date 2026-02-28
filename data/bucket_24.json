@@ -885,7 +885,7 @@
     "id": "22724",
     "name": "Mauro•Racca",
     "born": "3 April 1912 in Torino, Torino (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -900,6 +900,43 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23124",
+    "name": "Ryszard•Sobczak",
+    "born": "2 November 1967 in Zgorzelec, Dolnośląskie (POL)",
+    "measurements": "184 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23224",
+    "name": "Dan•Irimiciuc",
+    "born": "9 May 1949 in Iași, Iași (ROU)",
+    "measurements": "187 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

@@ -869,5 +869,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "23096",
+    "name": "Andrzej•Lis",
+    "born": "16 December 1959 in Wrocław, Dolnośląskie (POL)",
+    "measurements": "185 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

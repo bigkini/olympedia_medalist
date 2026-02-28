@@ -1181,7 +1181,7 @@
     "id": "22718",
     "name": "Vincenzo•Pinton",
     "born": "14 March 1914 in Vicenza, Vicenza (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -1209,6 +1209,21 @@
         "noc": "ITA",
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23118",
+    "name": "Jan•Różycki",
+    "born": "10 May 1939 in Warszawa (Warsaw), Mazowieckie (POL)",
+    "measurements": "175 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

@@ -949,7 +949,7 @@
     "id": "22606",
     "name": "Giulio•Basletta",
     "born": "5 May 1890 in Vigevano, Pavia (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -964,6 +964,28 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23306",
+    "name": "Valery•Zakharevich",
+    "born": "14 September 1967 in Bekobod, Toshkent Viloyati (UZB)",
+    "measurements": "200 cm / 100 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

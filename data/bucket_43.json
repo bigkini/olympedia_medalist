@@ -1014,5 +1014,34 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23143",
+    "name": "Wojciech•Zabłocki",
+    "born": "6 December 1930 in Warszawa (Warsaw), Mazowieckie (POL)",
+    "measurements": "166 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "POL",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

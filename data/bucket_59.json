@@ -961,5 +961,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23159",
+    "name": "Mário•de Noronha",
+    "born": "15 January 1885 in Lapa, Lisboa, Distrito de Lisboa (POR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "POR",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]
