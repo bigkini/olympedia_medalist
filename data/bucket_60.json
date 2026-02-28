@@ -1042,7 +1042,7 @@
     "id": "23160",
     "name": "Jorge•Paiva",
     "born": "13 May 1887 in Almada, Distrito de Setúbal (POR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
@@ -1050,6 +1050,36 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23960",
+    "name": "Héctor•Pineda",
+    "born": "13 July 1975 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "169 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24160",
+    "name": "Milton•da Cruz",
+    "born": "1 August 1957 in Santos, São Paulo (BRA)",
+    "measurements": "178 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

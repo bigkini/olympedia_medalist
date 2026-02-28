@@ -1333,5 +1333,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "24087",
+    "name": "Désiré•Bastin",
+    "born": "4 March 1900 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

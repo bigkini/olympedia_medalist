@@ -934,5 +934,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24057",
+    "name": "Josef•Kitzmüller",
+    "born": "21 June 1912",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

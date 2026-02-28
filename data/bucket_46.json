@@ -1041,5 +1041,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23946",
+    "name": "Hugo•Morales",
+    "born": "30 July 1974 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "174 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

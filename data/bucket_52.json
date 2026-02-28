@@ -973,5 +973,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23952",
+    "name": "Ariel•Ortega",
+    "born": "4 March 1974 in Libertador General San Martín, Jujuy (ARG)",
+    "measurements": "170 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24152",
+    "name": "•Edmar",
+    "born": "20 January 1960 in Araxá, Minas Gerais (BRA)",
+    "measurements": "175 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

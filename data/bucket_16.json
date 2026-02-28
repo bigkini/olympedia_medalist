@@ -992,5 +992,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "24116",
+    "name": "Alphonse•Renier",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -998,5 +998,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23955",
+    "name": "Feliciano•Perducca",
+    "born": "9 June 1901 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

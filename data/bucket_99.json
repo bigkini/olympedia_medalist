@@ -1052,7 +1052,7 @@
     "id": "23699",
     "name": "Dernell•Every",
     "born": "18 August 1906 in Athens, New York (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -1060,6 +1060,21 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24099",
+    "name": "André•Fierens",
+    "born": "8 February 1898 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

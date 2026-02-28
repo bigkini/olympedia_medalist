@@ -1080,5 +1080,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24158",
+    "name": "•Davi",
+    "born": "19 November 1963 in Rio de Janeiro, Rio de Janeiro (BRA)",
+    "measurements": "178 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

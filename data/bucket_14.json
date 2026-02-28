@@ -1029,7 +1029,7 @@
     "id": "23714",
     "name": "William•Grebe",
     "born": "9 March 1869 in Chicago, Illinois (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -1043,6 +1043,36 @@
         "noc": "USA",
         "discipline": "Fencing",
         "event": "Single Sticks, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23914",
+    "name": "Alfredo•Carricaberry",
+    "born": "8 October 1900 in Colón, Entre Ríos (ARG)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24114",
+    "name": "Gustave•Pelgrims",
+    "born": "14 June 1878 in Schaerbeek, Région de Bruxelles-Capitale (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

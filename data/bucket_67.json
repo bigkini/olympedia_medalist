@@ -979,5 +979,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23967",
+    "name": "Diego•Simeone",
+    "born": "28 April 1970 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "178 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24067",
+    "name": "Franz•Mandl",
+    "born": "4 August 1916 in Wien (Vienna), Wien (AUT)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -1052,5 +1052,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24179",
+    "name": "•Romário",
+    "born": "29 January 1966 in Rio de Janeiro, Rio de Janeiro (BRA)",
+    "measurements": "169 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -928,5 +928,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24111",
+    "name": "Joseph•Musch",
+    "born": "12 October 1893 in Sint-Gillis-Waas, Oost-Vlaanderen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

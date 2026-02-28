@@ -1168,5 +1168,78 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23813",
+    "name": "Albertson•Van Zo Post",
+    "born": "28 July 1866 in Cincinnati, Ohio (USA)",
+    "measurements": "183 cm",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Single Sticks, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "23913",
+    "name": "Saúl•Calandra",
+    "born": "22 October 1904 in La Plata, Provincia de Buenos Aires (ARG)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24113",
+    "name": "Fernand•Nisot",
+    "born": "11 April 1895 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -1073,5 +1073,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24105",
+    "name": "Rik•Larnoe",
+    "born": "18 May 1897 in Hoboken, Antwerpen (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24205",
+    "name": "Mauro•Galvão",
+    "born": "19 December 1961 in Porto Alegre, Rio Grande do Sul (BRA)",
+    "measurements": "180 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

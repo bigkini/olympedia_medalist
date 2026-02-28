@@ -882,13 +882,43 @@
     "id": "23556",
     "name": "Leonid•Bogdanov",
     "born": "23 June 1927 in Moskva (Moscow), Moskva (RUS)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1956 Summer Olympics",
         "noc": "URS",
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24056",
+    "name": "Martin•Kargl",
+    "born": "30 December 1912 in Oberedlitz, Thaya, Niederösterreich (AUT)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24156",
+    "name": "Flávio•Conceição",
+    "born": "12 June 1974 in Santa Maria da Serra, São Paulo (BRA)",
+    "measurements": "177 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

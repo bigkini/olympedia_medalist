@@ -1084,5 +1084,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "24041",
+    "name": "Franz•Fuchsberger",
+    "born": "28 September 1910 in Wolfsbach, Niederösterreich (AUT)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

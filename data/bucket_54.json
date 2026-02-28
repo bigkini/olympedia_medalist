@@ -957,5 +957,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23954",
+    "name": "Pablo•Paz",
+    "born": "27 January 1973 in Bahía Blanca, Provincia de Buenos Aires (ARG)",
+    "measurements": "181 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24054",
+    "name": "Karl•Kainberger",
+    "born": "1 December 1913 in Salzburg, Salzburg (AUT)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

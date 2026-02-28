@@ -974,7 +974,7 @@
     "id": "22739",
     "name": "Giulio•Sarrocchi",
     "born": "24 May 1887 in Roma, Roma (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -988,6 +988,28 @@
         "noc": "ITA",
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24139",
+    "name": "•Tânia Maranhão",
+    "born": "3 October 1974 in São Luís do Maranhão, Maranhão (BRA)",
+    "measurements": "166 cm / 55 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
         "medal": "Silver"
       }
     ]

@@ -792,7 +792,7 @@
     "id": "23620",
     "name": "Igor•Valetov",
     "born": "1 February 1946 in Toshkent, Toshkent Shahri (UZB)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1972 Summer Olympics",
@@ -800,6 +800,36 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23920",
+    "name": "Hernán•Crespo",
+    "born": "5 July 1975 in Florida, Vicente López Partido, Provincia de Buenos Aires (ARG)",
+    "measurements": "184 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24120",
+    "name": "Armand•Swartenbroeks",
+    "born": "30 June 1892 in Laeken, Région de Bruxelles-Capitale (BEL)",
+    "measurements": "182 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

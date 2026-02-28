@@ -982,5 +982,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24062",
+    "name": "Anton•Krenn",
+    "born": "18 April 1911 in Wien (Vienna), Wien (AUT)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

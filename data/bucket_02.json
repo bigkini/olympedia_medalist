@@ -1033,7 +1033,7 @@
     "id": "23702",
     "name": "Arthur•Fox",
     "born": "9 September 1878 in Cowes, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
@@ -1041,6 +1041,51 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23802",
+    "name": "Richard•Steere",
+    "born": "5 March 1909 in Kansas City, Missouri (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23902",
+    "name": "Christian•Bassedas",
+    "born": "16 February 1973 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "176 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24102",
+    "name": "Georges•Hebdin",
+    "born": "19 April 1889 in Schaerbeek, Région de Bruxelles-Capitale (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

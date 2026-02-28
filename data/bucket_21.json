@@ -1110,13 +1110,28 @@
     "id": "23721",
     "name": "Francis•Honeycutt",
     "born": "26 May 1883 in Alcatraz Island, San Francisco, California (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "USA",
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24121",
+    "name": "Eric•Thornton",
+    "born": "5 July 1882 in Worthing, England (GBR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

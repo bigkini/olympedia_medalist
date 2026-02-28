@@ -852,5 +852,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24066",
+    "name": "Adolf•Laudon",
+    "born": "13 December 1912 in Wien (Vienna), Wien (AUT)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

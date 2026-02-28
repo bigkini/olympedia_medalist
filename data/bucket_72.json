@@ -989,5 +989,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23972",
+    "name": "Javier•Zanetti",
+    "born": "10 August 1973 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "178 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

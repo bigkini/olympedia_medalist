@@ -1034,5 +1034,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24077",
+    "name": "Klement•Steinmetz",
+    "born": "23 March 1915 in Kindberg, Steiermark (AUT)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24177",
+    "name": "•Careca",
+    "born": "27 September 1968 in Passos, Minas Gerais (BRA)",
+    "measurements": "170 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -852,5 +852,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23942",
+    "name": "Ángel Segundo•Médici",
+    "born": "20 December 1897 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

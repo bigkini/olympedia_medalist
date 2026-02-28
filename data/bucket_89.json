@@ -1124,5 +1124,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24089",
+    "name": "Mathieu•Bragard",
+    "born": "10 March 1895 in Hodimont, Verviers, Liège (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

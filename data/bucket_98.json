@@ -774,5 +774,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "24198",
+    "name": "•Rivaldo",
+    "born": "19 April 1972 in Paulista, Pernambuco (BRA)",
+    "measurements": "186 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

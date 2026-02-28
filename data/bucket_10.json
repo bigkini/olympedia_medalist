@@ -1191,5 +1191,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24110",
+    "name": "Ernest•Moreau de Melen",
+    "born": "20 February 1879 in Herve, Liège (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

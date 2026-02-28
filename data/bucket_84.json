@@ -1064,5 +1064,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24084",
+    "name": "Walter•Werginz",
+    "born": "18 February 1913 in Klagenfurt, Kärnten (AUT)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24184",
+    "name": "•João Paulo",
+    "born": "9 July 1964 in Campinas, São Paulo (BRA)",
+    "measurements": "170 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

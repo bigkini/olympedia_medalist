@@ -1043,5 +1043,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23943",
+    "name": "Luis Felipe•Monti",
+    "born": "15 May 1901 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "167 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24143",
+    "name": "•Aloísio",
+    "born": "16 August 1963 in Pelotas, Rio Grande do Sul (BRA)",
+    "measurements": "182 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

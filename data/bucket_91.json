@@ -1077,5 +1077,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "24191",
+    "name": "•André Luiz",
+    "born": "21 October 1959 in Porto Alegre, Rio Grande do Sul (BRA)",
+    "measurements": "180 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -956,5 +956,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "23904",
+    "name": "Ludovico•Bidoglio",
+    "born": "5 February 1900 in Palermo, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24104",
+    "name": "Raul•Kelecom",
+    "born": null,
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

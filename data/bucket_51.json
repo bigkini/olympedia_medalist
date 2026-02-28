@@ -1113,5 +1113,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23951",
+    "name": "Raimundo•Orsi",
+    "born": "2 December 1901 in Avellaneda, Provincia de Buenos Aires (ARG)",
+    "measurements": "169 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

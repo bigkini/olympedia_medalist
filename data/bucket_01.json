@@ -884,7 +884,7 @@
     "id": "23701",
     "name": "James•Flynn",
     "born": "8 August 1907 in Paterson, New Jersey (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -892,6 +892,43 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23901",
+    "name": "Roberto•Ayala",
+    "born": "14 April 1973 in Paraná, Entre Ríos (ARG)",
+    "measurements": "177 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24101",
+    "name": "Émile•Hanse",
+    "born": "10 August 1892 in Namur, Namur (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

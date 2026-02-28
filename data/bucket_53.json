@@ -1048,5 +1048,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "23953",
+    "name": "Fernando•Paternoster",
+    "born": "24 May 1903 in Pehuajó, Provincia de Buenos Aires (ARG)",
+    "measurements": "179 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24053",
+    "name": "Edi•Kainberger",
+    "born": "20 November 1911 in Salzburg, Salzburg (AUT)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24153",
+    "name": "•Pinga",
+    "born": "23 April 1965 in Porto Alegre, Rio Grande do Sul (BRA)",
+    "measurements": "182 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -927,5 +927,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "24096",
+    "name": "Marius•Delbecque",
+    "born": "30 March 1880 in Avelghem, West-Vlaanderen (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24196",
+    "name": "•Marcelinho Paulista",
+    "born": "13 September 1973 in Cotia, São Paulo (BRA)",
+    "measurements": "175 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

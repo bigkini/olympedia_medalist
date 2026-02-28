@@ -1079,13 +1079,43 @@
     "id": "23319",
     "name": "Paul•Barth",
     "born": "9 May 1921",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
         "noc": "SUI",
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23819",
+    "name": "Peter•Westbrook",
+    "born": "16 April 1952 in St. Louis, Missouri (USA)",
+    "measurements": "175 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24119",
+    "name": "Hilaire•Spanoghe",
+    "born": "30 October 1879 in Grembergen, Oost-Vlaanderen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

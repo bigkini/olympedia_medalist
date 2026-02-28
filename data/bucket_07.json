@@ -987,5 +987,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23807",
+    "name": "Charles•Tatham",
+    "born": "3 September 1854 in New York, New York (USA)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24107",
+    "name": "Marcel•Leboutte",
+    "born": "11 May 1880 in Spa, Liège (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

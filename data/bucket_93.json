@@ -940,7 +940,7 @@
     "id": "23793",
     "name": "Robert•Sears",
     "born": "30 November 1884 in Portland, Oregon (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -948,6 +948,36 @@
         "discipline": "Fencing",
         "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24093",
+    "name": "Robert•Coppée",
+    "born": "23 April 1895 in Haine-Saint-Pierre, Hainaut (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24193",
+    "name": "•Neto",
+    "born": "9 September 1966 in Santo Antônio de Posse, São Paulo (BRA)",
+    "measurements": "173 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

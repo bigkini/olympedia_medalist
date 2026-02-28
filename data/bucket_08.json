@@ -1242,5 +1242,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23908",
+    "name": "Ángel•Bossio",
+    "born": "5 May 1905 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "176 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24108",
+    "name": "Lucien•Londot",
+    "born": "23 April 1874 in Liège, Liège (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

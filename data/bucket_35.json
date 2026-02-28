@@ -1049,5 +1049,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "23935",
+    "name": "Claudio•López",
+    "born": "17 July 1974 in Río Tercero, Córdoba (ARG)",
+    "measurements": "178 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -703,7 +703,7 @@
     "id": "22950",
     "name": "Jetze•Doorman",
     "born": "2 July 1881 in Balk, Friesland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
@@ -732,6 +732,36 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23950",
+    "name": "Rodolfo•Orlandini",
+    "born": "1 January 1905 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24050",
+    "name": "Max•Hofmeister",
+    "born": "22 March 1913 in Leoben, Steiermark (AUT)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

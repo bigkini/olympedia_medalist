@@ -1232,7 +1232,7 @@
     "id": "23718",
     "name": "Gustave•Heiss",
     "born": "4 November 1904 in Meridian, Mississippi (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -1240,6 +1240,21 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "23918",
+    "name": "Roberto•Cherro",
+    "born": "23 February 1907 in Barracas, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": "170 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

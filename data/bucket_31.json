@@ -778,5 +778,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23931",
+    "name": "Enrique•Gainzarain",
+    "born": "7 December 1904",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

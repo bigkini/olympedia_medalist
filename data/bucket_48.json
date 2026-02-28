@@ -788,7 +788,7 @@
     "id": "22948",
     "name": "Louis•Delaunoij",
     "born": "3 March 1879 in Amsterdam, Noord-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -796,6 +796,21 @@
         "discipline": "Fencing",
         "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24148",
+    "name": "•Andrade",
+    "born": "21 April 1957 in Juiz de Fora, Minas Gerais (BRA)",
+    "measurements": "170 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

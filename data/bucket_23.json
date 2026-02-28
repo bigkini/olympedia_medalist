@@ -978,5 +978,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24123",
+    "name": "Louis•Van Hege",
+    "born": "8 May 1889 in Uccle, Région de Bruxelles-Capitale (BEL)",
+    "measurements": "168 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -1160,5 +1160,50 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23794",
+    "name": "Curtis•Shears",
+    "born": "4 July 1901 in Omaha, Nebraska (USA)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1932 Summer Olympics",
+        "noc": "USA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24094",
+    "name": "Jean•De Bie",
+    "born": "9 May 1892 in Molenbeek-Saint-Jean, Région de Bruxelles-Capitale (BEL)",
+    "measurements": "184 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "24194",
+    "name": "•Zé Maria",
+    "born": "25 July 1973 in Oeiras, Piauí (BRA)",
+    "measurements": "175 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

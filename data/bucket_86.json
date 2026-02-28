@@ -847,7 +847,7 @@
     "id": "23786",
     "name": "Frank•Righeimer",
     "born": "28 February 1909 in Chicago, Illinois (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
@@ -862,6 +862,21 @@
         "discipline": "Fencing",
         "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "24086",
+    "name": "Félix•Balyu",
+    "born": "5 August 1891 in Heist-aan-Zee, Knokke-Heist, West-Vlaanderen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

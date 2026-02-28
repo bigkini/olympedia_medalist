@@ -1041,5 +1041,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24159",
+    "name": "André•Cruz",
+    "born": "20 September 1968 in Piracicaba, São Paulo (BRA)",
+    "measurements": "172 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

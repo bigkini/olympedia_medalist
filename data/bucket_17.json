@@ -1014,5 +1014,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "23917",
+    "name": "José Antonio•Chamot",
+    "born": "17 May 1969 in Concepción del Uruguay, Entre Ríos (ARG)",
+    "measurements": "185 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

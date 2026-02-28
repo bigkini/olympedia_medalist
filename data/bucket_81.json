@@ -1153,5 +1153,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "24081",
+    "name": "Karl•Wallmüller",
+    "born": "22 October 1913 in Linz, Oberösterreich (AUT)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1936 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

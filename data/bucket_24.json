@@ -954,5 +954,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "23924",
+    "name": "Octavio•Díaz",
+    "born": "7 October 1900",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24124",
+    "name": "Henk•van Heuckelum",
+    "born": "6 May 1879 in Den Haag (The Hague), Zuid-Holland (NED)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

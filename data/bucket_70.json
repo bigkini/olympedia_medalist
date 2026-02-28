@@ -837,13 +837,28 @@
     "id": "23770",
     "name": "William Scott•O'Connor",
     "born": "23 May 1864 in Pittsburgh, Pennsylvania (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1904 Summer Olympics",
         "noc": "USA",
         "discipline": "Fencing",
         "event": "Single Sticks, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "23970",
+    "name": "Domingo•Tarasconi",
+    "born": "20 December 1903 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

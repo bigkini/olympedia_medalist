@@ -925,5 +925,42 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "23932",
+    "name": "Marcelo•Gallardo",
+    "born": "18 January 1976 in Merlo, Provincia de Buenos Aires (ARG)",
+    "measurements": "169 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "24132",
+    "name": "•Pretinha",
+    "born": "19 May 1975 in Rio de Janeiro, Rio de Janeiro (BRA)",
+    "measurements": "157 cm / 53 kg",
+    "medals": [
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "BRA",
+        "discipline": "Football (Football)",
+        "event": "Football, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]
