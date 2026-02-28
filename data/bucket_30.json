@@ -790,5 +790,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21330",
+    "name": "Vlastimil•Lada-Sázavský",
+    "born": "31 March 1886 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "BOH",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

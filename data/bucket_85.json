@@ -840,5 +840,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21285",
+    "name": "Henri•Paternóster",
+    "born": "9 January 1908 in Etterbeek, Région de Bruxelles-Capitale (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21585",
+    "name": "Ivan•Osiier",
+    "born": "16 December 1888 in København (Copenhagen), Hovedstaden (DEN)",
+    "measurements": "170 cm",
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "DEN",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

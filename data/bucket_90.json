@@ -853,13 +853,43 @@
     "id": "20390",
     "name": "Amos•Deacon",
     "born": "28 May 1904 in Philadelphia, Pennsylvania (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
         "noc": "USA",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21190",
+    "name": "Milan•Neralić",
+    "born": "26 February 1875 in Slunj, Karlovačka županija (CRO)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Fencing",
+        "event": "Sabre, Masters, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21690",
+    "name": "Risto•Hurme",
+    "born": "16 May 1950 in Turku, Varsinais-Suomi (FIN)",
+    "measurements": "180 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Fencing",
+        "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

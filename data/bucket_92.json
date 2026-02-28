@@ -768,13 +768,28 @@
     "id": "20792",
     "name": "Claudia•Pasini",
     "born": "2 March 1939 in Trieste, Trieste (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1960 Summer Olympics",
         "noc": "ITA",
         "discipline": "Fencing",
         "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21292",
+    "name": "François•Rom",
+    "born": "8 April 1882 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

@@ -750,5 +750,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21329",
+    "name": "Otakar•Lada",
+    "born": "22 May 1883 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "BOH",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

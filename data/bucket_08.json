@@ -1013,5 +1013,64 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20908",
+    "name": "Reka•Lazăr-Szabo",
+    "born": "11 March 1967 in Brașov, Brașov (ROU)",
+    "measurements": "168 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21208",
+    "name": "Richard•Verderber",
+    "born": "23 January 1884 in Kočevje, Kočevje (SLO)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21308",
+    "name": "André•Van De Werve De Vorsselaer",
+    "born": "10 April 1908 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

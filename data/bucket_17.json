@@ -795,5 +795,85 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20917",
+    "name": "Maria•Vicol",
+    "born": "17 October 1935 in București (Bucharest), București (ROU)",
+    "measurements": "165 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21217",
+    "name": "Henri•Anspach",
+    "born": "10 July 1882 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "21517",
+    "name": "Ramón•Fonst",
+    "born": "31 August 1883 in La Habana (Havana), Ciudad de La Habana (CUB)",
+    "measurements": "183 cm",
+    "medals": [
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1900 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Fencing",
+        "event": "Épée, Masters and Amateurs, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

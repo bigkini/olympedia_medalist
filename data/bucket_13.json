@@ -1003,7 +1003,7 @@
     "id": "20013",
     "name": "Latif-ur•Rehman",
     "born": "1 January 1929 in Indore, Madhya Pradesh (IND)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1948 Summer Olympics",
@@ -1017,6 +1017,21 @@
         "noc": "PAK",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21513",
+    "name": "Tulio•Díaz",
+    "born": "1 June 1960",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

@@ -751,5 +751,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21070",
+    "name": "Luis•Lucchetti",
+    "born": "18 November 1902 in La Plata, Provincia de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

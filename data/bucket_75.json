@@ -747,7 +747,7 @@
     "id": "20075",
     "name": "Wasim•Feroz",
     "born": "10 October 1966",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -755,6 +755,28 @@
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20975",
+    "name": "Valentina•Sidorova",
+    "born": "4 May 1954 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": "170 cm / 67 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

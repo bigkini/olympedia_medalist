@@ -1060,5 +1060,48 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21218",
+    "name": "Paul•Anspach",
+    "born": "1 April 1882 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

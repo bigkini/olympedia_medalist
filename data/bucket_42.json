@@ -711,5 +711,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21242",
+    "name": "Albert•De Roocker",
+    "born": "25 January 1904 in Dendermonde, Oost-Vlaanderen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

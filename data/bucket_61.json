@@ -1067,5 +1067,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20961",
+    "name": "Nailya•Gilyazova",
+    "born": "2 January 1953 in Kazan, Respublika Tatarstan (RUS)",
+    "measurements": "161 cm / 58 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

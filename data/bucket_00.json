@@ -956,5 +956,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20900",
+    "name": "Ana•Derșidan-Ene-Pascu",
+    "born": "22 September 1944 in București (Bucharest), București (ROU)",
+    "measurements": "163 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

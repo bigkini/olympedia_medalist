@@ -836,5 +836,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20972",
+    "name": "Valentina•Prudskova",
+    "born": "27 December 1938 in Yershov, Saratov (RUS)",
+    "measurements": "159 cm / 51 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

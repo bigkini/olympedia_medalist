@@ -830,5 +830,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "21302",
+    "name": "Léon•Tom",
+    "born": "25 October 1888 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": "180 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21702",
+    "name": "Veikko•Salminen",
+    "born": "12 August 1945 in Helsinki, Uusimaa (FIN)",
+    "measurements": "183 cm / 69-70 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Modern Pentathlon",
+        "event": "Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

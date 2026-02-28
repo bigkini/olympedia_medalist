@@ -1118,5 +1118,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20903",
+    "name": "Claudia•Grigorescu",
+    "born": "6 January 1968 in București (Bucharest), București (ROU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

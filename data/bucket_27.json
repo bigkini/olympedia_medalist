@@ -909,5 +909,56 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21227",
+    "name": "Victor•Boin",
+    "born": "28 February 1886 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Swimming (Aquatics)",
+        "event": "Water Polo, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Water Polo, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21327",
+    "name": "Vilém•Goppold z Lobsdorfu, Sr.",
+    "born": "25 May 1869 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "BOH",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "BOH",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

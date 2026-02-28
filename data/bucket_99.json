@@ -915,5 +915,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20899",
+    "name": "Aurora•Dan",
+    "born": "5 October 1955 in București (Bucharest), București (ROU)",
+    "measurements": "165 cm / 52 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

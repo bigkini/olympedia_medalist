@@ -896,5 +896,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "20915",
+    "name": "Roxana•Scarlat",
+    "born": "3 January 1975 in București (Bucharest), București (ROU)",
+    "measurements": "170 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21715",
+    "name": "Claude•Arabo",
+    "born": "3 October 1937 in Nice, Alpes-Maritimes (FRA)",
+    "measurements": "178 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

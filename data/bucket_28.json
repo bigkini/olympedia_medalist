@@ -783,13 +783,50 @@
     "id": "20028",
     "name": "Akhlaq•Ahmed",
     "born": "4 December 1971",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
         "noc": "PAK",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "20928",
+    "name": "Gianna•Hablützel-Bürki",
+    "born": "22 December 1969 in Basel, Basel-Stadt (SUI)",
+    "measurements": "162 cm / 50 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "SUI",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21228",
+    "name": "Fernand•Bosmans",
+    "born": "29 June 1883 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

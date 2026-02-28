@@ -793,5 +793,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21232",
+    "name": "Raymond•Bru",
+    "born": "30 March 1906 in Bruxelles (Brussels), Région de Bruxelles-Capitale (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -814,5 +814,27 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "21509",
+    "name": "Manuel•Díaz",
+    "born": "8 April 1874 in La Habana (Havana), Ciudad de La Habana (CUB)",
+    "measurements": "178 cm",
+    "medals": [
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1904 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Fencing",
+        "event": "Sabre, Individual, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

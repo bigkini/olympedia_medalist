@@ -894,5 +894,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21255",
+    "name": "Ferdinand•Feyerick",
+    "born": "27 January 1865 in Gent (Ghent), Oost-Vlaanderen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

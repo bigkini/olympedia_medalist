@@ -854,5 +854,49 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21225",
+    "name": "Marcel•Berré",
+    "born": "12 November 1882 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21525",
+    "name": "Elvis•Gregory",
+    "born": "18 May 1971 in La Habana (Havana), Ciudad de La Habana (CUB)",
+    "measurements": "182 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1996 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

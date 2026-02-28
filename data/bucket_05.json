@@ -896,5 +896,42 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20905",
+    "name": "Ileana•Gyulai-Drîmbă-Jenei",
+    "born": "12 June 1946 in Cluj-Napoca, Cluj (ROU)",
+    "measurements": "164 cm / 61 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21205",
+    "name": "Reinhold•Trampler",
+    "born": "26 July 1877 in Wien (Vienna), Wien (AUT)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -749,5 +749,78 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20969",
+    "name": "Tatyana•Petrenko-Samusenko",
+    "born": "2 November 1938 in Ostroshitsy, Minsk Voblast (BLR)",
+    "measurements": "161 cm / 57 kg",
+    "medals": [
+      {
+        "game": "1960 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "21069",
+    "name": "Héctor•Lucchetti",
+    "born": "9 March 1905 in La Plata, Provincia de Buenos Aires (ARG)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21169",
+    "name": "Otto•Herschmann",
+    "born": "4 January 1877 in Wien (Vienna), Wien (AUT)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1896 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Swimming (Aquatics)",
+        "event": "100 metres Freestyle, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

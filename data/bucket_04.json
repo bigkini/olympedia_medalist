@@ -824,5 +824,57 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20904",
+    "name": "Elisabeta•Guzganu-Tufan",
+    "born": "8 August 1964 in București (Bucharest), București (ROU)",
+    "measurements": "160 cm / 54 kg",
+    "medals": [
+      {
+        "game": "1984 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21204",
+    "name": "Andreas•Suttner",
+    "born": "24 September 1876 in Sankt Margareten im Rosental, Kärnten (AUT)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21304",
+    "name": "Paul•Valcke",
+    "born": "11 January 1914 in Oostende (Ostend), West-Vlaanderen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -809,5 +809,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21164",
+    "name": "Friedrich•Golling",
+    "born": "11 November 1883 in Olomouc, Olomoucký kraj (CZE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

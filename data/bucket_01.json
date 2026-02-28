@@ -754,5 +754,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20901",
+    "name": "Roxana•Dumitrescu",
+    "born": "27 June 1967 in Urziceni, Ialomița (ROU)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

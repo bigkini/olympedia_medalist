@@ -828,5 +828,63 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20912",
+    "name": "Olga•Orban-Szabo",
+    "born": "9 October 1938 in Cluj-Napoca, Cluj (ROU)",
+    "measurements": "161 cm / 55 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "ROU",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21712",
+    "name": "Gaston•Amson",
+    "born": "17 November 1883 in Paris Xe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

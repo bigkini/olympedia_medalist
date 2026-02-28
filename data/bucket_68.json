@@ -754,13 +754,85 @@
     "id": "20668",
     "name": "Gladys•Davis",
     "born": "29 July 1893 in Chiswick, England (GBR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "GBR",
         "discipline": "Fencing",
         "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "20968",
+    "name": "Yelena•Novikova-Belova",
+    "born": "28 July 1947 in Sovetskaya Gavan, Khabarovsk Kray (RUS)",
+    "measurements": "176 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1968 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21468",
+    "name": "Wang•Haibin",
+    "born": "15 December 1973 in Nanjing, Jiangsu (CHN)",
+    "measurements": "185 cm / 83 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
         "medal": "Silver"
       }
     ]

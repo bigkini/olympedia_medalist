@@ -869,5 +869,34 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "21277",
+    "name": "Philippe, Vicomte•Le Hardy de Beaulieu",
+    "born": "27 October 1887 in Wavre, Brabant Wallon (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Intercalated)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

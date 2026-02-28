@@ -918,5 +918,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21519",
+    "name": "Hermenegildo•García",
+    "born": "11 September 1968 in Santiago de Cuba, Santiago de Cuba (CUB)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "CUB",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

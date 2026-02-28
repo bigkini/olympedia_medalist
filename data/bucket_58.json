@@ -926,5 +926,64 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "21158",
+    "name": "Rudolf•Cvetko",
+    "born": "17 November 1880 in Senožeče, Divača (SLO)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "AUT",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21258",
+    "name": "Ernest•Gevers",
+    "born": "28 August 1891 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": "183 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "21458",
+    "name": "Dong•Zhaozhi",
+    "born": "16 November 1973 in Guangzhou (Canton), Guangdong (CHN)",
+    "measurements": "178 cm / 75 kg",
+    "medals": [
+      {
+        "game": "2000 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "2004 Summer Olympics",
+        "noc": "CHN",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

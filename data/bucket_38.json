@@ -894,5 +894,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21038",
+    "name": "Raúl•Anganuzzi",
+    "born": "20 June 1906 in Buenos Aires, Ciudad Autónoma de Buenos Aires (ARG)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1928 Summer Olympics",
+        "noc": "ARG",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

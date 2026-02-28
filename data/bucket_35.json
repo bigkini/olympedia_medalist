@@ -960,5 +960,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "21235",
+    "name": "Charles•Crahay",
+    "born": "9 November 1889 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

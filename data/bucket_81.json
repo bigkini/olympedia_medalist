@@ -1057,5 +1057,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "20981",
+    "name": "Irina•Ushakova",
+    "born": "29 September 1954 in Homel, Homel (BLR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

@@ -956,5 +956,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20974",
+    "name": "Tatyana•Sadovskaya",
+    "born": "3 April 1966 in Samara, Samara (RUS)",
+    "measurements": "169 cm / 64 kg",
+    "medals": [
+      {
+        "game": "1992 Summer Olympics",
+        "noc": "EUN",
+        "discipline": "Fencing",
+        "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

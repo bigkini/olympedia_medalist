@@ -874,5 +874,42 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "21316",
+    "name": "Cyrille•Verbrugge",
+    "born": "9 November 1866 in Mouscron, Hainaut (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Masters, Individual, Men\n(Intercalated)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1906  Intercalated Games",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Sabre, Masters, Individual, Men\n(Intercalated)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "21716",
+    "name": "Édouard•Artigas",
+    "born": "26 February 1906 in Paris Xe, Paris (FRA)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "FRA",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

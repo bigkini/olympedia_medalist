@@ -1017,5 +1017,27 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21240",
+    "name": "Joseph•De Craecker",
+    "born": "19 January 1891 in Antwerpen (Antwerp), Antwerpen (BEL)",
+    "measurements": "180 cm",
+    "medals": [
+      {
+        "game": "1920 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      },
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

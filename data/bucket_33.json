@@ -871,13 +871,28 @@
     "id": "20733",
     "name": "Erna•Bogen",
     "born": "31 December 1906 in Jarosław, Podkarpackie (POL)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
         "noc": "HUN",
         "discipline": "Fencing",
         "event": "Foil, Individual, Women\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21333",
+    "name": "Bedřich•Schejbal",
+    "born": "12 August 1874 in Karlín, Hlavní město Praha (CZE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1908 Summer Olympics",
+        "noc": "BOH",
+        "discipline": "Fencing",
+        "event": "Sabre, Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]

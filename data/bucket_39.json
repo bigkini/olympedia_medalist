@@ -865,5 +865,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "21239",
+    "name": "Georges•de Bourguignon",
+    "born": "25 February 1910 in Woluwe-Saint-Lambert, Région de Bruxelles-Capitale (BEL)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

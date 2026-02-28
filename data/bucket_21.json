@@ -929,5 +929,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "20921",
+    "name": "Svetlana•Boyko",
+    "born": "13 April 1972 in Rostov-na-Donu, Rostov (RUS)",
+    "measurements": "180 cm / 63 kg",
+    "medals": [
+      {
+        "game": "2008 Summer Olympics",
+        "noc": "RUS",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Women\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "21321",
+    "name": "Édouard•Yves",
+    "born": "26 October 1907 in Katako-Kombe, Sankuru (COD)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Foil, Team, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

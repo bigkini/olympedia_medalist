@@ -771,13 +771,50 @@
     "id": "20393",
     "name": "Sam•Ewing",
     "born": "27 July 1906 in Bryn Mawr, Pennsylvania (USA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1932 Summer Olympics",
         "noc": "USA",
         "discipline": "Hockey",
         "event": "Hockey, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "21293",
+    "name": "Gaston•Salmon",
+    "born": "5 March 1878 in Marcinelle, Hainaut (BEL)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1912 Summer Olympics",
+        "noc": "BEL",
+        "discipline": "Fencing",
+        "event": "Épée, Team, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "21693",
+    "name": "Wäinö•Korhonen",
+    "born": "21 December 1926 in Svetogorsk, Leningrad (RUS)",
+    "measurements": "170 cm / 68 kg",
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Fencing",
+        "event": "Individual, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "FIN",
+        "discipline": "Fencing",
+        "event": "Team, Men\n(Olympic)",
         "medal": "Bronze"
       }
     ]
