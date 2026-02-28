@@ -1192,7 +1192,7 @@
     "id": "27160",
     "name": "Robert•Pache",
     "born": "26 September 1897 in Morges, Vaud (SUI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -1200,6 +1200,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "27360",
+    "name": "Petr•Němec",
+    "born": "7 June 1957 in Ostrava, Moravskoslezský kraj (CZE)",
+    "measurements": "173 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27560",
+    "name": "Yozhef•Betsa",
+    "born": "6 November 1929 in Mukachevo, Zakarpattia (UKR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

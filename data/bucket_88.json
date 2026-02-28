@@ -1022,5 +1022,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27188",
+    "name": "Axel•Alfredsson",
+    "born": "2 May 1902 in Helsingborg, Skåne (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27288",
+    "name": "Sven•Rydell",
+    "born": "14 January 1905 in Göteborg (Gothenburg), Västra Götaland (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27388",
+    "name": "Anton•Švajlen",
+    "born": "3 December 1937 in Solčany, Nitra (SVK)",
+    "measurements": "184 cm / 86 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

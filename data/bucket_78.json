@@ -1095,5 +1095,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27378",
+    "name": "František•Schmucker",
+    "born": "28 January 1940 in Jarovce, Bratislava (SVK)",
+    "measurements": "185 cm / 83 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "27578",
+    "name": "Anatoly•Isayev",
+    "born": "14 July 1932 in Zamoskvorechye, Moskva (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

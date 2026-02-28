@@ -1049,11 +1049,26 @@
     "id": "26638",
     "name": "Leo•Bosschart",
     "born": "24 August 1888 in Banda Aceh, Aceh (INA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
         "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27238",
+    "name": "Konrad•Hirsch",
+    "born": "27 May 1900 in Eidskog, Innlandet (NOR)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

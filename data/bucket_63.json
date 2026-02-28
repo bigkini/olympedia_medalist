@@ -1048,7 +1048,7 @@
     "id": "27163",
     "name": "Hans•Pulver",
     "born": "28 December 1902",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -1056,6 +1056,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "27563",
+    "name": "Aleksandr•Borodyuk",
+    "born": "30 November 1962 in Voronezh, Voronezh (RUS)",
+    "measurements": "178 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

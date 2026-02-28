@@ -1024,7 +1024,7 @@
     "id": "25672",
     "name": "László•Budai",
     "born": "19 July 1928 in Budapest, Budapest (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -1032,6 +1032,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27572",
+    "name": "Mikhail•Fomenko",
+    "born": "19 September 1948 in Malaya Rybitsa, Sumy (UKR)",
+    "measurements": "180 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

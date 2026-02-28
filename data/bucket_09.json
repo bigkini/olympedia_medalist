@@ -1137,11 +1137,26 @@
     "id": "26809",
     "name": "Odd•Frantzen",
     "born": "20 January 1913 in Bergen, Vestland (NOR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27209",
+    "name": "Charles•Brommesson",
+    "born": "12 August 1903 in Helsingborg, Skåne (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

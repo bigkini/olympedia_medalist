@@ -1186,5 +1186,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27325",
+    "name": "Jan•Brumovský",
+    "born": "26 June 1937 in Levice, Nitra (SVK)",
+    "measurements": "169 cm / 60 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

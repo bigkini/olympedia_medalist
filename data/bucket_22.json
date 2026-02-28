@@ -1336,7 +1336,7 @@
     "id": "25522",
     "name": "Kwame•Ayew",
     "born": "28 December 1973 in Tamale, Northern (GHA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1992 Summer Olympics",
@@ -1344,6 +1344,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27322",
+    "name": "Jan•Berger",
+    "born": "27 November 1955 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": "178 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

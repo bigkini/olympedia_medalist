@@ -1179,5 +1179,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27233",
+    "name": "Bengt•Gustavsson",
+    "born": "13 January 1928 in Ringarum, Valdemarsvik, Östergötland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

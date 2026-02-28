@@ -1273,5 +1273,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27389",
+    "name": "Jindřich•Svoboda",
+    "born": "14 September 1952 in Brno, Jihomoravský kraj (CZE)",
+    "measurements": "181 cm / 78 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

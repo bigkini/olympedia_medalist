@@ -1153,5 +1153,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27246",
+    "name": "Tore•Keller",
+    "born": "4 January 1905 in Norrköping, Östergötland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

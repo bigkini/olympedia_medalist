@@ -1453,5 +1453,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "27287",
+    "name": "Ingvar•Rydell",
+    "born": "7 May 1922 in Bäcke, Bengtsfors, Västra Götaland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -949,11 +949,26 @@
     "id": "26670",
     "name": "Dirk•Lotsij",
     "born": "3 July 1882 in Dordrecht, Zuid-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1912 Summer Olympics",
         "noc": "NED",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27570",
+    "name": "Vladimir•Fyodorov",
+    "born": "5 January 1956 in Kolkhoz imeni Y. M. Sverdlova, Toshkent Viloyati (UZB)",
+    "measurements": "170 cm / 72 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

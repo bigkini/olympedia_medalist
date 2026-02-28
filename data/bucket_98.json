@@ -901,5 +901,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27398",
+    "name": "Vladimír•Weiss",
+    "born": "21 September 1939 in Vrútky, Žilina (SVK)",
+    "measurements": "178 cm / 80 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

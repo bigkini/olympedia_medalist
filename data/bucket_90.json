@@ -1158,5 +1158,35 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27290",
+    "name": "Lennart•Samuelsson",
+    "born": "4 July 1924 in Borgstena, Borås, Västra Götaland (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27390",
+    "name": "Anton•Urban",
+    "born": "16 January 1934 in Kysak, Košice (SVK)",
+    "measurements": "175 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

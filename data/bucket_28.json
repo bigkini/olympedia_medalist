@@ -1036,7 +1036,7 @@
     "id": "26828",
     "name": "Henry•Johansen",
     "born": "21 July 1904 in Oslo, Oslo (NOR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -1044,6 +1044,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27328",
+    "name": "Ľudovít•Cvetler",
+    "born": "17 September 1938 in Bernolákovo, Bratislava (SVK)",
+    "measurements": "171 cm / 69 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
       }
     ]
   }

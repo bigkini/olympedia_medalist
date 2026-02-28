@@ -1102,11 +1102,26 @@
     "id": "26116",
     "name": "Gino•Rossetti",
     "born": "7 November 1904 in La Spezia, La Spezia (ITA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1928 Summer Olympics",
         "noc": "ITA",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27216",
+    "name": "Albin•Dahl",
+    "born": "2 January 1900 in Landskrona, Skåne (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

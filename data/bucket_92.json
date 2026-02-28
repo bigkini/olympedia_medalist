@@ -972,5 +972,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27292",
+    "name": "Gösta•Sandberg",
+    "born": "6 August 1932 in Knivsta, Uppsala (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27392",
+    "name": "František•Valošek",
+    "born": "12 July 1937 in Frýdek-Místek, Moravskoslezský kraj (CZE)",
+    "measurements": "166 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

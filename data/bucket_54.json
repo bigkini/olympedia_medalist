@@ -1097,7 +1097,7 @@
     "id": "27154",
     "name": "Karl•Ehrenbolger",
     "born": "13 November 1899 in Luzern (Lucerne), Luzern (SUI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -1105,6 +1105,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "27354",
+    "name": "Vojtech•Masný",
+    "born": "8 July 1938 in Chynorany, Trenčín (SVK)",
+    "measurements": "166 cm / 59 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "27554",
+    "name": "Arkadi•Andriasyan",
+    "born": "11 August 1947 in Bakı, Bakı (AZE)",
+    "measurements": "174 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

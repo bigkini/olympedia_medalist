@@ -1073,5 +1073,50 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27276",
+    "name": "Knut•Nordahl",
+    "born": "13 January 1920 in Hörnefors, Umeå, Västerbotten (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27376",
+    "name": "Oldřich•Rott",
+    "born": "26 May 1951 in Třebechovice pod Orebem, Královéhradecký kraj (CZE)",
+    "measurements": "172 cm / 65 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27576",
+    "name": "Sergey•Gorlukovich",
+    "born": "18 November 1961 in Boruny, Hrodna (BLR)",
+    "measurements": "181 cm / 77 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

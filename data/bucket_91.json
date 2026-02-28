@@ -1189,5 +1189,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27391",
+    "name": "Rostislav•Václavíček",
+    "born": "7 December 1946 in Vrahovice, Olomoucký kraj (CZE)",
+    "measurements": "190 cm / 87 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

@@ -1008,7 +1008,7 @@
     "id": "27164",
     "name": "Rudolf•Ramseyer",
     "born": "17 September 1897 in Bern, Bern (SUI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -1016,6 +1016,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "27264",
+    "name": "Evert•Lundquist",
+    "born": "27 February 1900 in Göteborg (Gothenburg), Västra Götaland (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27564",
+    "name": "Leonid•Buryak",
+    "born": "10 July 1953 in Odesa, Odesa (UKR)",
+    "measurements": "180 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

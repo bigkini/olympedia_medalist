@@ -910,5 +910,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27348",
+    "name": "František•Kunzo",
+    "born": "17 September 1954 in Spišský Hrušov, Košice (SVK)",
+    "measurements": "175 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

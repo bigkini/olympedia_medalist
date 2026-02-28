@@ -1142,7 +1142,7 @@
     "id": "27165",
     "name": "Adolphe•Reymond",
     "born": "4 September 1896 in Meyrin, Genève (SUI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -1150,6 +1150,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "27265",
+    "name": "Gösta•Löfgren",
+    "born": "29 August 1923 in Motala, Östergötland (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27565",
+    "name": "Rinat•Dasayev",
+    "born": "13 June 1957 in Astrakhan, Astrakhan (RUS)",
+    "measurements": "190 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

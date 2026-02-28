@@ -1064,5 +1064,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27212",
+    "name": "Gustaf•Carlson",
+    "born": "22 July 1894 in Stockholm, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

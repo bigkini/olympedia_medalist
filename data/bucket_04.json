@@ -1053,5 +1053,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27304",
+    "name": "Olle•Åhlund",
+    "born": "22 August 1920 in Degerfors, Örebro (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

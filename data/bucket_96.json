@@ -987,5 +987,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27296",
+    "name": "Karl•Svensson",
+    "born": "11 November 1925 in Västerlöv, Östra Gönige, Skåne (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

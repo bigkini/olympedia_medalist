@@ -1029,5 +1029,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27245",
+    "name": "Per•Kaufeldt",
+    "born": "1 August 1902 in Södermalm, Stockholm, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

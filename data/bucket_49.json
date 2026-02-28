@@ -1140,11 +1140,26 @@
     "id": "27149",
     "name": "Xam•Abegglen",
     "born": "11 April 1902 in Neuchâtel, Neuchâtel (SUI)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
         "noc": "SUI",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "27349",
+    "name": "Karel•Lichtnégl",
+    "born": "30 August 1936 in Hodonín, Jihomoravský kraj (CZE)",
+    "measurements": "177 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "TCH",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"

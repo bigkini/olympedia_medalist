@@ -1073,5 +1073,35 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "27275",
+    "name": "Gunnar•Nordahl",
+    "born": "19 October 1921 in Hörnefors, Umeå, Västerbotten (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27375",
+    "name": "Libor•Radimec",
+    "born": "22 May 1950 in Ostrava, Moravskoslezský kraj (CZE)",
+    "measurements": "180 cm / 75 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

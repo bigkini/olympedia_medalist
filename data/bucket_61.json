@@ -1291,5 +1291,57 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27261",
+    "name": "Sven•Lindqvist",
+    "born": "26 March 1903 in Bromma, Stockholm, Stockholm (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27361",
+    "name": "Karel•Nepomucký",
+    "born": "20 July 1939 in Praha (Prague), Hlavní město Praha (CZE)",
+    "measurements": "173 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "27561",
+    "name": "Oleg•Blokhin",
+    "born": "5 November 1952 in Kyiv, Kyiv (UKR)",
+    "measurements": "180 cm / 74 kg",
+    "medals": [
+      {
+        "game": "1972 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      },
+      {
+        "game": "1976 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -1209,5 +1209,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "27383",
+    "name": "Zdeněk•Šreiner",
+    "born": "2 June 1954 in Ostrava, Moravskoslezský kraj (CZE)",
+    "measurements": "181 cm / 76 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

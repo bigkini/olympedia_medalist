@@ -1183,5 +1183,20 @@
         "medal": "Bronze"
       }
     ]
+  },
+  {
+    "id": "27581",
+    "name": "Valentin•Ivanov",
+    "born": "19 November 1934 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

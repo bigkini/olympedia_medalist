@@ -1358,7 +1358,7 @@
     "id": "26813",
     "name": "Sverre•Hansen",
     "born": "23 June 1913 in Larvik, Vestfold (NOR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
@@ -1366,6 +1366,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27213",
+    "name": "Henry•Carlsson",
+    "born": "29 October 1917 in Falköping, Västra Götaland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

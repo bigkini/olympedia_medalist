@@ -1203,7 +1203,7 @@
     "id": "27153",
     "name": "Walter•Dietrich",
     "born": "24 December 1902",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1924 Summer Olympics",
@@ -1211,6 +1211,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Silver"
+      }
+    ]
+  },
+  {
+    "id": "27253",
+    "name": "Nils•Liedholm",
+    "born": "8 October 1922 in Valdemarsvik, Östergötland (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27553",
+    "name": "Sergey•Andreyev",
+    "born": "16 May 1956 in Luhansk, Luhansk (UKR)",
+    "measurements": "173 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

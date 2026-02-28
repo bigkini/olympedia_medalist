@@ -1118,11 +1118,26 @@
     "id": "26807",
     "name": "Nils•Eriksen",
     "born": "5 March 1911 in Gjerpen, Skien, Telemark (NOR)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1936 Summer Olympics",
         "noc": "NOR",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27207",
+    "name": "Yngve•Brodd",
+    "born": "9 June 1930 in Seglora, Borås, Västra Götaland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"

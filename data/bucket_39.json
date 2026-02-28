@@ -1088,5 +1088,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27239",
+    "name": "Gunnar•Holmberg",
+    "born": "6 May 1897 in Göteborg (Gothenburg), Västra Götaland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

@@ -952,5 +952,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27247",
+    "name": "Putte•Kock",
+    "born": "29 June 1901 in Nacka, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

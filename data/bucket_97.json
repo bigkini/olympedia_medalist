@@ -964,5 +964,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27297",
+    "name": "Thorsten•Svensson",
+    "born": "8 October 1901 in Jonsered, Partille, Västra Götaland (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1924 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27397",
+    "name": "Josef•Vojta",
+    "born": "19 April 1935 in Plzeň, Plzeňský kraj (CZE)",
+    "measurements": "173 cm / 73 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

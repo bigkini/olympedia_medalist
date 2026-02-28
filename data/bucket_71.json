@@ -1035,7 +1035,7 @@
     "id": "26671",
     "name": "Dick•MacNeill",
     "born": "7 January 1898 in Pasuruan, Jawa Timur (INA)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1920 Summer Olympics",
@@ -1043,6 +1043,43 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27271",
+    "name": "Erik•Nilsson",
+    "born": "6 August 1916 in Limhamn, Malmö, Skåne (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      },
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27571",
+    "name": "Sergey•Fokin",
+    "born": "26 July 1961 in Ulyanovsk, Ulyanovsk (RUS)",
+    "measurements": "182 cm / 79 kg",
+    "medals": [
+      {
+        "game": "1988 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

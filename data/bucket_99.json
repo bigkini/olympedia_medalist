@@ -1167,5 +1167,20 @@
         "medal": "Gold"
       }
     ]
+  },
+  {
+    "id": "27399",
+    "name": "Stanislav•Seman",
+    "born": "8 August 1952 in Košice, Košice (SVK)",
+    "measurements": "185 cm / 82 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

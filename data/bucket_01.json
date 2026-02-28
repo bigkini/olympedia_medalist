@@ -981,7 +981,7 @@
     "id": "25701",
     "name": "Nándor•Hidegkuti",
     "born": "3 March 1922 in Budapest, Budapest (HUN)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1952 Summer Olympics",
@@ -989,6 +989,21 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27201",
+    "name": "Sylve•Bengtsson",
+    "born": "2 July 1930 in Halmstad, Halland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
       }
     ]
   }

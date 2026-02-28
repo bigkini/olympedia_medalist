@@ -1129,7 +1129,7 @@
     "id": "26677",
     "name": "Lou•Otten",
     "born": "5 November 1883 in Rijswijk, Zuid-Holland (NED)",
-    "measurements": null,
+    "measurements": {},
     "medals": [
       {
         "game": "1908 Summer Olympics",
@@ -1137,6 +1137,36 @@
         "discipline": "Football (Football)",
         "event": "Football, Men\n(Olympic)",
         "medal": "Bronze"
+      }
+    ]
+  },
+  {
+    "id": "27377",
+    "name": "Zdeněk•Rygel",
+    "born": "1 March 1951 in Ostrava, Moravskoslezský kraj (CZE)",
+    "measurements": "175 cm / 70 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27577",
+    "name": "Anatoly•Ilyin",
+    "born": "27 June 1931 in Moskva (Moscow), Moskva (RUS)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1956 Summer Olympics",
+        "noc": "URS",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
       }
     ]
   }

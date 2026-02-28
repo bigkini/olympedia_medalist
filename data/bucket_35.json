@@ -1131,5 +1131,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27235",
+    "name": "Holger•Hansson",
+    "born": "26 January 1927 in Göteborg (Gothenburg), Västra Götaland (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1952 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Bronze"
+      }
+    ]
   }
 ]

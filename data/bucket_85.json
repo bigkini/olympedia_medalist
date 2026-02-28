@@ -1136,5 +1136,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27285",
+    "name": "Kjell•Rosén",
+    "born": "24 April 1921 in Malmö, Skåne (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

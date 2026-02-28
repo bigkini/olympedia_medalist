@@ -1002,5 +1002,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27342",
+    "name": "Karel•Knesl",
+    "born": "8 April 1942 in Pustiměř, Jihomoravský kraj (CZE)",
+    "measurements": "183 cm / 81 kg",
+    "medals": [
+      {
+        "game": "1964 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Silver"
+      }
+    ]
   }
 ]

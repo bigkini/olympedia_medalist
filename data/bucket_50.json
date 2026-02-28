@@ -876,5 +876,35 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27250",
+    "name": "Börje•Leander",
+    "born": "7 March 1918 in Avesta, Dalarna (SWE)",
+    "measurements": {},
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
+  },
+  {
+    "id": "27350",
+    "name": "Werner•Lička",
+    "born": "15 September 1954 in Opava, Moravskoslezský kraj (CZE)",
+    "measurements": "178 cm / 71 kg",
+    "medals": [
+      {
+        "game": "1980 Summer Olympics",
+        "noc": "TCH",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]

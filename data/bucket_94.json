@@ -1295,5 +1295,20 @@
         "medal": "Silver"
       }
     ]
+  },
+  {
+    "id": "27194",
+    "name": "Sune•Andersson",
+    "born": "22 February 1921 in Södertälje, Stockholm (SWE)",
+    "measurements": null,
+    "medals": [
+      {
+        "game": "1948 Summer Olympics",
+        "noc": "SWE",
+        "discipline": "Football (Football)",
+        "event": "Football, Men\n(Olympic)",
+        "medal": "Gold"
+      }
+    ]
   }
 ]
